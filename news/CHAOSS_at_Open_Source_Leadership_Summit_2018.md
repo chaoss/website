@@ -1,4 +1,4 @@
-#CHAOSS at Open Source Leadership Summit 2018
+# CHAOSS at Open Source Leadership Summit 2018
 
 Want to know more about Community Health and Analytics? Join CHAOSS at the Open Source Leadership Summit (https://events.linuxfoundation.org/events/open-source-leadership-summit-2018/) March 6th to 8th, 2018.
 
