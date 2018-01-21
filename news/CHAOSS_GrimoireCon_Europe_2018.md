@@ -1,6 +1,6 @@
 # CHAOSSCon + GrimoireCon Europe 2018
 
-Meet the CHAOSS and GrimoireLab community in Brussels, Belgium on February 2nd, 2018. Come be a part of building and defining the tools used by open source projects, communities, engineering teams to track and analyze their development activities, community health, diversity, etc.
+Meet the CHAOSS and GrimoireLab community in Brussels, Belgium on February 2nd, 2018. Come be a part of building and defining the tools used by open source projects, communities, and engineering teams to track and analyze their development activities, community health, diversity, etc.
 
 CHAOSSCon + GrimoireCon Europe (http://grimoirelab.github.io/con/)  will show CHAOSS and GrimoireLab updates, use cases and practical workshop/s for developers, community managers, project managers, etc.
 
