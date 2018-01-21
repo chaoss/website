@@ -5,6 +5,9 @@ Content requests could include upcoming events you would like to see posted on t
 
 The CHAOSS website is a Wordpress site. If there is a specific function or plugin you would like to see implemented, please include a link.
 
+##
+To add news and blogs articles, please create a mark down file in the news folder. When accepted, the content will be added to the website.
+
 ## Website
 Content of http://chaoss.community website. 
 
