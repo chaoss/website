@@ -5,7 +5,7 @@ Content requests could include upcoming events you would like to see posted on t
 
 The CHAOSS website is a Wordpress site. If there is a specific function or plugin you would like to see implemented, please include a link.
 
-## website
+## Website
 Content of http://chaoss.community website. 
 
 ## Website Contact List
