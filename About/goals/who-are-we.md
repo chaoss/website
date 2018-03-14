@@ -1,4 +1,4 @@
-##Who are we?
+## Who are we?
 
 CHAOSS is a Linux Foundation project focused on creating analytics and metrics to help define community health. Work in the CHAOSS Project community is organized in two committees:
 
