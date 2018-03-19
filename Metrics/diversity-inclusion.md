@@ -1,4 +1,4 @@
-# Diversity and Inclusion
+## Diversity and Inclusion
 
 Diversity and Inclusion are known to challenge unchecked assumptions and lead to more open and fair collaboration practices.
 

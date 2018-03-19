@@ -7,4 +7,3 @@ CHAOSSCon + GrimoireCon Europe (http://grimoirelab.github.io/con/) will highligh
 The workshops will cover the basic training for using open source GrimoireLab toolkit for analyzing software development processes to manage them through metrics and KPIs.
 
 Community managers, software development managers, developers, and  anyone involved in open source and inner source software development will learn through real examples how to set up and use GrimoireLab for their specific needs.
-
