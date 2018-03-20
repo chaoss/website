@@ -1,5 +1,5 @@
 
-## Join the mailing list
+## Join the Mailing List
 
 https://lists.linuxfoundation.org/mailman/listinfo/oss-health-metrics
 
