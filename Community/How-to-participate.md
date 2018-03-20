@@ -8,4 +8,4 @@
 
 The CHAOSS community is dedicated to fostering an open and welcoming environment for contributors.
 
-Check out our [Code of Conduct](https://chaoss.community/about/code-of-conduct/)
+Check out our [Code of Conduct](https://chaoss.community/about/code-of-conduct/).
