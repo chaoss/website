@@ -7,6 +7,6 @@ The CHAOSS (Community Health Analytics for OSS) Metrics Committee defines implem
 
 More Information:
 
-CHAOSS Metric Definition → https://wiki.linuxfoundation.org/oss-health-metrics/start
+CHAOSS Metrics Wiki → https://wiki.linuxfoundation.org/chaoss/metrics
 
-CHAOSS Metrics Repository →https://github.com/chaoss/metrics
+CHAOSS Metrics Repository → https://github.com/chaoss/metrics
