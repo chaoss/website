@@ -1,12 +1,12 @@
 # CHAOSS Website - Content, Issues, Requests and Edits
 
-The CHAOSS website is a Wordpress site.
+The CHAOSS website is a Wordpress site. Content from this repository is automatically populated on the production site.
 
-## Please use the Issues Tab to submit content requests, edits, and enhancements.
+## For general issues, please use the Issues Tab to submit content requests, edits, and enhancements.
 Content requests could include upcoming events you would like to see posted on the site, project specific information, or requested edits.
 
 ## News and blog posts
-To add news and blogs articles, please create a Markdown file in the news folder. When accepted, the content will be added to the website.
+To add news and blogs articles, please fork the repo and create a Markdown file in the news folder. When the pull request is accepted, the content will be added to the website.
 
 ## Wordpress/Github Markdown Content
 
@@ -14,7 +14,7 @@ The site is built using GitHub content areas. Editing content in the associated 
 
 Editable content are in folders in this repo and are named for the websites key navigation pages. Within these folders are pages and content areas in markdown files. The content areas are named using the header for the content section.
 
-To edit these content areas, please fork the repo and make changes to the markdown files.
+To edit these content areas, please fork the repo, make changes to the markdown files, and put in a pull request
 
 For questions, please email the site [maintainers](README.md).
 
