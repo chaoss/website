@@ -14,7 +14,7 @@ The site is built using GitHub content areas. Editing content in the associated 
 
 Editable content are in folders in this repo and are named for the websites key navigation pages. Within these folders are pages and content areas in markdown files. The content areas are named using the header for the content section.
 
-To edit these content areas, please fork the repo, make changes to the markdown files, and put in a pull request
+To edit these content areas, please fork the repo, make changes to the markdown files, and put in a pull request.
 
 For questions, please email the site [maintainers](README.md).
 
