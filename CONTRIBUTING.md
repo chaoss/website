@@ -2,7 +2,12 @@
 
 The CHAOSS website is a Wordpress site. Content from this repository is automatically populated on the production site.
 
-## For general issues, please use the Issues Tab to submit content requests, edits, and enhancements.
+## How to contribute
+See the CHAOSS [contributing.md](https://github.com/chaoss/governance/blob/master/CONTRIBUTING.md)
+
+## Repository specific guidelines
+* For general issues, please use the Issues 
+* For content requests, edits, and enhancements, please use Pull requests
 Content requests could include upcoming events you would like to see posted on the site, project specific information, or requested edits.
 
 ## News and blog posts
@@ -18,5 +23,6 @@ To edit these content areas, please fork the repo, make changes to the markdown 
 
 For questions, please email the site [maintainers](README.md).
 
-## Access to the Wordpress Admin
-The Wordpress site is hosted by the Linux Foundation. To request admin or editor access, please put in a request to the CHAOSS board.
+## How to become a maintainer of the website and this repository
+1. Make consistent contributions via pull requests.
+2. Request to be a maintainer from the CHAOSS Governing Board, which will grant edit rights and request access to the Wordpress site from the Linux Foundation.
