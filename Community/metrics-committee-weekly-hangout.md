@@ -4,4 +4,4 @@ There is nothing formal with this hangout. We come and go as our schedules permi
 
 We meet weekly on Tuesdays between 11:00 and 12:00 (US Central Time).
 
-https://unomaha.zoom.us/j/720431288
+Join: https://unomaha.zoom.us/j/720431288
