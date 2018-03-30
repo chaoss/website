@@ -4,4 +4,4 @@ The monthly call is for updates to the CHAOSS Metrics Workgroup and broader comm
 
 Monthly, every first Tuesday from 11:00 to 12:00 (US Central Time)
 
-https://unomaha.zoom.us/j/720431288
+Join: https://unomaha.zoom.us/j/720431288
