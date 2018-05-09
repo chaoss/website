@@ -4,4 +4,4 @@ CHAOSS is a Linux Foundation project focused on creating analytics and metrics t
 
 - The [Metrics Committee](https://chaoss.community/metrics) works on establishing implementation-agnostic metrics for measuring community activity, contributions, and health.
 
-- The [Software Committee](https://chaoss.community/tools) works on producing integrated, open source software for analyzing software development, and definition of standards and models used in that software in specific use cases.
+- The [Software Committee](https://chaoss.community/software) works on producing integrated, open source software for analyzing software development, and definition of standards and models used in that software in specific use cases.
