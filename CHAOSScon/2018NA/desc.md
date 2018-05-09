@@ -1,6 +1,6 @@
 ## About CHAOSScon
 
-Meet the CHAOSS community and the tools used by several open source projects, communities, and engineering teams to track and analyze their development activities, communities health, diversity, etc.
+Meet the CHAOSS community and the tools used by several open source projects, communities, and engineering teams to track and analyze their development activities, communities health, diversity, risk, and value.
 
 This conference will show CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health.
 
