@@ -85,4 +85,4 @@ Part 2: <http://www.youtube.com/watch?v=gcOP4WQfJl4>
 
 # Schedule
 
-TBD
+To be announced: Wednesday, June 13, 2018

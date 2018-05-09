@@ -1,6 +1,3 @@
 ## Speakers
 
-### Speaker Name
-Bio?
-
-Talk Description?
+To be announced: Wednesday, June 13, 2018
