@@ -10,7 +10,7 @@ We will also share insights from the CHAOSS workgroups on *Diversity and Inclusi
 
 
 ## Where?
-University of British Columbia\\
-Vancouver, Canada\\
-Co-located with the Linux Foundation Open Source Summit North America\\
-Tuesday, August 28, 2018\\
+University of British Columbia<br />
+Vancouver, Canada<br />
+Co-located with the Linux Foundation Open Source Summit North America<br />
+Tuesday, August 28, 2018
