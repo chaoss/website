@@ -19,7 +19,7 @@ Tuesday, August 28, 2018
 
 * Alolita Sharma, Amazon Web Services
 * Raymond Paik, Linux Foundation 
-* Georg Link, University of Nebraska Omaha
+* Georg Link, University of Nebraska at Omaha
 * Dawn Foster, University of Greenwich
 * Nicole Huesman, Intel
 * Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
