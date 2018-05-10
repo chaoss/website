@@ -14,3 +14,12 @@ University of British Columbia<br />
 Vancouver, Canada<br />
 Co-located with the Linux Foundation Open Source Summit North America<br />
 Tuesday, August 28, 2018
+
+## Organizing Committee
+
+* Alolita Sharma, Amazon Web Services
+* Raymond Paik, Linux Foundation 
+* Georg Link, University of Nebraska at Omaha
+* Dawn Foster, University of Greenwich
+* Nicole Huesman, Intel
+* Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
