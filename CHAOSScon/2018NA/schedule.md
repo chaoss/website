@@ -4,7 +4,7 @@
 
 If you are interested in speaking at CHAOSSCon NA on August 28, 2018, 
 please read through the rest of this page to understand the types of talks
-that are appropriate for this conferences, and then [submit your proposal][submit].  
+that are appropriate for this conference, and then [submit your proposal][submit].  
 
 [submit]: https://goo.gl/forms/QHkbEDzbtXxQaFh02
 
