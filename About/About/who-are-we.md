@@ -10,9 +10,7 @@ CHAOSS is a Linux Foundation project focused on creating analytics and metrics t
 
 ###Workgroups
 
-The workgroups
-
- The goal of the workgroups is to refine the metrics and to work with software implementations. The workgroups are built around the four categories of metrics that CHAOSS has identified. The workgroups are:
+The goal of the workgroups is to refine the metrics and to work with software implementations. The workgroups are built around the four categories of metrics that CHAOSS has identified. The workgroups are:
 
 - Growth Maturity and Decline
 
