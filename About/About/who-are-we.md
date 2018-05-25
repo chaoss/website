@@ -8,7 +8,7 @@ CHAOSS is a Linux Foundation project focused on creating analytics and metrics t
 
 - The [Software Committee](https://chaoss.community/software) works on producing integrated, open source software for analyzing software development, and definition of standards and models used in that software in specific use cases.
 
-###Workgroups
+### Workgroups
 
 The goal of the workgroups is to refine the metrics and to work with software implementations. The workgroups are built around the four categories of metrics that CHAOSS has identified. The workgroups are:
 
