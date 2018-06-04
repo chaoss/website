@@ -7,7 +7,7 @@ GrimoireLab is a set of free, open source software tools for software developmen
 
 GrimoireLab Website → https://chaoss.github.io/grimoirelab/
 
-GrimoireLab Code → https://github.com/grimoirelab
+GrimoireLab Code → https://github.com/chaoss/grimoirelab (see [README.md](https://github.com/chaoss/grimoirelab/blob/master/README.md) for links to all repos)
 
 GrimoireLab eating GrimoireLab → http://grimoirelab.biterg.io
 
