@@ -1,6 +1,6 @@
 # Schedule
 
-Speakers to be announced: Wednesday, June 13, 2018
+Speakers and topics to be announced: Wednesday, June 13, 2018
 
 
 Time | Topic
