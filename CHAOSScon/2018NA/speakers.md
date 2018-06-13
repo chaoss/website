@@ -8,6 +8,10 @@ Ben Lloyd Pearson (M.Sc.) manages the GitHub presence and assists with external 
 
 ### David Grizzanti
 
+_Principal Software Engineer - Comcast_
+
+David Grizzanti is a Principal Software Engineer at Comcast. He oversees the development of multi-tenant software platforms that support tens of millions of customers across North America. David has more than 10+ years of software experience. Prior to joining Comcast, he participated in 3 IaaS platform builds in his time at Sungard Availability Services. His general areas of interests include software architecture, DevOps/QA, and engineering leadership.
+
 ### Emma Irwin
 
 _Open Project & Communities Specialist - Mozilla_
