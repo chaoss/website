@@ -2,7 +2,6 @@
 
 | Time | Topic | Speaker |
 |---|---|---|
-|   |   |   |
 | 8:30 - 9:30 | Registration & Networking | |
 |   |   |   |
 | 9:30 - 10:00 | **Keynote** | [Matt Germonprez](#user-content-matt-germonprez) |
