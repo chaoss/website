@@ -8,29 +8,7 @@ Specific CHAOSS software highlighted will be GrimoireLab and Augur with their re
 
 We will also share insights from the CHAOSS workgroups on *Diversity and Inclusion*, *Growth-Maturity-Decline*, *Risk*, and *Value* that branched out from the CHAOSS metrics work.
 
-<style>
-.btn {
-  display: inline-block;
-  font-weight: 400;
-  text-align: center;
-  white-space: nowrap;
-  vertical-align: middle;
-  user-select: none;
-  border: 1px solid transparent;
-  padding: .375rem .75rem;
-  font-size: 2rem;
-  line-height: 1.5;
-  border-radius: .25rem;
-  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
-  margin: auto;
-}
-.btn-primary{
-  color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
-}
-</style>
-<a class="btn btn-primary" href="https://regonline.com/chaossconna2018">Register now!</a>
+<a class="btn btn-primary" href="https://regonline.com/chaossconna2018" style="display: inline-block; font-weight: 400; text-align: center; white-space: nowrap; vertical-align: middle; user-select: none; border: 1px solid transparent; padding: .375rem .75rem; font-size: 2rem; line-height: 1.5; border-radius: .25rem; transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out; margin: auto; color: #fff; background-color: #007bff; border-color: #007bff;">Register now!</a>
 
 ## Where?
 University of British Columbia<br />
