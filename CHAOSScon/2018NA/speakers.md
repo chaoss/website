@@ -75,5 +75,4 @@ Shilla Saebi is an Open Source Program Manager who focuses on community and has 
 ### Valerio Cosentino
 _Software Developer - Bitergia_
 
-Valerio is a software developer at Bitergia since September 2017. He got his MSc. in computer science in 2010 and Ph.D. in computer science in 2013. His interests cover source code analysis, (software) data extraction and reverse engineering.
-Before joining Bitergia, he has been a Phd student at IBM France and postdoctoral fellow in a couple of research teams between France and Spain, where he worked on reverse engineering of legacy systems, analysis of open source projects (e.g., maturity, bus factor) and open data. In his free time he enjoys running and playing videogames.
+Valerio is a software developer at Bitergia since September 2017. He got his M.Sc. in computer science in 2010 and Ph.D. in computer science in 2013. His interests cover source code analysis, (software) data extraction and reverse engineering. Before joining Bitergia, he has been a Ph.D. student at IBM France and postdoctoral fellow in a couple of research teams between France and Spain, where he worked on reverse engineering of legacy systems, analysis of open source projects (e.g., maturity, bus factor) and open data. In his free time he enjoys running and playing videogames.
