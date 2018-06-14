@@ -34,6 +34,8 @@ John 'Warthog9' Hawley led the system administration team on kernel.org for near
 
 _Professor - University of Nebraska at Omaha_
 
+Matt Germonprez is the Mutual of Omaha Associate Professor of Information Systems in the College of Information Science & Technology at the University of Nebraska at Omaha. He uses qualitative field-studies to research corporate engagement with open communities and the dynamics of design in these engagements. His lines of research have been funded by numerous organizations including the National Science Foundation, the Alfred P. Sloan Foundation, and Mozilla. Matt is the co-founder of the Association for Information Systems SIGOPEN and the Linux Foundation Community Health Analytics OSS Project (CHAOSS). He and has had work accepted at ISR, MISQ, JAIS, JIT, ISJ, I&O, CSCW, OpenSym, Group, HICSS, and ACM Interactions. Matt is an active open source community member, having presented design and development work at LinuxCon, the Open Source Summit North America, the Linux Foundation Open Compliance Summit, the Linux Foundation Collaboration Summit, and the Open Source Leadership Summit.
+
 ### Nicole Huesman
 
 _Community & Developer Advocate - Intel Corporation_
