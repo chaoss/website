@@ -73,4 +73,7 @@ _Open Source Program Manager - Comcast_
 Shilla Saebi is an Open Source Program Manager who focuses on community and has been with Comcast for almost a decade. She has worked in many diverse roles within the tech industry in positions ranging from operations engineering, system administration, and network operations. Shilla is an open source contributor and actively supports several open source projects housed under the Linux Foundation, Apache, and OpenStack. From 2014-2017, she was nominated to serve as a member of the OpenStack User Committee by the existing board members, becoming the first woman to serve on OpenStack’s UC. She was also a core contributor to the OpenStack docs project and currently sits on the Editorial Advisory Board for OpenStack Superuser magazine. Shilla also served on the board of the OpenStack Innovation Center (OSIC) from 2015-2017, where she helped the community develop and test code at scale, and is currently an OpenStack ambassador for the East Coast USA. Outside of the world of open source, she loves music, traveling, and art. Shilla is based in Philadelphia, PA.
 
 ### Valerio Cosentino
-_- Bitergia_
+_Software Developer - Bitergia_
+
+Valerio is a software developer at Bitergia since September 2017. He got his MSc. in computer science in 2010 and Ph.D. in computer science in 2013. His interests cover source code analysis, (software) data extraction and reverse engineering.
+Before joining Bitergia, he has been a Phd student at IBM France and postdoctoral fellow in a couple of research teams between France and Spain, where he worked on reverse engineering of legacy systems, analysis of open source projects (e.g., maturity, bus factor) and open data. In his free time he enjoys running and playing videogames.
