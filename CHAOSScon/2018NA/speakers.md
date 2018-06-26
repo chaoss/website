@@ -1,5 +1,11 @@
 ## Speakers
 
+### Alex Courouble
+
+_Open Source Engineer - VMware_
+
+Alex is an Open Source Engineer at VMware Open Source Technology Center, where he works on VMware open source contribution analytics. Before VMware, Alex was a getting his masters in Software Engineering at Polytechnique Montreal, where he researched collaboration and contribution in Open Source communities. Outside of work, Alex enjoys hiking, running, and playing Hockey with his friends.
+
 ### Ben Lloyd Pearson
 
 _Governor of GitHub - Oath_
