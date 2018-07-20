@@ -1,4 +1,4 @@
-CHAOSS at Community Leadership Summit 2018
+# CHAOSS at Community Leadership Summit 2018
 
 The CHAOSS project aims to develop metrics and software for measuring open source projects. One group of people that care about this are community managers. Every year, Jono Bacon, a CHAOSS Governing Board member who professionalized community management with his book “The Art of Community”, invites community managers to his Community Leadership Summit. (In his book, Jono dedicated the entire chapter 7 to measuring communities.)Judging by the reactions on Twitter and engagement with other conference participants, metrics was a popular topic at the conference. It is no surprise, that members of the CHAOSS project would naturally be at this conference. This blog post summarizes the presence of CHAOSS at the Community Leadership Summit and highlights some takeaways and insights.
 
