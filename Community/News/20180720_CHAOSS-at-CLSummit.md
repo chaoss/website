@@ -5,7 +5,7 @@ The CHAOSS project aims to develop metrics and software for measuring open sourc
 ![Picture from conference](20180720_clsummit.jpg "Ray Paik giving his keynote on metrics at the Community Leadership Summit 2018. Picture used with permission from @ShillaSaebi.")
 *Ray Paik giving his keynote on metrics at the Community Leadership Summit 2018. Picture used with permission from @ShillaSaebi.*
 
-Ray Paik, a long-time CHAOSS member, gave a keynote titled “looking beyond the numbers”. He addressed why we use metrics, what pitfalls and flaws metrics have, and dos and don’ts of community metrics. Slides are available online.
+Ray Paik, a long-time CHAOSS member, gave a keynote titled “looking beyond the numbers”. He addressed why we use metrics, what pitfalls and flaws metrics have, and dos and don’ts of community metrics. [Slides are available online](20180720_clsummit.pdf).
 
 The CHAOSS Diversity and Inclusion workgroup, specifically Emma Irwin, Sean Goggins, Nicole Huesman, Daniel Izquierdo Cortazar, and Anita Sarma, organized a panel session on the topic of “Establishing Metrics that Matter for Diversity & Inclusion”. Questions discussed during the panel included: How can we safely collect open source project metrics without jeopardizing minority groups and their safety? What metrics can we have about the inclusiveness of software design? What are leadership challenges related to diversity and inclusion and how can metrics help? A major takeaway is that when we create metrics and collect data, we should remember to talk to people who actually face the challenges and not just “professionals or researchers” who may only know somethings about the issues and not the complete picture since they do not face these issues.
 
