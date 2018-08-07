@@ -16,7 +16,6 @@
 | 11:30 - 12:30 | **Plenaries** | |
 | | Pains and tribulations of finding data | [John Hawley](#user-content-john-hawley) & [Alex Courouble](#user-content-alex-courouble)|
 | | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) |
-| | Using metrics to encourage open source community participation | [Ray Paik](#user-content-ray-paik) |
 |   |   |   |
 | 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Nicole Huesman](#user-content-nicole-huesman) |
 |   |   |   |
