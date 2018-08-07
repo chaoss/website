@@ -6,6 +6,6 @@ All other Tuesdays, we 'hangout' informally without agenda. The hangout provides
 
 If you are new to CHAOSS, monthly calls are good for getting an update and the weekly hangouts are good for asking your specific questions.
 
-We meet Tuesdays from 11:00 to 12:00 (US Central Time)
+We meet Tuesdays 18:00 CEST (9am PDT) for one hour.
 
 Join: https://unomaha.zoom.us/j/720431288
