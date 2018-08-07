@@ -48,12 +48,6 @@ _Community & Developer Advocate - Intel Corporation_
 
 For over 20 years, Nicole has applied her aptitude in storytelling to the technology industry—helping shine a light on the importance of the work of her engineering colleagues in a way that delivers true business value. She dove into the world of open source at Intel seven years ago, and quickly became a strong advocate—across Linux, cloud/virtualization (OpenStack, KVM, Xen), IoT (Yocto Project), Android, web technologies (HTML5), and more. She is passionate about cultivating inclusive communities that welcome diverse perspectives and invite intelligent, thoughtful debate to benefit us all. As co-chair of the CHAOSS Project's Diversity & Inclusion Workgroup, she is helping establish a consistent, cross-community definition and metrics for diversity. She also helps lead speed mentoring workshops across the OpenStack and Linux communities, inspiring the next generation of contributors, as an active member of the Women of OpenStack and Women in Open Source groups. She is a frequent moderator, speaker and blogger in the areas of diversity and mentorship."
 
-### Ray Paik
-
-_Operations Manager - Linux Foundation_
-
-Ray works at the Linux Foundation and has been responsible for the day-to-day operation of the OPNFV community since its launch in 2014. He has over 15 years of experience in the hi-tech industry in roles ranging from software engineer, product manager, program manager, account manager, and team lead at companies such as EDS, Intel, and Medallia. Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team.
-
 ### Remy DeCausemaker
 
 _Open Source Program Manager - Twitter_
