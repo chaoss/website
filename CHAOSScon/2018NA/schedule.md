@@ -7,7 +7,7 @@
 | 9:30 - 10:00 | **Keynote** | [Matt Germonprez](#user-content-matt-germonprez) |
 |   |   |   |
 | 10:00 - 11:00 | **Plenaries** | |
-| | If There Are No Metrics, Did It Even Happen? Tracking Open Source Contributions at Comcast | [Shilla Saebi](#user-content-shilla-saebi) |
+| | If There Are No Metrics, Did It Even Happen? Tracking Open Source Contributions at Comcast | [Shilla Saebi](#user-content-shilla-saebi) & [David Grizzanti](#user-content-david-grizzanti) |
 | | Open Source Metrics at Twitter | [Remy DeCausemaker](#user-content-remy-decausemaker) |
 | | Towards GrimoireLab 1.0: a roadmap | [Santiago Dueñas](#user-content-santiago-dueñas) & [Valerio Cosentino](#user-content-valerio-cosentino) |
 |   |   |   |
