@@ -13,15 +13,15 @@
 |   |   |   |
 | 11:00 - 11:30 | Break & Networking | |
 |   |   |   |
-| 11:30 - 12:30 | **Plenaries** (Room: Buchanan (BUCH) - B213) | |
+| 11:30 - 12:30 | **Plenaries** (Room: B213) | |
 | | Pains and tribulations of finding data | [John Hawley](#user-content-john-hawley) & [Alex Courouble](#user-content-alex-courouble)|
 | | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) |
 |   |   |   |
-| 12:30 - 1:15 | **Panel:** (Room: B213) Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Nicole Huesman](#user-content-nicole-huesman) |
+| 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Nicole Huesman](#user-content-nicole-huesman) |
 |   |   |   |
 | 1:15 - 2:30 | Lunch and Networking | |
 |   |   |   |
-| 2:30 - 3:00 | **Lightning Talks** (B215) | (Signup on site) |
+| 2:30 - 3:00 | **Lightning Talks** (Room: B213) | (Signup on site) |
 |   |   |   |
 | 3:00 - 4:00 | **Workshops / Tutorials** | |
 | Room: B213 | CHAOSS WG on Growth-Maturity-Metrics: status report | [Jesus M. Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) |

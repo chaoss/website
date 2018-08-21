@@ -16,7 +16,10 @@ Vancouver, Canada
 
 <a href="http://maps.ubc.ca/PROD/index_detail.php?locat1=121-1">View location on university campus map</a>
 
-Tuesday, August 28, 2018
+## When?
+
+Tuesday, August 28, 2018<br />
+8:30 -- 5:30
 
 ## Organizing Committee
 
