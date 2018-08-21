@@ -10,8 +10,12 @@ We will also share insights from the CHAOSS workgroups on *Diversity and Inclusi
 
 ## Where?
 University of British Columbia<br />
-Vancouver, Canada<br />
-Co-located with the Linux Foundation Open Source Summit North America<br />
+Buchanan Building<br />
+1866 Main Mall<br />
+Vancouver, Canada
+
+<a href="http://maps.ubc.ca/PROD/index_detail.php?locat1=121-1">View location on university campus map</a>
+
 Tuesday, August 28, 2018
 
 ## Organizing Committee
