@@ -1,6 +1,8 @@
 
 ## Join the Mailing List
 
-https://lists.linuxfoundation.org/mailman/listinfo/oss-health-metrics
+Please [join our mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
 
-The CHAOSS Board mail archives can be found at https://lists.linuxfoundation.org/pipermail/chaoss-members/
+Mailing List Archives: [Before 2018-08-27](https://lists.linuxfoundation.org/pipermail/oss-health-metrics/) and [after 2018-08-27](https://lists.linuxfoundation.org/pipermail/chaoss)
+
+The [CHAOSS Board mail archive](https://lists.linuxfoundation.org/pipermail/chaoss-members/)
