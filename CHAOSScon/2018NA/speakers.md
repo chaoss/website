@@ -24,6 +24,12 @@ _Open Project & Communities Specialist - Mozilla_
 
 "During successful career as a software developer, Emma discovered Open Source, and was inspired by the potential of developing software, and participating in communities connected by common purpose and mission. Her experience as a contributor to many projects including Drupal, Wordpress and Firefox inspired her to help others get involved - and thus reshaped career focus to doing just that at Mozilla with a focus on diversity & inclusion. Emma leads D&I strategy development for Mozilla's communities, and lives in Sooke, BC with her family."
 
+### Georg J.P. Link
+
+_PhD Student - University of Nebraska at Omaha_
+
+Georg J.P. Link is a Ph.D. student at the University of Nebraska at Omaha. His research advances our knowledge in corporate engagement with open source projects. As corporate involvement increases, open source foundations provide guidance and support for open source projects. We only begin to understand the evolution of this triangular relationship. Link's current research focus is to inform this relationship through research into open source project health (CHAOSS project) and new market mechanisms (Bugmark project).
+
 ### Jesus M. Gonzalez-Barahona
 
 _Founder - Bitergia / Professor - Uni. Rey Juan Carlos_
@@ -35,6 +41,12 @@ Jesus M. Gonzalez-Barahona is co-founder of Bitergia, the software development a
 _Open Source Engineer - VMware_
 
 John 'Warthog9' Hawley led the system administration team on kernel.org for nearly a decade, leading a team including four other administrators. His other exploits include working on Syslinux, OpenSSI, a caching Gitweb, and patches to bind to enable GeoDNS. He's the author of PXE Knife, a set of interfaces around common utilities and diagnostics tools needed by an average systems administrator, as well as SyncDiff(erent) a state-full file synchronizer and file transfer mechanism. He currently works for VMware working on upstream Open Source Software. In his free time he enjoys cooking extravagant meals and watching bad movies.
+
+### Kevin Lumbard
+
+_PhD Student - University of Nebraska at Omaha_
+
+Kevin Lumbard is interested in peer production communities, open source software development, design, and project management in distributed environments. His research focus includes the liminal qualities of individuals engaged in open source communities, coordinating design practices, information exchange in open source design, and all things wicked.
 
 ### Matt Germonprez
 

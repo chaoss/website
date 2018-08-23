@@ -16,6 +16,7 @@
 | 11:30 - 12:30 | **Plenaries** (Room: B213) | |
 | | Pains and tribulations of finding data | [John Hawley](#user-content-john-hawley) & [Alex Courouble](#user-content-alex-courouble)|
 | | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) |
+| | Chaos or CHAOSS: What We Hear From the CHAOSS Community  | [Georg Link](#user-content-georg-jp-link) & [Kevin Lumbard](#user-content-kevin-lumbard) |
 |   |   |   |
 | 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Nicole Huesman](#user-content-nicole-huesman) |
 |   |   |   |
