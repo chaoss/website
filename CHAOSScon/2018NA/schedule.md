@@ -18,14 +18,14 @@
 | | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) |
 | | Chaos or CHAOSS: What We Hear From the CHAOSS Community  | [Georg Link](#user-content-georg-jp-link) & [Kevin Lumbard](#user-content-kevin-lumbard) |
 |   |   |   |
-| 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Nicole Huesman](#user-content-nicole-huesman) |
+| 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Matt Germonprez](#user-content-matt-germonprez) (Moderator), [Emma Irwin](#user-content-emma-irwin), Dawn Foster, [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona), [Georg Link](#user-content-georg-jp-link) |
 |   |   |   |
 | 1:15 - 2:30 | Lunch and Networking | |
 |   |   |   |
 | 2:30 - 3:00 | **Lightning Talks** (Room: B213) | (Signup on site) |
 |   |   |   |
 | 3:00 - 4:00 | **Workshops / Tutorials** | |
-| Room: B213 | CHAOSS WG on Growth-Maturity-Metrics: status report | [Jesus M. Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) |
+| Room: B213 | CHAOSS WG on Growth-Maturity-Metrics: status report | [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) |
 | Room: B215 | Which house are you in? (Sorting Hat workshop) | [Santiago Dueñas](#user-content-santiago-dueñas) & [Valerio Cosentino](#user-content-valerio-cosentino) |
 |   |   |   |
 | 4:00 - 4:30 | Break & Networking | |
