@@ -18,7 +18,7 @@
 | | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) |
 | | Chaos or CHAOSS: What We Hear From the CHAOSS Community  | [Georg Link](#user-content-georg-jp-link) & [Kevin Lumbard](#user-content-kevin-lumbard) |
 |   |   |   |
-| 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Matt Germonprez](#user-content-matt-germonprez) (Moderator), [Emma Irwin](#user-content-emma-irwin), Dawn Foster, [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona), [Georg Link](#user-content-georg-jp-link) |
+| 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Matt Germonprez](#user-content-matt-germonprez) (Moderator), [Emma Irwin](#user-content-emma-irwin), Dawn Foster, [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona), [Sean Goggins](#user-content-sean-goggins) |
 |   |   |   |
 | 1:15 - 2:30 | Lunch and Networking | |
 |   |   |   |
@@ -32,6 +32,6 @@
 |   |   |   |
 | 4:30 - 5:30 | **Workshops / Tutorials** | |
 | Room: B213  | Establishing Metrics that Matter for Diversity & Inclusion | [Emma Irwin](#user-content-emma-irwin) |
-| Room: B215  | GrimoireLab made simple: Using the basic stuff from Python | [Jesus M. Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) |
+| Room: B215  | GrimoireLab made simple: Using the basic stuff from Python | [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) |
 |   |   |   |
 | 5:30 - | Adjourn somewhere for more networking | |
