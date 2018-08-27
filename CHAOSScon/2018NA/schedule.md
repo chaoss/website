@@ -18,7 +18,7 @@
 | | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) |
 | | Chaos or CHAOSS: What We Hear From the CHAOSS Community  | [Georg Link](#user-content-georg-jp-link) & [Kevin Lumbard](#user-content-kevin-lumbard) |
 |   |   |   |
-| 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Matt Germonprez](#user-content-matt-germonprez) (Moderator), [Emma Irwin](#user-content-emma-irwin), Dawn Foster, [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona), [Sean Goggins](#user-content-sean-goggins) |
+| 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Matt Germonprez](#user-content-matt-germonprez) (Moderator), [Emma Irwin](#user-content-emma-irwin), [Dawn Foster](#user-content-dawn-foster), [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona), [Sean Goggins](#user-content-sean-goggins) |
 |   |   |   |
 | 1:15 - 2:30 | Lunch and Networking | |
 |   |   |   |

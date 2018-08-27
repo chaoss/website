@@ -24,6 +24,12 @@ _Open Project & Communities Specialist - Mozilla_
 
 "During successful career as a software developer, Emma discovered Open Source, and was inspired by the potential of developing software, and participating in communities connected by common purpose and mission. Her experience as a contributor to many projects including Drupal, Wordpress and Firefox inspired her to help others get involved - and thus reshaped career focus to doing just that at Mozilla with a focus on diversity & inclusion. Emma leads D&I strategy development for Mozilla's communities, and lives in Sooke, BC with her family."
 
+### Dawn Foster
+
+_Consultant - Scale Factory_
+
+"Dawn is currently a consultant at The Scale Factory and is finishing a PhD at the University of Greenwich in London. She spent more than 20 years working at companies like Puppet Labs, Intel, Jive Software, and more. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more."
+
 ### Georg J.P. Link
 
 _PhD Student - University of Nebraska at Omaha_
