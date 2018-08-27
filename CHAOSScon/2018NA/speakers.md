@@ -22,13 +22,13 @@ David Grizzanti is a Principal Software Engineer at Comcast. He oversees the dev
 
 _Open Project & Communities Specialist - Mozilla_
 
-"During successful career as a software developer, Emma discovered Open Source, and was inspired by the potential of developing software, and participating in communities connected by common purpose and mission. Her experience as a contributor to many projects including Drupal, Wordpress and Firefox inspired her to help others get involved - and thus reshaped career focus to doing just that at Mozilla with a focus on diversity & inclusion. Emma leads D&I strategy development for Mozilla's communities, and lives in Sooke, BC with her family."
+During successful career as a software developer, Emma discovered Open Source, and was inspired by the potential of developing software, and participating in communities connected by common purpose and mission. Her experience as a contributor to many projects including Drupal, Wordpress and Firefox inspired her to help others get involved - and thus reshaped career focus to doing just that at Mozilla with a focus on diversity & inclusion. Emma leads D&I strategy development for Mozilla's communities, and lives in Sooke, BC with her family.
 
 ### Dawn Foster
 
 _Consultant - Scale Factory_
 
-"Dawn is currently a consultant at The Scale Factory and is finishing a PhD at the University of Greenwich in London. She spent more than 20 years working at companies like Puppet Labs, Intel, Jive Software, and more. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more."
+Dawn is currently a consultant at The Scale Factory and is finishing a PhD at the University of Greenwich in London. She spent more than 20 years working at companies like Puppet Labs, Intel, Jive Software, and more. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more.
 
 ### Georg J.P. Link
 
@@ -64,7 +64,7 @@ Matt Germonprez is the Mutual of Omaha Associate Professor of Information System
 
 _Community & Developer Advocate - Intel Corporation_
 
-For over 20 years, Nicole has applied her aptitude in storytelling to the technology industry—helping shine a light on the importance of the work of her engineering colleagues in a way that delivers true business value. She dove into the world of open source at Intel seven years ago, and quickly became a strong advocate—across Linux, cloud/virtualization (OpenStack, KVM, Xen), IoT (Yocto Project), Android, web technologies (HTML5), and more. She is passionate about cultivating inclusive communities that welcome diverse perspectives and invite intelligent, thoughtful debate to benefit us all. As co-chair of the CHAOSS Project's Diversity & Inclusion Workgroup, she is helping establish a consistent, cross-community definition and metrics for diversity. She also helps lead speed mentoring workshops across the OpenStack and Linux communities, inspiring the next generation of contributors, as an active member of the Women of OpenStack and Women in Open Source groups. She is a frequent moderator, speaker and blogger in the areas of diversity and mentorship."
+For over 20 years, Nicole has applied her aptitude in storytelling to the technology industry—helping shine a light on the importance of the work of her engineering colleagues in a way that delivers true business value. She dove into the world of open source at Intel seven years ago, and quickly became a strong advocate—across Linux, cloud/virtualization (OpenStack, KVM, Xen), IoT (Yocto Project), Android, web technologies (HTML5), and more. She is passionate about cultivating inclusive communities that welcome diverse perspectives and invite intelligent, thoughtful debate to benefit us all. As co-chair of the CHAOSS Project's Diversity & Inclusion Workgroup, she is helping establish a consistent, cross-community definition and metrics for diversity. She also helps lead speed mentoring workshops across the OpenStack and Linux communities, inspiring the next generation of contributors, as an active member of the Women of OpenStack and Women in Open Source groups. She is a frequent moderator, speaker and blogger in the areas of diversity and mentorship.
 
 ### Remy DeCausemaker
 
