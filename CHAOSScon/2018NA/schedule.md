@@ -14,8 +14,8 @@
 | 11:00 - 11:30 | Break & Networking | | |
 |   |   |   |   |
 | 11:30 - 12:30 | **Plenaries** (Room: B213) | | |
-| | Pains and tribulations of finding data | [John Hawley](#user-content-john-hawley) & [Alex Courouble](#user-content-alex-courouble)| [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/pains-and-tribulations-of-finding-data.pdf) | 
-| | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) | |
+| | Pains and tribulations of finding data | [John Hawley](#user-content-john-hawley) & [Alex Courouble](#user-content-alex-courouble)| [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/pains-and-tribulations-of-finding-data.pdf) |
+| | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/communicating-value-of-open-source-metrics.pdf) |
 | | Chaos or CHAOSS: What We Hear From the CHAOSS Community  | [Georg Link](#user-content-georg-jp-link) & [Kevin Lumbard](#user-content-kevin-lumbard) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/Chaos-or-CHAOSS.pdf) |
 |   |   |   | |
 | 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Matt Germonprez](#user-content-matt-germonprez) (Moderator), [Emma Irwin](#user-content-emma-irwin), [Dawn Foster](#user-content-dawn-foster), [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona), [Sean Goggins](#user-content-sean-goggins) | |
