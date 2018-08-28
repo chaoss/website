@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 8:30 - 9:30 | Registration & Networking (Room: B213) | | |
 |   |   |   |   |
-| 9:30 - 10:00 | **Keynote** (Room: B213) | [Matt Germonprez](#user-content-matt-germonprez) |   |
+| 9:30 - 10:00 | **Keynote** (Room: B213) | [Matt Germonprez](#user-content-matt-germonprez) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/CHAOSSCon.Keynote.pdf)  |
 |   |   |   |   |
 | 10:00 - 11:00 | **Plenaries** (Room: B213) | | |
 | | If There Are No Metrics, Did It Even Happen? Tracking Open Source Contributions at Comcast | [Shilla Saebi](#user-content-shilla-saebi) & [David Grizzanti](#user-content-david-grizzanti) | |
