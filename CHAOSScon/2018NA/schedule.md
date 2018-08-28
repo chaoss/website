@@ -28,7 +28,7 @@
 |   | GrimoireLab to track GSoC  | Jesus Gonzales-Barahona  |   |
 |   | Community Health Visibility  | Johanna Smith  |   |
 |   | Augur Demo  | Sean Goggins  |   |
-|   | Risk Category brainstorming  | Matt Snell  |   |
+|   | Risk Category brainstorming  | Matt Snell  | [JPG](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/risk_metrics.jpg) |
 |   |   |   | |
 | 3:00 - 4:00 | **Workshops / Tutorials** | | |
 | Room: B213 | CHAOSS WG on Growth-Maturity-Metrics: status report | [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) | |
