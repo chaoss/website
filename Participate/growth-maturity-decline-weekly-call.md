@@ -1,4 +1,4 @@
-### Growth Maturity and Decline Weekly Call
+### Growth Maturity and Decline Bi-Weekly Call
 
 This Working Group focuses on Growth-Maturity-Decline metrics and software. The goal is to refine the metrics that inform Growth-Maturity-Decline and to work with software implementations.
 
