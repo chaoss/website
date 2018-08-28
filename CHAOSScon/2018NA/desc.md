@@ -11,7 +11,7 @@ We will also share insights from the CHAOSS workgroups on *Diversity and Inclusi
 ## Where?
 University of British Columbia<br />
 Buchanan Building Block B (Building B)<br />
-Room 213<
+Room 213<br />
 1866 Main Mall<br />
 Vancouver, Canada
 
