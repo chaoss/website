@@ -9,12 +9,12 @@
 | 10:00 - 11:00 | **Plenaries** (Room: B213) | | |
 | | If There Are No Metrics, Did It Even Happen? Tracking Open Source Contributions at Comcast | [Shilla Saebi](#user-content-shilla-saebi) & [David Grizzanti](#user-content-david-grizzanti) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/if-there-are-no-metrics-did-it-even-happen.pdf) |
 | | Open Source Metrics at Twitter | [Remy DeCausemaker](#user-content-remy-decausemaker) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/twitteross.pdf) |
-| | Towards GrimoireLab 1.0: a roadmap | [Santiago Dueñas](#user-content-santiago-dueñas) & [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/Towards-GrimoireLab-1.0.pdf) | 
+| | Towards GrimoireLab 1.0: a roadmap | [Santiago Dueñas](#user-content-santiago-dueñas) & [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/Towards-GrimoireLab-1.0.pdf) |
 |   |   |   |   |
 | 11:00 - 11:30 | Break & Networking | | |
 |   |   |   |   |
 | 11:30 - 12:30 | **Plenaries** (Room: B213) | | |
-| | Pains and tribulations of finding data | [John Hawley](#user-content-john-hawley) & [Alex Courouble](#user-content-alex-courouble)| |
+| | Pains and tribulations of finding data | [John Hawley](#user-content-john-hawley) & [Alex Courouble](#user-content-alex-courouble)| [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/pains-and-tribulations-of-finding-data.pdf) | 
 | | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) | |
 | | Chaos or CHAOSS: What We Hear From the CHAOSS Community  | [Georg Link](#user-content-georg-jp-link) & [Kevin Lumbard](#user-content-kevin-lumbard) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/Chaos-or-CHAOSS.pdf) |
 |   |   |   | |
