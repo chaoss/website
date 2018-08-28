@@ -23,6 +23,12 @@
 | 1:15 - 2:30 | Lunch and Networking | | |
 |   |   |   | |
 | 2:30 - 3:00 | **Lightning Talks** (Room: B213) | (Signup on site) | |
+|   | Ask, Join, Share  | Felipe Hoffa  |   |
+|   | Santi: Percival Demo  | Manrique López  | [notebook](https://colab.research.google.com/drive/1oXFbph7FeuQn2vNtPmwdLzijpSp65T1A) |
+|   | GrimoireLab to track GSoC  | Jesus Gonzales-Barahona  |   |
+|   | Community Health Visibility  | Johanna Smith  |   |
+|   | Augur Demo  | Sean Goggins  |   |
+|   | Risk Category brainstorming  | Matt Snell  |   |
 |   |   |   | |
 | 3:00 - 4:00 | **Workshops / Tutorials** | | |
 | Room: B213 | CHAOSS WG on Growth-Maturity-Metrics: status report | [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) | |
