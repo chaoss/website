@@ -4,4 +4,4 @@ This Working Group focuses on Growth-Maturity-Decline metrics and software. The 
 
 The work group meets bi-weekly. The next call will be on Wednesday, August 15th at 18:00 CEST (9am PDT) via [Zoom](https://unomaha.zoom.us/j/720431288).
 
-Info about workgroup: https://github.com/chaoss/wg-gmd
+Info about workgroup: [https://github.com/chaoss/wg-gmd](https://github.com/chaoss/wg-gmd)
