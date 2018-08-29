@@ -37,7 +37,7 @@
 | 4:00 - 4:30 | Break & Networking | | |
 |   |   |   | |
 | 4:30 - 5:30 | **Workshops / Tutorials** | | |
-| Room: B213  | Establishing Metrics that Matter for Diversity & Inclusion | [Emma Irwin](#user-content-emma-irwin) | |
+| Room: B213  | Establishing Metrics that Matter for Diversity & Inclusion | [Emma Irwin](#user-content-emma-irwin) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/workshop_di.pdf) |
 | Room: B215  | GrimoireLab made simple: Using the basic stuff from Python | [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/GrimoireLab-made-simple.pdf) |
 |   |   |   | |
 | 5:30 - | Adjourn somewhere for more networking | | |
