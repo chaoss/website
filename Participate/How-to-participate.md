@@ -1,11 +1,10 @@
 
-## How to Participate with CHAOSS?
+## How to Participate in CHAOSS?
 
 - Introduce yourself on the mailing list.
 - Join us in our weekly video conferences.
-- Come see us at Conferences, Workshops, and Hackathons.
 - Pick a project or workgroup and fork the GitHub repository.
+- Come see us at [conferences, workshops, and hackathons](https://chaoss.community/community/#user-content-upcoming-events).
 
 The CHAOSS community is dedicated to fostering an open and welcoming environment for contributors.
-
-Check out our [Code of Conduct](https://chaoss.community/about/code-of-conduct/).
+Please read our [Code of Conduct](https://chaoss.community/about/code-of-conduct/) to learn more about participating in CHAOSS.
