@@ -19,10 +19,10 @@ Friday, February 1st, 2019<br/>
 ## Organizing Committee
 
 * Alolita Sharma, Amazon Web Services
-* Raymond Paik, Linux Foundation
-* Georg Link, University of Nebraska at Omaha
-* Dawn Foster, The Scale Factory / University of Greenwich
-* Nicole Huesman, Intel
-* Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
 * Daniel Izquierdo, Bitergia
+* Dawn Foster, The Scale Factory / University of Greenwich
+* Georg Link, University of Nebraska at Omaha
+* Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
 * Kevin Lumbard, University of Nebraska at Omaha
+* Nicole Huesman, Intel
+* Ray Paik, GitLab
