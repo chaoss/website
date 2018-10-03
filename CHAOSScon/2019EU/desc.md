@@ -9,12 +9,12 @@ Specific CHAOSS software highlighted will be GrimoireLab and Augur with their re
 We will also share insights from the CHAOSS workgroups on *Diversity and Inclusion*, *Growth-Maturity-Decline*, *Risk*, and *Value* that branched out from the CHAOSS metrics work.
 
 ## Where?
-Specific Location TBA
+Specific Location TBA<br/>
 Brussels, Belgium
 
 ## When?
 
-Friday, February 1st, 2019<br />
+Friday, February 1st, 2019<br/>
 
 ## Organizing Committee
 
@@ -28,5 +28,4 @@ Friday, February 1st, 2019<br />
 * Kevin Lumbard, University of Nebraska at Omaha
 
 ## Call for Proposals
-We hope you will join us this year. Please see the link below to submit a presentation for consideration.
- https://goo.gl/forms/1pn0ou7YPsyeOCeq2
+We hope you will join us this year. Please fill out this [form](https://goo.gl/forms/1pn0ou7YPsyeOCeq2) to submit a presentation for consideration.
