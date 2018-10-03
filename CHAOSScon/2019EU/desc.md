@@ -9,18 +9,12 @@ Specific CHAOSS software highlighted will be GrimoireLab and Augur with their re
 We will also share insights from the CHAOSS workgroups on *Diversity and Inclusion*, *Growth-Maturity-Decline*, *Risk*, and *Value* that branched out from the CHAOSS metrics work.
 
 ## Where?
-University of British Columbia<br />
-Buchanan Building Block B (Building B)<br />
-Room 213<br />
-1866 Main Mall<br />
-Vancouver, Canada
-
-<a href="http://maps.ubc.ca/PROD/index_detail.php?locat1=121-1">View location on university campus map</a>
+Specific Location TBA
+Brussels, Belgium
 
 ## When?
 
-Tuesday, August 28, 2018<br />
-8:30 -- 5:30
+Friday, February 1st, 2019<br />
 
 ## Organizing Committee
 
@@ -30,3 +24,9 @@ Tuesday, August 28, 2018<br />
 * Dawn Foster, The Scale Factory / University of Greenwich
 * Nicole Huesman, Intel
 * Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
+* Daniel Izquierdo, Bitergia
+* Kevin Lumbard, University of Nebraska at Omaha
+
+## Call for Proposals
+We hope you will join us this year. Please see the link below to submit a presentation for consideration.
+ https://goo.gl/forms/1pn0ou7YPsyeOCeq2
