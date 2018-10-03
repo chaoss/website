@@ -26,6 +26,3 @@ Friday, February 1st, 2019<br/>
 * Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
 * Daniel Izquierdo, Bitergia
 * Kevin Lumbard, University of Nebraska at Omaha
-
-## Call for Proposals
-We hope you will join us this year. Please fill out this [form](https://goo.gl/forms/1pn0ou7YPsyeOCeq2) to submit a presentation for consideration.
