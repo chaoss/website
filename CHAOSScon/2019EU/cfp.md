@@ -1,15 +1,15 @@
 # Call for Participation
 ## Submit a Proposal
-If you are interested in speaking at CHAOSSCon NA on August 28, 2018,
+If you are interested in speaking at CHAOSSCon EU on February 1, 2019,
 please read through the rest of this page to understand the types of talks
 that are appropriate for this conference, and then [submit your proposal](https://docs.google.com/forms/d/e/1FAIpQLSeKcLPkAUucB1K32FW48IYJM7Jbi_jI2MkFAhj0TPYQhJZJgQ/viewform).  
 ## Dates to Remember:
-* CFP Opens: TBA
-* CFP Closes: TBA
-* CFP Notifications: TBA
-* Schedule Announcement: TBA
-* Slide Due Date: TBA
-* Event Date: TBA
+* CFP Opens: October 4, 2018
+* CFP Closes: November 26, 2018
+* CFP Notifications: December 3, 2018
+* Schedule Announcement: December 10, 2018
+* Slide Due Date: January 29, 2019
+* Event Date: February 1, 2019
 ## Suggested Topics:
 - **Software related topics:**
    + tutorials
