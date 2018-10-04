@@ -30,7 +30,7 @@ that are appropriate for this conference, and then [submit your proposal](https:
 ## Important Notes
 - All speakers are required to adhere to our [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md).
 - One complimentary pass for the event will be provided per submission.
-- Do not propose sales or marketing pitches. Do not include unlicensed or potentially closed-source technologies when preparing your proposal. These talks are almost always rejected due to the fact that they take away from the integrity of our events and are rarely well-received by conference attendees.
+- Do not propose sales or marketing pitches. Do not include unlicensed or potentially closed-source technologies when preparing your proposal. These talks will be rejected due to the fact that they take away from the integrity of our events and are rarely well-received by conference attendees.
 - All accepted speakers are required to submit their slides prior to the event.
 
 
@@ -40,6 +40,7 @@ While it is not our intention to provide you with strict instructions on how to 
 2. What do you expect the audience to gain from your presentation?
 3. How will your presentation help better the ecosystem?
 There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
+
 ### Session Types
 
 You will need to choose a session type when submitting:
