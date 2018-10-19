@@ -2,14 +2,13 @@
 
 Join us at conferences, workshops and hackathons.
 
-[Open Source Summit North America (August 29-31, 2018: Vancouver, Canada)](https://events.linuxfoundation.org/events/open-source-summit-north-america-2018/)
+Open Source Summit Europe 2018 (October 22-24):
 
-CHAOSS member sessions at OSSNA:
+* Monday, October 22 (11:15 - 11:55): [Metrics that Matter for Diversity & Inclusion in Open Source](https://sched.co/FxXP)
+* Tuesday, October 23 (11:30 - 12:10): [Revitalizing Open Source Contributions and Participation across Mozilla](https://sched.co/FxVx)
+* Wednesday, October 24 (11:15 - 11:55): [Mentorship: An Exploration of Insights & Issues Related to Mentoring Programs](https://sched.co/FxXh)
+* Wednesday, October 24 (16:15 - 17:45): [Tutorial: How to Prepare a Diversity and Inclusion Report for your Community](https://sched.co/FxYK)
 
-* [CHAOSS: Exploring Open Source Project Growth, Maturity, and Decline](http://sched.co/FANS)
-* [Diversity & Inclusion: Transforming Insight into Action](http://sched.co/FANk)
-* [Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics](http://sched.co/FANj)
-* [BoF: Software for Software Development Analytics: Status on CHAOSS Software Projects](http://sched.co/FAP5)
-* [Perceval, Graal and Arthur: The Quest for Software Project Data](http://sched.co/FAOp)
+[MozFest 2018](https://mozillafestival.org/) (October 26-28)
 
-CHAOSSCon EU (Tentatively February 1, 2019: Brussels, Belgium before FOSDEM) 
+[CHAOSSCon EU 2019](https://chaoss.community/chaosscon-2019-eu/) (February 1, 2019: Brussels, Belgium before FOSDEM)
