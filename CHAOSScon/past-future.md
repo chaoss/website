@@ -1,6 +1,6 @@
 ## Upcoming CHAOSScon events
 
-* CHAOSScon 2019 Europe, February 1, 2019, Brussels, Belgium, co-located with FOSDEM 2019.
+* [**CHAOSScon 2019 Europe**](https://chaoss.community/chaosscon-2019-eu/), February 1, 2019, Brussels, Belgium, co-located with FOSDEM 2019.
 
 ## Past CHAOSScon events
 
