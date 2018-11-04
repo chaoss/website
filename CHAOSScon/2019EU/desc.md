@@ -9,7 +9,7 @@ Specific CHAOSS software highlighted will be GrimoireLab and Augur with their re
 We will also share insights from the CHAOSS workgroups on *Diversity and Inclusion*, *Growth-Maturity-Decline*, *Risk*, and *Value* that branched out from the CHAOSS metrics work.
 
 ## Where?
-[L42 Business Center & Workspaces](http://www.l42.be/fr/)<br/>
+[L42 Business Center & Workspaces](http://www.l42.be/en/)<br/>
 Métro Arts-Loi, 42 Rue de la Loi ([map](https://goo.gl/maps/Bw2wABNqJWm))<br/>
 Brussels, Belgium
 
