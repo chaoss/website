@@ -2,7 +2,6 @@
 _By: Georg Link, University of Nebraska at Omaha, and Raniere Silva, Software Sustainability Institute._
 
 ![Image of MozFest session](./images/20181112_mozfestsession.png)
-
 _Image by Raniere Silva._
 
 
