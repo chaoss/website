@@ -12,39 +12,40 @@ Introduction
 ============
 
 Community managers take a variety of perspectives, depending on where
-their communities are in the lifecycle of growth, maturity and decline.
+their communities are in the lifecycle of growth, maturity, and decline.
 This is an evolving report of what we are learning from community
 managers, some of whom we are working with on live experiments with a
 CHAOSS project prototyping software tool called Augur
-(http://www.github.com/CHAOSS/augur). At this point we are paying
+(http://www.github.com/CHAOSS/augur). At this point, we are paying
 particular focus to how community managers consume metrics and how the
 presentation of open source software health and sustainability metrics
 could make them more and in some cases less useful for doing their jobs.
 
 Right now, based on Augur prototypes and follow up discussions so far,
-we have the following observations that will inform our work both the
+we have the following observations that will inform our work both
 the \"Growth Maturity and Decline\" working group and in Augur
-Development. There are a few things we have learned from prototyping
+Development. Here are a few things we have learned from prototyping
 Augur with community managers. These features in Augur are particularly
 valued:
 
-1.  Allowing comparisons with projects within a defined universe is
-    essential
+1.  Allowing comparisons with projects within a defined universe of 
+    of projects is essential
 
 2.  Allow community managers to add and remove repositories that they
-    monitor from their repertoires periodically.
+    monitor from their repertories periodically
 
 3.  Downloadable graphics
 
 4.  Downloadable data (.csv or .json)
 
 5.  Availability of a \"Metrics API\", limiting the amount of software
-    infrastructure the CM needs to maintain for themselves. This is more
+    infrastructure the community manager needs to maintain for 
+    themselves. This is more
     valued by program managers overseeing larger portfolios right now,
-    but we think has potential to grow as awareness of the relatively
+    but we think it has potential to grow as awareness of the relatively
     light weight of this approach becomes more apparent. By apparent, we
-    really mean \"easy to use and understand\"; right now it is for a
-    programmer, but less so for a community manager without this
+    really mean \"easy to use and understand\"; right now it is easy for
+    a programmer, but less so for a community manager without this
     background or current interest.
 
 Date Summarized Comparison Metrics
@@ -54,20 +55,20 @@ With these advantages in mind, making the most of this opportunity to
 help community managers with useful metrics is going to include the
 availability of *date summarized comparison metrics*. These types of
 metrics have two \"filters\" or \"parameters\" fed into them that are
-more abstractly defined in the Growth, Maturity and Decline metrics on
+more abstractly defined in the Growth, Maturity, and Decline metrics on
 the CHAOSS project.
 
 1.  Given a pool of repositories of interest for a community manager,
-    rank them in ascending or descending order by a metric.
+    rank them in ascending or descending order by a metric
 
 2.  Over a specified time period or
 
-3.  Over a specified periodicity (i.e., month) for a length of time
-    (i.e., year).
+3.  Over a specified periodicity (e.g., month) for a length of time
+    (e.g., year).
 
-For example, one open source program office we talked with is interested
+For example, one open source program officer we talked with is interested
 in the following set of *date summarized comparison metrics*. Given a
-pool of repositories of interest to the program office (dozens to
+pool of repositories of interest to the program officer (dozens to
 hundreds of repositories):
 
 1.  What ten repositories have the most commits this year (straight
@@ -83,7 +84,7 @@ hundreds of repositories):
     contributors?
 
 5.  What organizations are the top five external contributors of
-    commits, comments and merges?
+    commits, comments, and merges?
 
 6.  What are the total number of repository watchers we have across all
     of our projects?
@@ -105,11 +106,11 @@ source community managers:
     2.  Activity in the past 30 days
 
     3.  Across all repositories, present the 50th percentile as a
-        baseline and show repositories above and below that line.
+        baseline and show repositories above and below that line
 
 2.  Should we archive this repository?
 
-    1.  Enable an input from the manager after reviewing statistics.
+    1.  Enable an input from the manager after reviewing statistics
 
     2.  Activity level, inactivity level and dependencies
 
@@ -130,8 +131,8 @@ source community managers:
     on some kind of *composite scoring system* that is likely specific
     to the needs of every community manager or program office.)
 
-6.  Most active repositories by time period \[Week? Month? Year?\].
-    Activity to be revealed through a mix of Retention and Maintainer
+6.  Most active repositories by time period \[year, month, week?\].
+    Activity to be revealed through a mix of retention and maintainer
     activity primarily focusing on the latter. Number of issues and
     commits. Also the frequency of pull requests and the number of
     closed issues.
@@ -148,7 +149,7 @@ source community managers:
 9.  What new contributors submitted their first new patches/issues this
     week? (*Visualization Note:* New contributors can be colored in
     visualizations and then additionally a graph can be made for number
-    of)
+    of new contributors)
 
 10. Which contributors became inactive? (Will need a mechanism for
     setting \"inactive\" thresholds.)
@@ -157,11 +158,11 @@ source community managers:
     for each, individual organization repository.
 
 12. What projects outside of a community manager's general view (GitHub
-    organization or other boundary) doe my repositories depend on or do
+    organization or other boundary) do my repositories depend on or do
     my contributors also significantly contribute to?
 
 13. Build a summary report in 140 characters or less. For example,
-    \"Your total commits in this time period \[week? month?\] across the
+    \"Your total commits in this time period \[month, week?\] across the
     organization increased 12% over the last period. Your most active
     repositories remained the same. You have 8 new contributors, which
     is 1 below your mean for the past year. For more information, click
@@ -202,15 +203,26 @@ based on conversations with community managers.
     may be even more useful and engaging. In general, its important that
     the time zooming is more clear.
 
+    In one view, Google lets you see a 1 year window of a stock's
+    performance:
     ![In one view, Google lets you see a 1 year window of a stock's
     performance.](./images/post5-1.jpg){width="100%"}
 
+    In another view, you can choose a 3 month period. Comparing the
+    two time periods also draws out the trend with red or green colors,
+    depending on whether or not the index, in this case a stock's price,
+    has increased or decreased overall during the selected time
+    period:
     ![In another view, you can choose a 3 month period. Comparing the
     two time periods also draws out the trend with red or green colors,
     depending on whether or not the index, in this case a stock's price,
     has increased or decreased overall during the selected time
     period.](./images/post5-2.jpg){width="100%"}
 
+    Comparisons are similarly interesting in Google's finance
+    interface. You can simply add a number of stocks in much the same
+    way our users want to add a number of different
+    repositories:
     ![Comparisons are similarly interesting in Google's finance
     interface. You can simply add a number of stocks in much the same
     way our users want to add a number of different
@@ -224,7 +236,7 @@ based on conversations with community managers.
 5.  The ability to adjust the viewing windows to a month summary level
     is desired.
 
-6.  Right now Augur does not make it clear that metrics are, by default,
+6.  Right now, Augur does not make it clear that metrics are, by default,
     aggregated by week.
 
 7.  New contributor response time. When a new contributor joins a
@@ -255,7 +267,7 @@ Data Source Trust Issues
         companies and emails we put together, and getting this right is
         something community managers will need some kind of mapping tool
         to do. GitDM is a tool that people sometimes use to create these
-        maps, and Augur does follow a derivative of that work. Its
+        maps, and Augur does follow a derivative of that work. It is
         probably the case that maintaining these affiliation lists is
         something that needs to be made easier for community managers,
         especially in cases where the number of organizations
@@ -269,12 +281,12 @@ Data Source Trust Issues
     limitations under the scrutiny of community managers. For example,
     when using the cloned repositories, and then going back to
     \*issues\*, the issues data in GHTorrent does not \"look right\". I
-    think the graph API might offer some possibilities for us to store
+    think the graph API might offers some possibilities for us to store
     issue statistics we pull directly from GitHub and update
     periodically as an alternative to GHTorrent.
 
 3.  When issues are moved from an older system, like Gerrit, into GitHub
-    issues, in general the statistics for the converted issues are
+    issues, in general, the statistics for the converted issues are
     dodgy, even through the GitHub API. We are likely to encounter this,
     and at some point may want to include Gerrit data in a common data
     structure with issues from GitHub and other sources.
@@ -300,7 +312,8 @@ New Metrics Suggested
 5.  Test coverage within a repository is something to consider measuring
     for safety critical systems software.
 
-6.  Identifying the relationship between the DCO and the CLA.
+6.  Identifying the relationship between the DCO (Developer Certificate 
+    of Origin) and the CLA (Contributor License Agreement).
 
 7.  There is a tension between risk and value that, as our metrics
     develop in those areas, we are well advised to keep in mind.
@@ -319,7 +332,7 @@ Augur
 For Augur, I think the interface changes that enable comparisons and
 adjust the level of self apparent ways to compress or expand the time,
 as per the Google examples, are at the top of the list of things that
-will make Augur more useful for Kate and other community managers.
+will make Augur more useful for community managers.
 Feedback on these notes will be helpful. I think the new committers to
 committers ratio is important, as well as enabling comparisons across
 projects in the bubble graphs as well. Transparency of data sources and
@@ -330,7 +343,7 @@ Growth Maturity and Decline Working Group
 -----------------------------------------
 
 Many of the metrics of interest to community managers fall under the
-\"growth maturity and decline\" working group. From a design perspective
+\"Growth Maturity and Decline\" working group. From a design perspective
 it appears that, possibly, the way that metrics are expressed and
 consumed by these stakeholders in their individual derivatives of the
 *community manager use case* is quite far removed from the detailed
@@ -348,8 +361,8 @@ References
 - Barab, S, T Dodge, MK Thomas, C Jackson, and H Tuzun. 2007. Our designs
 and the social agendas they carry. Journal of the Learning Sciences 16 (2):
 263-305.
-- Gonzalez\-Torres, Antonio, Francisco J. Garca-Pe~nalvo, Roberto Theron-
-Sanchez, and Ricardo Colomo-Palacios. 2016. Knowledge discovery in
+- Gonzalez\-Torres, Antonio, Francisco J. Garcia-Penalvo, Roberto Theron-
+Sanchez, and Ricardo Colomo-Palacios. 2016. Knowledge discovery in
 software teams by means of evolutionary visual software analytics. Sci-
 ence of Computer Programming 121: 55{74. doi:10.1016/j.scico.2015.09.005.
 https://linkinghub.elsevier.com/retrieve/pii/S0167642315002658.
