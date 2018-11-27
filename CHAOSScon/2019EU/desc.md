@@ -25,7 +25,7 @@ Friday, February 1st, 2019<br/>
 
 * Alolita Sharma, Amazon Web Services
 * Daniel Izquierdo, Bitergia
-* Dawn Foster, The Scale Factory / University of Greenwich
+* Dawn Foster, Pivotal
 * Georg Link, University of Nebraska at Omaha
 * Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
 * Kevin Lumbard, University of Nebraska at Omaha
