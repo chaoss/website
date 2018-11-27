@@ -5,6 +5,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 
 ### 2018
+* Sansing, S. (2018, November 27). **The CHAOSS Project | Open Leaders 6** Retrieved November 27, 2018, from https://medium.com/@MozOpenLeaders/the-chaoss-project-open-leaders-6-37c2799c2dd3
+
 * Ahuja, V., Marti, D., Link, G. J. P., Germonprez, M., & Goggins, S. P. (2018, May 23). **How to measure the impact of your open source project.** Retrieved May 23, 2018, from https://opensource.com/article/18/5/metrics-project-success
 
 ### 2017
