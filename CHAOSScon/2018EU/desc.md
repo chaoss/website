@@ -52,7 +52,7 @@ Belgium<br></address>
 <td class="text-right">10:05 - 10:20</td>
 <td><abbr title="Community Health Analytics Open Source Software">CHAOSS</abbr> keynote</td>
 <td><a href="#ivancsa">Ildiko Vancsa, OpenStack Foundation</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/1_CHAOSSCon_Keynote_Ildiko_Vancsa.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/1_CHAOSSCon_Keynote_Ildiko_Vancsa.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">10:20 - 10:35</td>
@@ -64,19 +64,19 @@ Belgium<br></address>
 <td class="text-right">10:35 - 10:50</td>
 <td><abbr title="Community Health Analytics Open Source Software">CHAOSS</abbr> Software <abbr title="Technical Committee">TC</abbr></td>
 <td><a href="#hpillay">Harish Pillay, Red Hat</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/3_CHAOSS-Software-TC.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/3_CHAOSS-Software-TC.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">10:50 - 11:05</td>
 <td>The <abbr title="Community Health Analytics Open Source Software">CHAOSS</abbr> Working Group on Diversity and Inclusion</td>
 <td><a href="#dizquierdo">Daniel Izquierdo, Bitergia</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/4_chaoss_diversity_inclusion_project.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/4_chaoss_diversity_inclusion_project.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">11:05 - 11:20</td>
 <td>The State of GrimoireLab</td>
 <td><a href="#jsmanrique">J. Manrique López, Bitergia</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/6_The-State-of-GrimoireLab.pdf">Slides</a>, <a href="https://www.youtube.com/watch?v=NIbqtQyuz8w">video</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/6_The-State-of-GrimoireLab.pdf">Slides</a>, <a href="https://www.youtube.com/watch?v=NIbqtQyuz8w">video</a></td>
 </tr>
 <tr class="warning">
 <td class="text-right">11:20 - 11:45</td>
@@ -86,25 +86,25 @@ Belgium<br></address>
 <td class="text-right">11:45 - 12:00</td>
 <td>Consolidate metrics on open source projects hosted at OW2</td>
 <td><a href="#amontasser">Assad Montasser, OW2</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/7_OW2-GrimoireLab.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/7_OW2-GrimoireLab.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">12:00 - 12:15</td>
 <td>Using GrimoireLab for Mozilla's Community Analytics, live demo and conversation</td>
 <td><a href="#hmitsch">Henrik Mitsch, Mozilla</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/8_CHAOSSCon-MozillaCommunityAnalytics.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/8_CHAOSSCon-MozillaCommunityAnalytics.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">12:15 - 12:30</td>
 <td>Usage of metrics in open source communities</td>
 <td><a href="#rpaik">Raymond Paik, The Linux Foundation</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/9-using-metrics_Ray.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/9-using-metrics_Ray.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">12:30 - 12:45</td>
 <td>CROSSMINER: Developer-centric knowledge mining from large open source software repositories</td>
 <td><a href="#bbaldasari">Boris Baldassari, Castalia Solutions</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/10_CROSSMINER-Boris.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/10_CROSSMINER-Boris.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">12:45 - 13:00</td>
@@ -120,13 +120,13 @@ Belgium<br></address>
 <td class="text-right">13:05 - 13:10</td>
 <td><em>Lightning talk:</em> Prospector</td>
 <td><a href="#hpillay">Harish Pillay, Red Hat</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/12_Prospector-LT.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/12_Prospector-LT.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">13:10 - 13:15</td>
 <td><em>Lightning talk:</em> Bestiary</td>
 <td><a href="#mafesan">Miguel Ángel Fernández, Bitergia</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/13_Bestiary-LT.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/13_Bestiary-LT.pdf">Slides</a></td>
 </tr>
 <tr>
 <td class="text-right">13:15 - 13:20</td>
@@ -144,7 +144,7 @@ Belgium<br></address>
 <td class="text-right">13:25 - 13:30</td>
 <td><em>Lightning talk:</em> Hatstall</td>
 <td><a href="#jsmanrique">J. Manrique López, Bitergia</a></td>
-<td><a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/18_Hatstall-LT.pdf">Slides</a></td>
+<td><a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/18_Hatstall-LT.pdf">Slides</a></td>
 </tr>
 <tr class="warning">
 <td class="text-right">13:30 - 14:20</td>
@@ -167,12 +167,12 @@ Belgium<br></address>
 <td>
 <b>"I have a GrimoireLab dashboard. Now, what?"</b>, <small>Alberto Pérez</small><br>
 Intro to GrimoireLab dashboards features.
-[<a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/1.1_GrimoireCon_Dashboards.pdf">Slides</a>]
+[<a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/1.1_GrimoireCon_Dashboards.pdf">Slides</a>]
 </td>
 <td>
 <b>"Setting up GrimoireLab from scratch"</b>, <small>Jesus M. Gonzalez-Barahona</small><br>
 Intro to GrimoireLab platform configuration (<em>Docker and Python required</em>).
-[<a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/2.1_GrimoireLab_from_Scratch.pdf">Slides</a>]
+[<a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/2.1_GrimoireLab_from_Scratch.pdf">Slides</a>]
 </td>
 </tr>
 <tr>
@@ -180,12 +180,12 @@ Intro to GrimoireLab platform configuration (<em>Docker and Python required</em>
 <td>
 <b>"GrimoireLab visualizations and charts <abbr title="Do It Yourself">DIY</abbr> session"</b>, <small>Daniel Izquierdo</small><br>
 How to create your own visualizations and dashboards with GrimoireLab.
-[<a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/1.2_GrimoireCon_Dashboards.pdf">Slides</a>]
+[<a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/1.2_GrimoireCon_Dashboards.pdf">Slides</a>]
 </td>
 <td>
 <b>"Playing analytics on GrimoireLab data"</b>, <small>Jesus M. Gonzalez-Barahona and Alberto Perez</small><br>
 How to analyze data produced by GrimoireLab with tools like Jupyter Notebooks (<em>Jupyter Notebooks required</em>).
-[<a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/2.2_Analytics_on_GrimoireLab-a.pdf">Slides</a>].<br>
+[<a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/2.2_Analytics_on_GrimoireLab-a.pdf">Slides</a>].<br>
 [<a href="https://github.com/alpgarcia/grimoirecon18">Jupyter Notebooks</a>]
 </td>
 </tr>
@@ -198,12 +198,12 @@ How to analyze data produced by GrimoireLab with tools like Jupyter Notebooks (<
 <td>
 <b>"Beyond standard panels"</b>, <small>Daniel Izquierdo and David Moreno</small><br>
 Specific use cases solved with GrimoireLab capabilities, like social network analysis.
-[<a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/1.3_Beyond_Standard_Panels.pdf">Slides</a>]
+[<a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/1.3_Beyond_Standard_Panels.pdf">Slides</a>]
 </td>
 <td>
 <b>"Extending GrimoireLab capabilities"</b>, <small>Valerio Cosentino and Alberto Pérez</small><br>
 How to develop custom backends or new data indexes with Python and GrimoireLab (<em>Python required</em>).
-[<a href="https://https://github.com/chaoss/website/raw/master/CHAOSScon/2018EU/slides/2.3_extending-grimoirelab.pdf">Slides</a>]
+[<a href="https://chaoss.github.io/website/CHAOSScon/2018EU/slides/2.3_extending-grimoirelab.pdf">Slides</a>]
 </td>
 </tr>
 <tr>
