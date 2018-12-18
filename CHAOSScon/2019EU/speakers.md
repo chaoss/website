@@ -4,11 +4,9 @@
 
 _Community Analyst - Red Hat_
 
-<img src="https://chaoss.github.io/website/CHAOSScon/2019EU/img/BrianProffitt.png" alt="Brian Proffitt" style="float:left;height:136px;width:136px" />
+![Brian Proffitt](https://chaoss.github.io/website/CHAOSScon/2019EU/img/BrianProffitt.png)
 
 Brian Proffitt is the Principal Community Analyst for Open Source and Standards team at Red Hat, responsible for community content, onboarding, and open source consulting. A former technology journalist, Brian is also a graduate lecturer at the University of Notre Dame. Follow him on Twitter @TheTechScribe.
-
-<div style="clear:left"></div>
 
 ### Daniel Izquierdo
 
