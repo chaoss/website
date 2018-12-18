@@ -22,6 +22,8 @@ _Consultant - Scale Factory_
 
 ![Dawn Foster](https://chaoss.github.io/website/CHAOSScon/2019EU/img/DawnFoster.png)
 
+<img src="https://chaoss.github.io/website/CHAOSScon/2019EU/img/DawnFoster.png" alt="Profile Picture" />
+
 Dawn is currently a consultant at The Scale Factory and is finishing a PhD at the University of Greenwich in London. She spent more than 20 years working at companies like Puppet Labs, Intel, Jive Software, and more. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more.
 
 ### Ildiko Vancsa
