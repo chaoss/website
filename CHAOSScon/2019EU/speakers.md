@@ -1,5 +1,13 @@
 ## Speakers
 
+### Brian Proffitt
+
+_Senior Principal Community Architect - Red Hat_
+
+![Brian Proffitt](https://chaoss.github.io/website/CHAOSScon/2019EU/img/BrianProffitt.png)
+
+Brian is a Senior Principal Community Architect for Open Source and Standards team at Red Hat, responsible for community content, onboarding, and open source consulting. A former technology journalist, Brian is also a graduate lecturer at the University of Notre Dame. Follow him on Twitter @TheTechScribe.
+
 ### Daniel Izquierdo
 
 _Data Analyst - Bitergia_
@@ -10,11 +18,15 @@ Daniel Izquierdo is co-founder of Bitergia, a start-up focused on providing metr
 
 ### Dawn Foster
 
-_Consultant - Scale Factory_
+_Open Source Software Strategy Lead - Pivotal_
 
 ![Dawn Foster](https://chaoss.github.io/website/CHAOSScon/2019EU/img/DawnFoster.png)
 
-Dawn is currently a consultant at The Scale Factory and is finishing a PhD at the University of Greenwich in London. She spent more than 20 years working at companies like Puppet Labs, Intel, Jive Software, and more. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more.
+Dawn is currently working on open source strategy at Pivotal. She has more than 20 years of experience in business and technology with expertise in strategic planning, management, community building, community management, open source software, market research, and more. She is passionate about bringing people together through a combination of online communities and real-world events. She has experience building new communities, and managing existing communities with a particular emphasis on developer and open source communities.
+
+Most recently, Dawn was a consultant at The Scale Factory after being Director of Community at Puppet. Prior to Puppet, she was leading the Community Office within Intel’s Open Source Technology Center. In addition to working at Intel, Dawn was an online community consultant, and she has worked at Jive Software, Compiere, and a Midwestern manufacturing company in positions ranging from Unix system administrator to market researcher to community manager to open source strategist.
+
+Dawn holds a PhD from the University of Greenwich, an MBA from Ashland University, and a BS in Computer Science from Kent State University. Dawn blogs about online communities as the author of the Fast Wonder Blog, and she's blogged for The New Stack, Linux.com, GigaOM’s WebWorkerDaily, and in various other places. She is the author of the books, What Dawn Eats: Vegan Food That Isn’t Weird and Companies and Communities: Participating without being sleazy.
 
 ### Ildiko Vancsa
 
@@ -50,7 +62,7 @@ _Community Manager - GitLab_
 
 ![Ray Paik](https://chaoss.github.io/website/CHAOSScon/2019EU/img/RayPaik.png)
 
-Ray is currently a Community Manager at GitLab (https://about.gitlab.com/) and works with the community of contributors to GitLab. GitLab community members not only contribute code, but also documentation, translation and community support. Prior to joining GitLab, Ray spent over 4 years at the Linux Foundation where he helped launch and manage the OPNFV (https://www.opnfv.org/) community.  
+Ray worked at the Linux Foundation and was responsible for the day-to-day operation of the OPNFV community since its launch in 2014. He has over 15 years of experience in the high-tech industry in roles ranging from software engineer, product manager, program manager, account manager, and team lead at companies such as EDS, Intel and Medallia. Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team.
 
 ### Sean Goggins
 
