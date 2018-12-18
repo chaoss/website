@@ -4,7 +4,9 @@
 
 _Community Analyst - Red Hat_
 
-![Brian Proffitt](https://chaoss.github.io/website/CHAOSScon/2019EU/img/BrianProffitt.png)
+<img src="https://chaoss.github.io/website/CHAOSScon/2019EU/img/BrianProffitt.png" alt="Brian Proffitt" style="float:left;height:136px;width:136px" />
+
+ttt
 
 Brian Proffitt is the Principal Community Analyst for Open Source and Standards team at Red Hat, responsible for community content, onboarding, and open source consulting. A former technology journalist, Brian is also a graduate lecturer at the University of Notre Dame. Follow him on Twitter @TheTechScribe.
 
@@ -22,19 +24,21 @@ _Consultant - Scale Factory_
 
 ![Dawn Foster](https://chaoss.github.io/website/CHAOSScon/2019EU/img/DawnFoster.png)
 
-<img src="https://chaoss.github.io/website/CHAOSScon/2019EU/img/DawnFoster.png" alt="Profile Picture" />
-
 Dawn is currently a consultant at The Scale Factory and is finishing a PhD at the University of Greenwich in London. She spent more than 20 years working at companies like Puppet Labs, Intel, Jive Software, and more. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more.
 
 ### Ildiko Vancsa
 
 _Ecosystem Technical Lead - OpenStack Foundation_
 
+![Ildiko Vancsa](https://chaoss.github.io/website/CHAOSScon/2019EU/img/IldikoVancsa.png)
+
 Ildikó started her journey with virtualization during the university years and has been in connection with this technology different ways since then. She started her career at a small research and development company in Budapest, where she was focusing on areas like system management and business process modelling and optimization. Ildikó got in touch with OpenStack when she started to work in the cloud project at Ericsson in 2013. She was a member of the Ceilometer and Aodh core teams, now she drives NFV related feature development activities in projects like Nova and Cinder. Beyond code and documentation contributions she is also very passionate about on boarding and training activities, which is one of her focus areas within the OpenStack Foundation.
 
 ### Jesus M. Gonzalez-Barahona
 
 _Founder - Bitergia / Professor - Uni. Rey Juan Carlos_
+
+![Jesus M. Gonzalez-Barahona](https://chaoss.github.io/website/CHAOSScon/2019EU/img/JesusGonzalezBarahona.png)
 
 Jesus M. Gonzalez-Barahona is co-founder of Bitergia, the software development analytics company specialized in the analysis of free / open source software projects. He is also professor in Universidad Rey Juan Carlos (Spain), in the context of the GSyC/LibreSoft research group. His interests include the study of communities of software development, with a focus on quantitative and empirical studies. He enjoys taking photos of the coffee he drinks around the world.
 
