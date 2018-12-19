@@ -5,7 +5,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 
 ### 2018
-* Irwin, E. (2018, December 18). Innovating for Inclusion in the Mozilla Open Source Support Program. Retrieved December 19, 2018, from https://blog.mozilla.org/inclusion/2018/12/18/innovating-for-inclusion-in-the-mozilla-open-source-support-program
+* Irwin, E. (2018, December 18). **Innovating for Inclusion in the Mozilla Open Source Support Program.** Retrieved December 19, 2018, from https://blog.mozilla.org/inclusion/2018/12/18/innovating-for-inclusion-in-the-mozilla-open-source-support-program
 
 * Sansing, S. (2018, November 27). **The CHAOSS Project | Open Leaders 6** Retrieved November 27, 2018, from https://medium.com/@MozOpenLeaders/the-chaoss-project-open-leaders-6-37c2799c2dd3
 
