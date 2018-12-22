@@ -9,7 +9,7 @@ _**Note:** Speakers are added to schedule once they are confirmed_
 | 10:00 - 10:30 | **Keynote 1:** TBA  | [Nithya Ruff](#user-content-nithya-ruff) |   |
 | 10:30 - 11:00 | **Keynote 2:** State of CHAOSS | [Ildiko Vancsa](#user-content-ildiko-vancsa) |   |
 |   |   |   |   |
-| 11:00 - 11:20 | Talk 1: TBA | TBA |   |
+| 11:00 - 11:20 | Your Team’s Open Source Contributions, in One Dashboard | [Alex Courouble](#user-content-alex-courouble) |   |
 | 11:20 - 11:40 | Metrics in a company-led open source project | [Ray Paik](#user-content-ray-paik) |   |
 | 11:40 - 12:00 | Talk 3: TBA | TBA |   |
 |   |   |   |   |
