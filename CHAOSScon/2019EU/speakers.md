@@ -76,6 +76,14 @@ Ray worked at the Linux Foundation and was responsible for the day-to-day operat
 
 _Professor - University of Missouri_
 
-![SeanGoggins](https://chaoss.github.io/website/CHAOSScon/2019EU/img/SeanGoggins.png)
+![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2019EU/img/SeanGoggins.png)
 
 Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented with on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.
+
+### Valerio Cosentino
+
+_Software Engineer - Bitergia_
+
+![Valerio Cosentino](https://chaoss.github.io/website/CHAOSScon/2019EU/img/ValerioCosentino.png)
+
+Valerio is a software engineer at Bitergia. His expertise and interests include software analysis, database technologies and open source. Before joining Bitergia, he was a Phd student at IBM France and postdoctoral fellow in a couple of research teams between France and Spain. He obtained his Ph.D. in 2013.
