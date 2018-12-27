@@ -52,6 +52,14 @@ _Founder - Bitergia / Professor - Uni. Rey Juan Carlos_
 
 Jesus M. Gonzalez-Barahona is co-founder of Bitergia, the software development analytics company specialized in the analysis of free / open source software projects. He is also professor in Universidad Rey Juan Carlos (Spain), in the context of the GSyC/LibreSoft research group. His interests include the study of communities of software development, with a focus on quantitative and empirical studies. He enjoys taking photos of the coffee he drinks around the world.
 
+### Luis Cañas-Díaz
+
+_Co-founder - Bitergia_
+
+![Luis Canas-Diaz](https://chaoss.github.io/website/CHAOSScon/2019EU/img/LuisCanasDiaz.png)
+
+Since July 2012, Luis is one of the co-founders of Bitergia, which aims to obtain and analyze metrics and data about FLOSS projects. During these first two years, Bitergia has been working with well-known communities like Openstack, Eclipse, Puppet, Wikimedia, LIferay, Cloudstack, and others.
+
 ### Nithya Ruff
 
 _Sr. Director, Open Source Practice - Comcast_
