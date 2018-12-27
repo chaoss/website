@@ -52,7 +52,7 @@ _Founder - Bitergia / Professor - Uni. Rey Juan Carlos_
 
 Jesus M. Gonzalez-Barahona is co-founder of Bitergia, the software development analytics company specialized in the analysis of free / open source software projects. He is also professor in Universidad Rey Juan Carlos (Spain), in the context of the GSyC/LibreSoft research group. His interests include the study of communities of software development, with a focus on quantitative and empirical studies. He enjoys taking photos of the coffee he drinks around the world.
 
-### Luis Cañas-Díaz
+### Luis Canas-Diaz
 
 _Co-founder - Bitergia_
 
