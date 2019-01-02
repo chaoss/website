@@ -8,6 +8,14 @@ _Open Source Engineer - VMware_
 
 Alex is an Open Source Engineer at VMware Open Source Technology Center, where he works on VMware open source contribution analytics. Before VMware, Alex was a getting his masters in Software Engineering at Polytechnique Montreal, where he researched collaboration and contribution in Open Source communities.
 
+### Ana Jimenez Santamaria
+
+_Marketing Specialist - Bitergia_
+
+![Ana Jimenez Santamaria](https://chaoss.github.io/website/CHAOSScon/2019EU/img/AnaJimenezSantamaria.png)
+
+Ana holds a Bachelor degree in Marketing and is currently working at Bitergia, a software development analytics company focused on OpenSource and InnerSource environments.
+
 ### Brian Proffitt
 
 _Senior Principal Community Architect - Red Hat_
