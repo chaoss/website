@@ -98,31 +98,8 @@ Sean is an open source software researcher and a founding member of the Linux Fo
 
 ### Valerio Cosentino
 
-<table>
-<tr>
-<td style="width:50%">
 ![Valerio Cosentino](https://chaoss.github.io/website/CHAOSScon/2019EU/img/ValerioCosentino.png)
 
 _Software Engineer - Bitergia_
 
 Valerio is a software engineer at Bitergia. His expertise and interests include software analysis, database technologies and open source. Before joining Bitergia, he was a Phd student at IBM France and postdoctoral fellow in a couple of research teams between France and Spain. He obtained his Ph.D. in 2013.
-</td>
-<td>
-</td>
-<strong>Graal: Get the Knowledge Out of Your Code	</strong>
-
-Source code contains plenty of information useful derive insightful metrics about your software project. Such an information can be extracted with source code analysis tools. however, they do not often come with features to support incremental analysis. Furthermore they generally lack of support to combine their results with other analysis tools or relate them with other software project data (e.g., bugs, pull requests).
-
-This lighting talk presents Graal, an open source tool that helps you to collect data from your source code in an easy and consistent way, and offers the results in a flexible JSON format, useful to ease the bridging with analysis and/or visualization tools. Graal relies on a a customizable and incremental approach that allows combining and manipulating the output of existing source code analysis tools.
-
-Graal leverages on Perceval, that simplifies the collection of project data by covering more than 30 well-known tools and platforms related to contributing to open source development. Graal shares with Perceval the same output format, which enables you to combine together all your software project data to define cross-cutting analytics. Perceval and Graal are fully open source and part of GrimoireLab, a popular platform to define software development analytics for your project. GrimoireLab is developed by Bitergia and it is one of the assets of the CHAOSS project of the Linux Foundation.
-
-<strong>SortingHat: Managing Contributor Identities in your Software Project</strong>
-
-Contributors of open source projects rely on a plethora of tools (e.g., Git, Slack, GitHub) to coordinate and support development-related activities. Such tools often provide authentication mechanisms that require a combination of an email, an username and a full name. Thus, the same contributor may end up having different identities on the tools he is working on. In a scenario where you want to check the contributions of an individual in your project, you may face a difficult nut to crack. What to do then? Of course, you may develop ad-hoc scripts or perform manual work to merge identities, or you can use SortingHat.
-
-SortingHat helps you to track contributor identities and their related information such as gender, country and organization enrollments. It allows you to manipulate identities interactively as well as to load them via batch files (useful for projects with large communities). SortingHat functionalities can also be used through Hatstall, which provides a handy graphical interface for non-technical users. In this talk you will see how easy is to manage contributor identities and how to empower your project with analytics focused on individual contributions.
-
-SortingHat and HatStall are two components of GrimoireLab, an industry strong open source platform developed by Bitergia, which offers commercial software analytics and is part of the CHAOSS project of the Linux Foundation.
-</tr>
-</table>
