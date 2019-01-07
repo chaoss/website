@@ -10,7 +10,7 @@ We will also share insights from the CHAOSS workgroups on *Diversity and Inclusi
 
 ## Register
 
-[Register for CHAOSSCon EU now!](https://www.eventbrite.com/e/chaosscon-europe-2019-tickets-51589130478) 
+[Register for CHAOSSCon EU now!](https://www.eventbrite.com/e/chaosscon-europe-2019-tickets-51589130478)
 
 ## Where?
 [L42 Business Center & Workspaces](http://www.l42.be/en/)<br/>
@@ -20,14 +20,3 @@ Brussels, Belgium
 ## When?
 
 Friday, February 1st, 2019<br/>
-
-## Organizing Committee
-
-* Alolita Sharma, Amazon Web Services
-* Daniel Izquierdo, Bitergia
-* Dawn Foster, Pivotal
-* Georg Link, University of Nebraska at Omaha
-* Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
-* Kevin Lumbard, University of Nebraska at Omaha
-* Nicole Huesman, Intel
-* Ray Paik, GitLab
