@@ -131,6 +131,8 @@ Ray worked at the Linux Foundation and was responsible for the day-to-day operat
 
 ### Sanja Bonic
 
+![Sanja Bonid](https://chaoss.github.io/website/CHAOSScon/2019EU/img/SanjaBonic.png)
+
 _Senior Technical Program Manager - Red Hat_
 
 Sanja is responsible for the Fedora CoreOS, Fedora Silverblue, Flatpak, and container tooling communities at Red Hat. She likes to tinker with Linux, crunch numbers, and play video games.
