@@ -129,6 +129,22 @@ Ray worked at the Linux Foundation and was responsible for the day-to-day operat
 
 > Ray used community metrics in two very different open source communities over the past 4+ years.  One was a foundation hosted project (www.opnfv.org) with dozens of member companies, and the other is a single-company led open source project at GitLab (https://about.gitlab.com/). In this session, Ray will discuss both similarities and different challenges that he has seen when working with metrics in these two communities. In addition, Ray will share learnings during his transition to a company-led project including identification of goals and stakeholders for community metrics.  Ray will then discuss how metrics are being used and analyzed at GitLab.
 
+### Sanja Bonic
+
+_Senior Technical Program Manager - Red Hat_
+
+Sanja is responsible for the Fedora CoreOS, Fedora Silverblue, Flatpak, and container tooling communities at Red Hat. She likes to tinker with Linux, crunch numbers, and play video games.
+
+**Hack Days...???...Profit**
+
+> There are three types of metrics: metrics, damned metrics, and KPIs.
+>
+> Community health metrics, like any other data, are all about interpretation and perspective. The goal of this talk is to enable you to get your own point across to decision makers by using the numbers game.
+>
+> Marketing budgets even within small companies are typically *well over* 500,000 USD while less expensive and more effective ways to marketing are disregarded. This talk explains the difference between marketing, developer advocacy, community management, and how you can convince your boss to let you and developers around you be more autonomous to increase business performance.
+>
+> This translates to voluntary hack days, travelling to at least 1-2 conferences per year, and increasing the awareness for your company in a smarter way than a clickable blocked ad on the internet can. Number crunching and KPIs for each section included.
+
 ### Sean Goggins
 
 ![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2019EU/img/SeanGoggins.png)

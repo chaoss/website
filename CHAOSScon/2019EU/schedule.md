@@ -18,7 +18,7 @@ _**Note:** Speakers are added to schedule once they are confirmed_
 | 13:00 - 13:30 | **Keynote 3:** A Tale of Metrics Faux Pas: Answers Without Questions | [Brian Proffitt](#user-content-brian-proffitt) |   |
 |   |   |   |   |
 | 13:30 - 13:50 | Talk 4: TBA | TBA |   |
-| 13:50 - 14:10 | Talk 5: TBA | TBA |   |
+| 13:50 - 14:10 | Hack Days...???...Profit | [Sanja Bonic](#user-content-sanja-bonic) |   |
 | 14:10 - 14:30 | Creating a Bookshelf of Panels | [Daniel Izquierdo](#user-content-daniel-izquierdo) |   |
 |   |   |   |   |
 | 14:30 - 15:10 | Break |   |   |
