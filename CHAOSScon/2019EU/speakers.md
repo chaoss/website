@@ -131,7 +131,7 @@ Ray worked at the Linux Foundation and was responsible for the day-to-day operat
 
 ### Sanja Bonic
 
-![Sanja Bonid](https://chaoss.github.io/website/CHAOSScon/2019EU/img/SanjaBonic.png)
+![Sanja Bonic](https://chaoss.github.io/website/CHAOSScon/2019EU/img/SanjaBonic.png)
 
 _Senior Technical Program Manager - Red Hat_
 
