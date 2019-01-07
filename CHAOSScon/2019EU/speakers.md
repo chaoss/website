@@ -9,8 +9,7 @@ _Open Source Engineer - VMware_
 Alex is an Open Source Engineer at VMware Open Source Technology Center, where he works on VMware open source contribution analytics. Before VMware, Alex was a getting his masters in Software Engineering at Polytechnique Montreal, where he researched collaboration and contribution in Open Source communities.
 
 **Your Team’s Open Source Contributions, in One Dashboard**
-
-With the rise of Open Source Program Offices in the industry, we are observing a rise in teams dedicated to upstream open source contributions. As this often represents the result of a large investment from a company, it is important to be able to quantify and monitor the team’s contributions over time. To answer this, we created a tool that tracks the open source contributions from a list of users. The tool uses Perceval and the GitHub API to track pull requests, issues, comments, reviews, commits authored, and commits merged. The dashboard then displays a summary of the team’s contributions, any user’s contributions as well as a series of charts.
+> With the rise of Open Source Program Offices in the industry, we are observing a rise in teams dedicated to upstream open source contributions. As this often represents the result of a large investment from a company, it is important to be able to quantify and monitor the team’s contributions over time. To answer this, we created a tool that tracks the open source contributions from a list of users. The tool uses Perceval and the GitHub API to track pull requests, issues, comments, reviews, commits authored, and commits merged. The dashboard then displays a summary of the team’s contributions, any user’s contributions as well as a series of charts.
 
 
 ### Ana Jimenez Santamaria
@@ -23,7 +22,7 @@ Ana holds a Bachelor degree in Marketing and is currently working at Bitergia, a
 
 **Putting order into CHAOSS: metrics to analyze code development**
 
-CHAOSS Growth, Maturity and Decline working group provides several metrics definitions focused on code development. Using GrimoireLab we have put some of those definitions into action by setting up a collection of panels for tracking and visualizing specific datasets. During the talk we will present this collection of panels taking a deeper look to the metrics applied in a real use case.
+> CHAOSS Growth, Maturity and Decline working group provides several metrics definitions focused on code development. Using GrimoireLab we have put some of those definitions into action by setting up a collection of panels for tracking and visualizing specific datasets. During the talk we will present this collection of panels taking a deeper look to the metrics applied in a real use case.
 
 
 ### Brian Proffitt
@@ -36,7 +35,7 @@ Brian is a Senior Principal Community Architect for Open Source and Standards te
 
 **A Tale of Metrics Faux Pas: Answers Without Questions**
 
-We all recognize that metrics are key to measuring community health. And that quantitative data is a key to these metrics. But, as Brian Proffitt will describe in this talk, all the data in the world won't help you find answers if you don't know what the questions are. Brian will walk attendees through what happens when pretty data can distract from the real purpose of metrics.
+> We all recognize that metrics are key to measuring community health. And that quantitative data is a key to these metrics. But, as Brian Proffitt will describe in this talk, all the data in the world won't help you find answers if you don't know what the questions are. Brian will walk attendees through what happens when pretty data can distract from the real purpose of metrics.
 
 
 ### Daniel Izquierdo
@@ -49,13 +48,13 @@ Daniel Izquierdo is co-founder of Bitergia, a start-up focused on providing metr
 
 **Creating a bookshelf of panels**
 
-During the last months, we have been dealing with dozens of panels and its number keeps increasing. It is expected to have many more, and it is becoming hard to deal with this amount of information. We need to scale!
-
-The concept of collections of panels aims at bringing some order into the existing repository. A panel collection is just a set of Kibana dashboards. In this case, each panel is a Kibana dashboard consisting of a set of widgets.
-
-GrimoireLab CHAOSS GMD code development metrics is an example where this concept can be applied. What about having a collection of GMD panels? This would be based on publicly available and could be built on top of GrimoreLab, so anyone can deploy the panels and get them working for their own purposes.
-
-We will show the collection built on top real data, retrieved and processed by means of GrimoireLab projects. From that point, we will take a walk on the panels offering a closer look at the metrics. Looking at real numbers ease to get a deeper understanding of the metrics, as we can see them in action.
+> During the last months, we have been dealing with dozens of panels and its number keeps increasing. It is expected to have many more, and it is becoming hard to deal with this amount of information. We need to scale!
+>
+> The concept of collections of panels aims at bringing some order into the existing repository. A panel collection is just a set of Kibana dashboards. In this case, each panel is a Kibana dashboard consisting of a set of widgets.
+>
+> GrimoireLab CHAOSS GMD code development metrics is an example where this concept can be applied. What about having a collection of GMD panels? This would be based on publicly available and could be built on top of GrimoreLab, so anyone can deploy the panels and get them working for their own purposes.
+>
+> We will show the collection built on top real data, retrieved and processed by means of GrimoireLab projects. From that point, we will take a walk on the panels offering a closer look at the metrics. Looking at real numbers ease to get a deeper understanding of the metrics, as we can see them in action.
 
 
 ### Dawn Foster
@@ -101,7 +100,7 @@ Since July 2012, Luis is one of the co-founders of Bitergia, which aims to obtai
 
 **GrimoireLab Alerts**
 
-The main benefit of having data about complex environments such as software communities it to perform actions based on the gathered knowledge. When these actions need to be executed when specific conditions are matched the importance of an alert system grows. In this talk we will see how to setup email alerts based on metrics using the CHAOSS/GrimoireLab platform and some new FLOSS components
+> The main benefit of having data about complex environments such as software communities it to perform actions based on the gathered knowledge. When these actions need to be executed when specific conditions are matched the importance of an alert system grows. In this talk we will see how to setup email alerts based on metrics using the CHAOSS/GrimoireLab platform and some new FLOSS components
 
 
 ### Nithya Ruff
@@ -128,7 +127,7 @@ Ray worked at the Linux Foundation and was responsible for the day-to-day operat
 
 **Metrics in a company-led open source project**
 
-Ray used community metrics in two very different open source communities over the past 4+ years.  One was a foundation hosted project (www.opnfv.org) with dozens of member companies, and the other is a single-company led open source project at GitLab (https://about.gitlab.com/). In this session, Ray will discuss both similarities and different challenges that he has seen when working with metrics in these two communities. In addition, Ray will share learnings during his transition to a company-led project including identification of goals and stakeholders for community metrics.  Ray will then discuss how metrics are being used and analyzed at GitLab.
+> Ray used community metrics in two very different open source communities over the past 4+ years.  One was a foundation hosted project (www.opnfv.org) with dozens of member companies, and the other is a single-company led open source project at GitLab (https://about.gitlab.com/). In this session, Ray will discuss both similarities and different challenges that he has seen when working with metrics in these two communities. In addition, Ray will share learnings during his transition to a company-led project including identification of goals and stakeholders for community metrics.  Ray will then discuss how metrics are being used and analyzed at GitLab.
 
 ### Sean Goggins
 
@@ -151,16 +150,16 @@ Valerio is a software engineer at Bitergia. His expertise and interests include 
 
 **Graal: Get the Knowledge Out of Your Code**
 
-Source code contains plenty of information useful derive insightful metrics about your software project. Such an information can be extracted with source code analysis tools. however, they do not often come with features to support incremental analysis. Furthermore they generally lack of support to combine their results with other analysis tools or relate them with other software project data (e.g., bugs, pull requests).
-
-This lighting talk presents Graal, an open source tool that helps you to collect data from your source code in an easy and consistent way, and offers the results in a flexible JSON format, useful to ease the bridging with analysis and/or visualization tools. Graal relies on a a customizable and incremental approach that allows combining and manipulating the output of existing source code analysis tools.
-
-Graal leverages on Perceval, that simplifies the collection of project data by covering more than 30 well-known tools and platforms related to contributing to open source development. Graal shares with Perceval the same output format, which enables you to combine together all your software project data to define cross-cutting analytics. Perceval and Graal are fully open source and part of GrimoireLab, a popular platform to define software development analytics for your project. GrimoireLab is developed by Bitergia and it is one of the assets of the CHAOSS project of the Linux Foundation.
+> Source code contains plenty of information useful derive insightful metrics about your software project. Such an information can be extracted with source code analysis tools. however, they do not often come with features to support incremental analysis. Furthermore they generally lack of support to combine their results with other analysis tools or relate them with other software project data (e.g., bugs, pull requests).
+>
+> This lighting talk presents Graal, an open source tool that helps you to collect data from your source code in an easy and consistent way, and offers the results in a flexible JSON format, useful to ease the bridging with analysis and/or visualization tools. Graal relies on a a customizable and incremental approach that allows combining and manipulating the output of existing source code analysis tools.
+>
+> Graal leverages on Perceval, that simplifies the collection of project data by covering more than 30 well-known tools and platforms related to contributing to open source development. Graal shares with Perceval the same output format, which enables you to combine together all your software project data to define cross-cutting analytics. Perceval and Graal are fully open source and part of GrimoireLab, a popular platform to define software development analytics for your project. GrimoireLab is developed by Bitergia and it is one of the assets of the CHAOSS project of the Linux Foundation.
 
 **SortingHat: Managing Contributor Identities in your Software Project**
 
-Contributors of open source projects rely on a plethora of tools (e.g., Git, Slack, GitHub) to coordinate and support development-related activities. Such tools often provide authentication mechanisms that require a combination of an email, an username and a full name. Thus, the same contributor may end up having different identities on the tools he is working on. In a scenario where you want to check the contributions of an individual in your project, you may face a difficult nut to crack. What to do then? Of course, you may develop ad-hoc scripts or perform manual work to merge identities, or you can use SortingHat.
+> Contributors of open source projects rely on a plethora of tools (e.g., Git, Slack, GitHub) to coordinate and support development-related activities. Such tools often provide authentication mechanisms that require a combination of an email, an username and a full name. Thus, the same contributor may end up having different identities on the tools he is working on. In a scenario where you want to check the contributions of an individual in your project, you may face a difficult nut to crack. What to do then? Of course, you may develop ad-hoc scripts or perform manual work to merge identities, or you can use SortingHat.
+>
+> SortingHat helps you to track contributor identities and their related information such as gender, country and organization enrollments. It allows you to manipulate identities interactively as well as to load them via batch files (useful for projects with large communities). SortingHat functionalities can also be used through Hatstall, which provides a handy graphical interface for non-technical users. In this talk you will see how easy is to manage contributor identities and how to empower your project with analytics focused on individual contributions.
 
-SortingHat helps you to track contributor identities and their related information such as gender, country and organization enrollments. It allows you to manipulate identities interactively as well as to load them via batch files (useful for projects with large communities). SortingHat functionalities can also be used through Hatstall, which provides a handy graphical interface for non-technical users. In this talk you will see how easy is to manage contributor identities and how to empower your project with analytics focused on individual contributions.
-
-SortingHat and HatStall are two components of GrimoireLab, an industry strong open source platform developed by Bitergia, which offers commercial software analytics and is part of the CHAOSS project of the Linux Foundation.
+> SortingHat and HatStall are two components of GrimoireLab, an industry strong open source platform developed by Bitergia, which offers commercial software analytics and is part of the CHAOSS project of the Linux Foundation.
