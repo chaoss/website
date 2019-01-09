@@ -17,7 +17,7 @@ _**Note:** Speakers are added to schedule once they are confirmed_
 |   |   |   |   |
 | 13:00 - 13:30 | **Keynote 3:** A Tale of Metrics Faux Pas: Answers Without Questions | [Brian Proffitt](#user-content-brian-proffitt) |   |
 |   |   |   |   |
-| 13:30 - 13:50 | Talk 4: TBA | TBA |   |
+| 13:30 - 13:50 | What's new in CHAOSS/GrimoireLab? | [Manrique Lopez](#user-content-manrique-lopez) |   |
 | 13:50 - 14:10 | Hack Days...???...Profit | [Sanja Bonic](#user-content-sanja-bonic) |   |
 | 14:10 - 14:30 | Creating a Bookshelf of Panels | [Daniel Izquierdo](#user-content-daniel-izquierdo) |   |
 |   |   |   |   |
@@ -27,8 +27,7 @@ _**Note:** Speakers are added to schedule once they are confirmed_
 |   | - Graal: Get the Knowledge Out of Your Code | [Valerio Cosentino](#user-content-valerio-cosentino) |   |
 |   | - SortingHat: Managing Contributor Identities in your Software Project | [Valerio Cosentino](#user-content-valerio-cosentino) |   |
 |   | - GrimoireLab Alerts | [Luis Cañas-Díaz](#user-content-luis-canas-diaz) |   |
-|   | - TBA | TBA |   |
-|   | - TBA | TBA |   |
+|   | - Your topic? | You? |   |
 |   | (You may sign up to give a Lightning Talk during the event; First come first serve.)  |   |   |
 |   |   |   |   |
 | 15:50 - 16:50 | Diversity & Inclusion Workgroup Tutorial | [Dawn Foster](#user-content-dawn-foster) & [Daniel Izquierdo](#user-content-daniel-izquierdo)  |   |
