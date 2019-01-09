@@ -2,4 +2,5 @@
 
 Join us at conferences, workshops and hackathons.
 
-[CHAOSSCon EU 2019](https://chaoss.community/chaosscon-2019-eu/) (February 1, 2019: Brussels, Belgium before FOSDEM)
+* [CHAOSSCon EU 2019](https://chaoss.community/chaosscon-2019-eu/) (February 1, 2019: Brussels, Belgium before FOSDEM)
+* [Open Source Leadership Summit 2019](https://events.linuxfoundation.org/events/open-source-leadership-summit-2019/) (March 12 - 14, 2019: Half Moon Bay, California)
