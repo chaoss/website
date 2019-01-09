@@ -105,6 +105,8 @@ Session: **GrimoireLab Alerts**
 
 ### Manrique Lopez
 
+![Manrique Lopez](https://chaoss.github.io/website/CHAOSScon/2019EU/img/ManriqueLopez.png)
+
 _CEO - Bitergia_
 
 CEO at Bitergia, one of company's shareholders and a free, open source software development communities passionate. Research and development experience in several companies and organizations like W3C working groups, Ándago Engineering, Continua Health Alliance. Former Spanish Open Source Enterprises Association (ASOLIF) manager, and expert consultant for the National Open Source Reference Center (CENATIC). Involved in several communities related to free, open source software like GPE Palmtop Environment (GPE), Maemo, Meego, Mozilla Madrid, Google Developers Group, GrimoireLab, CHAOSS, etc.
