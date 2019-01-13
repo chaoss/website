@@ -82,11 +82,11 @@ Ildikó started her journey with virtualization during the university years and 
 
 Session: **Keynote 2: Finding the order in the chaos(s) of metrics: Are we there yet?**
 
-> We often ask ourselves and look around in our environments wondering if our actions and activities are up to standards and efficient enough or there is room for improvement. Measuring efficiency, modeling health with numbers, creating dashboards have been part of our lives for a long while now, but do we do it in the right way? Are we abusing the numbers or we look at accurate pictures at all times?
+> We often ask ourselves and look around in our environments, wondering if our actions and activities are up to standards and efficient enough or if there is room for improvement. Measuring efficiency, modeling health with numbers, and creating dashboards have been part of our lives for a long time now, but do we do it in the right way? Are we abusing the numbers or are we looking at accurate pictures at all times?
 >
-> The CHAOSS project was created to help navigating in the chaos of metrics, to help understanding the purpose of numbers and KPI’s we define to understand the dynamics and health of our environments let that be corporate or open source.
+> The CHAOSS project was created to help navigating the chaos of metrics. CHAOSS exists to help understand the purpose of numbers and KPI’s and to understand the dynamics and health of our environments -- corporate and open source.
 >
-> This presentation will give you an overview about the importance and danger of metrics with some anecdotes and the work the CHAOSS project is doing to help you making sense of them. You will learn about the working groups as well as get a picture about the status of software components designed and developed by the community.
+> This presentation will give you an overview about the importance and danger of metrics with some anecdotes and the work the CHAOSS project is doing. You will learn about the working groups as well as get a picture about the status of software components designed and developed by the community.
 
 ### Jesus M. Gonzalez-Barahona
 
