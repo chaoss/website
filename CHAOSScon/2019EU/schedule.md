@@ -7,7 +7,7 @@ _**Note:** Speakers are added to schedule once they are confirmed_
 | 9:00 - 10:00 | Registration & Networking |   |   |
 |   |   |   |   |
 | 10:00 - 10:30 | **Keynote 1:** The Value of Metrics to Drive Your OSPO Plans  | [Nithya Ruff](#user-content-nithya-ruff) |   |
-| 10:30 - 11:00 | **Keynote 2:** Finding the order in the chaos(s) of metrics: Are we there yet? | [Ildiko Vancsa](#user-content-ildiko-vancsa) |   |
+| 10:30 - 11:00 | **Keynote 2:** Finding the Order in the Chaos(s) of Metrics: Are We There Yet? | [Ildiko Vancsa](#user-content-ildiko-vancsa) |   |
 |   |   |   |   |
 | 11:00 - 11:20 | Your Team’s Open Source Contributions, in One Dashboard | [Alex Courouble](#user-content-alex-courouble) |   |
 | 11:20 - 11:40 | Metrics in a Company-led Open Source Project | [Ray Paik](#user-content-ray-paik) |   |

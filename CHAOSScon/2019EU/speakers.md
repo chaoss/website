@@ -80,7 +80,7 @@ _Ecosystem Technical Lead - OpenStack Foundation_
 
 Ildikó started her journey with virtualization during the university years and has been in connection with this technology different ways since then. She started her career at a small research and development company in Budapest, where she was focusing on areas like system management and business process modelling and optimization. Ildikó got in touch with OpenStack when she started to work in the cloud project at Ericsson in 2013. She was a member of the Ceilometer and Aodh core teams, now she drives NFV related feature development activities in projects like Nova and Cinder. Beyond code and documentation contributions she is also very passionate about on boarding and training activities, which is one of her focus areas within the OpenStack Foundation.
 
-Session: **Keynote 2: Finding the order in the chaos(s) of metrics: Are we there yet?**
+Session: **Keynote 2: Finding the Order in the Chaos(s) of Metrics: Are We There Yet?**
 
 > We often ask ourselves and look around in our environments, wondering if our actions and activities are up to standards and efficient enough or if there is room for improvement. Measuring efficiency, modeling health with numbers, and creating dashboards have been part of our lives for a long time now, but do we do it in the right way? Are we abusing the numbers or are we looking at accurate pictures at all times?
 >
