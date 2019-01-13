@@ -80,7 +80,13 @@ _Ecosystem Technical Lead - OpenStack Foundation_
 
 Ildikó started her journey with virtualization during the university years and has been in connection with this technology different ways since then. She started her career at a small research and development company in Budapest, where she was focusing on areas like system management and business process modelling and optimization. Ildikó got in touch with OpenStack when she started to work in the cloud project at Ericsson in 2013. She was a member of the Ceilometer and Aodh core teams, now she drives NFV related feature development activities in projects like Nova and Cinder. Beyond code and documentation contributions she is also very passionate about on boarding and training activities, which is one of her focus areas within the OpenStack Foundation.
 
-Session: **Keynote 2: State of CHAOSS**
+Session: **Keynote 2: Finding the order in the chaos(s) of metrics: Are we there yet?**
+
+> We often ask ourselves and look around in our environments wondering if our actions and activities are up to standards and efficient enough or there is room for improvement. Measuring efficiency, modeling health with numbers, creating dashboards have been part of our lives for a long while now, but do we do it in the right way? Are we abusing the numbers or we look at accurate pictures at all times?
+>
+> The CHAOSS project was created to help navigating in the chaos of metrics, to help understanding the purpose of numbers and KPI’s we define to understand the dynamics and health of our environments let that be corporate or open source.
+>
+> This presentation will give you an overview about the importance and danger of metrics with some anecdotes and the work the CHAOSS project is doing to help you making sense of them. You will learn about the working groups as well as get a picture about the status of software components designed and developed by the community.
 
 ### Jesus M. Gonzalez-Barahona
 
