@@ -71,6 +71,8 @@ Dawn holds a PhD from the University of Greenwich, an MBA from Ashland Universit
 
 Session: **Diversity & Inclusion Workgroup Tutorial**
 
+> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Workgroup is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
+
 
 ### Ildiko Vancsa
 
