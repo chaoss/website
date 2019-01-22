@@ -56,6 +56,10 @@ Session: **Creating a bookshelf of panels**
 >
 > We will show the collection built on top real data, retrieved and processed by means of GrimoireLab projects. From that point, we will take a walk on the panels offering a closer look at the metrics. Looking at real numbers ease to get a deeper understanding of the metrics, as we can see them in action.
 
+Session: **Diversity & Inclusion Workgroup Tutorial**
+
+> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Workgroup is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
+
 
 ### Dawn Foster
 
@@ -70,6 +74,8 @@ Most recently, Dawn was a consultant at The Scale Factory after being Director o
 Dawn holds a PhD from the University of Greenwich, an MBA from Ashland University, and a BS in Computer Science from Kent State University. Dawn blogs about online communities as the author of the Fast Wonder Blog, and she's blogged for The New Stack, Linux.com, GigaOM’s WebWorkerDaily, and in various other places. She is the author of the books, What Dawn Eats: Vegan Food That Isn’t Weird and Companies and Communities: Participating without being sleazy.
 
 Session: **Diversity & Inclusion Workgroup Tutorial**
+
+> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Workgroup is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
 
 
 ### Ildiko Vancsa
