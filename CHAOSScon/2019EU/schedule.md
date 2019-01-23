@@ -1,7 +1,5 @@
 # Schedule: Friday, February 1, 2019
 
-_**Note:** Speakers are added to schedule once they are confirmed_
-
 | Time | Topic | Speaker | Slides |
 |---|---|---|---|
 | 9:00 - 10:00 | Registration & Networking |   |   |
