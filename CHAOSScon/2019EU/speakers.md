@@ -102,6 +102,13 @@ _Founder - Bitergia / Professor - Uni. Rey Juan Carlos_
 
 Jesus M. Gonzalez-Barahona is co-founder of Bitergia, the software development analytics company specialized in the analysis of free / open source software projects. He is also professor in Universidad Rey Juan Carlos (Spain), in the context of the GSyC/LibreSoft research group. His interests include the study of communities of software development, with a focus on quantitative and empirical studies. He enjoys taking photos of the coffee he drinks around the world.
 
+Session: **Growth-Maturity-Decline Workgroup Tutorial**
+
+> The GMD working group is exploring metrics related to growth-maturity-decline and other focus areas (such as risk). Our idea is to go top down, from the definition of the focus areas down to the goals that we want to fulfill in those areas, the questions that we would like to answer to reach those goals, and finally the metrics that could help us to better answer those questions. We also intend to work in reference implementations for the metrics. In parallel, we also work bottom-up, by collecting use case from real life.
+>
+> This will be a workshop to explain all of this in more detail, to also explain our procedures, and how anyone can contribute. The workshop will also include a discussion on the current status of the working group, and on specific aspects of the focus areas, goals, questions and metrics we're considering. Anyone is welcome to submit issues and pull requests in advance, to propose topics of their interest.
+
+
 ### Luis Canas-Diaz
 
 ![Luis Canas-Diaz](https://chaoss.github.io/website/CHAOSScon/2019EU/img/LuisCanasDiaz.png)
@@ -188,6 +195,9 @@ Sean is an open source software researcher and a founding member of the Linux Fo
 
 Session: **Growth-Maturity-Decline Workgroup Tutorial**
 
+> The GMD working group is exploring metrics related to growth-maturity-decline and other focus areas (such as risk). Our idea is to go top down, from the definition of the focus areas down to the goals that we want to fulfill in those areas, the questions that we would like to answer to reach those goals, and finally the metrics that could help us to better answer those questions. We also intend to work in reference implementations for the metrics. In parallel, we also work bottom-up, by collecting use case from real life.
+>
+> This will be a workshop to explain all of this in more detail, to also explain our procedures, and how anyone can contribute. The workshop will also include a discussion on the current status of the working group, and on specific aspects of the focus areas, goals, questions and metrics we're considering. Anyone is welcome to submit issues and pull requests in advance, to propose topics of their interest.
 
 ### Valerio Cosentino
 
