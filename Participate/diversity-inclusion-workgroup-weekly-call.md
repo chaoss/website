@@ -1,4 +1,4 @@
-### Diversity and Inclusion Weekly Call
+### Diversity and Inclusion WG
 
 This working group aims at bringing together experiences measuring diversity and inclusion in open source projects. Its main goal focuses on understanding from a qualitative and quantitative point of view how diversity and inclusion can be measured.
 
