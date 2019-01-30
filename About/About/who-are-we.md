@@ -1,6 +1,6 @@
 ## Who are we?
 
-CHAOSS is a Linux Foundation project focused on creating analytics and metrics to help define community health. Work in the CHAOSS Project community is organized in two committees and four workgroups:
+CHAOSS is a Linux Foundation project focused on creating analytics and metrics to help define community health. Work in the CHAOSS Project community is organized in two committees and four working groups:
 
 ### Committees
 
@@ -8,14 +8,12 @@ CHAOSS is a Linux Foundation project focused on creating analytics and metrics t
 
 - The [Software Committee](https://chaoss.community/software) works on producing integrated, open source software for analyzing software development, and definition of standards and models used in that software in specific use cases.
 
-### Workgroups
+### Working Groups
 
-The goal of the workgroups is to refine the metrics and to work with software implementations. The workgroups are built around the four categories of metrics that CHAOSS has identified. The workgroups are:
+The goal of the working groups is to refine the metrics and to work with software implementations. The workgroups are built around the four categories of metrics that CHAOSS has identified. The working groups are:
 
-- Diversity and Inclusion
+- Diversity and Inclusion WG
 
-- Growth Maturity and Decline
+- Growth-Maturity-Decline WG
 
-- Risk
-
-- Value
+- Common Metrics WG

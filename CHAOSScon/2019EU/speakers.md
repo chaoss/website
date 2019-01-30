@@ -79,9 +79,9 @@ Session: **Creating a Collection of Panels**
 >
 > We will show the collection built on top real data, retrieved and processed by means of GrimoireLab projects. From that point, we will take a walk on the panels offering a closer look at the metrics. Looking at real numbers ease to get a deeper understanding of the metrics, as we can see them in action.
 
-Session: **Diversity & Inclusion Workgroup Tutorial**
+Session: **Diversity & Inclusion WG Tutorial**
 
-> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Workgroup is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
+> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Working group is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
 
 
 ### Dawn Foster
@@ -96,9 +96,9 @@ Most recently, Dawn was a consultant at The Scale Factory after being Director o
 
 Dawn holds a PhD from the University of Greenwich, an MBA from Ashland University, and a BS in Computer Science from Kent State University. Dawn blogs about online communities as the author of the Fast Wonder Blog, and she's blogged for The New Stack, Linux.com, GigaOM’s WebWorkerDaily, and in various other places. She is the author of the books, What Dawn Eats: Vegan Food That Isn’t Weird and Companies and Communities: Participating without being sleazy.
 
-Session: **Diversity & Inclusion Workgroup Tutorial**
+Session: **Diversity & Inclusion WG Tutorial**
 
-> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Workgroup is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
+> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Working group is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
 
 
 ### Ildiko Vancsa
@@ -125,7 +125,7 @@ _Founder - Bitergia / Professor - Uni. Rey Juan Carlos_
 
 Jesus M. Gonzalez-Barahona is co-founder of Bitergia, the software development analytics company specialized in the analysis of free / open source software projects. He is also professor in Universidad Rey Juan Carlos (Spain), in the context of the GSyC/LibreSoft research group. His interests include the study of communities of software development, with a focus on quantitative and empirical studies. He enjoys taking photos of the coffee he drinks around the world.
 
-Session: **Growth-Maturity-Decline Workgroup Tutorial**
+Session: **Growth-Maturity-Decline WG Tutorial**
 
 > The GMD working group is exploring metrics related to growth-maturity-decline and other focus areas (such as risk). Our idea is to go top down, from the definition of the focus areas down to the goals that we want to fulfill in those areas, the questions that we would like to answer to reach those goals, and finally the metrics that could help us to better answer those questions. We also intend to work in reference implementations for the metrics. In parallel, we also work bottom-up, by collecting use case from real life.
 >
@@ -216,7 +216,7 @@ _Professor - University of Missouri_
 
 Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented with on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.
 
-Session: **Growth-Maturity-Decline Workgroup Tutorial**
+Session: **Growth-Maturity-Decline WG Tutorial**
 
 > The GMD working group is exploring metrics related to growth-maturity-decline and other focus areas (such as risk). Our idea is to go top down, from the definition of the focus areas down to the goals that we want to fulfill in those areas, the questions that we would like to answer to reach those goals, and finally the metrics that could help us to better answer those questions. We also intend to work in reference implementations for the metrics. In parallel, we also work bottom-up, by collecting use case from real life.
 >

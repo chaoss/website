@@ -28,7 +28,7 @@
 |   | - Your topic? | You? |   |
 |   | (You may sign up to give a Lightning Talk during the event; First come first serve.)  |   |   |
 |   |   |   |   |
-| 15:50 - 16:50 | Diversity & Inclusion Workgroup Tutorial | [Dawn Foster](#user-content-dawn-foster) & [Daniel Izquierdo](#user-content-daniel-izquierdo)  |   |
-| 16:50 - 17:50 | Growth-Maturity-Decline Workgroup Tutorial | [Jesus M. Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GMD-tutorial.pdf) |
+| 15:50 - 16:50 | Diversity & Inclusion WG Tutorial | [Dawn Foster](#user-content-dawn-foster) & [Daniel Izquierdo](#user-content-daniel-izquierdo)  |   |
+| 16:50 - 17:50 | Growth-Maturity-Decline WG Tutorial | [Jesus M. Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GMD-tutorial.pdf) |
 |   |   |   |   |
 | 17:50 | Adjourn to FOSDEM Beer Event |   |   |
