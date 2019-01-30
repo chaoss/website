@@ -11,12 +11,11 @@
 | 11:20 - 11:40 | Metrics in a Company-led Open Source Project | [Ray Paik](#user-content-ray-paik) |   |
 | 11:40 - 12:00 | Putting Order into CHAOSS: Metrics to Analyze Code Development | [Ana Jimenez Santamaria](#user-content-ana-jimenez-santamaria) |   |
 |   |   |   |   |
-| 12:00 - 13:00 | Lunch |   |   |
+| 12:00 - 13:15 | Lunch |   |   |
 |   |   |   |   |
-| 13:00 - 13:30 | **Keynote 3:** A Tale of Metrics Faux Pas: Answers Without Questions | [Brian Proffitt](#user-content-brian-proffitt) |   |
+| 13:20 - 13:50 | **Keynote 3:** A Tale of Metrics Faux Pas: Answers Without Questions | [Brian Proffitt](#user-content-brian-proffitt) |   |
 |   |   |   |   |
-| 13:30 - 13:50 | What's new in CHAOSS/GrimoireLab? | [Manrique Lopez](#user-content-manrique-lopez) |   |
-| 13:50 - 14:10 | Hack Days...???...Profit | [Sanja Bonic](#user-content-sanja-bonic) |   |
+| 13:50 - 14:10 | What's new in CHAOSS/GrimoireLab? | [Manrique Lopez](#user-content-manrique-lopez) |   |
 | 14:10 - 14:30 | Creating a Bookshelf of Panels | [Daniel Izquierdo](#user-content-daniel-izquierdo) |   |
 |   |   |   |   |
 | 14:30 - 15:10 | Break |   |   |
@@ -25,6 +24,7 @@
 |   | - Graal: Get the Knowledge Out of Your Code | [Valerio Cosentino](#user-content-valerio-cosentino) |   |
 |   | - SortingHat: Managing Contributor Identities in your Software Project | [Valerio Cosentino](#user-content-valerio-cosentino) |   |
 |   | - GrimoireLab Alerts | [Luis Cañas-Díaz](#user-content-luis-canas-diaz) |   |
+|   | Hack Days...???...Profit | [Sanja Bonic](#user-content-sanja-bonic) |   |
 |   | - Your topic? | You? |   |
 |   | (You may sign up to give a Lightning Talk during the event; First come first serve.)  |   |   |
 |   |   |   |   |
