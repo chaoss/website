@@ -1,5 +1,22 @@
 ## Speakers and Session Descriptions
 
+### Alberto Perez
+
+![Alberto Perez](https://chaoss.github.io/website/CHAOSScon/2019EU/img/AlbertoPerez.png)
+
+Software engineer at Bitergia and analytics team member. After finishing his PhD on web page representation for clustering tasks in 2012, he has been working in projects involving data retrieval and analysis from different data sources. He has experience with Java, Spring, Python, MySQL, Apache Solr and ElasticSearch, among others. Apart from implementing metrics with Python and Kibana and according to his close family, he is interested in too many things to write a list here.
+
+Session: **Creating a Collection of Panels**
+
+> During the last months, we have been dealing with dozens of panels and its number keeps increasing. It is expected to have many more, and it is becoming hard to deal with this amount of information. We need to scale!
+>
+> The concept of collections of panels aims at bringing some order into the existing repository. A panel collection is just a set of Kibana dashboards. In this case, each panel is a Kibana dashboard consisting of a set of widgets.
+>
+> GrimoireLab CHAOSS GMD code development metrics is an example where this concept can be applied. What about having a collection of GMD panels? This would be based on publicly available and could be built on top of GrimoreLab, so anyone can deploy the panels and get them working for their own purposes.
+>
+> We will show the collection built on top real data, retrieved and processed by means of GrimoireLab projects. From that point, we will take a walk on the panels offering a closer look at the metrics. Looking at real numbers ease to get a deeper understanding of the metrics, as we can see them in action.
+
+
 ### Alex Courouble
 
 ![Alex Courouble](https://chaoss.github.io/website/CHAOSScon/2019EU/img/AlexCourouble.png)
@@ -46,7 +63,11 @@ _Data Analyst - Bitergia_
 
 Daniel Izquierdo is co-founder of Bitergia, a start-up focused on providing metrics and consultancy about open source projects. His main interests about open source are related to the community itself, trying to help community managers, organizations and developers to better understand how the project is performing. He has contributed to several open analytics dashboards such as the OpenStack, Wikimedia or Xen. He has participated as speaker giving details about gender diversity in OpenStack, InnerSource metrics strategy at OSCON, and other metrics-related talks.
 
-Session: **Creating a bookshelf of panels**
+Session: **Putting order into CHAOSS: metrics to analyze code development**
+
+> CHAOSS Growth, Maturity and Decline working group provides several metrics definitions focused on code development. Using GrimoireLab we have put some of those definitions into action by setting up a collection of panels for tracking and visualizing specific datasets. During the talk we will present this collection of panels taking a deeper look to the metrics applied in a real use case.
+
+Session: **Creating a Collection of Panels**
 
 > During the last months, we have been dealing with dozens of panels and its number keeps increasing. It is expected to have many more, and it is becoming hard to deal with this amount of information. We need to scale!
 >
