@@ -4,6 +4,8 @@
 
 ![Alberto Perez](https://chaoss.github.io/website/CHAOSScon/2019EU/img/AlbertoPerez.png)
 
+_Researcher and Software Developer - Bitergia_
+
 Software engineer at Bitergia and analytics team member. After finishing his PhD on web page representation for clustering tasks in 2012, he has been working in projects involving data retrieval and analysis from different data sources. He has experience with Java, Spring, Python, MySQL, Apache Solr and ElasticSearch, among others. Apart from implementing metrics with Python and Kibana and according to his close family, he is interested in too many things to write a list here.
 
 Session: **Creating a Collection of Panels**
