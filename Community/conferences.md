@@ -6,4 +6,4 @@ Join us at conferences, workshops and hackathons.
 * [FOSDEM 2019](https://fosdem.org/2019/) (February 2-3, 2019: Brussels, Belgium)
 * [Open Source Leadership Summit 2019](https://events.linuxfoundation.org/events/open-source-leadership-summit-2019/) (March 12 - 14, 2019: Half Moon Bay, California, USA)
 
-<!-- removing an event here, please add it to /About/Media/past-events.md -->
+<!-- removing an event here, please add it to /Community/Events/past-events.md -->
