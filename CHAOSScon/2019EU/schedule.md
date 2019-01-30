@@ -13,7 +13,7 @@
 |   |   |   |   |
 | 12:00 - 13:00 | Lunch |   |   |
 |   |   |   |   |
-| 13:00 - 13:30 | **Keynote 3:** A Tale of Metrics Faux Pas: Answers Without Questions | [Brian Proffitt](#user-content-brian-proffitt) |   |
+| 13:00 - 13:30 | **Keynote 3:** A Tale of Metrics Faux Pas: Answers Without Questions | [Brian Proffitt](#user-content-brian-proffitt) |  [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Tale-of-Metrics-Faux-Pas.pdf) |
 |   |   |   |   |
 | 13:30 - 13:50 | What's new in CHAOSS/GrimoireLab? | [Manrique Lopez](#user-content-manrique-lopez) |   |
 | 13:50 - 14:10 | Hack Days...???...Profit | [Sanja Bonic](#user-content-sanja-bonic) |   |
