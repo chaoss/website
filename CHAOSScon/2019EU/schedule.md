@@ -8,8 +8,8 @@
 | 10:30 - 11:00 | **Keynote 2:** Finding the Order in the Chaos(s) of Metrics: Are We There Yet? | [Ildiko Vancsa](#user-content-ildiko-vancsa) |   |
 |   |   |   |   |
 | 11:00 - 11:20 | Your Team’s Open Source Contributions, in One Dashboard | [Alex Courouble](#user-content-alex-courouble) |   |
-| 11:20 - 11:40 | Metrics in a Company-led Open Source Project | [Ray Paik](#user-content-ray-paik) |   |
-| 11:40 - 12:00 | Putting Order into CHAOSS: Metrics to Analyze Code Development | [Ana Jimenez Santamaria](#user-content-ana-jimenez-santamaria) & [Daniel Izquierdo](#user-content-daniel-izquierdo) |   |
+| 11:20 - 11:40 | Metrics in a Company-led Open Source Project | [Ray Paik](#user-content-ray-paik) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Metrics-Company-Led-OSS-Project.pdf) |
+| 11:40 - 12:00 | Putting Order into CHAOSS: Metrics to Analyze Code Development | [Ana Jimenez Santamaria](#user-content-ana-jimenez-santamaria) & [Daniel Izquierdo](#user-content-daniel-izquierdo) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Putting-Order-into-CHAOSS.pdf) |
 |   |   |   |   |
 | 12:00 - 13:00 | Lunch |   |   |
 |   |   |   |   |
