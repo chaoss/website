@@ -15,15 +15,15 @@
 |   |   |   |   |
 | 13:00 - 13:30 | **Keynote 3:** A Tale of Metrics Faux Pas: Answers Without Questions | [Brian Proffitt](#user-content-brian-proffitt) |  [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Tale-of-Metrics-Faux-Pas.pdf) |
 |   |   |   |   |
-| 13:30 - 13:50 | What's new in CHAOSS/GrimoireLab? | [Manrique Lopez](#user-content-manrique-lopez) |   |
+| 13:30 - 13:50 | What's new in CHAOSS/GrimoireLab? | [Manrique Lopez](#user-content-manrique-lopez) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Whats-new-in-CHAOSS_GrimoireLab.pdf) |
 | 13:50 - 14:10 | Hack Days...???...Profit | [Sanja Bonic](#user-content-sanja-bonic) |   |
-| 14:10 - 14:30 | Creating a Collection of Panels | [Alberto Pérez](#user-content-alberto-perez) & [Daniel Izquierdo](#user-content-daniel-izquierdo) |   |
+| 14:10 - 14:30 | Creating a Collection of Panels | [Alberto Pérez](#user-content-alberto-perez) & [Daniel Izquierdo](#user-content-daniel-izquierdo) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Creating-a-Collection-of-Panels.pdf) |
 |   |   |   |   |
 | 14:30 - 15:10 | Break |   |   |
 |   |   |   |   |
 | 15:10 - 15:50 | Lightning Talks |   |   |
 |   | - Graal: Get the Knowledge Out of Your Code | [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/graal.pdf) |
-|   | - SortingHat: Managing Contributor Identities in your Software Project | [Valerio Cosentino](#user-content-valerio-cosentino) |   |
+|   | - SortingHat: Managing Contributor Identities in your Software Project | [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/SortingHat.pdf) |
 |   | - GrimoireLab Alerts | [Luis Cañas-Díaz](#user-content-luis-canas-diaz) |   |
 |   | - Your topic? | You? |   |
 |   | (You may sign up to give a Lightning Talk during the event; First come first serve.)  |   |   |
