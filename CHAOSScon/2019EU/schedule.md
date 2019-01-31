@@ -22,7 +22,7 @@
 | 14:30 - 15:10 | Break |   |   |
 |   |   |   |   |
 | 15:10 - 15:50 | Lightning Talks |   |   |
-|   | - Graal: Get the Knowledge Out of Your Code | [Valerio Cosentino](#user-content-valerio-cosentino) |   |
+|   | - Graal: Get the Knowledge Out of Your Code | [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/graal.pdf) |
 |   | - SortingHat: Managing Contributor Identities in your Software Project | [Valerio Cosentino](#user-content-valerio-cosentino) |   |
 |   | - GrimoireLab Alerts | [Luis Cañas-Díaz](#user-content-luis-canas-diaz) |   |
 |   | - Your topic? | You? |   |
