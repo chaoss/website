@@ -25,8 +25,11 @@
 |   | - Graal: Get the Knowledge Out of Your Code | [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/graal.pdf) |
 |   | - SortingHat: Managing Contributor Identities in your Software Project | [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/SortingHat.pdf) |
 |   | - GrimoireLab Alerts | [Luis Cañas-Díaz](#user-content-luis-canas-diaz) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GrimoireLab-Alerts.pdf) |
-|   | - Your topic? | You? |   |
-|   | (You may sign up to give a Lightning Talk during the event; First come first serve.)  |   |   |
+|   | - Software Heritage | Roberto De Cosmo |   |
+|   | - Software Health Workshop (SoHeal) and SECO-ASSIST Project | Tom Mens |   |
+|   | - Auger | Sean Goggins |   |
+|   | - ClearlyDefined | Jeff McAffer |   |
+|   | - Apache Kibble Crash Course |  |   |
 |   |   |   |   |
 | 15:50 - 16:50 | Diversity & Inclusion WG Tutorial | [Dawn Foster](#user-content-dawn-foster) & [Daniel Izquierdo](#user-content-daniel-izquierdo)  | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/DI-tutorial.pdf) |
 | 16:50 - 17:50 | Growth-Maturity-Decline WG Tutorial | [Jesus M. Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GMD-tutorial.pdf) |
