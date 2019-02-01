@@ -27,7 +27,7 @@
 |   | - GrimoireLab Alerts | [Luis Cañas-Díaz](#user-content-luis-canas-diaz) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GrimoireLab-Alerts.pdf) |
 |   | - Software Heritage | Roberto De Cosmo |   |
 |   | - Software Health Workshop (SoHeal) and SECO-ASSIST Project | Tom Mens |   |
-|   | - Auger | Sean Goggins |   |
+|   | - Auger | [Sean Goggins](#user-content-sean-goggins)|   |
 |   | - ClearlyDefined | Jeff McAffer |   |
 |   | - Apache Kibble Crash Course |  |   |
 |   |   |   |   |
