@@ -27,9 +27,9 @@
 |   | - GrimoireLab Alerts | [Luis Cañas-Díaz](#user-content-luis-canas-diaz) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GrimoireLab-Alerts.pdf) |
 |   | - Software Heritage | Roberto De Cosmo |   |
 |   | - Software Health Workshop (SoHeal) and SECO-ASSIST Project | Tom Mens | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/SoHeal.pdf) |
-|   | - Auger | [Sean Goggins](#user-content-sean-goggins)|   |
+|   | - Augur | [Sean Goggins](#user-content-sean-goggins)| [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/augur.pdf) |
 |   | - ClearlyDefined | Jeff McAffer |   |
-|   | - Apache Kibble Crash Course |  |   |
+|   | - Apache Kibble Crash Course |  | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/Apache-Kibble-Crash-Course.pdf) |
 |   |   |   |   |
 | 15:50 - 16:50 | Diversity & Inclusion WG Tutorial | [Dawn Foster](#user-content-dawn-foster) & [Daniel Izquierdo](#user-content-daniel-izquierdo)  | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/DI-tutorial.pdf) |
 | 16:50 - 17:50 | Growth-Maturity-Decline WG Tutorial | [Jesus M. Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GMD-tutorial.pdf) |
