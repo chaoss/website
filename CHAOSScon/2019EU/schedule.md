@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 9:00 - 10:00 | Registration & Networking |   |   |
 |   |   |   |   |
-| 10:00 - 10:30 | **Keynote 1:** The Value of Metrics to Drive Your OSPO Plans  | [Nithya Ruff](#user-content-nithya-ruff) |   |
+| 10:00 - 10:30 | **Keynote 1:** The Value of Metrics to Drive Your OSPO Plans  | [Nithya Ruff](#user-content-nithya-ruff) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Value-Metrics-Drive-OSPO-Plans.pdf) |
 | 10:30 - 11:00 | **Keynote 2:** Finding the Order in the Chaos(s) of Metrics: Are We There Yet? | [Ildiko Vancsa](#user-content-ildiko-vancsa) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Finding-Order-in-the-Chaoss-of-Metrics.pdf) |
 |   |   |   |   |
 | 11:00 - 11:20 | Your Team’s Open Source Contributions, in One Dashboard | [Alex Courouble](#user-content-alex-courouble) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Your-Teams-OSS-Contributions-in-one-Dashboard.pdf) |
