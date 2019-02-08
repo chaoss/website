@@ -3,6 +3,9 @@
 
 We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <glink@unomaha.edu> to get a reference added.
 
+### 2019
+* Bethencourt, A. B. (2019, February 6). **FOSDEM 2019 and CHAOSS EU 2019 report.** Retrieved February 8, 2019, from https://toscalix.com/2019/02/06/fosdem-2019-and-chaoss-eu-2019-report/
+
 
 ### 2018
 * Irwin, E. (2018, December 18). **Innovating for Inclusion in the Mozilla Open Source Support Program.** Retrieved December 19, 2018, from https://blog.mozilla.org/inclusion/2018/12/18/innovating-for-inclusion-in-the-mozilla-open-source-support-program
