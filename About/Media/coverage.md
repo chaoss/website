@@ -18,6 +18,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Sansing, S. (2018, November 27). **The CHAOSS Project | Open Leaders 6** Retrieved November 27, 2018, from https://medium.com/@MozOpenLeaders/the-chaoss-project-open-leaders-6-37c2799c2dd3
 
+* Silva, R., & Link, G. J. P. (2018, November 12). **Open Community Metrics and Privacy: MozFest18 Recap.** Retrieved February 20, 2019, from https://software.ac.uk/blog/2018-11-12-open-community-metrics-and-privacy-mozfest18-recap
+
 * Courouble, A., & Hawley, J. (2018, October 9). **Reflections on CHAOSScon 2018.** Retrieved October 19, 2018, from https://blogs.vmware.com/opensource/2018/10/09/chaosscon-2018-reflections/
 
 * Ahuja, V., Marti, D., Link, G. J.P., Germonprez, M., & Goggins, S. P. (2018, May 23). **How to measure the impact of your open source project.** Retrieved May 23, 2018, from https://opensource.com/article/18/5/metrics-project-success
