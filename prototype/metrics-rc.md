@@ -9,8 +9,8 @@ Goal: Identify the size of the project community and whether it's growing, shrin
 
 | **Metric** | **Question** |
 |---|---|
-|[Contributors]()|What is the number of contributors?|
-|[New Contributors on the Email List]()|What is the number of persons posting messages in mailing lists for the first time?|
+|[Contributors](/metric-1-rc)|What is the number of contributors?|
+|[New Contributors on the Email List](/metric-2-rc)|What is the number of persons posting messages in mailing lists for the first time?|
 | ... | ... |
 
 ### Focus Area: xxxx
