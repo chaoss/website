@@ -4,6 +4,8 @@
 We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <glink@unomaha.edu> to get a reference added.
 
 ### 2019
+* Foga, S. (2019, February 19). **CHAOSSCon EU 2019, Open Source Metrics and CHAOSS, Ildiko Vancsa.** Retrieved February 20, 2019, from https://feathercast.apache.org/2019/02/19/chaosscon-eu-2019-open-source-metrics-and-chaoss-ildiko-vancsa/
+
 * Superuser. (2019, February 5). **Diversity in tech: Make your voice heard.** Retrieved February 20, 2019, from http://superuser.openstack.org/articles/diversity-in-tech-make-your-voice-heard/
 
 * Bethencourt, A. B. (2019, February 6). **FOSDEM 2019 and CHAOSS EU 2019 report.** Retrieved February 8, 2019, from https://toscalix.com/2019/02/06/fosdem-2019-and-chaoss-eu-2019-report/
