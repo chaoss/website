@@ -1,4 +1,4 @@
-# Sample Metrics List landing page
+# Sample Metrics release page
 
 ## Growth-Maturity-Decline
 Release Version: [chaoss/wg-gmd#commit-4e639b1ee7](https://github.com/chaoss/wg-gmd/tree/4e639b1ee7113b3f55bc11592521cd901d27c827)
