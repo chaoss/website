@@ -1,7 +1,7 @@
 <a name="calls" id="calls"></a>
 ## CHAOSS Community Calls
 
-The CHAOSS community meets every Tuesday at 11am CT (usually 18:00 CET, [check your local time](http://arewemeetingyet.com/Chicago/2018-11-06/11:00/w/CHAOSS%20weekly%20meeting#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCJ9)) for one hour. <a href="https://chaoss.github.io/website/Participate/CHAOSS-Calendar_WeeklySync.ics">Add to calendar (ICS file)</a>.
+The CHAOSS community meets every Tuesday at 11am CT (usually 18:00 CET, [check your local time](http://arewemeetingyet.com/Chicago/2018-11-06/11:00/w/CHAOSS%20weekly%20meeting#eyJ1cmwiOiJodHRwczovL3Vub21haGEuem9vbS51cy9qLzcyMDQzMTI4OCJ9)) for one hour. <a href="https://chaoss.github.io/website/Participate/CHAOSS-Calendar_WeeklySync.ics">Add to calendar (ICS file)</a>. -- [Agenda and meeting minutes](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit)
 
 The first Tuesday every month is a formal 'monthly call' for updates from committees, working groups, and broader community. The agenda for monthly meetings will be posted to the mailing list.
 
