@@ -4,6 +4,9 @@
 We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <glink@unomaha.edu> to get a reference added.
 
 ### 2019
+* Irwin, E. (2019, March 4). **Open source is only ajar without inclusion.** Retrieved March 4, 2019, from https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion
+
+
 * Foga, S. (2019, February 19). **CHAOSSCon EU 2019, Open Source Metrics and CHAOSS, Ildiko Vancsa.** Retrieved February 20, 2019, from https://feathercast.apache.org/2019/02/19/chaosscon-eu-2019-open-source-metrics-and-chaoss-ildiko-vancsa/
 
 * Superuser. (2019, February 5). **Diversity in tech: Make your voice heard.** Retrieved February 20, 2019, from http://superuser.openstack.org/articles/diversity-in-tech-make-your-voice-heard/
