@@ -2,7 +2,7 @@
 ## Mailing List Archives
 
 CHAOSS Mailing List  
-[After 2018-08-27](https://lists.linuxfoundation.org/pipermail/chaoss/)
+[After 2018-08-27](https://lists.linuxfoundation.org/pipermail/chaoss/)  
 [Before 2018-08-27](https://lists.linuxfoundation.org/pipermail/oss-health-metrics/)
 
 Other Lists  
