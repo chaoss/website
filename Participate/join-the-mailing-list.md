@@ -10,4 +10,5 @@ Other Lists
 [D&I Working Group](https://lists.linuxfoundation.org/pipermail/chaoss-diversity-inclusion/)
 
 Discontinued  
-[Software Committee](https://lists.linuxfoundation.org/pipermail/chaoss-software/) (discontinued: Feb 2018
+[Software Committee](https://lists.linuxfoundation.org/pipermail/chaoss-software/)  
+(discontinued: Feb 2018)
