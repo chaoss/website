@@ -1,8 +1,13 @@
 
-## Join the Mailing List
+## Mailing List Archives
 
-[CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss). Archives [before 2018-08-27](https://lists.linuxfoundation.org/pipermail/oss-health-metrics/).
+CHAOSS Mailing List
+[After 2018-08-27](https://lists.linuxfoundation.org/pipermail/chaoss/)
+[Before 2018-08-27](https://lists.linuxfoundation.org/pipermail/oss-health-metrics/)
 
-[D&I WG mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion).
+Other Lists
+[CHAOSS Board](https://lists.linuxfoundation.org/pipermail/chaoss-members/)
+[D&I Working Group](https://lists.linuxfoundation.org/pipermail/chaoss-diversity-inclusion/)
 
-[CHAOSS Board mail archive](https://lists.linuxfoundation.org/pipermail/chaoss-members/)
+Discontinued
+[Software Committee](https://lists.linuxfoundation.org/pipermail/chaoss-software/) (discontinued: Feb 2018

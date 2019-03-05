@@ -1,7 +1,7 @@
 
 ## How to Participate in CHAOSS?
 
-- Introduce yourself on the [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss).
+- Introduce yourself on the [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss) or [Diversity & Inclusion Working Group mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss-diversity-inclusion).
 - Join us in our [weekly video conferences](https://chaoss.community/participate/#user-content-chaoss-community-calls).
 - Pick a project or working group and fork the [GitHub repository](https://github.com/chaoss/).
 - Come see us at [conferences, workshops, and hackathons](https://chaoss.community/community/#user-content-upcoming-events).
