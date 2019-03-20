@@ -1,9 +1,9 @@
 # Schedule: Friday, February 1, 2019
 
 | Time | Topic | Speaker | Slides | Video |
-|---|---|---|---|
+|---|---|---|---|---|
 | 9:00 - 10:00 | Registration & Networking |   |   |  |
-|   |   |   |   |
+|   |   |   |   | |
 | 10:00 - 10:30 | **Keynote 1:** The Value of Metrics to Drive Your OSPO Plans  | [Nithya Ruff](#user-content-nithya-ruff) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Value-Metrics-Drive-OSPO-Plans.pdf) | [Video](https://www.youtube.com/watch?v=WxPZryN9U5M&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=2&t=0s) |
 | 10:30 - 11:00 | **Keynote 2:** Finding the Order in the Chaos(s) of Metrics: Are We There Yet? | [Ildiko Vancsa](#user-content-ildiko-vancsa) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Finding-Order-in-the-Chaoss-of-Metrics.pdf) | [Video](https://www.youtube.com/watch?v=jeSaKmxTqZA&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=3&t=0s) |
 |   |   |   |   |
