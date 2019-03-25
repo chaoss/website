@@ -10,10 +10,14 @@ CHAOSS is a Linux Foundation project focused on creating analytics and metrics t
 
 ### Working Groups
 
-The goal of the working groups is to refine the metrics and to work with software implementations. The workgroups are built around the four categories of metrics that CHAOSS has identified. The working groups are:
+The goal of the working groups is to refine the metrics and to work with software implementations. The working groups are:
 
-- Diversity and Inclusion WG
+- [Diversity and Inclusion](https://github.com/chaoss/wg-diversity-inclusion)
 
-- Growth-Maturity-Decline WG
+- [Growth-Maturity-Decline](https://github.com/chaoss/wg-gmd)
 
-- Common Metrics WG
+- [Common Metrics](https://github.com/chaoss/metrics)
+
+- [Value](https://github.com/chaoss/wg-value)
+
+- [Risk](https://github.com/chaoss/wg-risk)
