@@ -1,11 +1,13 @@
 ## News Coverage of CHAOSS
 
-
 We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <glink@unomaha.edu> to get a reference added.
 
-### 2019
-* Irwin, E. (2019, March 4). **Open source is only ajar without inclusion.** Retrieved March 4, 2019, from https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion
 
+### 2019
+
+* Lopez de la Fuente, J. M.. (2019, March 21). **4 questions Uber’s open source program office answers with data.** Retrieved March 23, 2019, from Opensource.com website: https://opensource.com/article/19/3/uber-open-source-data
+
+* Irwin, E. (2019, March 4). **Open source is only ajar without inclusion.** Retrieved March 4, 2019, from https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion
 
 * Foga, S. (2019, February 19). **CHAOSSCon EU 2019, Open Source Metrics and CHAOSS, Ildiko Vancsa.** Retrieved February 20, 2019, from https://feathercast.apache.org/2019/02/19/chaosscon-eu-2019-open-source-metrics-and-chaoss-ildiko-vancsa/
 
@@ -15,6 +17,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 
 ### 2018
+
 * Irwin, E. (2018, December 18). **Innovating for Inclusion in the Mozilla Open Source Support Program.** Retrieved December 19, 2018, from https://blog.mozilla.org/inclusion/2018/12/18/innovating-for-inclusion-in-the-mozilla-open-source-support-program
 
 * Link, G. J.P. (2018, December 7). **Is open source wealth distribution fair?** Retrieved December 7, 2018, from https://opensource.com/article/18/12/wealth-open-source-distributed
@@ -28,6 +31,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 * Ahuja, V., Marti, D., Link, G. J.P., Germonprez, M., & Goggins, S. P. (2018, May 23). **How to measure the impact of your open source project.** Retrieved May 23, 2018, from https://opensource.com/article/18/5/metrics-project-success
 
 ### 2017
+
 * Synopsys, Inc. (2017, October 31). 2017 Coverity Scan report. Retrieved from https://lists.linuxfoundation.org/pipermail/oss-health-metrics/2017-October/000218.html
 
 * Ankerholz, A. (2017, September 21). **Open Source Summit in Los Angeles: Day 1 in 5 Minutes**. Retrieved September 22, 2017, from https://www.linux.com/blog/open-source-summit-la/2017/9/open-source-summit-los-angeles-day-1-5-minutes and https://www.youtube.com/watch?v=3yl294IK1Vk
