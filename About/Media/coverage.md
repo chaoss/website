@@ -1,6 +1,6 @@
 ## News Coverage of CHAOSS
 
-We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <linkgeorg@gmail.com> to get a reference added.
+We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <linkgeorg@gmail.com> to get a reference added or create a pull request against the [coverage.md](https://github.com/chaoss/website/blob/master/About/Media/coverage.md) file.
 
 
 ### 2019
