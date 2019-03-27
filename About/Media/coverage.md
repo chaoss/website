@@ -1,6 +1,6 @@
 ## News Coverage of CHAOSS
 
-We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <glink@unomaha.edu> to get a reference added.
+We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <linkgeorg@gmail.com> to get a reference added.
 
 
 ### 2019
