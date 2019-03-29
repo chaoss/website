@@ -17,3 +17,5 @@ The goal of the working groups is to refine the metrics and to work with softwar
 - Growth-Maturity-Decline WG
 
 - Common Metrics WG
+
+- Value Metrics WG
