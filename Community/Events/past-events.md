@@ -1,4 +1,4 @@
-# Past Events
+## Past Events
 
 
 **MozFest 2018 (October 26-28, 2018: London, UK)**
