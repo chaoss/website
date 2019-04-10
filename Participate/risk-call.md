@@ -1,4 +1,4 @@
-### Risk WG
+### Risk
 
 This Working Group focuses on Compliance and Risk metrics. The goal is to refine the metrics that inform Risk and to work with software implementations.
 
