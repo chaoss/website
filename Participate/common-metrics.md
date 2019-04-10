@@ -1,4 +1,4 @@
-#### Common Metrics
+### Common Metrics
 
 The Common Metrics Working Group focuses on defining the metrics that are used by both working groups or are important for community health, but that do not cleanly fit into one of the other existing working groups. Areas of interest include organizational affiliation, responsiveness, and geographic coverage.
 
