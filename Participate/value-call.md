@@ -1,4 +1,4 @@
-### Value
+#### Value
 
 This Working Group focuses on industry-standard metrics for economic value in open source. The main goal is to publish trusted industry-standard Value Metrics. A kind of S&P for software development, an authoritative source for metrics significance and industry norms.
 
