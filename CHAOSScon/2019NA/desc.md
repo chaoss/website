@@ -8,18 +8,18 @@ Specific CHAOSS software highlighted will be GrimoireLab and Augur with their re
 
 We will also share insights from the CHAOSS workgroups on *Diversity and Inclusion*, *Growth-Maturity-Decline*, *Risk*, and *Value* that branched out from the CHAOSS metrics work.
 
+
 ## Where?
-TBD
+
+Hilton San Diego Bayfront<br />
+1 Park Boulevard<br />
+San Diego, California 92101
 
 Co-located with [Open Source Summit North America 2019](https://events.linuxfoundation.org/events/open-source-summit-north-america-2019/attend/about/)
 
+
 ## When?
 
-TBD
-
-Possibly August 20 or 24.
+August 20.
 
 
-## Organizing Committee
-
-TBD
