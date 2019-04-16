@@ -58,8 +58,8 @@ There are plenty of ways to give a presentation about projects and technologies 
 ### Session Types
 
 You will need to choose a session type when submitting:
-* Lightning Talk (5 - 10 minutes)
-* Regular Session (20 - 30 minutes)
+* Lightning Talk (5 minutes)
+* Regular Session (20 minutes)
 * Hands-On Workshop (approximately 60 minutes)
 
 
