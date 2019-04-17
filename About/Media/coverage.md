@@ -34,6 +34,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Synopsys, Inc. (2017, October 31). 2017 Coverity Scan report. Retrieved from https://lists.linuxfoundation.org/pipermail/oss-health-metrics/2017-October/000218.html
 
+* Izquierdo, D. (2017, October 16). **How to define a metrics strategy for your community.** Retrieved February 13, 2019, from Opensource.com website: https://opensource.com/article/17/10/defining-metrics-strategy-your-community
+
 * Ankerholz, A. (2017, September 21). **Open Source Summit in Los Angeles: Day 1 in 5 Minutes**. Retrieved September 22, 2017, from https://www.linux.com/blog/open-source-summit-la/2017/9/open-source-summit-los-angeles-day-1-5-minutes and https://www.youtube.com/watch?v=3yl294IK1Vk
 
 * Schafer, I. C. (2017, September 18). **Linux Foundation wants to promote sustainable open source development with new initiatives**. Retrieved September 20, 2017, from http://sdtimes.com/linux-foundation-sustainable-open-source/
