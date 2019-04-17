@@ -71,13 +71,11 @@ This is the abstract that will be posted on the website schedule, so please ensu
 
 *Example: The proposed presentation will provide an overview and current status of the Linux Foundation's CHAOSS project. This will include a discussion of the CHAOSS project workgroups, with a particular focus on the technical advances that are being done with respect to understanding the growth, maturity, and decline of an open source project. The presentation will conclude with a discussion of future work of the CHAOSS project, as well as ways to become involved in the project.*
 
-### Benefits to the Ecosystem
+### Audience
 
-Tell us how the content of your presentation will help better the ecosystem. This could be for CHAOSS, open source, organizations, community management, etc. 
+Describe who the audience is and what you expect them to gain from your presentation. Your description is limited to 1500 characters (~200 words).
 
-Note: We realize that this can be a difficult question to answer, but as with the abstract, the relevance of your presentation is just as important as the content. You are limited to 1500 characters (~200 words).
-
-*Example: The audience for this project includes organizational members who are interested in better understand the growth, maturity, and decline of the open source projects with which they are engaged. This could include corporate participants, community managers, and members from supporting foundations. The ecosystem benefits when these stakeholders engage in CHAOSS to improve their use of community health metrics.*
+*Example: The audience for this project includes organizational members who are interested in better understand the growth, maturity, and decline of the open source projects with which they are engaged. This could include corporate participants, community managers, and members from supporting foundations.*
 
 
 ### First Time Submitting? Don’t Feel Intimidated
