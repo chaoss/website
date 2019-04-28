@@ -5,4 +5,4 @@ Augur is a Python library and REST server that provides data related to GitHub r
 
 **More Information:**
 
-Augur Code → https://github.com/OSSHealth/augur
+Augur Code → https://github.com/chaoss/augur
