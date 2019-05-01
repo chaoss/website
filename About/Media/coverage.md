@@ -5,6 +5,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2019
 
+* Link, G. J. P., & Conway, S. (2019, April 30). **How CHAOSS D&I Can Help Diversity in the Open Source Community.** Retrieved from The New Stack website: https://thenewstack.io/how-chaoss-di-can-help-diversity-in-the-open-source-community/
+
 * Lopez de la Fuente, J. M.. (2019, March 21). **4 questions Uber’s open source program office answers with data.** Retrieved March 23, 2019, from Opensource.com website: https://opensource.com/article/19/3/uber-open-source-data
 
 * Irwin, E. (2019, March 4). **Open source is only ajar without inclusion.** Retrieved March 4, 2019, from https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion
