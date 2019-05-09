@@ -1,25 +1,20 @@
 ## About CHAOSScon
 
-Meet the CHAOSS community. Learn about metrics and tools used by several open source projects, communities, and engineering teams to track and analyze their development activities, communities health, diversity, risk, and value.
-
-This conference will include CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health.
-
-Specific CHAOSS software highlighted will be GrimoireLab and Augur with their respective updates and demos.
-
-We will also share insights from the CHAOSS workgroups on *Diversity and Inclusion*, *Growth-Maturity-Decline*, *Risk*, and *Value* that branched out from the CHAOSS metrics work.
-
+Learn about open source project health metrics and tools used by open source projects, communities, and engineering teams to track and analyze their community work. This conference will provide a venue for discussing open source project health, CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health. We will also share insights from the CHAOSS working groups on *Diversity and Inclusion*, *Evolution*, *Risk*, *Value*, and *Common Metrics*.
 
 ## Where?
-
-Hilton San Diego Bayfront<br />
-1 Park Boulevard<br />
+Hilton San Diego Bayfront
+1 Park Boulevard
 San Diego, California 92101
 
 Co-located with [Open Source Summit North America 2019](https://events.linuxfoundation.org/events/open-source-summit-north-america-2019/attend/about/)
 
-
 ## When?
+Tuesday August 20, 2019
+9am - 6pm
 
-August 20.
 
 
+## Organizing Committee
+
+TBD
