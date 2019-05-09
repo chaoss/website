@@ -10,7 +10,7 @@ San Diego, California 92101
 Co-located with [Open Source Summit North America 2019](https://events.linuxfoundation.org/events/open-source-summit-north-america-2019/attend/about/)
 
 ## When?
-Tuesday August 20, 2019  
+Tuesday, August 20, 2019  
 9am - 6pm  
 
 ## Organizing Committee
