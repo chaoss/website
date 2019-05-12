@@ -10,7 +10,7 @@ that are appropriate for this conference, and then **[submit your proposal][subm
 
 ## Dates to Remember:
 
-* CFP Opens: Tuesday, April 16, 2019
+* CFP Opens: Monday, May 13, 2019
 * CFP Closes: Friday, May 31, 2019
 * CFP Notifications: Monday, June 10, 2019
 * Schedule Announcement: Monday, June 16, 2019
