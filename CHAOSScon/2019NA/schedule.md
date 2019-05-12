@@ -5,14 +5,12 @@
 
 If you are interested in speaking at CHAOSSCon NA on August 20, 2019, 
 please read through the rest of this page to understand the types of talks
-that are appropriate for this conference, and then [submit your proposal][submit].  
-
-[submit]: https://forms.gle/o6EprSWV7mHB66hNA
+that are appropriate for this conference, and then **[submit your proposal][submit].**  
 
 
 ## Dates to Remember:
 
-* CFP Opens: Tuesday, April 16, 2019
+* CFP Opens: Monday, May 13, 2019
 * CFP Closes: Friday, May 31, 2019
 * CFP Notifications: Monday, June 10, 2019
 * Schedule Announcement: Monday, June 16, 2019
@@ -49,9 +47,11 @@ that are appropriate for this conference, and then [submit your proposal][submit
 ## Preparing To Submit Your Proposal
 
 While it is not our intention to provide you with strict instructions on how to prepare your proposal, we hope you will take a moment to review the following guidelines that we have put together to help you prepare the best submission possible. To get started, here are three things that you should consider before submitting your proposal:
+
 1. What are you hoping to get from your presentation?
 2. What do you expect the audience to gain from your presentation?
 3. How will your presentation help better the ecosystem?
+
 There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
 
 
@@ -89,7 +89,12 @@ In the instance that your talk is accepted, we want to make sure that you give t
 [Part 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw>) and 
 [Part 2](http://www.youtube.com/watch?v=gcOP4WQfJl4>)
 
+## Submit proposal
+
+**[Submit your proposal][submit].** 
 
 # Schedule
 
 Announcement: Monday, June 16, 2019
+
+[submit]: https://forms.gle/o6EprSWV7mHB66hNA

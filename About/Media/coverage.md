@@ -5,6 +5,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2019
 
+* TNS Staff. (2019, May 10). **How CHAOSS Measures Diversity; Windows Gets a Proper Terminal.** Retrieved from The New Stack (podcast) website: https://thenewstack.io/how-chaoss-measures-diversity-windows-gets-a-proper-terminal/
+
 * Link, G. J.P., & Conway, S. (2019, April 30). **How CHAOSS D&I Can Help Diversity in the Open Source Community.** Retrieved from The New Stack website: https://thenewstack.io/how-chaoss-di-can-help-diversity-in-the-open-source-community/
 
 * Lopez de la Fuente, J. M.. (2019, March 21). **4 questions Uber’s open source program office answers with data.** Retrieved March 23, 2019, from Opensource.com website: https://opensource.com/article/19/3/uber-open-source-data
