@@ -19,7 +19,7 @@ Goal: Identify the diversity and inclusion at events.
 
 Goal: Identify how healthy our community leadership is.
 
-Name | Question
+**Metric** | **Question**
 --- | ---
 [Mentorship](https://chaoss.community/release-prototype-mentorship/) | Do we have active mentorships and related activities?
 
