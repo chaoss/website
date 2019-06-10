@@ -5,7 +5,7 @@
 ## Diversity and Inclusion
 Comment on Release: This could be a link to a specific commit, branch, markdown doc.
 
-### Focus Area: Event Diversity
+### Focus Area - Event Diversity
 
 Goal: Identify the diversity and inclusion at events.
 
@@ -15,7 +15,7 @@ Goal: Identify the diversity and inclusion at events.
 [Code of Conduct at Event](https://chaoss.community/release-prototype-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion?
 [Family Friendliness](https://chaoss.community/release-prototype-family-friendliness/) | Does the event empower those who care for children to attend?
 
-### Focus Area: Leadership
+### Focus Area - Leadership
 
 Goal: Identify how healthy our community leadership is.
 
@@ -27,7 +27,7 @@ Name | Question
 ## Growth-Maturity-Decline
 Comment on Release: This could be a link to a specific commit, branch, markdown doc.
 
-### Focus Area: ...
+### Focus Area - ...
 
 Goal: ...
 
@@ -36,7 +36,7 @@ Goal: ...
 | ... | ... |
 | ... | ... |
 
-### Focus Area: ...
+### Focus Area - ...
 
 Goal: ...
 
