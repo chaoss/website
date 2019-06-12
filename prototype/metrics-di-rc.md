@@ -32,24 +32,3 @@ Goal: Identify how healthy our community leadership is.
 **Metric** | **Question** |**Comment**
 ---|---|---|
 [Mentorship](https://chaoss.community/release-prototype-mentorship/) | Do we have active mentorships and related activities? [Link]()
-
-
-## Evolution
-[Evolution Repository]()
-
-### Focus Area - ...
-
-Goal: ...
-
-| **Metric** | **Question** | **Comment**
-|---|---|---|
-| ... | ... | [Link]()
-| ... | ... | [Link]()
-
-### Focus Area - ...
-
-Goal: ...
-
-| **Metric** | **Question** | **Comment**
-|---|---|---|
-| ... | ... | [Link]()
