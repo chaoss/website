@@ -6,16 +6,16 @@ Released metrics are only a subset of metric ideas that are being developed. If 
 
 ## Release Table
 ### Diversity and Inclusion
-* [Event Diversity](#Focus-Area---Event-Diversity)
-* [Leadership](#Focus-Area---Leadership)
+* [Event Diversity](#user-content-Event-Diversity)
+* [Leadership](#user-content-Leadership)
 ### Evolution
-* [Event Diversity](#Focus-Area---Event-Diversity)
-* [Leadership](#Focus-Area---Leadership)
+* [Event Diversity](#user-content-Event-Diversity)
+* [Leadership](#user-content-Leadership)
 
 ## Diversity and Inclusion
 [D&I Repository]()
 
-### [Focus Area - Event Diversity](#Focus-Area---Event-Diversity)
+### ![Event Diversity]
 
 Goal: Identify the diversity and inclusion at events.
 
@@ -25,7 +25,7 @@ Goal: Identify the diversity and inclusion at events.
 [Code of Conduct at Event](https://chaoss.community/release-prototype-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion? [Link]()
 [Family Friendliness](https://chaoss.community/release-prototype-family-friendliness/) | Does the event empower those who care for children to attend? [Link]()
 
-### (#Focus-Area---Leadership)
+### !Leadership
 
 Goal: Identify how healthy our community leadership is.
 
