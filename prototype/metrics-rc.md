@@ -1,45 +1,52 @@
 # Metrics Candidate Release Page
 
+Released metrics are only a subset of metric ideas that are being developed. If you would like to learn more and discuss different metrics please visit the working group repositories.
+
 *Each working group identifies metrics that are candidates for release. The metrics are sorted into Focus Areas. Individual metrics will be released along with a detail page. The release will be available for comment for 30 days. Comments about the release can be made by following the the Working Group links provided below.*
 
-## Diversity and Inclusion
-Comment on Release: This could be a link to a specific commit, branch, markdown doc.
+# Release Table
+Diversity and Inclusion Focus Areas
+* [Event Diversity](#Focus-Area---Event-Diversity)
+* [Leadership](#Focus-Area---Leadership)
 
-### Focus Area - Event Diversity
+## Diversity and Inclusion
+[D&I Repository]()
+
+### (#Focus-Area---Event-Diversity)
 
 Goal: Identify the diversity and inclusion at events.
 
-| **Metric** | **Question** |
-|---|---|
-[Diversity Access Tickets](https://chaoss.community/release-prototype-diversity-access-tickets/) | Are Diversity Access Tickets offered for an event?
-[Code of Conduct at Event](https://chaoss.community/release-prototype-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion?
-[Family Friendliness](https://chaoss.community/release-prototype-family-friendliness/) | Does the event empower those who care for children to attend?
+| **Metric** | **Question** | **Comment**
+|---|---|---|
+[Diversity Access Tickets](https://chaoss.community/release-prototype-diversity-access-tickets/) | Are Diversity Access Tickets offered for an event? | [Link]()
+[Code of Conduct at Event](https://chaoss.community/release-prototype-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion? [Link]()
+[Family Friendliness](https://chaoss.community/release-prototype-family-friendliness/) | Does the event empower those who care for children to attend? [Link]()
 
-### Focus Area - Leadership
+### (#Focus-Area---Leadership)
 
 Goal: Identify how healthy our community leadership is.
 
-**Metric** | **Question**
---- | ---
-[Mentorship](https://chaoss.community/release-prototype-mentorship/) | Do we have active mentorships and related activities?
+**Metric** | **Question** |**Comment**
+---|---|---|
+[Mentorship](https://chaoss.community/release-prototype-mentorship/) | Do we have active mentorships and related activities? [Link]()
 
 
 ## Evolution
-Comment on Release: This could be a link to a specific commit, branch, markdown doc.
+[Evolution Repository]()
 
 ### Focus Area - ...
 
 Goal: ...
 
-| **Metric** | **Question** |
-|---|---|
-| ... | ... |
-| ... | ... |
+| **Metric** | **Question** | **Comment**
+|---|---|---|
+| ... | ... | [Link]()
+| ... | ... | [Link]()
 
 ### Focus Area - ...
 
 Goal: ...
 
-| **Metric** | **Question** |
-|---|---|
-| ... | ... |
+| **Metric** | **Question** | **Comment**
+|---|---|---|
+| ... | ... | [Link]()
