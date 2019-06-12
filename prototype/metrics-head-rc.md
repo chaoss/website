@@ -4,19 +4,19 @@
 
 ## Release Table
 ----------------------------------------
-### Common Metrics Focus Areas
+#### Common Metrics Focus Areas
 * [...](#user-content)
 * [...](#user-content)
-### Diversity and Inclusion Focus Areas
-* [Event Diversity](#user-content-event-diversity)
-* [Leadership](#user-content-leadership)
-### Evolution Focus Areas
+#### Diversity and Inclusion Focus Areas
+* [Event Diversity](#event-diversity)
+* [Leadership](#leadership)
+#### Evolution Focus Areas
 * [...](#user-content)
 * [...](#user-content)
-### Risk Focus Areas
+#### Risk Focus Areas
 * [...](#user-content)
 * [...](#user-content)
-### Value Focus Areas
+#### Value Focus Areas
 * [...](#user-content)
 * [...](#user-content)
 
