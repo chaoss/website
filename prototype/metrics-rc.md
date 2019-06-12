@@ -15,7 +15,7 @@ Released metrics are only a subset of metric ideas that are being developed. If 
 ## Diversity and Inclusion
 [D&I Repository]()
 
-### (#Focus-Area---Event-Diversity)
+### [Focus Area - Event Diversity](#Focus-Area---Event-Diversity)
 
 Goal: Identify the diversity and inclusion at events.
 
