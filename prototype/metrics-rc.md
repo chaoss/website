@@ -15,7 +15,7 @@ Released metrics are only a subset of metric ideas that are being developed. If 
 ## Diversity and Inclusion
 [D&I Repository]()
 
-### ![Event Diversity]
+### Event Diversity
 
 Goal: Identify the diversity and inclusion at events.
 
@@ -25,7 +25,7 @@ Goal: Identify the diversity and inclusion at events.
 [Code of Conduct at Event](https://chaoss.community/release-prototype-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion? [Link]()
 [Family Friendliness](https://chaoss.community/release-prototype-family-friendliness/) | Does the event empower those who care for children to attend? [Link]()
 
-### !Leadership
+### Leadership
 
 Goal: Identify how healthy our community leadership is.
 
