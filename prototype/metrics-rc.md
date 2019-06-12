@@ -6,11 +6,11 @@ Released metrics are only a subset of metric ideas that are being developed. If 
 
 ## Release Table
 ### Diversity and Inclusion
-* [Event Diversity](#user-content-Event-Diversity)
-* [Leadership](#user-content-Leadership)
+* [Event Diversity](#user-content-event-diversity)
+* [Leadership](#user-content-leadership)
 ### Evolution
-* [Event Diversity](#user-content-Event-Diversity)
-* [Leadership](#user-content-Leadership)
+* [Event Diversity](#user-content-event-diversity)
+* [Leadership](#user-content-leadership)
 
 ## Diversity and Inclusion
 [D&I Repository]()
