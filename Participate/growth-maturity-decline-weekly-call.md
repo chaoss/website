@@ -4,4 +4,4 @@ This Working Group focuses on Evolution metrics and software. The goal is to ref
 
 The Evolution working group meets every other Wednesday at 9:30am CT (usually 16:30 CET, [check your local time](http://arewemeetingyet.com/Chicago/2019-04-24/09:30/b/CHAOSS%20Evolution%20WG)) via [Zoom](https://unomaha.zoom.us/j/720431288) -- [Agenda and Meeting Minutes](https://docs.google.com/document/d/1fgMT5onwvNQE6b4gPWE7oSPHRvb9q1z6XEbD51EtCFg/edit)
 
-Info about working group: [https://github.com/chaoss/wg-gmd](https://github.com/chaoss/wg-GMD)
+Info about working group: [https://github.com/chaoss/wg-evolution](https://github.com/chaoss/wg-evolution)
