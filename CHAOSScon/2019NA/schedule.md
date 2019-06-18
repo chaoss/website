@@ -13,7 +13,7 @@ that are appropriate for this conference, and then **[submit your proposal][subm
 * CFP Opens: Monday, May 13, 2019
 * CFP Closes: Friday, June 7, 2019
 * CFP Notifications: Monday, June 10, 2019
-* Schedule Announcement: Monday, June 16, 2019
+* Schedule Announcement: Monday, July 1, 2019
 * Slide Due Date: Friday, August 16, 2018
 * Event Date: Tuesday, August 20, 2018
 
@@ -95,6 +95,6 @@ In the instance that your talk is accepted, we want to make sure that you give t
 
 # Schedule
 
-Announcement: Monday, June 16, 2019
+Announcement: Monday, July 1, 2019
 
 [submit]: https://forms.gle/o6EprSWV7mHB66hNA
