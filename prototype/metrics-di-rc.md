@@ -1,7 +1,7 @@
 ## Diversity and Inclusion
 D\&I Repository: https://github.com/chaoss/wg-diversity-inclusion
 
-### Focus Area: Event Diversity
+### Focus Area - Event Diversity
 
 **Goal:**  
 Identify the diversity and inclusion at events.
@@ -12,7 +12,7 @@ Identify the diversity and inclusion at events.
 [Code of Conduct at Event](https://chaoss.community/release-prototype-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion? | [Link]()
 [Family Friendliness](https://chaoss.community/release-prototype-family-friendliness/) | Does the event empower those who care for children to attend? | [Link]()
 
-### Leadership
+### Focus Area - Leadership
 
 **Goal:**  
 Identify how healthy our community leadership is.
