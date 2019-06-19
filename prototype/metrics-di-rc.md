@@ -1,9 +1,10 @@
 ## Diversity and Inclusion
 D\&I Repository: https://github.com/chaoss/wg-diversity-inclusion
 
-### Event Diversity
+### Focus Area: Event Diversity
 
-Focus Area Goal: Identify the diversity and inclusion at events.
+**Goal:**  
+Identify the diversity and inclusion at events.
 
 | **Metric** | **Question** | **Comment**
 |---|---|---|
@@ -13,7 +14,8 @@ Focus Area Goal: Identify the diversity and inclusion at events.
 
 ### Leadership
 
-Focus Area Goal: Identify how healthy our community leadership is.
+**Goal:**  
+Identify how healthy our community leadership is.
 
 **Metric** | **Question** |**Comment**
 ---|---|---|
