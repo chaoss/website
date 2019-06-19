@@ -5,7 +5,7 @@ Scope: Aspects related to how the source code changes over time, and the mechani
 
 ### Focus Area: Code Development
 
-**Goal: Activity**
+**Goal: Activity**  
 Exploring activity involved in changing (or adding) code
 
 | **Metric** | **Question** | **Comment**
@@ -13,7 +13,7 @@ Exploring activity involved in changing (or adding) code
 | ... | ... | [Link]()
 | ... | ... | [Link]()
 
-**Goal: Efficiency**
+**Goal: Efficiency**  
 Exploring effienciency related to the merging of code into a codebase
 
 | **Metric** | **Question** | **Comment**
@@ -21,7 +21,7 @@ Exploring effienciency related to the merging of code into a codebase
 | ... | ... | [Link]()
 | ... | ... | [Link]()
 
-**Goal: Quality**
+**Goal: Quality**  
 Exploring processes to improve/review quality that are used (for example: testing, code review)
 
 | **Metric** | **Question** | **Comment**
