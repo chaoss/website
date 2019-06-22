@@ -16,8 +16,7 @@ Release Date: August 1st, 2019
 * [Event Diversity](#user-content-focus-area---event-diversity)
 * [Leadership](#user-content-focus-area---leadership)
 #### Evolution Focus Areas
-* [...](#user-content)
-* [...](#user-content)
+* [Code Development](#user-content-focus-area---code-development)
 #### Risk Focus Areas
 * [...](#user-content)
 * [...](#user-content)
