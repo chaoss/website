@@ -28,7 +28,7 @@ Question: How many **issues** related to the source code are happening during a 
 |---|---|---|
 | Issues | What are the number of new issues related to the source code? | [Link]()
 | Issues_Active | What are the number of issues related to the source code that showed some activity during the period? | [Link]()
-| Issues_Closed | Waht are the number of issues related to the source code that were closed? | [Link]()
+| Issues_Closed | What are the number of issues related to the source code that were closed? | [Link]()
 
 **Goal:**  
 Efficiency - Learn how effective new code is merged into the code base.  
