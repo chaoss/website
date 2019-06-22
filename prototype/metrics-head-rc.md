@@ -8,7 +8,7 @@ Candidate Release: June 24th, 2019
 Comments Close: July 24th, 2019  
 Release Date: August 1st, 2019  
 
-**Comments about focus areas and associated metrics can be made by following the working group links provided for each individual metric. Comments about the format and presentation for the release on the website can be [here](https://github.com/chaoss/website/issues/182).**  
+**Comments about focus areas and associated metrics can be made by following the working group links provided in the release tables. Comments about the format and presentation for the release on the website can be made [here](https://github.com/chaoss/website/issues/182).The comment period will remain open for 30 days starting June 24th with and ending July 24th. ** 
 
 ## Release Table
 #### Common Metrics Focus Areas
