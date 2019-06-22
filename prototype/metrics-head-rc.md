@@ -13,8 +13,8 @@ Release Date: August 1st, 2019
 * [...](#user-content)
 * [...](#user-content)
 #### Diversity and Inclusion Focus Areas
-* [Event Diversity](#user-content-event-diversity)
-* [Leadership](#user-content-leadership)
+* [Event Diversity](#user-content-focus-area---event-diversity)
+* [Leadership](#user-content-focus-area---leadership)
 #### Evolution Focus Areas
 * [...](#user-content)
 * [...](#user-content)
