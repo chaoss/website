@@ -1,22 +1,31 @@
 ## Risk
 Risk Repository: https://github.com/chaoss/wg-risk
 
-### Focus Area - ...
+### Focus Area - Licensing
 
 **Goal:**  
-...
+Understand the potential intellectual property(IP) issues associated with a given software package’s use.
 
 | **Metric** | **Question** | **Comment**
 |---|---|---|
-[Diversity Access Tickets](https://chaoss.community/release-prototype-diversity-access-tickets/) | Are Diversity Access Tickets offered for an event? | [Link]()
-[Code of Conduct at Event](https://chaoss.community/release-prototype-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion? | [Link]()
-[Family Friendliness](https://chaoss.community/release-prototype-family-friendliness/) | Does the event empower those who care for children to attend? | [Link]()
+[License Count]() | How many different licenses are there? | [Link]()
+[License Coverage]() | How much of the code base has declared licenses? | [Link]()
+[License Declared]() | What are the declared software package licenses? | [Link]()
 
-### Focus Area - ...
+### Focus Area - Security
 
 **Goal:**  
-...
+Understand security processes and procedures associated with the software’s development.
 
 **Metric** | **Question** |**Comment**
 ---|---|---|
-[Mentorship](https://chaoss.community/release-prototype-mentorship/) | Do we have active mentorships and related activities? | [Link]()
+[CII Best Practices Badge]() | Does the software have security certification? | [Link]()
+
+### Focus Area - Transparency
+
+**Goal:**  
+Understand how transparent a given software package is with respect to dependencies, licensing (?), security processes, etc.
+
+**Metric** | **Question** |**Comment**
+---|---|---|
+[Bill of Materials]() | Does the software package have a standard expression of dependencies, licensing, and security-related issues? | [Link]()
