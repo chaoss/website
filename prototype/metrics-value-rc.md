@@ -18,9 +18,9 @@ Value Repository: https://github.com/chaoss/wg-value
 ...
 
  <table style="width:100%">
- <col width=20%>
- <col width=70%>
- <col width=10%>
+ <col width="20%">
+ <col width="70%">
+ <col width="10%">
   <tr>
     <th>Metric</th>
     <th>Question</th>
