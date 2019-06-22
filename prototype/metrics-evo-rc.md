@@ -7,7 +7,6 @@ Scope: Aspects related to how the source code changes over time, and the mechani
 
 **Goal:**  
 Activity - Learn about activity involved in changing (or adding) code.  
-
 Question: How many **changes** are happening to the source code, during a certain time period?  
 
 | **Metric** | **Question** | **Comment**
@@ -33,7 +32,6 @@ Question: How many **issues** related to the source code are happening during a 
 
 **Goal:**  
 Efficiency - Learn how effective new code is merged into the code base.  
-
 Question: How efficient is the project in **reviewing** proposed changes to the code, during a certain time period?  
 
 | **Metric** | **Question** | **Comment**
