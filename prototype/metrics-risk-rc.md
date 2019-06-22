@@ -6,8 +6,8 @@ Risk Repository: https://github.com/chaoss/wg-risk
 **Goal:**  
 Understand the potential intellectual property(IP) issues associated with a given software package’s use.
 
-| **Metric** | **Question** | **Comment**
-|---|---|---|
+**Metric** | **Question** | **Comment**
+---|---|---
 [License Count]() | How many different licenses are there? | [Link]()
 [License Coverage]() | How much of the code base has declared licenses? | [Link]()
 [License Declared]() | What are the declared software package licenses? | [Link]()
@@ -17,8 +17,8 @@ Understand the potential intellectual property(IP) issues associated with a give
 **Goal:**  
 Understand security processes and procedures associated with the software’s development.
 
-**Metric** | **Question** |**Comment**
----|---|---|
+**Metric** | **Question** | **Comment**
+---|---|---
 [CII Best Practices Badge]() | Does the software have security certification? | [Link]()
 
 ### Focus Area - Transparency
@@ -27,5 +27,5 @@ Understand security processes and procedures associated with the software’s de
 Understand how transparent a given software package is with respect to dependencies, licensing (?), security processes, etc.
 
 **Metric** | **Question** |**Comment**
----|---|---|
+---|---|---
 [Bill of Materials]() | Does the software package have a standard expression of dependencies, licensing, and security-related issues? | [Link]()
