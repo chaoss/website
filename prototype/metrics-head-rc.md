@@ -8,7 +8,7 @@ Candidate Release: June 24th, 2019
 Comments Close: July 24th, 2019  
 Release Date: August 1st, 2019  
 
-Comments about about focus areas and associated metrics can be made by following the working group links provided for each individual metric. Comments about the format and presentation for the release on the website can be [here]().  
+Comments about focus areas and associated metrics can be made by following the working group links provided for each individual metric. Comments about the format and presentation for the release on the website can be [here]().  
 
 ## Release Table
 #### Common Metrics Focus Areas
