@@ -5,13 +5,14 @@ Scope: Aspects related to how the source code changes over time, and the mechani
 
 ### Focus Area - Code Development
 
-**Goal - Activity:**  
+**Goal:** 
+Activity: Learning about how much activity involved in changing (or adding) code
 
 Question: How many **changes** are happening to the source code, during a certain time period?
 
 | **Metric** | **Question** | **Comment**
 |---|---|---|
-| Code_Changes | What are the number of changes to the source code | [Link]()
+| Code_Changes | What are the number of changes to the source code? | [Link]()
 | Code_Changes_Lines | what are the aggregated number of lines touched in all changes? | [Link]()
 
 Question: How many **reviews** to proposed changes to the source code are happening during a certain time period?
@@ -30,7 +31,8 @@ Question: How many **issues** related to the source code are happening during a 
 | Issues_Active | What are the number of issues related to the source code that showed some activity during the period? | [Link]()
 | Issues_Closed | Waht are the number of issues related to the source code that were closed? | [Link]()
 
-**Goal - Efficiency:**  
+**Goal:** 
+Efficiency: Learn how effective new code is merged into the code base.
 
 Question: How efficient is the project in **reviewing** proposed changes to the code, during a certain time period?
 
