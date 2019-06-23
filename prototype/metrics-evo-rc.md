@@ -26,7 +26,7 @@ Question: How many **issues** related to the source code are happening during a 
 
 **Metric** | **Question** | **Comment**
 ---|---|---
-[Issues](https://chaoss.community/metric-issues) | What are the number of new issues related to the source code? | [Link](https://github.com/chaoss/wg-evolution/issues/186)
+[Issues New](https://chaoss.community/metric-issues) | What are the number of new issues related to the source code? | [Link](https://github.com/chaoss/wg-evolution/issues/186)
 [Issues Active](https://chaoss.community/metric-issues-active) | What are the number of issues related to the source code that showed some activity during the period? | [Link](https://github.com/chaoss/wg-evolution/issues/187)
 [Issues Closed](https://chaoss.community/metric-issues-closed) | What are the number of issues related to the source code that were closed? | [Link](https://github.com/chaoss/wg-evolution/issues/188)
 
