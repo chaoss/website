@@ -18,7 +18,7 @@ Question: How many **reviews** to proposed changes to the source code are happen
 
 **Metric** | **Question** | **Comment**
 ---|---|---
-[Reviews](https://chaoss.community/metric-reviews) | What are the number of new review requests for changes to the source code? [Link](https://github.com/chaoss/wg-evolution/issues/183)
+[Reviews](https://chaoss.community/metric-reviews) | What are the number of new review requests for changes to the source code? | [Link](https://github.com/chaoss/wg-evolution/issues/183)
 [Reviews Accepted](https://chaoss.community/metric-reviews-accepted) | How many reviews result in accepting the code change? | [Link](https://github.com/chaoss/wg-evolution/issues/184)
 [Reviews Declined](https://chaoss.community/metric-reviews-declined) | What are the number of reviews for changes to the source code that ended declining the change? | [Link](https://github.com/chaoss/wg-evolution/issues/185)
 
