@@ -10,18 +10,19 @@ Release Date: August 1st, 2019
 
 *Comments about focus areas and associated metrics can be made by following the working group links provided in the release tables. Comments about the format and presentation for the release on the website can be made [here](https://github.com/chaoss/website/issues/182). The comment period will remain open for 30 days starting June 24th with and ending July 24th.*  
 
-## Release Table
-#### Common Metrics Focus Areas
+## Release Table (organized by Working Group)
+#### Common Metrics WG Focus Areas
 * [Organizational Affiliation](#user-content-focus-area---organizational-affiliation)
-#### Diversity and Inclusion Focus Areas
+#### Diversity and Inclusion WG Focus Areas
 * [Event Diversity](#user-content-focus-area---event-diversity)
+* [Governance](#user-content-focus-area---governance)
 * [Leadership](#user-content-focus-area---leadership)
-#### Evolution Focus Areas
+#### Evolution WG Focus Areas
 * [Code Development](#user-content-focus-area---code-development)
-#### Risk Focus Areas
+#### Risk WG Focus Areas
 * [Licensing](#user-content-focus-area---licensing)
 * [Security](#user-content-focus-area---security)
-* [Transparency](#user-content---transparency)
-#### Value Focus Areas
-* No release in this cycle
+* [Transparency](#user-content-focus-area---transparency)
+#### Value WG Focus Areas
+* No metrics in this release cycle
 
