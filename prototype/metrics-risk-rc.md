@@ -11,6 +11,16 @@ Understand how active a community exists around/to support a given software pack
 [Elephant Factor](https://chaoss.community/metric-elephant-factor/) | What is the distribution of work in the community? | [Link](https://github.com/chaoss/wg-risk/issues/15)
 [Committers](https://chaoss.community/metric-committers/) | How robust and diverse are the contributors to a community? | [Link](https://github.com/chaoss/wg-risk/issues/16)
 
+### Focus Area - Code Quality
+
+**Goal:**  
+Understand the quality of a given software package.
+
+**Metric** | **Question** |**Comment**
+---|---|---
+[Test Coverage](https://chaoss.community/metric-test-coverage/) | How well is the code tested? | [Link](https://github.com/chaoss/wg-risk/issues/22)
+
+
 ### Focus Area - Licensing
 
 **Goal:**  
