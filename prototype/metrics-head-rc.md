@@ -24,5 +24,5 @@ Release Date: August 1st, 2019
 * [Security](#user-content-focus-area---security)
 * [Transparency](#user-content-focus-area---transparency)
 #### Value WG
-* [No metrics in this release](#user-content-Value-WG)
+* [No metrics in this release](#user-content-there-is-no-release-for-value-this-cycle)
 
