@@ -1,6 +1,16 @@
 ## Risk
 Risk Repository: https://github.com/chaoss/wg-risk
 
+### Focus Area - Business Risk
+
+**Goal:**  
+Understand how active a community exists around/to support a given software package.
+
+**Metric** | **Question** | **Comment**
+---|---|---
+[Elephant Factor]() | What is the distribution of work in the community? | [Link]()
+[Committers]() | How robust and diverse are the contributors to a community? | [Link]()
+
 ### Focus Area - Licensing
 
 **Goal:**  
