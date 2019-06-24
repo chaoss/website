@@ -18,8 +18,7 @@ Understand the quality of a given software package.
 
 **Metric** | **Question** |**Comment**
 ---|---|---
-[Test Coverage](https://chaoss.community/metric-test-coverage/) | How well is the code tested? | [Link](https://github.com/chaoss/wg-risk/issues/22)
-
+[Test Coverage](https://chaoss.community/metric-test-coverage/) | How well is the code tested? | [Link](https://github.com/chaoss/wg-risk/issues/23)
 
 ### Focus Area - Licensing
 
