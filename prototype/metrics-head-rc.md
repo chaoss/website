@@ -10,7 +10,7 @@ Release Date: August 1st, 2019
 
 *Comments about focus areas and associated metrics can be made by following the working group links provided in the release tables. Comments about the format and presentation for the release on the website can be made [here](https://github.com/chaoss/website/issues/182). The comment period will remain open for 30 days starting June 24th with and ending July 24th.*  
 
-## Focus Areas in each Working Group
+## Focus Areas by Working Group
 #### Common Metrics WG
 * [Organizational Affiliation](#user-content-focus-area---organizational-affiliation)
 #### Diversity and Inclusion WG
