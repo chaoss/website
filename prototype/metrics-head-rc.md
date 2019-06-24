@@ -20,8 +20,8 @@ Release Date: August 1st, 2019
 #### Evolution WG
 * [Code Development](#user-content-focus-area---code-development)
 #### Risk WG
+* [Business Risk](#user-content-focus-area---business-risk)
 * [Licensing](#user-content-focus-area---licensing)
-* [Security](#user-content-focus-area---security)
 * [Transparency](#user-content-focus-area---transparency)
 #### Value WG
 * [No metrics in this release](#user-content-there-is-no-release-for-value-this-cycle)
