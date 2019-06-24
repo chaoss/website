@@ -21,6 +21,7 @@ Release Date: August 1st, 2019
 * [Code Development](#user-content-focus-area---code-development)
 #### Risk WG
 * [Business Risk](#user-content-focus-area---business-risk)
+* [Code Quality](#user-content-focus-area---code-quality)
 * [Licensing](#user-content-focus-area---licensing)
 * [Transparency](#user-content-focus-area---transparency)
 #### Value WG
