@@ -25,5 +25,6 @@ Release Date: August 1st, 2019
 * [Licensing](#user-content-focus-area---licensing)
 * [Transparency](#user-content-focus-area---transparency)
 #### Value WG
-* [No metrics in this release](#user-content-there-is-no-release-for-value-this-cycle)
+* [Labor Investment](#user-content-focus-area---labor-investment)
+* [Living Wage](#user-content-focus-area---living-wage)
 
