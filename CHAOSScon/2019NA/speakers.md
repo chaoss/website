@@ -105,11 +105,7 @@ Please see LinkedIn for information about Harish: http://linkedin.com/in/harishp
 
 ### Jana Gallus
 
-![Jana Gallus](https://chaoss.github.io/website/CHAOSScon/2019NA/img/JanaGallus.png)
-
 _Assistant Professor - UCLA_
-
-[@janagallus](https://twitter.com/janagallus)
 
 > Session: **Keynote**
 
@@ -215,10 +211,6 @@ Before joining Bitergia, I have been a Phd student at IBM France and postdoctora
 
 ### Zaheda Bhorat 
 
-![Zaheda Bhorat](https://chaoss.github.io/website/CHAOSScon/2019NA/img/ZahedaBhorat.png)
-
 _Head of Open Source Strategy - Amazon Web Services_
-
-Passion for empowering users with emerging and open technologies to improve their daily lives. Leverage my deep experience in building and managing disruptive online services with innovative, and collaborative tools, techniques and communities. [@zahedab](https://twitter.com/zahedab)
 
 > Session: **Keynote**
