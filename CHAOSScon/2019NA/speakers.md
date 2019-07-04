@@ -7,7 +7,7 @@
 
 _Open Source Community Manager - Indeed.com_
 
-Alison is the Open Source Community Manager at Indeed. Prior to joining Indeed, Alison led the global social media efforts at Cloudera, Informatica, and SunPower. She built the Cloudera and Informatica social media programs from the ground up, scaling globally, and spoke at Dreamforce and SXSW. Alison also was part of the Corporate Communications team that led Cloudera through IPO. Additionally, at Cloudera, Alison helped lead Cloudera Cares, Cloudera's philanthropic arm. Under Alison's management, Cloudera Cares evolved from a grassroots volunteer movement to an organized initiative that develops meaningful partnerships with non-profits. In her role with Cloudera Cares, Alison developed partnerships with the National Center for Missing and Exploited Children (NCMEC), DataKind, Thorn, Bay Area Discovery Museum, and more. Alison holds a B.A. in Communication from the University of California, Davis. 
+Alison is the Open Source Community Manager at Indeed. Prior to joining Indeed, Alison led the global social media efforts at Cloudera, Informatica, and SunPower. She built the Cloudera and Informatica social media programs from the ground up, scaling globally, and spoke at Dreamforce and SXSW. Alison also was part of the Corporate Communications team that led Cloudera through IPO. Additionally, at Cloudera, Alison helped lead Cloudera Cares, Cloudera's philanthropic arm. Under Alison's management, Cloudera Cares evolved from a grassroots volunteer movement to an organized initiative that develops meaningful partnerships with non-profits. In her role with Cloudera Cares, Alison developed partnerships with the National Center for Missing and Exploited Children (NCMEC), DataKind, Thorn, Bay Area Discovery Museum, and more. Alison holds a B.A. in Communication from the University of California, Davis. [@alisonjudy](https://twitter.com/alisonjudy)
 
 > Session: **Jumpstarting an OSPO and How to Measure Internal Community Success**
 >
@@ -74,7 +74,7 @@ Brian is a Senior Principal Community Architect for the Red Hat Open Source Prog
 
 _Director of Sales - Bitergia_
 
-Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning.
+Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning. [@GeorgLink](https://twitter.com/georglink)
 
 > Session: **Diversity & Inclusion WG Tutorial**
 >
@@ -94,6 +94,7 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 _Head, Community Architecture and Leadership - Red Hat_
 
 Please see LinkedIn for information about Harish: http://linkedin.com/in/harishpillay
+[@harishpillay](https://twitter.com/harishpillay)
 
 > Session: **Morality and Ethics in Software: Can it be measured?**
 > 
