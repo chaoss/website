@@ -1,7 +1,13 @@
-## Speakers and Session Description
+## Speakers and Session Descriptions
 
 
 #### Alison Yu
+
+![Alison Yu](https://chaoss.github.io/website/CHAOSScon/2019NA/img/AlisonYu.png)
+
+_Open Source Community Manager - Indeed.com_
+
+Alison is the Open Source Community Manager at Indeed. Prior to joining Indeed, Alison led the global social media efforts at Cloudera, Informatica, and SunPower. She built the Cloudera and Informatica social media programs from the ground up, scaling globally, and spoke at Dreamforce and SXSW. Alison also was part of the Corporate Communications team that led Cloudera through IPO. Additionally, at Cloudera, Alison helped lead Cloudera Cares, Cloudera's philanthropic arm. Under Alison's management, Cloudera Cares evolved from a grassroots volunteer movement to an organized initiative that develops meaningful partnerships with non-profits. In her role with Cloudera Cares, Alison developed partnerships with the National Center for Missing and Exploited Children (NCMEC), DataKind, Thorn, Bay Area Discovery Museum, and more. Alison holds a B.A. in Communication from the University of California, Davis. 
 
 > Session: **Jumpstarting an OSPO and How to Measure Internal Community Success**
 >
@@ -92,9 +98,13 @@ Please see LinkedIn for information about Harish: http://linkedin.com/in/harishp
 
 #### Jana Gallus
 
+![Jana Gallus](https://chaoss.github.io/website/CHAOSScon/2019NA/img/JanaGallus.png)
+
 _Assistant Professor - UCLA_
 
 [@janagallus](https://twitter.com/janagallus)
+
+> Session: **Keynote**
 
 
 #### J. Manrique López
@@ -136,6 +146,15 @@ Ray is a Community Manager at GitLab where he is helping to grow the community o
 > There are plenty of metrics available to measure various aspects of your community ranging from contributors, contributors’ activities, followers on social media, event attendees, etc. However, what exactly are these metrics telling us and do they always tell the same story?   Metrics (and numbers in general) can give people a false sense of clarity and even worse, people can draw wrong conclusions from metrics when they lack proper context. So how and when should metrics be used?   In this session, Ray will discuss how metrics are used at GitLab to assess support for community members across different phases of the contributor journey.  Ray will also discuss how community metrics at GitLab has evolved over time and how it needs to continue to evolve as the GitLab community grows.
 
 
+#### Santiago Dueñas
+
+![SantiagoDuenas](https://chaoss.github.io/website/CHAOSScon/2019NA/img/SantiagoDuenas.png)
+
+_CTO - Bitergia_
+
+Santiago Dueñas is an open source advocate and a CTO at Bitergia. He is part of CHAOSS community and currently leads the development of GrimoireLab platform. Before joining Bitergia, Santiago was part of LibreSoft, a research team at Universidad Rey Juan Carlos, where he studied different facets of libre software such as development processes, coordination and involvement in open source projects and their communities. [@sduenasd](https://twitter.com/sduenasd)
+
+
 #### Sean Goggins
 
 ![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2019NA/img/SeanGoggins.png)
@@ -171,6 +190,10 @@ Before joining Bitergia, I have been a Phd student at IBM France and postdoctora
 
 #### Zaheda Bhorat 
 
+![Zaheda Bhorat](https://chaoss.github.io/website/CHAOSScon/2019NA/img/ZahedaBhorat.png)
+
 _Head of Open Source Strategy - Amazon Web Services_
 
-[@zahedab](https://twitter.com/zahedab)
+Passion for empowering users with emerging and open technologies to improve their daily lives. Leverage my deep experience in building and managing disruptive online services with innovative, and collaborative tools, techniques and communities. [@zahedab](https://twitter.com/zahedab)
+
+> Session: **Keynote**
