@@ -105,8 +105,6 @@ Please see LinkedIn for information about Harish: http://linkedin.com/in/harishp
 
 ### Jana Gallus
 
-_Assistant Professor - UCLA_
-
 > Session: **Keynote**
 
 
@@ -210,7 +208,5 @@ Before joining Bitergia, I have been a Phd student at IBM France and postdoctora
 <hr>
 
 ### Zaheda Bhorat 
-
-_Head of Open Source Strategy - Amazon Web Services_
 
 > Session: **Keynote**
