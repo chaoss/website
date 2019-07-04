@@ -13,7 +13,7 @@
  <tr><td>11:30 - 12:00</td><td>Lightning Talks, 5 min each (sign-up on site)</td><td>&nbsp;</td></tr>
  <tr><td>12:00 - 1:30</td><td>Lunch</td><td>&nbsp;</td></tr>
  <tr><td>1:30 - 2:00</td><td>Keynote: <a href="#user-content-jana-gallus">Jana Gallus</a></td><td>&nbsp;</td></tr>
- <tr><td rowspan=3>2:00 - 3:15</td><td><a href="#user-content-harish-pillay">Harish Pillay</a>: Morality and Ethics in Software: Can it be measured?</td><td rowspan=3><a href="#j-manrique-lopez">J. Manrique López</a> and <a href="#user-content-santiago-dueñas">Santiago Dueñas</a>: Dive into GrimoireLab</td></tr>
+ <tr><td rowspan=3>2:00 - 3:15</td><td><a href="#user-content-harish-pillay">Harish Pillay</a>: Morality and Ethics in Software: Can it be measured?</td><td rowspan=3><a href="#user-content-j-manrique-lopez">J. Manrique López</a> and <a href="#user-content-santiago-dueñas">Santiago Dueñas</a>: Dive into GrimoireLab</td></tr>
  <tr><td><a href="#user-content-matt-snell">Matt Snell</a>: Implementing CII Best Practice Metrics & What it Really Means</td></tr>
  <tr><td><a href="#user-content-andy-leak">Andy Leak</a>: Chaoss Value Metrics Group</td></tr>
  <tr><td>3:15 - 3:45</td><td>Break</td><td>&nbsp;</td></tr>
