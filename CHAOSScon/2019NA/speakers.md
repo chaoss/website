@@ -110,7 +110,7 @@ Please see LinkedIn for information about Harish: http://linkedin.com/in/harishp
 
 <hr>
 
-### J. Manrique López
+### J. Manrique Lopez
 
 ![J. Manrique Lopez](https://chaoss.github.io/website/CHAOSScon/2019NA/img/JManriqueLopez.png)
 

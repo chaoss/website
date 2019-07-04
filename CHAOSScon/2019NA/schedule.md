@@ -13,11 +13,11 @@
  <tr><td>11:30 - 12:00</td><td>Lightning Talks, 5 min each (sign-up on site)</td><td>&nbsp;</td></tr>
  <tr><td>12:00 - 1:30</td><td>Lunch</td><td>&nbsp;</td></tr>
  <tr><td>1:30 - 2:00</td><td>Keynote: <a href="#user-content-jana-gallus">Jana Gallus</a></td><td>&nbsp;</td></tr>
- <tr><td rowspan=3>2:00 - 3:15</td><td><a href="#user-content-harish-pillay">Harish Pillay</a>: Morality and Ethics in Software: Can it be measured?</td><td rowspan=3><a href="##j-manrique-l%C3%B3pez">J. Manrique López</a>: and <a href="#user-content-santiago-dueñas">Santiago Dueñas</a>: Dive into GrimoireLab</td></tr>
+ <tr><td rowspan=3>2:00 - 3:15</td><td><a href="#user-content-harish-pillay">Harish Pillay</a>: Morality and Ethics in Software: Can it be measured?</td><td rowspan=3><a href="#j-manrique-lopez">J. Manrique López</a> and <a href="#user-content-santiago-dueñas">Santiago Dueñas</a>: Dive into GrimoireLab</td></tr>
  <tr><td><a href="#user-content-matt-snell">Matt Snell</a>: Implementing CII Best Practice Metrics & What it Really Means</td></tr>
  <tr><td><a href="#user-content-andy-leak">Andy Leak</a>: Chaoss Value Metrics Group</td></tr>
  <tr><td>3:15 - 3:45</td><td>Break</td><td>&nbsp;</td></tr>
- <tr><td rowspan=3>3:45 - 5:00</td><td><a href="#user-content-valerio-cosentino">Valerio Cosentino</a>: and <a href="#user-content-georg-link">Georg Link</a>: Two different philosophies on measuring open source project health: Comparing GrimoireLab and CROSSMINER</td><td rowspan=3><a href="#user-content-sean-goggins">Sean Goggins</a>: Augur Workshop</td></tr>
+ <tr><td rowspan=3>3:45 - 5:00</td><td><a href="#user-content-valerio-cosentino">Valerio Cosentino</a> and <a href="#user-content-georg-link">Georg Link</a>: Two different philosophies on measuring open source project health: Comparing GrimoireLab and CROSSMINER</td><td rowspan=3><a href="#user-content-sean-goggins">Sean Goggins</a>: Augur Workshop</td></tr>
  <tr><td><a href="#user-content-alison-yu">Alison Yu</a>: Jumpstarting an OSPO and How to Measure Internal Community Success</td></tr>
  <tr><td><a href="#user-content-ray-paik">Ray Paik</a>: What do all these metrics tell us about our communities?</tr>
  <tr><td>5:00</td><td>closing remarks</td><td></td></tr>
