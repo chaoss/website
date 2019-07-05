@@ -1,4 +1,5 @@
 # Schedule: August 20, 2019
+<div class="dynamo">
 <table>
 <thead><tr><th>Time</th><th>Room 1 </th><th>Room 2 </th></tr></thead><tbody>
  <tr><td>8:00 - 9:00</td><td>Registration & Networking</td><td>&nbsp;</td></tr>
@@ -20,3 +21,4 @@
  <tr><td><a href="#user-content-ray-paik">Ray Paik</a>: What do all these metrics tell us about our communities?</tr>
  <tr><td>5:00</td><td>closing remarks</td><td></td></tr>
 </tbody></table>
+</div>
