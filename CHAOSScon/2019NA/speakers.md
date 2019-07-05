@@ -26,7 +26,7 @@ Long experience in software development and business operations. Current project
 
 > Session: **Chaoss Value Metrics Group**
 >
-> The Chaoss Value Metrics Group started in Spring 2019.  In this talk, we will describe the Value Metrics and how they relate to Open Source Program Offices.  We will describe new software tools for measuring Economic Value, present the results of an email survey, and describe lessons learned in a series of interviews with Open Source Program Offices.  We'll discuss next steps, and potential efforts to build connections between OSPO offices for networking and learning.		
+> The CHAOSS Value Metrics Group started in Spring 2019.  In this talk, we will describe the Value Metrics and how they relate to Open Source Program Offices.  We will describe new software tools for measuring Economic Value, present the results of an email survey, and describe lessons learned in a series of interviews with Open Source Program Offices.  We'll discuss next steps, and potential efforts to build connections between OSPO offices for networking and learning.		
 
 
 <hr>
@@ -37,12 +37,12 @@ Long experience in software development and business operations. Current project
 
 _PhD Cand. / DevOps - Polytechnique Montreal_
 
-Ph.D. Cand.,   Software Engineering, MCIS -- Laboratory, École Polytechnique de Montréal.
+Ph.D. Candidate.,   Software Engineering, MCIS -- Laboratory, École Polytechnique de Montréal.
 OpenStack Member Level: Foundation Member.
 I am focused on empirical research on ecosystems software releases.  I apply mixed method research as a means to answer both the how and why in my findings, which is beneficiary to both the academic and industrial communities.  I am Using a DevOps approach with machine learning to make crucial decisions. Currently, I am involved with the release team of OpenStack and serving as the PC chair of AI and HPC track, for the submit at Denver 2019. Additionally, I am a Big Data analytics guy.
 Before my current experience, I had Worked on interesting software engineering topics for swarms of robots. Moreover, my expertise in cloud computing is an asset, which I bring along. In my thesis, I investigated the phenomena of live migrations and how we can apply both the supervised and reinforced learning technique (Machine learning algorithms) on live migration in the cloud.  
-I was part of the team; team lead on an exciting project at LASSENA Laboratory Montreal, Canada. My main task includes building test bench simulator for micro iBB black boxes for cars in other to reconstruct accident scenario to understand driver's behavior. 
-Currently, I am serving as a Science Judge for Quebec and Canada (Canada-Wide-Science) 
+I was part of the team; team lead on an exciting project at LASSENA Laboratory Montreal, Canada. My main task includes building test bench simulator for micro iBB black boxes for cars in other to reconstruct accident scenario to understand driver's behavior.
+Currently, I am serving as a Science Judge for Quebec and Canada (Canada-Wide-Science)
 Member of IEEE and ACM. [@foundjem](https://twitter.com/foundjem)
 
 
@@ -62,7 +62,7 @@ _Sr. Principal Community Architect - Red Hat_
 Brian is a Senior Principal Community Architect for the Red Hat Open Source Program Office, responsible for community content, onboarding, and open source consulting. Brian also serves on the governing board for Project CHAOSS, a metrics-oriented approach to ascertaining community health. [@TheTechScribe](https://twitter.com/TheTechScribe)
 
 > Session: **Open Sourcing for a Living: Determining Organizational Affiliations**
-> 
+>
 > The time for convincing organizations to participate in open source has long passed. No longer do projects have to encourage organizations to work with communities… now it has become a challenge trying to learn how much these organizations are involved! In this talk, Brian Proffitt will examine how Project CHAOSS is working to determine organizational influence, relationships, and diversity, and why these aspects of community health are key to a project’s well being!
 
 
@@ -97,15 +97,23 @@ Please see LinkedIn for information about Harish: http://linkedin.com/in/harishp
 [@harishpillay](https://twitter.com/harishpillay)
 
 > Session: **Morality and Ethics in Software: Can it be measured?**
-> 
-> Software drives everything. What drives software is algorithms.  We have been able to measure how "good" or "bad" a piece of  software is by various metrics as done by the Prorpsector  project. Is there a higher level of consideration around the the ethical basis of software and contrasting that with the morality of software and algorithms.   How should developers be driven when it comes to crafting ethical solutions if the morality of the developer is  challenged and vice versa? Is there an absolute moral code for developers? Ethical codes are crafted in many professions but there aren't moral codes. Is that an oversight.  THis talk will explore the nuances of ethics and morals  and propose some mental strategies in navigating these. It is not meant to be exhaustive nor definitive. There does not seem to be much by way of research in this field and one of the outcomes of this talk is to trigger the discussion and potentially finding a way to quantify, measure and  perhaps act on being ethical and moral in software development.
+>
+> Software drives everything. What drives software is algorithms.  We have been able to measure how "good" or "bad" a piece of  software is by various metrics as done by the Prospector  project. Is there a higher level of consideration around the the ethical basis of software and contrasting that with the morality of software and algorithms.   How should developers be driven when it comes to crafting ethical solutions if the morality of the developer is  challenged and vice versa? Is there an absolute moral code for developers? Ethical codes are crafted in many professions but there aren't moral codes. Is that an oversight.  This talk will explore the nuances of ethics and morals  and propose some mental strategies in navigating these. It is not meant to be exhaustive nor definitive. There does not seem to be much by way of research in this field and one of the outcomes of this talk is to trigger the discussion and potentially finding a way to quantify, measure and  perhaps act on being ethical and moral in software development.
 
 
 <hr>
 
 ### Jana Gallus
 
+![Jana Gallus](https://chaoss.github.io/website/CHAOSScon/2019NA/img/JanaGallus.png)
+
+_Assistant Professor - UCLA_
+
+Jana Gallus is an assistant professor in the strategy group at UCLA Anderson. Her research interests lie in behavioral economics and strategy, with a focus on non-financial incentives and their effects on decision-making. She investigates how incentive schemes can be designed to enhance employee motivation and organizational performance in the private and nonprofit sectors. Gallus’ work has been published or is forthcoming in Management Science, Strategic Management Journal, Labour Economics and Applied Economics, among other journals. Her research is informed by consulting activities for organizations on the design of incentives and recognition schemes. Gallus joined UCLA from Harvard, where she was a postdoctoral fellow. She received her Ph.D. in economics from the University of Zurich, with the distinction summa cum laude, and holds two master’s degrees, from Sciences Po Paris in France and the University of St. Gallen in Switzerland.
+
 > Session: **Keynote**
+>
+> Motivation and Incentives: An Evidence-Based Approach To Community Management
 
 
 <hr>
@@ -131,7 +139,7 @@ Manrique is the CEO and shareholder in Bitergia and a free, libre, open source s
 
 _Student-Developer - University of Nebraska at Omaha_
 
-I am a Bridge Lab student of the University of Nebraska at Omaha. I work under Matt Germonprez. I have developed for the Global Consent Manager project with Don Marti of Mozilla and presented the project at Mozfest 2018. More recently, I have been implementing risk metrics for Augur and enhancing its newcomer experience. [@msnell](https://twitter.com/msnell)
+Matt is a undergraduate student at the University of Nebraska at Omaha. Working with Dr. Matt Germonprez, he was part of the team that developed the Global Consent Manager. He presented this work at Mozfest 2018. His current focus is on implementing risk metrics for Augur and enhancing newcomer experience. [@msnell](https://twitter.com/msnell)
 
 > Session: **Implementing CII Best Practice Metrics & What it Really Means**
 >
@@ -157,7 +165,7 @@ Ray is a Community Manager at GitLab where he is helping to grow the community o
 
 ### Santiago Dueñas
 
-![SantiagoDuenas](https://chaoss.github.io/website/CHAOSScon/2019NA/img/SantiagoDuenas.png)
+![Santiago Duenas](https://chaoss.github.io/website/CHAOSScon/2019NA/img/SantiagoDuenas.png)
 
 _CTO - Bitergia_
 
@@ -180,7 +188,7 @@ Sean is an open source software researcher and a founding member of the Linux Fo
 
 > Session: **Augur Update: Value, Risk and Integrated Data**
 >
-> Risk and Value metrics are inititating a process of aggreggating CHAOSS metrics into new forms. Augur's integrated git, Issue tracker and code evaluation tools to address these needs in a new, consolidated data model, supported by GSoC students and ongoing development.  This presentation will review Augur in the context of Risk and Value metric implementations.
+> Risk and Value metrics are initiating a process of aggregating CHAOSS metrics into new forms. Augur's integrated git, Issue tracker and code evaluation tools to address these needs in a new, consolidated data model, supported by GSoC students and ongoing development.  This presentation will review Augur in the context of Risk and Value metric implementations.
 
 
 > Session: **Augur Workshop**
@@ -192,7 +200,7 @@ Sean is an open source software researcher and a founding member of the Linux Fo
 
 ### Valerio Cosentino
 
-![ValerioCosentino](https://chaoss.github.io/website/CHAOSScon/2019NA/img/ValerioCosentino.png)
+![Valerio Cosentino](https://chaoss.github.io/website/CHAOSScon/2019NA/img/ValerioCosentino.png)
 
 _Senior Software Developer - Bitergia_
 
@@ -207,6 +215,6 @@ Before joining Bitergia, I have been a Phd student at IBM France and postdoctora
 
 <hr>
 
-### Zaheda Bhorat 
+### Zaheda Bhorat
 
 > Session: **Keynote**
