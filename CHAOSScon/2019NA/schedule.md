@@ -2,7 +2,7 @@
 
 
 <table>
-<thead><tr><th>Time</th><th>Session</th></tr></thead><tbody>
+<thead><tr><th>Time / Room</th><th>Sessions</th></tr></thead><tbody>
  <tr><td>8:00 - 9:00</td><td>Registration & Networking</td></tr>
  <tr><td>9:00 - 9:15<br>Room 1</td><td>Welcome and Overview </td></tr>
  <tr><td>9:15 - 9:45<br>Room 1</td><td>Keynote: <a href="#user-content-zaheda-bhorat">Zaheda Bhorat</a></td></tr>
