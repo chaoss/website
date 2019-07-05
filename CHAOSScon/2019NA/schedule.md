@@ -1,5 +1,5 @@
 # Schedule: August 20, 2019
-<div class="dynamo">
+<div>
 <table>
 <thead><tr><th>Time</th><th>Room 1 </th><th>Room 2 </th></tr></thead><tbody>
  <tr><td>8:00 - 9:00</td><td>Registration & Networking</td><td>&nbsp;</td></tr>
