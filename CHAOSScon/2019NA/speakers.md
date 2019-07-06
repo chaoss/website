@@ -66,6 +66,19 @@ Brian is a Senior Principal Community Architect for the Red Hat Open Source Prog
 > The time for convincing organizations to participate in open source has long passed. No longer do projects have to encourage organizations to work with communities… now it has become a challenge trying to learn how much these organizations are involved! In this talk, Brian Proffitt will examine how Project CHAOSS is working to determine organizational influence, relationships, and diversity, and why these aspects of community health are key to a project’s well being!
 
 
+### Dawn Foster
+
+![Dawn Foster](https://chaoss.github.io/website/CHAOSScon/2019NA/img/DawnFoster.png)
+
+_Open Source Software Strategy Lead - Pivotal_
+
+Dawn works on OSS Strategy at Pivotal in London. She has more than 20 years of experience at companies like The Scale Factory, Puppet Labs, Intel, Jive Software, and others. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. Dawn is on the Governing Board of the Linux Foundation’s CHAOSS project and is a maintainer for the Diversity and Inclusion WG. She holds a PhD from the University of Greenwich along with an MBA and BS in Computer Science. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more. 
+
+> Session: **Diversity & Inclusion WG Tutorial**
+>
+> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Working group is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
+
+
 <hr>
 
 ### Georg Link
