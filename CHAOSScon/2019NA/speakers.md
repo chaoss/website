@@ -66,6 +66,8 @@ Brian is a Senior Principal Community Architect for the Red Hat Open Source Prog
 > The time for convincing organizations to participate in open source has long passed. No longer do projects have to encourage organizations to work with communities… now it has become a challenge trying to learn how much these organizations are involved! In this talk, Brian Proffitt will examine how Project CHAOSS is working to determine organizational influence, relationships, and diversity, and why these aspects of community health are key to a project’s well being!
 
 
+<hr>
+
 ### Dawn Foster
 
 ![Dawn Foster](https://chaoss.github.io/website/CHAOSScon/2019NA/img/DawnFoster.png)
