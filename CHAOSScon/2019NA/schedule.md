@@ -6,10 +6,10 @@
  <tr><td>9:00 - 9:15<br>Room 1</td><td>Welcome and Overview </td></tr>
  <tr><td>9:15 - 9:45<br>Room 1</td><td>Keynote: <a href="#user-content-zaheda-bhorat">Zaheda Bhorat</a></td></tr>
  <tr><td>9:45 - 10:15 </td><td>Break - Coffee and Snacks Provided Thanks to Our Sponsors</td></tr>
- <tr><td>10:15 - 11:30<br>Room 2</td><td><a href="#user-content-dawn-foster">Dawn Foster</a> and <a href="#user-content-georg-link">Georg Link</a>: Diversity & Inclusion WG Tutorial</td></tr>
  <tr><td rowspan=3>10:15 - 11:30<br>Room 1</td><td><a href="#user-content-brian-proffitt">Brian Proffitt</a>: Open Sourcing for a Living: Determining Organizational Affiliations</td></tr>
  <tr><td><a href="#user-content-sean-goggins">Sean Goggins</a>: Augur Update: Value, Risk and Integrated Data</td></tr>
  <tr><td><a href="#user-content-armstrong-foundjem">Armstrong Foundjem</a>: The On-boarding Experience and Software Ecosystem Health</td></tr>
+  <tr><td>10:15 - 11:30<br>Room 2</td><td><a href="#user-content-dawn-foster">Dawn Foster</a> and <a href="#user-content-georg-link">Georg Link</a>: Diversity & Inclusion WG Tutorial</td></tr>
  <tr><td>11:30 - 12:00<br>Room 1</td><td>Lightning Talks, 5 min each (sign-up on site)</td></tr>
  <tr><td>12:00 - 1:30<br>off-site</td><td>Lunch (on your own)</td></tr>
  <tr><td>1:30 - 2:00<br>Room 1</td><td>Keynote: <a href="#user-content-jana-gallus">Jana Gallus</a>: Motivation and Incentives: An Evidence-Based Approach To Community Management</td></tr>
