@@ -1,5 +1,5 @@
 # Schedule: August 20, 2019
-<font size="2" face="Courier New" >
+<sub>
 <div>
 <table>
 <thead><tr><th>Time / Room</th><th>Sessions</th></tr></thead><tbody>
@@ -26,4 +26,4 @@
  <tr><td>5:00<br>Sapphire H</td><td>closing remarks</td></tr>
 </tbody></table>
 </div>
- </font>
+ </sub>
