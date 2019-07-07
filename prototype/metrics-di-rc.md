@@ -6,12 +6,6 @@ D\&I Repository: https://github.com/chaoss/wg-diversity-inclusion
 **Goal:**  
 Identify the diversity and inclusion at events.
 
-**Metric** | **Question** | **Comment**
----|---|---
-[Diversity Access Tickets](https://chaoss.community/metric-diversity-access-tickets/) | How are Diversity Access Tickets used to support diversity and inclusion for an event? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/183)
-[Diversity Access Tickets](https://chaoss.community/metric-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/184)
-[Family Friendliness](https://chaoss.community/metric-family-friendliness/) | How does enabling families to attend together support diversity and inclusion of the event? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/185)
-
 <div>
 <table>
   <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
@@ -29,10 +23,6 @@ Identify the diversity and inclusion at events.
 **Goal:**  
 Identify how diverse and inclusive our governance is.
 
-**Metric** | **Question** |**Comment**
----|---|---
-[Code of Conduct](https://chaoss.community/metric-code-of-conduct) | How does the Code of Conduct for the project support diversity and inclusion? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/188)
-
 <div>
 <table>
   <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
@@ -46,10 +36,6 @@ Identify how diverse and inclusive our governance is.
 
 **Goal:**  
 Identify how healthy our community leadership is.
-
-**Metric** | **Question** |**Comment**
----|---|---
-[Mentorship](https://chaoss.community/metric-mentorship/) | How effective are our mentorship programs at supporting diversity and inclusion in our project? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/186)
 
 <div>
 <table>
