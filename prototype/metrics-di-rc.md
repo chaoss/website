@@ -9,8 +9,20 @@ Identify the diversity and inclusion at events.
 **Metric** | **Question** | **Comment**
 ---|---|---
 [Diversity Access Tickets](https://chaoss.community/metric-diversity-access-tickets/) | How are Diversity Access Tickets used to support diversity and inclusion for an event? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/183)
-[Code of Conduct at Event](https://chaoss.community/metric-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/184)
+[Diversity Access Tickets](https://chaoss.community/metric-code-of-conduct-at-event/) | How does the Code of Conduct for events support diversity and inclusion? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/184)
 [Family Friendliness](https://chaoss.community/metric-family-friendliness/) | How does enabling families to attend together support diversity and inclusion of the event? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/185)
+
+<div>
+<table>
+  <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
+<tbody>
+  <tr><td><a href="https://chaoss.community/metric-diversity-access-tickets/">Diversity Access Tickets</a></td><td>How are Diversity Access Tickets used to support diversity and inclusion for an event?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/183">Link</a></td></tr> 
+  <tr><td><a href="https://chaoss.community/metric-code-of-conduct-at-event/">Diversity Access Tickets</a></td><td>How does the Code of Conduct for events support diversity and inclusion?</td><td><a href="https://chaoss.community/metric-code-of-conduct-at-event/">Link</a></td></tr> 
+  <tr><td><a href="https://chaoss.community/metric-family-friendliness/">Family Friendliness</a></td><td>How does enabling families to attend together support diversity and inclusion of the event?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/185">Link</a></td></tr> 
+</tbody>
+</table> 
+</div>
+
 
 ### Focus Area - Governance
 
@@ -21,6 +33,15 @@ Identify how diverse and inclusive our governance is.
 ---|---|---
 [Code of Conduct](https://chaoss.community/metric-code-of-conduct) | How does the Code of Conduct for the project support diversity and inclusion? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/188)
 
+<div>
+<table>
+  <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
+<tbody>
+  <tr><td><a href="https://chaoss.community/metric-code-of-conduct/">Code of Conduct</a></td><td>How does the Code of Conduct for the project support diversity and inclusion?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/188">Link</a></td></tr> 
+</tbody>
+</table> 
+</div>
+
 ### Focus Area - Leadership
 
 **Goal:**  
@@ -29,3 +50,12 @@ Identify how healthy our community leadership is.
 **Metric** | **Question** |**Comment**
 ---|---|---
 [Mentorship](https://chaoss.community/metric-mentorship/) | How effective are our mentorship programs at supporting diversity and inclusion in our project? | [Link](https://github.com/chaoss/wg-diversity-inclusion/issues/186)
+
+<div>
+<table>
+  <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
+<tbody>
+  <tr><td><a href="https://chaoss.community/metric-mentorship/">Mentorship</a></td><td>How effective are our mentorship programs at supporting diversity and inclusion in our project?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/186">Link</a></td></tr> 
+</tbody>
+</table> 
+</div>
