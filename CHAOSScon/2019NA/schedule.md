@@ -1,6 +1,6 @@
 # Schedule: August 20, 2019
 <div>
- <font size="9" face="Courier New" >
+ <font size="2" face="Courier New" >
 <table>
 <thead><tr><th>Time / Room</th><th>Sessions</th></tr></thead><tbody>
  <tr><td>8:00 - 9:00</td><td>Registration & Networking</td></tr>
