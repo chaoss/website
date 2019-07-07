@@ -11,7 +11,7 @@ Identify the diversity and inclusion at events.
   <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-diversity-access-tickets/">Diversity Access Tickets</a></td><td>How are Diversity Access Tickets used to support diversity and inclusion for an event?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/183">Link</a></td></tr> 
-  <tr><td><a href="https://chaoss.community/metric-code-of-conduct-at-event/">Code of Conduct at Event</a></td><td>How does the Code of Conduct for events support diversity and inclusion?</td><td><a href="href="https://github.com/chaoss/wg-diversity-inclusion/issues/184">Link</a></td></tr> 
+  <tr><td><a href="https://chaoss.community/metric-code-of-conduct-at-event/">Code of Conduct at Event</a></td><td>How does the Code of Conduct for events support diversity and inclusion?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/184">Link</a></td></tr> 
   <tr><td><a href="https://chaoss.community/metric-family-friendliness/">Family Friendliness</a></td><td>How does enabling families to attend together support diversity and inclusion of the event?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/185">Link</a></td></tr> 
 </tbody>
 </table> 
