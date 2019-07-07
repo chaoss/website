@@ -1,7 +1,6 @@
 # Schedule: August 20, 2019
-<font size="-1">
 <div>
-<table>
+<table font size="-1">
 <thead><tr><th>Time / Room</th><th>Sessions</th></tr></thead><tbody>
  <tr><td>8:00 - 9:00</td><td>Registration & Networking</td></tr>
  <tr><td>9:00 - 9:15<br>Sapphire H</td><td>Welcome and Overview </td></tr>
@@ -26,4 +25,3 @@
  <tr><td>5:00<br>Sapphire H</td><td>closing remarks</td></tr>
 </tbody></table>
 </div>
- </font>
