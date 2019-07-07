@@ -1,5 +1,6 @@
 # Schedule: August 20, 2019
 <div>
+ <font size="9" face="Courier New" >
 <table>
 <thead><tr><th>Time / Room</th><th>Sessions</th></tr></thead><tbody>
  <tr><td>8:00 - 9:00</td><td>Registration & Networking</td></tr>
@@ -24,4 +25,5 @@
  <tr><td>3:45 - 5:00<br>Sapphire L</td><td><a href="#user-content-sean-goggins">Sean Goggins</a>: Augur Workshop</td></tr>
  <tr><td>5:00<br>Sapphire H</td><td>closing remarks</td></tr>
 </tbody></table>
+ </font>
 </div>
