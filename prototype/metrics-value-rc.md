@@ -6,11 +6,6 @@ Value Repository: https://github.com/chaoss/wg-value
 **Goal:**  
 Estimate the labor investment in open source projects.
 
-**Metric** | **Question** | **Comment**
----|---|---
-[Labor Investment](https://chaoss.community/metric-labor-investment/) | What was the cost of an organization for its employees to create the counted commits, issues, and pull requests (and other contributions)? | [Link](https://github.com/chaoss/wg-value/issues/29)
-[Project Velocity](https://chaoss.community/metric-project-velocity/) | What is the development speed for an organization? | [Link](https://github.com/chaoss/wg-value/issues/28)
-
 <div>
 <table>
   <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
@@ -25,11 +20,6 @@ Estimate the labor investment in open source projects.
 
 **Goal:**  
 Expanding opportunities for people to make a living wage in open source.
-
-**Metric** | **Question** | **Comment**
----|---|---
-[Organizational Users](https://chaoss.community/metric-organizational-users/) |  	Which organizations are using this project?  | [Link](https://github.com/chaoss/wg-value/issues/27)
-[Project Popularity](https://chaoss.community/metric-project-popularity/) | How popular is a project? -- Composite metric of: Number of Forks, Number of contributors, Organizational Users, Number of Sponsors? | [Link](https://github.com/chaoss/wg-value/issues/26)
 
 <div>
 <table>
