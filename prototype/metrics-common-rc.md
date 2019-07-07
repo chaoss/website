@@ -14,7 +14,7 @@ Understand organizational engagement with open source projects.
 <table>
   <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
 <tbody>
-  <tr><td>Organizational Diversity</td><td>What is the organizational diversity of contributions?</td><td>Link</td></tr> 
+  <tr><td><a href="https://chaoss.community/metric-organizational-diversity/">Organizational Diversity</a></td><td>What is the organizational diversity of contributions?</td><td><a href="https://github.com/chaoss/wg-common/issues/22">Link</a></td></tr> 
 </tbody>
 </table> 
 </div>
