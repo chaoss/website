@@ -163,6 +163,16 @@ Matt is a undergraduate student at the University of Nebraska at Omaha. Working 
 
 <hr>
 
+### Nicole Huesman
+
+
+> Session: **Diversity & Inclusion WG Tutorial**
+>
+> While it is recognized that diversity and inclusion are central to the health of open source communities, numbers lag and the ability to foster inclusive environments remains challenging. The CHAOSS Project’s Diversity & Inclusion Working group is focused on establishing a set of community-curated, peer-validated, research-informed standards and best practices to measure, and in turn, increase, diversity and inclusion across open source communities. In this interactive tutorial, you will contribute to this work by breaking into groups to define several diversity and inclusion metrics. Let’s work together to make our collective open source communities more welcoming, broader and heterogeneous.
+
+
+<hr>
+
 ### Ray Paik
 
 ![Ray Paik](https://chaoss.github.io/website/CHAOSScon/2019NA/img/RayPaik.png)
