@@ -4,7 +4,7 @@
 <thead><tr><th>Time / Room</th><th>Sessions</th></tr></thead><tbody>
  <tr><td>8:00 - 9:00</td><td>Registration & Networking</td></tr>
  <tr><td>9:00 - 9:15<br>Sapphire H</td><td>Welcome and Overview </td></tr>
- <tr><td>9:15 - 9:45<br>Sapphire H</td><td>Keynote: <a href="#user-content-zaheda-bhorat">Zaheda Bhorat</a></td></tr>
+ <tr><td>9:15 - 9:45<br>Sapphire H</td><td>Keynote: <a href="#user-content-zaheda-bhorat">Zaheda Bhorat</a>: Strategy and Data for Open Source Growth</td></tr>
  <tr><td>9:45 - 10:15 </td><td>Break - Coffee and Snacks Provided Thanks to Our Sponsors</td></tr>
  <tr><td>10:15 - 11:30<br>Sapphire L</td><td><a href="#user-content-dawn-foster">Dawn Foster</a>, <a href="#user-content-nicole-huesman">Nicole Huesman</a>, and <a href="#user-content-georg-link">Georg Link</a>: Diversity & Inclusion WG Tutorial</td></tr>
  <tr><td rowspan=3>10:15 - 11:30<br>Sapphire H</td><td><a href="#user-content-brian-proffitt">Brian Proffitt</a>: Open Sourcing for a Living: Determining Organizational Affiliations</td></tr>

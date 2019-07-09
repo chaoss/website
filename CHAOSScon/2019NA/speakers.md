@@ -242,4 +242,12 @@ Before joining Bitergia, I have been a Phd student at IBM France and postdoctora
 
 ### Zaheda Bhorat
 
-> Session: **Keynote**
+![Zaheda Bhorat](https://chaoss.github.io/website/CHAOSScon/2019NA/img/ZahedaBhorat.jpeg)
+
+_Head of Open Source Strategy - Amazon Web Services_
+
+Zaheda Bhorat is the head of open source strategy at AWS. A computer scientist, Zaheda is a longtime active contributor to open source and open standards communities. Previously, she shaped the first-ever open source program office at Google; launched successful programs, including Google Summer of Code; and represented Google on many industry standards executive boards across multiple technologies. She also served as a senior technology advisor for the Office of the CTO at the UK Government Digital Service, where she co-led the open standards policy, which is in use by the UK government on open document formats. Zaheda was responsible for OpenOffice.org, and later NetBeans.org, at Sun Microsystems, where she built a thriving global volunteer community and delivered the first user version, OpenOffice 1.0. Zaheda is passionate about technology, education, open source, and the positive impact of collaboration for social good. She serves on the UK government’s Open Standards Board, which determines the standards government should adopt. She also serves on the board of directors of the Mifos Initiative, an open source effort that is positioning financial institutions to become digitally connected providers of financial services to the poor. Zaheda speaks internationally on topics related to open source and social good.
+
+> Session: **Keynote: Strategy and Data for Open Source Growth**
+>
+> Data is key to informing a strategy. Over the last twenty years, open source projects have collected data to track and measure project and community growth.  As more enterprise developers have engaged in open source, companies have used this data to support different business models. How has the data and tools evolved, and what are successful projects, communities and companies measuring to inform strategies. 
