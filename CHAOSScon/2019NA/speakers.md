@@ -74,7 +74,7 @@ Brian is a Senior Principal Community Architect for the Red Hat Open Source Prog
 
 _Open Source Software Strategy Lead - Pivotal_
 
-Dawn works on OSS Strategy at Pivotal in London. She has more than 20 years of experience at companies like The Scale Factory, Puppet Labs, Intel, Jive Software, and others. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. Dawn is on the Governing Board of the Linux Foundation’s CHAOSS project and is a maintainer for the Diversity and Inclusion WG. She holds a PhD from the University of Greenwich along with an MBA and BS in Computer Science. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more. 
+Dawn works on OSS Strategy at Pivotal in London. She has more than 20 years of experience at companies like The Scale Factory, Puppet Labs, Intel, Jive Software, and others. She has expertise in community building, open source software, metrics, and more. She is passionate about bringing people together through a combination of online communities and real-world events along with analyzing the data associated with participation in developer and open source communities. Dawn is on the Governing Board of the Linux Foundation’s CHAOSS project and is a maintainer for the Diversity and Inclusion WG. She holds a PhD from the University of Greenwich along with an MBA and BS in Computer Science. She has spoken at dozens of industry events, including many Linux Foundation events, OSCON, SXSW, FOSDEM and more.
 
 > Session: **Diversity & Inclusion WG Tutorial**
 >
@@ -242,7 +242,7 @@ Before joining Bitergia, I have been a Phd student at IBM France and postdoctora
 
 ### Zaheda Bhorat
 
-![Zaheda Bhorat](https://chaoss.github.io/website/CHAOSScon/2019NA/img/ZahedaBhorat.jpeg)
+![Zaheda Bhorat](https://chaoss.github.io/website/CHAOSScon/2019NA/img/ZahedaBhorat.png)
 
 _Head of Open Source Strategy - Amazon Web Services_
 
@@ -250,4 +250,4 @@ Zaheda Bhorat is the head of open source strategy at AWS. A computer scientist, 
 
 > Session: **Keynote: Strategy and Data for Open Source Growth**
 >
-> Data is key to informing a strategy. Over the last twenty years, open source projects have collected data to track and measure project and community growth.  As more enterprise developers have engaged in open source, companies have used this data to support different business models. How has the data and tools evolved, and what are successful projects, communities and companies measuring to inform strategies. 
+> Data is key to informing a strategy. Over the last twenty years, open source projects have collected data to track and measure project and community growth.  As more enterprise developers have engaged in open source, companies have used this data to support different business models. How has the data and tools evolved, and what are successful projects, communities and companies measuring to inform strategies.
