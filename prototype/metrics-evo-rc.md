@@ -36,7 +36,7 @@ Question: How many **issues** related to the source code are happening during a 
 
 <div>
 <table>
-  <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
+  <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-issues">Issues New</a></td><td>What are the number of new issues related to the source code?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-issues-active">Issues Active</a></td><td>What are the number of issues related to the source code that showed some activity during the period?</td></tr>

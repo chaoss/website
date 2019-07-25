@@ -39,7 +39,7 @@ Identify how healthy our community leadership is.
 
 <div>
 <table>
-  <thead><tr><th>Metric</th><th>Question</th><th>Comment</th></tr></thead>
+  <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-mentorship/">Mentorship</a></td><td>How effective are our mentorship programs at supporting diversity and inclusion in our project?</td></tr>
 </tbody>
