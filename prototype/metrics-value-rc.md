@@ -25,7 +25,7 @@ Expanding opportunities for people to make a living wage in open source.
 <table>
   <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-organizational-users/">Organizational Users</a></td><td>Which organizations are using this project? </td><td><a href="https://github.com/chaoss/wg-value/issues/27">Link</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-organizational-impact/">Organizational Impact</a></td><td>Which organizations are using this project? </td></tr>
 </tbody>
 </table>
 </div>
