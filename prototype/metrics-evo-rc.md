@@ -26,8 +26,8 @@ Question: How many **reviews** to proposed changes to the source code are happen
   <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-reviews">Reviews</a></td><td>What new review requests for changes to the source code occurred during a certain period?</td></tr>
-  <tr><td><a href="https://chaoss.community/metric-reviews-accepted">Reviews Accepted</a></td><td>How many reviews result in accepting the code change?</td></tr>
-  <tr><td><a href="https://chaoss.community/metric-reviews-declined">Reviews Declined</a></td><td>What are the number of reviews for changes to the source code that ended declining the change?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-reviews-accepted">Reviews Accepted</a></td><td>How many accepted reviews are present in a code change?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-reviews-declined">Reviews Declined</a></td><td>What reviews of code changes  ended up declining the change during a certain period?</td></tr>
 </tbody>
 </table>
 </div>
