@@ -38,9 +38,9 @@ Question: How many **issues** related to the source code are happening during a 
 <table>
   <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-issues">Issues New</a></td><td>What are the number of new issues related to the source code?</td></tr>
-  <tr><td><a href="https://chaoss.community/metric-issues-active">Issues Active</a></td><td>What are the number of issues related to the source code that showed some activity during the period?</td></tr>
-  <tr><td><a href="https://chaoss.community/metric-issues-closed">Issues Closed</a></td><td>What are the number of issues related to the source code that were closed?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-issues">Issues New</a></td><td>What are the number of new issues created during a certain period?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-issues-active">Issues Active</a></td><td>What is the count of issues  that showed activity during a certain period?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-issues-closed">Issues Closed</a></td><td>What is the count of issues that were closed during a certain period?</td></tr>
 </tbody>
 </table>
 </div>
@@ -53,7 +53,7 @@ Question: How efficient is the project in **reviewing** proposed changes to the 
 <table>
   <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-reviews-accepted">Reviews Accepted</a></td><td>How many reviews result in accepting the code change?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-reviews-accepted">Reviews Accepted</a></td><td>How many accepted reviews are present in a code change?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-review-duration">Review Duration</a></td><td>How long are proposed changes reviewed before they are accepted?</td></tr>
 </tbody>
 </table>
