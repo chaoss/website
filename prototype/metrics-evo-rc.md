@@ -54,7 +54,7 @@ Question: How efficient is the project in **reviewing** proposed changes to the 
   <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-reviews-accepted">Reviews Accepted</a></td><td>How many accepted reviews are present in a code change?</td></tr>
-  <tr><td><a href="https://chaoss.community/metric-review-duration">Review Duration</a></td><td>How long are proposed changes reviewed before they are accepted?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-review-duration">Review Duration</a></td><td>What is the duration of time between the moment a code review starts and moment it is accepted?</td></tr>
 </tbody>
 </table>
 </div>
