@@ -13,7 +13,7 @@ Question: How many **changes** are happening to the source code, during a certai
 <table>
   <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-code-changes/">Code Changes</a></td><td>What are the number of changes to the source code?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-code-changes/">Code Changes</a></td><td>What changes were made to the source code during a specified period?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-code-changes-lines">Code Changes Lines</a></td><td>What are the aggregated number of lines touched in all changes?</td></tr>
 </tbody>
 </table>
