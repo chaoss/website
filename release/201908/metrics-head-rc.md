@@ -1,12 +1,6 @@
-# Metrics Candidate Release Page
+# CHAOSS Metrics (Release 201908)
 
-*Released metrics are only a subset of metric ideas that are being developed. If you would like to learn more and discuss different metrics please visit the working group repositories. Each working group identifies metrics that are candidates for release. The metrics are sorted into Focus Areas. CHAOSS uses a Goal-Question-Metric format to present metrics. Individual metrics are released based on identified goals and questions. The metrics include a detail page with definitions, objectives, and examples.*  
-
-### Important Dates
-Release Freeze: June 21st, 2019  
-Candidate Release: June 24th, 2019  
-Comments Close: July 24th, 2019  
-Release Date: August 5th, 2019  
+*Released metrics are only a subset of metric ideas that are being developed. If you would like to learn more and discuss different metrics please visit the working group repositories. The metrics are sorted into Focus Areas. CHAOSS uses a Goal-Question-Metric format to present metrics. Individual metrics are released based on identified goals and questions. The metrics include a detail page with definitions, objectives, and examples.*  
 
 ## Focus Areas by Working Group
 #### Common Metrics WG
@@ -25,3 +19,9 @@ Release Date: August 5th, 2019
 #### Value WG
 * [Labor Investment](#user-content-focus-area---labor-investment)
 * [Living Wage](#user-content-focus-area---living-wage)
+
+### Important Dates for Release 201908
+Release Freeze: June 21st, 2019  
+Candidate Release: June 24th, 2019  
+Comments Close: July 24th, 2019  
+Release Date: August 5th, 2019  
