@@ -23,5 +23,5 @@
 ### Important Dates for Release 201908
 Release Freeze: June 21st, 2019  
 Candidate Release: June 24th, 2019  
-Comments Close: July 24th, 2019  
-Release Date: August 5th, 2019  
+Public Comment Period: June 24th, 2019 to July 24th, 2019  
+Metrics Release Date: August 6th, 2019  
