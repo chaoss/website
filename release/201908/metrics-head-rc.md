@@ -6,7 +6,11 @@
 Release Freeze: June 21st, 2019  
 Candidate Release: June 24th, 2019  
 Comments Close: July 24th, 2019  
+<<<<<<< HEAD
+Release Date: August 1st, 2019  
+=======
 Release Date: August 5th, 2019  
+>>>>>>> 41792e789d0a3c36617e66f2b38de25e3cbdd98e
 
 ## Focus Areas by Working Group
 #### Common Metrics WG
