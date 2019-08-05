@@ -10,11 +10,7 @@ Estimate the labor investment in open source projects.
 <table>
   <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
-<<<<<<< HEAD
-  <tr><td><a href="https://chaoss.community/metric-labor-investment/">Labor Investment</a></td><td>What was the cost of an organization for its employees to create the counted commits, issues, and pull requests (and other contributions)?</td></tr>
-=======
   <tr><td><a href="https://chaoss.community/metric-labor-investment/">Labor Investment</a></td><td>What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?</td></tr>
->>>>>>> 41792e789d0a3c36617e66f2b38de25e3cbdd98e
   <tr><td><a href="https://chaoss.community/metric-project-velocity/">Project Velocity</a></td><td>What is the development speed for an organization?</td></tr>
 </tbody>
 </table>

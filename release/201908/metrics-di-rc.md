@@ -27,11 +27,7 @@ Identify how diverse and inclusive our governance is.
 <table>
   <thead><tr><th>Metric</th><th>Question</th></tr></thead>
 <tbody>
-<<<<<<< HEAD
-  <tr><td><a href="https://chaoss.community/metric-code-of-conduct/">Code of Conduct</a></td><td>How does the Code of Conduct for the project support diversity and inclusion?</td></tr>
-=======
   <tr><td><a href="https://chaoss.community/metric-code-of-conduct/">Code of Conduct for Project</a></td><td>How does the Code of Conduct for the project support diversity and inclusion?</td></tr>
->>>>>>> 41792e789d0a3c36617e66f2b38de25e3cbdd98e
 </tbody>
 </table>
 </div>
