@@ -26,4 +26,4 @@ Candidate Release: June 24th, 2019
 Public Comment Period: June 24th, 2019 to July 24th, 2019  
 Metrics Release Date: August 6th, 2019  
 
- <a href="https://github.com/chaoss/website/blob/master/release/201908/CHAOSS-Metrics-Release-201908.pdf" download> 
+ <a href="https://github.com/chaoss/website/blob/master/release/201908/CHAOSS-Metrics-Release-201908.pdf" download> Download a PDF of the 201908 Release</a>
