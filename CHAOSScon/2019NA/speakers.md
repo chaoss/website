@@ -3,7 +3,7 @@
 
 ### Dani Gellis
 
-![Dani Gellis](https://chaoss.github.io/website/CHAOSScon/2019NA/img/DaniGellis.png)
+![Dani Gellis](https://chaoss.github.io/website/CHAOSScon/2019NA/img/DaniGellis.jpg)
 
 _Software Engineer - Indeed.com_
 
