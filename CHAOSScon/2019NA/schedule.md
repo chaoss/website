@@ -20,7 +20,7 @@
  <tr><td>3:15 - 3:45</td><td>Break - Coffee and Snacks Provided Thanks to Our Sponsors</td></tr>
  <tr><td>3:45 - 5:00<br>Sapphire L</td><td><a href="#user-content-sean-goggins">Sean Goggins</a>: Augur Workshop</td></tr>
  <tr><td rowspan=3>3:45 - 5:00<br>Sapphire H</td><td><a href="#user-content-valerio-cosentino">Valerio Cosentino</a> and <a href="#user-content-georg-link">Georg Link</a>: Two different philosophies on measuring open source project health: Comparing GrimoireLab and CROSSMINER</td></tr>
- <tr><td><a href="#"></a>Dani Gellis: Starting Small & Getting Specific: How we asked and answered important metrics-related questions</td></tr>
+ <tr><td><a href="#"></a>Dani Gellis: Jumpstarting An OSPO and Measuring Its Growth</td></tr>
  <tr><td><a href="#user-content-ray-paik">Ray Paik</a>: What do all these metrics tell us about our communities?</tr>
  <tr><td>5:00<br>Sapphire H</td><td>closing remarks</td></tr>
 </tbody></table>
