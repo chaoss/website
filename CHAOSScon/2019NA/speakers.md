@@ -1,17 +1,21 @@
 ## Speakers and Session Descriptions
 
 
-### Alison Yu
+### Dani Gellis
 
-![Alison Yu](https://chaoss.github.io/website/CHAOSScon/2019NA/img/AlisonYu.png)
+![Dani Gellis](https://chaoss.github.io/website/CHAOSScon/2019NA/img/DaniGellis.png)
 
-_Open Source Community Manager - Indeed.com_
+_Software Engineer - Indeed.com_
 
-Alison is the Open Source Community Manager at Indeed. Prior to joining Indeed, Alison led the global social media efforts at Cloudera, Informatica, and SunPower. She built the Cloudera and Informatica social media programs from the ground up, scaling globally, and spoke at Dreamforce and SXSW. Alison also was part of the Corporate Communications team that led Cloudera through IPO. Additionally, at Cloudera, Alison helped lead Cloudera Cares, Cloudera's philanthropic arm. Under Alison's management, Cloudera Cares evolved from a grassroots volunteer movement to an organized initiative that develops meaningful partnerships with non-profits. In her role with Cloudera Cares, Alison developed partnerships with the National Center for Missing and Exploited Children (NCMEC), DataKind, Thorn, Bay Area Discovery Museum, and more. Alison holds a B.A. in Communication from the University of California, Davis. [@alisonjudy](https://twitter.com/alisonjudy)
+As a software engineer for Indeed's open source team, Dani builds tools to help people contribute back to the open source projects they use. She recently released indeedeng/starfish to help companies run their own FOSS Contributor Funds. 
 
-> Session: **Jumpstarting an OSPO and How to Measure Internal Community Success**
+Before learning to code, Dani worked at non-profits and and was a professional backpacking guide. She became passionate about social justice, interconnectedness, and sharing good ideas, and now brings those passions to her work as a technologist. 
+
+Dani is also an educator and experienced speaker who has given talks at Waffle.js, SCaLE, and more. She is always interested in talking about open source sustainability, learning to code, or your favorite place to go hiking.
+
+> Session: **Jumpstarting An OSPO and Measuring Its Growth**
 >
-> Getting buy-in for an Open Source Program Office (OSPO) can be tough. For a successful program, you need almost the entire company to buy-in, from executives to your marketing team to your engineering teams to your recruitment teams. And once you get that buy-in? Be prepared to measure and prove your success. In this talk, I'll go over how we got executive and marketing buy-in, and the different initiatives that are targeted to our internal audience. I'll also answer the mighty question: What metrics should we be tracking? You may be asking yourself, how do I get a sense of the community’s activity and growth? I'll go over the data that we collect as a team, and how we use that data to: show our success, update our community strategy, point out weaknesses, and eliminate obstacles as they arise. Disclaimer: No two communities are the same – but if they were, that wouldn’t be as fun.
+> When an OSPO is young, it’s especially important to focus on the values, goals, and actions that are most critical. You must also be prepared to measure and prove your progress toward those goals. In this talk, you will hear some tips for choosing the most useful things to focus on at different stages of the first years of your OSPO. You will also think about what questions you need to answer with the data you collect, and how you can prioritize gathering those specific metrics. I will talk about the decisions we made at Indeed regarding which questions to answer, and how to answer them. I will also share some insights about the tools we’ve used & built (including which tools can give you useful metrics with little effort), and how we’re adapting some of our tooling today to answer new questions as we grow and add new initiatives.
 
 
 <hr>
