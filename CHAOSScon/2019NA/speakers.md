@@ -13,7 +13,7 @@ Before learning to code, Dani worked at non-profits and and was a professional b
 
 Dani is also an educator and experienced speaker who has given talks at Waffle.js, SCaLE, and more. She is always interested in talking about open source sustainability, learning to code, or your favorite place to go hiking.
 
-> Session: **Jumpstarting An OSPO and Measuring Its Growth**
+> Session: **Finding Your Focus and Measuring Your Success as a Young OSPO**
 >
 > When an OSPO is young, it’s especially important to focus on the values, goals, and actions that are most critical. You must also be prepared to measure and prove your progress toward those goals. In this talk, you will hear some tips for choosing the most useful things to focus on at different stages of the first years of your OSPO. You will also think about what questions you need to answer with the data you collect, and how you can prioritize gathering those specific metrics. I will talk about the decisions we made at Indeed regarding which questions to answer, and how to answer them. I will also share some insights about the tools we’ve used & built (including which tools can give you useful metrics with little effort), and how we’re adapting some of our tooling today to answer new questions as we grow and add new initiatives.
 
