@@ -130,3 +130,4 @@ Zibby Keaton
 - Ray Paik, GitLab
 - Sean Goggins, University of Missouri
 - Wayne Beaton, Eclipse Foundation
+- Kate Stewart, Linux Foundation 
