@@ -10,16 +10,14 @@ We will also share insights from the CHAOSS workgroups on *Diversity and Inclusi
 
 ## Where?
 
-IBIS Hotel<br />
+Hotel ibis Brussels City Centre<br />
 Brussels, Belgium
 
 Co-located with FOSDEM
 
 ## When?
 
-TBD
-
-Some time around FOSDEM
+January 31, 2020
 
 ## Organizing Committee
 
