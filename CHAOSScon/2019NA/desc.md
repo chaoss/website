@@ -6,6 +6,7 @@ Learn about open source project health metrics and tools used by open source pro
 Hilton San Diego Bayfront  
 1 Park Boulevard  
 San Diego, California 92101  
+Room: Sapphire H
 
 Co-located with [Open Source Summit North America 2019](https://events.linuxfoundation.org/events/open-source-summit-north-america-2019/attend/about/)
 
