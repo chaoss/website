@@ -21,7 +21,7 @@
  <tr><td>3:45 - 5:00<br>Sapphire L</td><td><a href="#user-content-sean-goggins">Sean Goggins</a>: Augur Workshop</td><td></td></tr>
  <tr><td rowspan=3>3:45 - 5:00<br>Sapphire H</td><td><a href="#user-content-valerio-cosentino">Valerio Cosentino</a> and <a href="#user-content-georg-link">Georg Link</a>: Two different philosophies on measuring open source project health: Comparing GrimoireLab and CROSSMINER</td><td><a href="https://chaoss.github.io/website/CHAOSScon/2019NA/slides/CROSSMINER-and-GrimoireLab.pdf" target="_blank">PDF</a></td></tr>
  <tr><td><a href="#"></a>Dani Gellis: Finding Your Focus and Measuring Your Success as a Young OSPO</td><td></td></tr>
- <tr><td><a href="#user-content-ray-paik">Ray Paik</a>: What do all these metrics tell us about our communities?</tr>
+ <tr><td><a href="#user-content-ray-paik">Ray Paik</a>: What do all these metrics tell us about our communities?</td><td></td></tr>
  <tr><td>5:00<br>Sapphire H</td><td>closing remarks</td><td></td></tr>
 </tbody></table>
 </div>
