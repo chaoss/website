@@ -14,14 +14,14 @@
  <tr><td>12:00 - 1:30<br>off-site</td><td>Lunch (on your own)</td><td></td></tr>
  <tr><td>1:30 - 2:00<br>Sapphire H</td><td>Keynote: <a href="#user-content-jana-gallus">Jana Gallus</a>: Motivation and Incentives: An Evidence-Based Approach To Community Management</td><td><a href="https://chaoss.github.io/website/CHAOSScon/2019NA/slides/Gallus_CHAOSSconf_20190820.pdf" target="_blank">PDF</a></td></tr>
   <tr><td>2:00 - 3:15<br>Sapphire L</td><td><a href="#user-content-j-manrique-lopez">J. Manrique López</a> and <a href="#user-content-santiago-dueñas">Santiago Dueñas</a>: Dive into GrimoireLab</td><td></td></tr>
- <tr><td rowspan=3>2:00 - 3:15<br>Sapphire H</td><td><a href="#user-content-harish-pillay">Harish Pillay</a>: Morality and Ethics in Software: Can it be measured?</td><td></td></tr>
+ <tr><td rowspan=3>2:00 - 3:15<br>Sapphire H</td><td><a href="#user-content-harish-pillay">Harish Pillay</a>: Morality and Ethics in Software: Can it be measured?</td><td><a href="https://chaoss.github.io/website/CHAOSScon/2019NA/slides/Pillay_Morality-Ethics.pdf" target="_blank">PDF</a></td></tr>
  <tr><td><a href="#user-content-matt-snell">Matt Snell</a>: Implementing CII Best Practice Metrics & What it Really Means</td><td></td></tr>
  <tr><td><a href="#user-content-andy-leak">Andy Leak</a>: Chaoss Value Metrics Group</td><td></td></tr>
  <tr><td>3:15 - 3:45</td><td>Break - Coffee and Snacks Provided Thanks to Our Sponsors</td><td></td></tr>
  <tr><td>3:45 - 5:00<br>Sapphire L</td><td><a href="#user-content-sean-goggins">Sean Goggins</a>: Augur Workshop</td><td></td></tr>
  <tr><td rowspan=3>3:45 - 5:00<br>Sapphire H</td><td><a href="#user-content-valerio-cosentino">Valerio Cosentino</a> and <a href="#user-content-georg-link">Georg Link</a>: Two different philosophies on measuring open source project health: Comparing GrimoireLab and CROSSMINER</td><td><a href="https://chaoss.github.io/website/CHAOSScon/2019NA/slides/CROSSMINER-and-GrimoireLab.pdf" target="_blank">PDF</a></td></tr>
  <tr><td><a href="#"></a>Dani Gellis: Finding Your Focus and Measuring Your Success as a Young OSPO</td><td></td></tr>
- <tr><td><a href="#user-content-ray-paik">Ray Paik</a>: What do all these metrics tell us about our communities?</td><td></td></tr>
+ <tr><td><a href="#user-content-ray-paik">Ray Paik</a>: What do all these metrics tell us about our communities?</td><td><a href="https://chaoss.github.io/website/CHAOSScon/2019NA/slides/Paik_Metrics.pdf" target="_blank">PDF</a></td></tr>
  <tr><td>5:00<br>Sapphire H</td><td>closing remarks</td><td></td></tr>
 </tbody></table>
 </div>
