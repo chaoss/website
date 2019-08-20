@@ -13,7 +13,7 @@
  <tr><td>11:30 - 12:00<br>Sapphire H</td><td>Lightning Talks, 5 min each (sign-up on site)</td><td></td></tr>
  <tr><td>12:00 - 1:30<br>off-site</td><td>Lunch (on your own)</td><td></td></tr>
  <tr><td>1:30 - 2:00<br>Sapphire H</td><td>Keynote: <a href="#user-content-jana-gallus">Jana Gallus</a>: Motivation and Incentives: An Evidence-Based Approach To Community Management</td><td><a href="https://chaoss.github.io/website/CHAOSScon/2019NA/slides/Gallus_CHAOSSconf_20190820.pdf" target="_blank">PDF</a></td></tr>
-  <tr><td>2:00 - 3:15<br>Sapphire L</td><td><a href="#user-content-j-manrique-lopez">J. Manrique López</a> and <a href="#user-content-santiago-dueñas">Santiago Dueñas</a>: Dive into GrimoireLab</td><td></td></tr>
+  <tr><td>2:00 - 3:15<br>Sapphire L</td><td><a href="#user-content-j-manrique-lopez">J. Manrique López</a> and <a href="#user-content-santiago-dueñas">Santiago Dueñas</a>: Dive into GrimoireLab</td><td><a href="https://chaoss.github.io/website/CHAOSScon/2019NA/slides/Lopez_Workshop-GrimoireLab.pdf" target="_blank">PDF</a></td></tr>
  <tr><td rowspan=3>2:00 - 3:15<br>Sapphire H</td><td><a href="#user-content-harish-pillay">Harish Pillay</a>: Morality and Ethics in Software: Can it be measured?</td><td><a href="https://chaoss.github.io/website/CHAOSScon/2019NA/slides/Pillay_Morality-Ethics.pdf" target="_blank">PDF</a></td></tr>
  <tr><td><a href="#user-content-matt-snell">Matt Snell</a>: Implementing CII Best Practice Metrics & What it Really Means</td><td></td></tr>
  <tr><td><a href="#user-content-andy-leak">Andy Leak</a>: Chaoss Value Metrics Group</td><td></td></tr>
