@@ -14,7 +14,7 @@ The goal of the working groups is to refine the metrics and to work with softwar
 
 - [Diversity and Inclusion](https://github.com/chaoss/wg-diversity-inclusion)
 
-- [Growth-Maturity-Decline](https://github.com/chaoss/wg-gmd)
+- [Evolution](https://github.com/chaoss/wg-evolution)
 
 - [Common Metrics](https://github.com/chaoss/metrics)
 
