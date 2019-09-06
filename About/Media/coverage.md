@@ -5,6 +5,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2019
 
+* Santamarina, A. J. (2019, August 29). **Georg, a new Bitergian joins the nest!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/08/29/georg-a-new-bitergian-joins-the-nest/
+
 * TNS Staff. (2019, May 10). **How CHAOSS Measures Diversity; Windows Gets a Proper Terminal.** Retrieved from The New Stack (podcast) website: https://thenewstack.io/how-chaoss-measures-diversity-windows-gets-a-proper-terminal/
 
 * Link, G. J.P., & Conway, S. (2019, April 30). **How CHAOSS D&I Can Help Diversity in the Open Source Community.** Retrieved from The New Stack website: https://thenewstack.io/how-chaoss-di-can-help-diversity-in-the-open-source-community/
@@ -13,14 +15,19 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Lopez de la Fuente, J. M.. (2019, March 21). **4 questions Uber’s open source program office answers with data.** Retrieved March 23, 2019, from Opensource.com website: https://opensource.com/article/19/3/uber-open-source-data
 
+* Santamarina, A. J. (2019, March 12). **GrimoireLab and CHAOSS part of Google Summer Of Code!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/03/12/grimoirelab-and-chaoss-part-of-google-summer-of-code/
+
 * Irwin, E. (2019, March 4). **Open source is only ajar without inclusion.** Retrieved March 4, 2019, from https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion
 
 * Foga, S. (2019, February 19). **CHAOSSCon EU 2019, Open Source Metrics and CHAOSS, Ildiko Vancsa.** Retrieved February 20, 2019, from https://feathercast.apache.org/2019/02/19/chaosscon-eu-2019-open-source-metrics-and-chaoss-ildiko-vancsa/
+
+* Santamarina, A. J. (2019, February 12). **3 Panels to measure Project’s Health.** Retrieved September 6, 2019, from https://blog.bitergia.com/2019/02/12/3-panels-to-measure-projects-health/
 
 * Superuser. (2019, February 5). **Diversity in tech: Make your voice heard.** Retrieved February 20, 2019, from http://superuser.openstack.org/articles/diversity-in-tech-make-your-voice-heard/
 
 * Bethencourt, A. B. (2019, February 6). **FOSDEM 2019 and CHAOSS EU 2019 report.** Retrieved February 8, 2019, from https://toscalix.com/2019/02/06/fosdem-2019-and-chaoss-eu-2019-report/
 
+* Santamarina, A. J. (2019, January 15). **Bitergia owls everywhere! Join us at FOSDEM and CHAOSSCon 2019.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/01/15/bitergia-owls-everywhere-join-us-at-fosdem-and-chaosscon-2019/
 
 ### 2018
 
@@ -34,13 +41,23 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Courouble, A., & Hawley, J. (2018, October 9). **Reflections on CHAOSScon 2018.** Retrieved October 19, 2018, from https://blogs.vmware.com/opensource/2018/10/09/chaosscon-2018-reflections/
 
+* Santamarina, A. J. (2018, September 18). **Customizing Bitergia Analytics Dashboard for your goals and metrics.** Retrieved September 6, 2019, from https://blog.bitergia.com/2018/09/18/customizing-bitergia-analytics-dashboard-for-your-goals-and-metrics/
+
+* Lopez de la Fuente, J. M. (2018, September 4). **Back from CHAOSSCon and OSSummit.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2018/09/04/back-from-chaosscon-and-ossummit/
+
+* Lopez de la Fuente, J. M. (2018, August 22). **Let’s meet in Vancouver for CHAOSSCon and OSSNA.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2018/08/22/lets-meet-in-vancouver-for-chaosscon-and-ossna/
+
 * Ahuja, V., Marti, D., Link, G. J.P., Germonprez, M., & Goggins, S. P. (2018, May 23). **How to measure the impact of your open source project.** Retrieved May 23, 2018, from https://opensource.com/article/18/5/metrics-project-success
+
+* Fernández, M. Á. (2018, March 27). **Highlights from CHAOSSCon + FOSDEM 2018.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2018/03/27/highlights-from-chaosscon-fosdem-2018/
 
 ### 2017
 
 * Synopsys, Inc. (2017, October 31). 2017 Coverity Scan report. Retrieved from https://lists.linuxfoundation.org/pipermail/oss-health-metrics/2017-October/000218.html
 
 * Izquierdo, D. (2017, October 16). **How to define a metrics strategy for your community.** Retrieved February 13, 2019, from Opensource.com website: https://opensource.com/article/17/10/defining-metrics-strategy-your-community
+
+* Lopez de la Fuente, J. M. (2017, September 22). **CHAOSS related activities during Open Source Summit North America.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2017/09/22/chaoss-related-activities-during-open-source-summit-north-america/
 
 * Ankerholz, A. (2017, September 21). **Open Source Summit in Los Angeles: Day 1 in 5 Minutes**. Retrieved September 22, 2017, from https://www.linux.com/blog/open-source-summit-la/2017/9/open-source-summit-los-angeles-day-1-5-minutes and https://www.youtube.com/watch?v=3yl294IK1Vk
 
@@ -57,3 +74,5 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 * Zemlin, J. (2017, September 12). **If You Can’t Measure It, You Can’t Improve It: CHAOSS Project Creates Tools to Analyze Software Development and Measure Open Source Community Health.** Retrieved September 13, 2017, from https://www.linux.com/news/if-you-cant-measure-it-you-cant-improve-it-chaoss-project-creates-tools-analyze-software
 
 * Kerner, S. M. (2017, September 11). **Jim Zemlin Declares 2017 the Year of the Linux Desktop.** Retrieved September 13, 2017, from http://www.serverwatch.com/server-news/jim-zemlin-declares-2017-the-year-of-the-linux-desktop.html
+
+* Lopez de la Fuente, J. M. (2017, September 11). **CHAOSS has been released. And GrimoireLab is part of it!** Retrieved September 6, 2019, from https://blog.bitergia.com/2017/09/11/chaoss-has-been-released-and-grimoirelab-is-part-of-it/
