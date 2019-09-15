@@ -5,7 +5,10 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2019
 
+
 * Lawrence, J. (2019, August 11). **How to measure the health of an open source community.** Retrieved August 12, 2019, from: https://opensource.com/article/19/8/measure-project
+
+* Kerner, S. (2019, September 3). **CHAOSS project bringing order to open-source metrics.** LWN.Net. Retrieved from https://lwn.net/Articles/798066/
 
 * TNS Staff. (2019, May 10). **How CHAOSS Measures Diversity; Windows Gets a Proper Terminal.** Retrieved from The New Stack (podcast) website: https://thenewstack.io/how-chaoss-measures-diversity-windows-gets-a-proper-terminal/
 
