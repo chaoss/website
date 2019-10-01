@@ -12,12 +12,12 @@ that are appropriate for this conference, and then **[submit your proposal][subm
 
 ## Dates to Remember:
 
-CFP Opens: Tuesday, October 1, 2019
-CFP Closes: Saturday, November 30, 2019
-CFP Notifications: Monday, December 9, 2019
-Schedule Announcement: Thursday, December 12, 2019
-Slide Due Date: Tuesday, January 28, 2020
-Event Date: Friday, January 31, 2020
+* CFP Opens: Tuesday, October 1, 2019
+* CFP Closes: Saturday, November 30, 2019
+* CFP Notifications: Monday, December 9, 2019
+* Schedule Announcement: Thursday, December 12, 2019
+* Slide Due Date: Tuesday, January 28, 2020
+* Event Date: Friday, January 31, 2020
 
 ## Suggested Topics:
 
