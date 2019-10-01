@@ -1,5 +1,3 @@
-## Call for Participation
-
 # Call for Participation
 
 
@@ -55,8 +53,10 @@ While it is not our intention to provide you with strict instructions on how to 
 
 There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
 
+When you are ready: **[Submit your proposal][submit].** 
 
-### Session Types
+
+#### Session Types
 
 You will need to choose a session type when submitting:
 * Lightning Talk (5 minutes)
@@ -71,6 +71,7 @@ This is your chance to *sell* your talk to the program committee, so do your bes
 This is the abstract that will be posted on the website schedule, so please ensure that it is in complete sentences (and not just bullet points) and that it is written in the third person (use your name instead of I). Your abstract is limited to 1500 characters (~200 words).
 
 *Example: The proposed presentation will provide an overview and current status of the Linux Foundation's CHAOSS project. This will include a discussion of the CHAOSS project workgroups, with a particular focus on the technical advances that are being done with respect to understanding the growth, maturity, and decline of an open source project. The presentation will conclude with a discussion of future work of the CHAOSS project, as well as ways to become involved in the project.*
+
 
 ### Audience
 
@@ -90,9 +91,11 @@ In the instance that your talk is accepted, we want to make sure that you give t
 [Part 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw>) and 
 [Part 2](http://www.youtube.com/watch?v=gcOP4WQfJl4>)
 
+
 ## Submit proposal
 
 **[Submit your proposal][submit].** 
+
 
 # Schedule
 
