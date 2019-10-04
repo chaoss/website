@@ -5,11 +5,11 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2019
 
+* Kerner, S. (2019, September 3). **CHAOSS project bringing order to open-source metrics.** LWN.Net. Retrieved from https://lwn.net/Articles/798066/
+
 * Santamarina, A. J. (2019, August 29). **Georg, a new Bitergian joins the nest!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/08/29/georg-a-new-bitergian-joins-the-nest/
 
 * Lawrence, J. (2019, August 11). **How to measure the health of an open source community.** Retrieved August 12, 2019, from: https://opensource.com/article/19/8/measure-project
-
-* Kerner, S. (2019, September 3). **CHAOSS project bringing order to open-source metrics.** LWN.Net. Retrieved from https://lwn.net/Articles/798066/
 
 * TNS Staff. (2019, May 10). **How CHAOSS Measures Diversity; Windows Gets a Proper Terminal.** Retrieved from The New Stack (podcast) website: https://thenewstack.io/how-chaoss-measures-diversity-windows-gets-a-proper-terminal/
 
@@ -27,9 +27,9 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Santamarina, A. J. (2019, February 12). **3 Panels to measure Project’s Health.** Retrieved September 6, 2019, from https://blog.bitergia.com/2019/02/12/3-panels-to-measure-projects-health/
 
-* Superuser. (2019, February 5). **Diversity in tech: Make your voice heard.** Retrieved February 20, 2019, from http://superuser.openstack.org/articles/diversity-in-tech-make-your-voice-heard/
-
 * Bethencourt, A. B. (2019, February 6). **FOSDEM 2019 and CHAOSS EU 2019 report.** Retrieved February 8, 2019, from https://toscalix.com/2019/02/06/fosdem-2019-and-chaoss-eu-2019-report/
+
+* Superuser. (2019, February 5). **Diversity in tech: Make your voice heard.** Retrieved February 20, 2019, from http://superuser.openstack.org/articles/diversity-in-tech-make-your-voice-heard/
 
 * Santamarina, A. J. (2019, January 15). **Bitergia owls everywhere! Join us at FOSDEM and CHAOSSCon 2019.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/01/15/bitergia-owls-everywhere-join-us-at-fosdem-and-chaosscon-2019/
 
