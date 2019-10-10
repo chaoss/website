@@ -6,7 +6,7 @@ When I talk to people who tried to install GrimoireLab, I get one consistent ans
 
 On a side note, I know that the Augur maintainers are working to make it easier to install Augur as well. Hopefully, CHAOSS will have easy to use software tools that accompany its metrics.
 
-Back to GrimoireLab. When [I joined Bitergia](https://blog.bitergia.com/2019/08/29/georg-a-new-bitergian-joins-the-nest/), the company that invented and maintains GrimoireLab, I suggested a [dogfooding session](#link-to-be-added). The idea was to let the engineers who work on GrimoireLab every day sit back and coach other Bitergians through the installation process. The dogfooding session was fun and insightful.
+Back to GrimoireLab. When [I joined Bitergia](https://blog.bitergia.com/2019/08/29/georg-a-new-bitergian-joins-the-nest/), the company that invented and maintains GrimoireLab, I suggested a [dogfooding session](https://blog.bitergia.com/2019/10/10/dogfooding-grimoirelab/). The idea was to let the engineers who work on GrimoireLab every day sit back and coach other Bitergians through the installation process. The dogfooding session was fun and insightful.
 
 One insight was that the GrimoireLab tutorial is NOT the easiest way to get GrimoireLab up and running. It was easier to use a docker-compose solution that was piloted within Bitergia. I want to share how this works because it will be the foundation for an [improved GrimoireLab tutorial](https://github.com/chaoss/grimoirelab-tutorial/issues/91).
 
