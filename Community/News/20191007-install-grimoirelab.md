@@ -1,6 +1,6 @@
 # Simplifying how to install GrimoireLab
 
-By Georg Link
+By [Georg Link](https://www.linkedin.com/in/georglink)
 
 When I talk to people who tried to install GrimoireLab, I get one consistent answer. It is difficult and our [GrimoireLab tutorial](https://chaoss.github.io/grimoirelab-tutorial/) is too complicated. I believe this status quo is hurting the adoption of GrimoireLab software and CHAOSS metrics. This blog post is about how to make it easier for anyone to start using GrimoireLab. 
 
