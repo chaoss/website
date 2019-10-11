@@ -28,12 +28,12 @@ $ docker-machine --version
 ```
 
 
-![https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/1-Screenshot-of-checking-prerequisites.png](1. Screenshot of checking prerequisites)
+![1. Screenshot of checking prerequisites](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/1-Screenshot-of-checking-prerequisites.png)
 
 I found that by default, Docker is not assigned enough resources. Click on the Docker symbol in the top bar of and open Preferences. In the Advanced settings, make sure Docker has enough resources. I found 3 CPUs, 8GB Memory, and 2GB Swap to work for me.
 
 
-![https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/2-Screenshot-Docker-configuration.png](2. Screenshot of Docker configuration.png)
+![2. Screenshot of Docker configuration.png](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/2-Screenshot-Docker-configuration.png)
 
 Next, we need the docker-compose file and some setting files. They are currently in Bitergia’s [analytics-demo repository](https://gitlab.com/Bitergia/lab/analytics-demo) but will be added to the GrimoireLab Tutorial, [hopefully soon](https://github.com/chaoss/grimoirelab-tutorial/issues/91). We need to clone the repository to our local machine. I have my own way of organizing repositories that I clone, but it really does not matter where you store it. The important command to run now are for cloning the repository:
 
@@ -43,13 +43,13 @@ $ cd analytics-demo
 ```
 
 
-![https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/3-Screenshot-of-cloning-analytics-demo.png](3. Screenshot of cloning analytics-demo)
+![3. Screenshot of cloning analytics-demo](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/3-Screenshot-of-cloning-analytics-demo.png)
 
 
 The files that we just downloaded, specifically the [projects.json](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/projects.json), are configured to collect metrics about Cregit, Perceval, and Women in IT. Maybe take a look at the relevant [GrimoireLab tutorial section on the projects file](https://chaoss.github.io/grimoirelab-tutorial/sirmordred/projects.html) for details on how the file is built. For simplicity, I’m only leaving Perceval in the file and removing the other projects. 
 
 
-![https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/4-Screenshot-of-projects.json.png](4. Screenshot of projects.json)
+![4. Screenshot of projects.json](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/4-Screenshot-of-projects.json.png)
 
 
 **Pro-tip:** After editing the projects.json file, send it through a JSON validator (e.g., [JSONLint](https://jsonlint.com/), or [FreeFormatter](https://www.freeformatter.com/json-validator.html)) to check for syntax errors. 
@@ -57,12 +57,12 @@ The files that we just downloaded, specifically the [projects.json](https://gitl
 Next, we need to make sure that we have API access tokens set up correctly in the [setup.cfg](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/setup.cfg) file. The projects.json specifies GitHub, git, and pipermail as data sources. Of those, only [GitHub requires an API token](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line#creating-a-token), which can be generated in your [GitHub settings > Developer settings > Personal access tokens](https://github.com/settings/tokens). We can generate the API token without selecting a scope (i.e., do not check any boxes).
 
 
-![https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/5-Screenshot-for-GitHub-API-token.png](5. Screenshot for GitHub API YOUR_API_TOKEN_HERE)
+![5. Screenshot for GitHub API YOUR_API_TOKEN_HERE](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/5-Screenshot-for-GitHub-API-token.png)
 
 We need to make one more change because we removed the data source Meetup.com. We need to comment out (by putting “#” at the start of each line) the meetup configuration.
 
 
-![https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/6-Screenshot-comment-out-meetup-configuration.png](6. Screenshot comment out meetup configuration)
+![6. Screenshot comment out meetup configuration](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/6-Screenshot-comment-out-meetup-configuration.png)
 
 Now, we have configured GrimoireLab to begin collecting data. We configured what projects to collect data for the [projects.json](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/projects.json) and configured our access to the relevant data sources in the [setup.cfg](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/setup.cfg).
 
@@ -75,7 +75,7 @@ $ docker-compose up -d
 The first time we run this command, several downloads are started. Grab a coffee refill while we wait for the “done” signal.
 
 
-![https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/7-Screenshot-of-done-signal.png](7. Screenshot of done signal)
+![7. Screenshot of done signal](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/7-Screenshot-of-done-signal.png)
 
 
 If you get an error, try running `docker-compose up` without the `-d` flag. That will output all messages and give some insights to problems. For example, if an error reads something like “Error starting proxy: listen tcp 0.0.0.0:3306: bind: address already in use”, then you already have a program listening on a port, in this case port 3306 which would be the case if you are running an [AMP](https://en.wikipedia.org/wiki/List_of_Apache%E2%80%93MySQL%E2%80%93PHP_packages) with MySQL. In the scope of this blog post, I can only point out that this could be an issue but I have to assume that you can work through it yourself.
@@ -83,7 +83,7 @@ If you get an error, try running `docker-compose up` without the `-d` flag. That
 Once your containers are all started successfully, go to your favorite browser and look at the status by going to http://localhost:5601 
 
 
-![https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/8-Screenshot-of-status-page-with-error.png](8. Screenshot of status page with error)
+![8. Screenshot of status page with error](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/8-Screenshot-of-status-page-with-error.png)
 
 Let me guess, the Elasticsearch container is not running. This is a known problem, and a [solution is documented in the elastic documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html#docker-cli-run-prod-mode). To resolve the issue, run on your Mac ([read the doc for other operating systems](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html#docker-cli-run-prod-mode)):
 
