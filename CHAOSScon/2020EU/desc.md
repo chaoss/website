@@ -14,10 +14,9 @@ January 31, 2020
 
 ## Registration
 
-### Diversity and Inclusion
+Registration will open soon!
 
-Our code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-Registration Discounts/Scholarships
+### Diversity and Inclusion
 
 To encourage and increase the participation of a diverse community, we are pleased to offer waivers for registration based on diversity and need. To get a your registration waived, please contact [Georg Link](linkgeorg@gmail.com)
 
