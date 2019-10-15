@@ -12,6 +12,23 @@ Co-located with FOSDEM
 
 January 31, 2020
 
+## Registration
+
+### Diversity and Inclusion
+
+Our code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+Registration Discounts/Scholarships
+
+To encourage and increase the participation of a diverse community, we are pleased to offer waivers for registration based on diversity and need. To get a your registration waived, please contact [Georg Link](linkgeorg@gmail.com)
+
+All speakers and attendees are required to adhere to our [Event Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/).
+
+If you have any concerns regarding code of conduct issues prior to the event or during the event, please contact [Dawn Foster](dawn@dawnfoster.com) or [Georg Link](linkgeorg@gmail.com)
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the CHAOSS Code of Conduct Team at chaoss-inclusion@lists.linuxfoundation.org.
+
+***For [Emergency Services](https://www.brussels.be/emergency-services) please dial 112***
+
 ## Organizing Committee
 
 * Ahmed Zerouali
