@@ -5,4 +5,4 @@ The CHAOSS community meets every Tuesday at 11am CT (usually 18:00 CET, [check y
 
 <a href="https://chaoss.github.io/website/Participate/CHAOSS-Calendar_WeeklySync.ics">Add to calendar (ICS file)</a>.
 
-Join the [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss)
+Join the [CHAOSS mailing list](https://lists.linuxfoundation.org/mailman/listinfo/chaoss) and [#chaoss-community irc channel in FreeNode.net](https://webchat.freenode.net/?channel=#CHAOSS-community).
