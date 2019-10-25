@@ -3,6 +3,7 @@
 
 ## Submit a Proposal
 
+This conference is about open source metrics. 
 If you are interested in speaking at CHAOSSCon EU on Friday, January 31, 2020
 please read through the rest of this page to understand the types of talks
 that are appropriate for this conference, and then **[submit your proposal][submit].**  
@@ -19,14 +20,22 @@ that are appropriate for this conference, and then **[submit your proposal][subm
 
 ## Suggested Topics:
 
-- **Software related topics:**
+All submissions should relate to the CHAOSS project's mission of developing 
+metrics, methodologies, and software for expressing open source project 
+health and sustainability. By measuring open source project health and 
+sustainability, CHAOSS seeks to improve the transparency and 
+actionability of open source project health and sustainability so 
+that relevant stakeholders can make more informed decisions about 
+open source project engagement.
+
+- **Software related metrics topics:**
    + tutorials
    + walk throughs
    + demos
    + how-to's
    + new features
 
-- **Metric related topics:**
+- **Metrics related topics:**
    + metrics strategy
    + deep dive into the use of metrics
    + failure of metrics in practice

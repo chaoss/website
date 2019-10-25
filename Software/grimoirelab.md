@@ -9,6 +9,6 @@ GrimoireLab Website → https://chaoss.github.io/grimoirelab/
 
 GrimoireLab Code → https://github.com/chaoss/grimoirelab (see [README.md](https://github.com/chaoss/grimoirelab/blob/master/README.md) for links to all repos)
 
-GrimoireLab eating GrimoireLab → http://grimoirelab.biterg.io
+CHAOSS Community GrimoireLab dashboard → http://chaoss.biterg.io
 
 GrimoireLab Tutorial → https://chaoss.github.io/grimoirelab-tutorial
