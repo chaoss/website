@@ -20,7 +20,7 @@ This is the first time we charge a $10 fee for RSVPing to CHAOSScon. We'd like t
 
 ### Diversity and Inclusion
 
-To encourage and increase the participation of a diverse community, we are pleased to offer waivers for registration based on diversity and need. To get a your registration waived, please contact [Georg Link](linkgeorg@gmail.com)
+To encourage and increase the participation of a diverse community, we are pleased to offer waivers for registration based on diversity and need. To get a your registration waived, please [submit a request for a diversity access ticket](https://forms.gle/11vMAS46dyV6fHn87). For questions, please contact [Georg Link](linkgeorg@gmail.com)
 
 All speakers and attendees are required to adhere to our [Event Code of Conduct](https://events.linuxfoundation.org/about/code-of-conduct/).
 
