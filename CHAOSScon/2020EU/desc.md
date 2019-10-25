@@ -14,7 +14,9 @@ January 31, 2020
 
 ## Registration
 
-Registration will open soon!
+[Registration is now open!](https://www.eventbrite.com/e/chaosscon-europe-2020-tickets-76515900117)
+
+This is the first time we charge a $10 fee for RSVPing to CHAOSScon. We'd like to explain. At CHAOSScon NA 2019, interested people were discouraged from coming because they were on a waitlist but we had many empty seats due to no-shows. By charging a small amount, we hope to limit no-shows. The ticket fee will go towards providing coffee, tee, snacks, and serve lunch. Selected speakers will receive a free ticket. Anyone may request a free diversity access ticket.
 
 ### Diversity and Inclusion
 
