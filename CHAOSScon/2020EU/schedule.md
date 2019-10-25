@@ -45,8 +45,6 @@ open source project engagement.
 
 
 ## Important Notes
-
-- All speakers are required to adhere to our [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md).
 - One complimentary pass for the event will be provided per submission.
 - Do not propose sales or marketing pitches. Do not include unlicensed or potentially closed-source technologies when preparing your proposal. These talks will be rejected due to the fact that they take away from the integrity of our events and are rarely well-received by conference attendees.
 - All accepted speakers are required to submit their slides prior to the event.
@@ -62,7 +60,7 @@ While it is not our intention to provide you with strict instructions on how to 
 
 There are plenty of ways to give a presentation about projects and technologies without focusing on company-specific efforts. Remember the things to consider that we mentioned above when writing your proposal and think of ways to make it interesting for attendees while still letting you share your experiences, educate the community about an issue, or generate interest in a project.
 
-When you are ready: **[Submit your proposal][submit].** 
+When you are ready: **[Submit your proposal][submit].**
 
 
 #### Session Types
@@ -97,13 +95,13 @@ This is a friendly audience and an excellent way to get to know the community an
 ### How To Give a Great Tech Talk
 
 In the instance that your talk is accepted, we want to make sure that you give the best presentation possible. To do this, we enlisted the help of seasoned conference speaker Josh Berkus who has prepared an in-depth tutorial on “How to Give a Great Tech Talk”:
-[Part 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw>) and 
+[Part 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw>) and
 [Part 2](http://www.youtube.com/watch?v=gcOP4WQfJl4>)
 
 
 ## Submit proposal
 
-**[Submit your proposal][submit].** 
+**[Submit your proposal][submit].**
 
 
 # Schedule
