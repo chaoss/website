@@ -5,6 +5,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2019
 
+* Lawrence, J. (2019, October 17). **Measuring the business value of open source communities.** Retrieved October 25, 2019, from Opensource.com website: https://opensource.com/article/19/10/measuring-business-value-open-source
+
 * Kerner, S. (2019, September 3). **CHAOSS project bringing order to open-source metrics.** LWN.Net. Retrieved from https://lwn.net/Articles/798066/
 
 * Santamarina, A. J. (2019, August 29). **Georg, a new Bitergian joins the nest!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/08/29/georg-a-new-bitergian-joins-the-nest/
