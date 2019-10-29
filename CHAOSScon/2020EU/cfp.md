@@ -1,6 +1,5 @@
 # Call for Participation
 
-
 ## Submit a Proposal
 
 This conference is about open source metrics.
