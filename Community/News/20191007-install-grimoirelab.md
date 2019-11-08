@@ -35,40 +35,42 @@ I found that by default, Docker is not assigned enough resources. Click on the D
 
 ![2. Screenshot of Docker configuration.png](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/2-Screenshot-Docker-configuration.png)
 
-Next, we need the docker-compose file and some setting files. They are currently in Bitergia’s [analytics-demo repository](https://gitlab.com/Bitergia/lab/analytics-demo) but will be added to the GrimoireLab Tutorial, [hopefully soon](https://github.com/chaoss/grimoirelab-tutorial/issues/91). We need to clone the repository to our local machine. I have my own way of organizing repositories that I clone, but it really does not matter where you store it. The important command to run now are for cloning the repository:
+Next, we need the docker-compose file and some setting files. They are currently in the [CHAOSS GrimoireLab repository](https://github.com/chaoss/grimoirelab). We need to clone the repository to our local machine. I have my own way of organizing repositories that I clone, but it really does not matter where you store it. The important command to run now are for cloning the repository:
 
 ```
-$ git clone https://gitlab.com/Bitergia/lab/analytics-demo.git
-$ cd analytics-demo 
+$ git clone https://github.com/chaoss/grimoirelab
+$ cd grimoirelab
 ```
 
 
 ![3. Screenshot of cloning analytics-demo](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/3-Screenshot-of-cloning-analytics-demo.png)
 
 
-The files that we just downloaded, specifically the [projects.json](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/projects.json), are configured to collect metrics about Cregit, Perceval, and Women in IT. Maybe take a look at the relevant [GrimoireLab tutorial section on the projects file](https://chaoss.github.io/grimoirelab-tutorial/sirmordred/projects.html) for details on how the file is built. For simplicity, I’m only leaving Perceval in the file and removing the other projects. 
+GrimoireLab comes with default settings that we want to review. Change directory into `grimoirelab/default-grimoirelab-settings`. The [projects.json](https://github.com/chaoss/grimoirelab/blob/master/default-grimoirelab-settings/projects.json) is configured to collect metrics about the GrimoireLab git repository. Maybe take a look at the relevant [GrimoireLab tutorial section on the projects file](https://chaoss.github.io/grimoirelab-tutorial/sirmordred/projects.html) for details on how the file is built. 
 
+With the current settings, we would analyze only the git commit history. I am also interested in analyzing issues and pull requests. For this, edit the projects.json and add:
 
-![4. Screenshot of projects.json](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/4-Screenshot-of-projects.json.png)
+```
+        "github": [
+            "https://github.com/chaoss/grimoirelab"
+        ]
+```
 
+![projects.json with the added lines](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/4-Screenshot-of-projects.json)
 
 **Pro-tip:** After editing the projects.json file, send it through a JSON validator (e.g., [JSONLint](https://jsonlint.com/), or [FreeFormatter](https://www.freeformatter.com/json-validator.html)) to check for syntax errors. 
 
-Next, we need to make sure that we have API access tokens set up correctly in the [setup.cfg](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/setup.cfg) file. The projects.json specifies GitHub, git, and pipermail as data sources. Of those, only [GitHub requires an API token](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line#creating-a-token), which can be generated in your [GitHub settings > Developer settings > Personal access tokens](https://github.com/settings/tokens). We can generate the API token without selecting a scope (i.e., do not check any boxes).
+Next, we need to make sure that we have API access tokens set up correctly in the [setup.cfg](https://github.com/chaoss/grimoirelab/blob/master/default-grimoirelab-settings/setup.cfg) file. The projects.json specifies only `git` as data sources. To activate data collection for GitHub issues and pull requests, we have to un-comment the relevant section. For this, [GitHub requires an API token](https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line#creating-a-token), which can be generated in your [GitHub settings > Developer settings > Personal access tokens](https://github.com/settings/tokens). We can generate the API token without selecting a scope (i.e., do not check any boxes).
 
 
 ![5. Screenshot for GitHub API YOUR_API_TOKEN_HERE](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/5-Screenshot-for-GitHub-API-token.png)
 
-We need to make one more change because we removed the data source Meetup.com. We need to comment out (by putting “#” at the start of each line) the meetup configuration.
+Now, we have configured GrimoireLab to begin collecting data. We configured what projects to collect data for the [projects.json](https://github.com/chaoss/grimoirelab/blob/master/default-grimoirelab-settings/projects.json) and configured our access to the relevant data sources in the [setup.cfg](https://github.com/chaoss/grimoirelab/blob/master/default-grimoirelab-settings/setup.cfg).
 
-
-![6. Screenshot comment out meetup configuration](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/6-Screenshot-comment-out-meetup-configuration.png)
-
-Now, we have configured GrimoireLab to begin collecting data. We configured what projects to collect data for the [projects.json](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/projects.json) and configured our access to the relevant data sources in the [setup.cfg](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/setup.cfg).
-
-Next, we can begin downloading and starting the containers. If you like, you can review the [docker-compose.yml](https://gitlab.com/Bitergia/lab/analytics-demo/blob/master/docker-compose.yml) file to see what is going to happen. There are no changes needed here. Now, to start making magic happen (pun intended), let’s run:
+Next, we can begin downloading and starting the containers. First, we need to switch to the `docker-compose` directory. If you like, you can review the [docker-compose.yml](https://github.com/chaoss/grimoirelab/blob/master/docker-compose/docker-compose.yml) file to see what is going to happen. There are no changes needed here. Now, to start making magic happen (pun intended), let’s run:
 
 ```
+$ cd ../docker-compose
 $ docker-compose up -d
 ```
 
@@ -116,3 +118,5 @@ Next steps for the CHAOSS project include updating our [GrimoireLab tutorial](ht
 Getting community metrics through GrimoireLab can feel like drinking from a firehose. I recommend you [review the CHAOSS metrics](https://chaoss.community/metrics/) and [join our regular calls](https://chaoss.github.io/grimoirelab-tutorial/) to get your bearings on what metrics are relevant and to discuss your specific needs with other CHAOSS members.
 
 Don’t want to operate the metrics platform yourself and prefer a hosted solution? Need expert guidance through developing your metrics strategy? [Send me an email](mailto:georglink@bitergia.com) and we can discuss whether Bitergia’s services are a good match for your needs.
+
+**[Update 11/8]**: Changed the blog post to use the new docker-compose solution that is now part of GrimoireLab.
