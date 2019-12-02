@@ -5,7 +5,9 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2019
 
-* Lawrence, J. (2019, October 17). **Measuring the business value of open source communities.** Retrieved October 25, 2019, from Opensource.com website: https://opensource.com/article/19/10/measuring-business-value-open-source
+* Santamarina, A. J. (2019, October 28). **What can InnerSource learn from the CHAOSS Project?** Retrieved October 30, 2019, from: https://blog.bitergia.com/2019/10/28/what-can-innersource-learn-from-chaoss-community/
+
+* Lawrence, J. (2019, October 17). **Measuring the business value of open source communities.** Retrieved October 25, 2019, from: https://opensource.com/article/19/10/measuring-business-value-open-source
 
 * Kerner, S. (2019, September 3). **CHAOSS project bringing order to open-source metrics.** LWN.Net. Retrieved from https://lwn.net/Articles/798066/
 
@@ -17,9 +19,9 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Link, G. J.P., & Conway, S. (2019, April 30). **How CHAOSS D&I Can Help Diversity in the Open Source Community.** Retrieved from The New Stack website: https://thenewstack.io/how-chaoss-di-can-help-diversity-in-the-open-source-community/
 
-* Rashbass, J., & Robertson, M. (2019, April). **The People's Code: An analysis of public engagement with the US Federal Government’s Open Source Pilot Program.** Harvard Kennedy School. Retrieved June 18, 2019, from https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf 
+* Rashbass, J., & Robertson, M. (2019, April). **The People's Code: An analysis of public engagement with the US Federal Government’s Open Source Pilot Program.** Harvard Kennedy School. Retrieved June 18, 2019, from: https://ash.harvard.edu/files/ash/files/20190506_pae_final_ash.pdf 
 
-* Lopez de la Fuente, J. M.. (2019, March 21). **4 questions Uber’s open source program office answers with data.** Retrieved March 23, 2019, from Opensource.com website: https://opensource.com/article/19/3/uber-open-source-data
+* Lopez de la Fuente, J. M.. (2019, March 21). **4 questions Uber’s open source program office answers with data.** Retrieved March 23, 2019, from: https://opensource.com/article/19/3/uber-open-source-data
 
 * Santamarina, A. J. (2019, March 12). **GrimoireLab and CHAOSS part of Google Summer Of Code!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/03/12/grimoirelab-and-chaoss-part-of-google-summer-of-code/
 
