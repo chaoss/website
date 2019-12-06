@@ -56,7 +56,7 @@ With the current settings, we would analyze only the git commit history. I am al
         ]
 ```
 
-![projects.json with the added lines](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/4-Screenshot-of-projects.json)
+![projects.json with the added lines](https://raw.githubusercontent.com/chaoss/website/master/Community/News/images/20191007-install-grimoirelab/4-Screenshot-of-projects.json.png)
 
 **Pro-tip:** After editing the projects.json file, send it through a JSON validator (e.g., [JSONLint](https://jsonlint.com/), or [FreeFormatter](https://www.freeformatter.com/json-validator.html)) to check for syntax errors. 
 
