@@ -8,7 +8,8 @@
 
 <author>
 
-<img alt="Kevin Lumbard" src="https://www.unomaha.edu/college-of-information-science-and-technology/phd-it/directory/index.php" style="object-fit:cover;width:135px;height:135px;"/>
+![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)
+
 
 _Doctoral Student Researcher - University of Nebraska at Omaha_
 
@@ -38,7 +39,7 @@ In this presentation, we share stories from 30 plus interviews on community heal
 
 <author>
 
-<img alt="Matt Broberg" src="https://mbbroberg.fun/assets/images/profile.jpg" style="object-fit:cover;width:135px;height:135px;"/>
+![Matt Broberg](https://chaoss.github.io/website/CHAOSScon/2020EU/images/matt-broberg.png)
 
 _Technical Advocate & Editor - Opensource.com_
 
@@ -70,7 +71,7 @@ There was a time in human history when it was believed that all of human behavio
 
 <author>
 
-<img alt="Ray Paik" src="https://secure.gravatar.com/avatar/394c99b6425c5df21da8f51907580a8e?s=800&d=identicon" style="object-fit:cover;width:135px;height:135px;"/>
+![Ray Paik](https://chaoss.github.io/website/CHAOSScon/2020EU/images/ray-paik.png)
 
 _Community Manager - GitLab_
 
@@ -100,7 +101,7 @@ One of the ways you can measure responsiveness to community contribution is by l
 
 <author>
 
-<img alt="Daniel Izquierdo" src="https://allthingsopen.org/wp-content/uploads/2019/07/danielizquerdo.jpg" style="object-fit:cover;width:135px;height:135px;"/>
+![Daniel Izquierdo](https://chaoss.github.io/website/CHAOSScon/2020EU/images/daniel-izquierdo.png)
 
 _Director of Consulting - Bitergia_
 
@@ -130,7 +131,7 @@ CHAOSS has been on the ground for the last couple of years with a strong focus o
 
 <author>
 
-<img alt="Matt Germonprez" src="https://www.unomaha.edu/college-of-information-science-and-technology/bridge/_files/images/people/profile_mgermonprez.png" style="object-fit:cover;width:135px;height:135px;"/>
+![Matt Germonprez](https://chaoss.github.io/website/CHAOSScon/2020EU/images/matt-germonprez.png)
 
 _Professor - University of Nebraska at Omaha_
 
@@ -160,7 +161,7 @@ The Bureau of Labor Statistics shows that employees in the field of “computer 
 
 <author>
 
-<img alt="Sharan Foga" src="https://img.bagevent.com/resource/20190915/1320013581670936.png?imageView2/2/w/480/interlace/1/q/100" style="object-fit:cover;width:135px;height:135px;"/>
+![Sharan Foga](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sharan-foga.png)
 
 _VP Apache Community Development - The Apache Software Foundation_
 
@@ -190,7 +191,7 @@ They say you can’t be certain of anything unless it can be measured – so wha
 
 <author>
 
-<img alt="Brian Proffitt" src="https://photos.app.goo.gl/hNsForK4XjhiQRNV6" style="object-fit:cover;width:135px;height:135px;"/>
+![Brian Proffitt](https://chaoss.github.io/website/CHAOSScon/2020EU/images/brian-proffitt.png)
 
 _Sr. Principal Community Architect - Red Hat_
 
@@ -220,7 +221,7 @@ This talk would take a humorous approach to explaining what really no one should
 
 <author>
 
-<img alt="Sean Goggins" src="http://datascience.goggins.com/wp-content/uploads/2016/05/cropped-SEAN_2016_01screen.jpg" style="object-fit:cover;width:135px;height:135px;"/>
+![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sean-goggins.png)
 
 _Associate Professor - University of Missouri_
 
@@ -252,7 +253,7 @@ Making it simple to trust, ship, and grow open source at Twitter demanded visibi
 
 <author>
 
-<img alt="Johan Linåker" src="https://avatars.sched.co/0/6a/4433970/avatar.jpg" style="object-fit:cover;width:135px;height:135px;"/>
+![Johan Linåker](https://chaoss.github.io/website/CHAOSScon/2020EU/images/johan-linaker.png)
 
 _Postdoctoral Researcher - Lund University_
 
@@ -288,7 +289,7 @@ As the metrics has just been introduced at the Employment Service, Johan will sh
 
 <author>
 
-<img alt="Tom Mens" src="http://informatique.umons.ac.be/genlog/images/tommens.jpg" style="object-fit:cover;width:135px;height:135px;"/>
+![Tom Mens](https://chaoss.github.io/website/CHAOSScon/2020EU/images/tom-mens.png)
 
 _Professor in Software Engineering - University of Mons, Belgium_
 
