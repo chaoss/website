@@ -11,10 +11,12 @@
 <tbody>
 
 <!-- 9:00 - 9:30 --><!--CONFIRMED--><!--INTERIM-->
+<tr><td colspan=3>
 <tr valign=top>
 <th align=right><time>9:00</time>
 <th colspan=2><!--Interim-->
 Registration & Networking
+<tr><td colspan=3>
 
 <!-- 9:30 - 9:50 --><!--UNCONFIRMED--><!--KEYNOTE-->
 <tr valign=top>
@@ -53,10 +55,12 @@ Registration & Networking
 <tbody>
 
 <!-- 10:40 - 10:50 --><!--CONFIRMED--><!--INTERIM-->
+<tr><td colspan=3>
 <tr valign=top>
 <th align=right><time>10:40</time>
 <th colspan=2><!--Interim-->
 Morning Break
+<tr><td colspan=3>
 
 <!-- 10:50 - 11:00 --><!--CONFIRMED-->
 <tr valign=top>
@@ -97,10 +101,12 @@ Morning Break
 <tbody>
 
 <!-- 11:50 - 13:00 --><!--CONFIRMED--><!--INTERIM-->
+<tr><td colspan=3>
 <tr valign=top>
 <th align=right><time>11:50</time>
 <th colspan=2><!--Interim-->
 Lunch & Networking
+<tr><td colspan=3>
 
 <!-- 13:00 - 13:20 --><!--UNCONFIRMED--><!--KEYNOTE-->
 <tr valign=top>
@@ -150,11 +156,16 @@ Lunch & Networking
 
 <!-- [<kbd>Video</kbd>]() -->
 
+<tbody>
+
 <!-- 14:20 - 14:50  --><!--UNCONFIRMED--><!--SESSION-->
+<tr><td colspan=3>
 <tr valign=top>
-<th rowspan=4><time>14:20</time>
+<th rowspan=5><time>14:20</time>
 <th colspan=2><!--Session-->
 Lightning Talks
+
+<tr><td colspan=2><small>5 min each — sign-up on site<!--<a><kbd>Sign up</kbd></a>--></small>
 
 <!-- 14:20 - 14:50  --><!--CONFIRMED-->
 <tr valign=top><td><small><b>Metrics and valuation of open source projects: A crossover between Open Source and Open Science</b><br/>
@@ -185,13 +196,17 @@ Lightning Talks
 <!-- [<kbd>Slides</kbd>]() -->
 <!-- [<kbd>Video</kbd>]() -->
 
+
+
 <tbody>
 
 <!-- 14:50 - 15:20 --><!--CONFIRMED--><!--INTERIM-->
+<tr><td colspan=3>
 <tr valign=top>
 <th align=right><time>14:50</time>
 <th colspan=2><!--Interim-->
 Break
+<tr><td colspan=3>
 
 <!-- 15:20 - 15:40 --><!--UNCONFIRMED-->
 <tr valign=top>
@@ -280,6 +295,7 @@ Break
 <tbody>
 
 <!-- 17:40 - 15:20 --><!--CONFIRMED--><!--INTERIM-->
+<tr><td colspan=3>
 <tr valign=top>
 <th align=right><time>14:50</time>
 <th colspan=2><!--Interim-->
