@@ -1,20 +1,14 @@
 ## Speakers and Session Descriptions
 
-
-
 <!-- Speakers will be announced after the call of participation ended. -->
 
-
-
-<table><tr><td>
-
-<article>
+<div>
 
 ### Kevin Lumbard
 
 <author>
 
-<img alt="Kevin Lumbard" src="https://www.unomaha.edu/college-of-information-science-and-technology/phd-it/directory/index.php" width="135" />
+<img alt="Kevin Lumbard" src="https://www.unomaha.edu/college-of-information-science-and-technology/phd-it/directory/index.php" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Doctoral Student Researcher - University of Nebraska at Omaha_
 
@@ -30,21 +24,21 @@ Kevin is a doctoral student at the University of Nebraska at Omaha. Kevin is an 
 
 <blockquote>
 
-In this presentation, we share stories from 30 plus interviews on community health and offer our insights from engagement with the CHAOSS project. In particular, we focus on how people use comparisons in the determination of project health.   To make solutions actionable, placing open source project metrics into the specific contexts where they are consumed is critical. When open source project contributors compare one open source project to another, they get a sense of how they are doing, relatively speaking. The comparison is social insofar as people draw comparisons between projects that are similar in terms of personnel or other key characteristics; projects they are socially familiar with. Through comparison, open source project contributors identify metrics that draw essential contrasts, and through these contrasts evaluate the likelihood of continued success or failure for their projects of interest.
+In this presentation, we share stories from 30 plus interviews on community health and offer our insights from engagement with the CHAOSS project. In particular, we focus on how people use comparisons in the determination of project health. To make solutions actionable, placing open source project metrics into the specific contexts where they are consumed is critical. When open source project contributors compare one open source project to another, they get a sense of how they are doing, relatively speaking. The comparison is social insofar as people draw comparisons between projects that are similar in terms of personnel or other key characteristics; projects they are socially familiar with. Through comparison, open source project contributors identify metrics that draw essential contrasts, and through these contrasts evaluate the likelihood of continued success or failure for their projects of interest.
 
 </blockquote>
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Matt Broberg
 
 <author>
 
-<img alt="Matt Broberg" src="https://mbbroberg.fun/assets/images/profile.jpg" width="135" />
+<img alt="Matt Broberg" src="https://mbbroberg.fun/assets/images/profile.jpg" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Technical Advocate & Editor - Opensource.com_
 
@@ -68,15 +62,15 @@ There was a time in human history when it was believed that all of human behavio
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Ray Paik
 
 <author>
 
-<img alt="Ray Paik" src="https://secure.gravatar.com/avatar/394c99b6425c5df21da8f51907580a8e?s=800&d=identicon" width="135" />
+<img alt="Ray Paik" src="https://secure.gravatar.com/avatar/394c99b6425c5df21da8f51907580a8e?s=800&d=identicon" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Community Manager - GitLab_
 
@@ -92,21 +86,21 @@ Ray is a Community Manager at GitLab where he is helping to grow the community o
 
 <blockquote>
 
-One of the ways you can measure responsiveness to community contribution is by looking at the size of the backlog periodically. If the backlog of community contribution keeps growing without contributions being closed/merged in a timely manner, this will lead to dissatisfaction among community members.   In this talk, Ray will discuss why “Community contribution” Merge Request (MR) backlog has become important at GitLab and how he worked with Alberto at Bitergia to develop visualizations for MR backlogs across GitLab projects.    Alberto will discuss why current GrimoireLab dashboards needed to evolve to support GitLab’s use case (beyond  GrimoireLab’s existing backlog focused dashboards), technical challenges and limitations when developing the visualization (e.g. calculating the number of contributions that were in opened state on the fly within a given time range that can be selected by the user), and plans for upstreaming this work to CHAOSS.
+One of the ways you can measure responsiveness to community contribution is by looking at the size of the backlog periodically. If the backlog of community contribution keeps growing without contributions being closed/merged in a timely manner, this will lead to dissatisfaction among community members. In this talk, Ray will discuss why “Community contribution” Merge Request (MR) backlog has become important at GitLab and how he worked with Alberto at Bitergia to develop visualizations for MR backlogs across GitLab projects. Alberto will discuss why current GrimoireLab dashboards needed to evolve to support GitLab’s use case (beyond GrimoireLab’s existing backlog focused dashboards), technical challenges and limitations when developing the visualization (e.g. calculating the number of contributions that were in opened state on the fly within a given time range that can be selected by the user), and plans for upstreaming this work to CHAOSS.
 
 </blockquote>
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Daniel Izquierdo
 
 <author>
 
-<img alt="Daniel Izquierdo" src="https://allthingsopen.org/wp-content/uploads/2019/07/danielizquerdo.jpg" width="135" />
+<img alt="Daniel Izquierdo" src="https://allthingsopen.org/wp-content/uploads/2019/07/danielizquerdo.jpg" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Director of Consulting - Bitergia_
 
@@ -122,21 +116,21 @@ Daniel Izquierdo Cortazar is a cofounder at Bitergia, a company that provides so
 
 <blockquote>
 
-CHAOSS has been on the ground for the last couple of years with a strong focus on open source. Indeed at the very beginning there was some discussion to have included in the mission and vision of the community the term InnerSource that was lately removed.  What if we think for a while about InnerSource in the terms of metrics? As active member of the InnerSource Commons, it is worth mentioning a list of them and how behaviours that are assumed by default in open source communities (collaboration, transparency, communication) do not even exist at the InnerSource level.  This talk aims at fostering some discussion internally at CHAOSS with the purpose of understanding InnerSource requirements and how with the same infrastructure, metrics and discussions we're having, CHAOSS may become at some point some standard in the industry about software development metrics (and not only open source software development metrics).
+CHAOSS has been on the ground for the last couple of years with a strong focus on open source. Indeed at the very beginning there was some discussion to have included in the mission and vision of the community the term InnerSource that was lately removed. What if we think for a while about InnerSource in the terms of metrics? As active member of the InnerSource Commons, it is worth mentioning a list of them and how behaviours that are assumed by default in open source communities (collaboration, transparency, communication) do not even exist at the InnerSource level. This talk aims at fostering some discussion internally at CHAOSS with the purpose of understanding InnerSource requirements and how with the same infrastructure, metrics and discussions we're having, CHAOSS may become at some point some standard in the industry about software development metrics (and not only open source software development metrics).
 
 </blockquote>
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Matt Germonprez
 
 <author>
 
-<img alt="Matt Germonprez" src="https://www.unomaha.edu/college-of-information-science-and-technology/bridge/_files/images/people/profile_mgermonprez.png" width="135" />
+<img alt="Matt Germonprez" src="https://www.unomaha.edu/college-of-information-science-and-technology/bridge/_files/images/people/profile_mgermonprez.png" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Professor - University of Nebraska at Omaha_
 
@@ -152,27 +146,27 @@ Matt Germonprez is the Mutual of Omaha Professor of Information Systems in the C
 
 <blockquote>
 
-The Bureau of Labor Statistics shows that employees in the field of “computer and mathematical occupations” are 25.6% female (Bureau of Labor Statistics, 2019). A lack of D&I is not only a known problem but also acts as a barrier for potential contributors becoming involved with IT as a lack of D&I will perpetuate complacency (Irwin, 2018), avoidance (Sterling, 2016), and a negative collective conscience (Blincoe et al., 2019). Within IT, open source software exhibits some of the worst D&I. The open source survey run by GitHub states that only 3% of contributors to open source software are female (GitHub, 2017). While open source has made strides in some aspects of D&I, such as event inclusivity (Irwin, 2017) and community engagement to support organizational diversity (Alexander, 2019), work remains. The proposed is aimed at contributing to this positive growth through the development of a D&I badging system.  In open source, badges are available for community leaders to publicly display, providing a way for projects to signal their attention to such things as community health and software security. Known examples of software badging systems in open source include the CII Best Practices Badge, Black Duck Security Risk Badge, and the PyPi Python Coverage Badge. We can draw from this badging work to improve D&I in open source.  While software badges present solutions for most goals of software development, no badge has been created to support D&I initiatives, and the proposed talk aims to advance these efforts. In this talk, I will discuss complexities associated with D&I metrics and propose a D&I badging system that provides open source communities the ability to make diversity and inclusion within open source projects more transparent.
+The Bureau of Labor Statistics shows that employees in the field of “computer and mathematical occupations” are 25.6% female (Bureau of Labor Statistics, 2019). A lack of D&I is not only a known problem but also acts as a barrier for potential contributors becoming involved with IT as a lack of D&I will perpetuate complacency (Irwin, 2018), avoidance (Sterling, 2016), and a negative collective conscience (Blincoe et al., 2019). Within IT, open source software exhibits some of the worst D&I. The open source survey run by GitHub states that only 3% of contributors to open source software are female (GitHub, 2017). While open source has made strides in some aspects of D&I, such as event inclusivity (Irwin, 2017) and community engagement to support organizational diversity (Alexander, 2019), work remains. The proposed is aimed at contributing to this positive growth through the development of a D&I badging system. In open source, badges are available for community leaders to publicly display, providing a way for projects to signal their attention to such things as community health and software security. Known examples of software badging systems in open source include the CII Best Practices Badge, Black Duck Security Risk Badge, and the PyPi Python Coverage Badge. We can draw from this badging work to improve D&I in open source. While software badges present solutions for most goals of software development, no badge has been created to support D&I initiatives, and the proposed talk aims to advance these efforts. In this talk, I will discuss complexities associated with D&I metrics and propose a D&I badging system that provides open source communities the ability to make diversity and inclusion within open source projects more transparent.
 
 </blockquote>
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Sharan Foga
 
 <author>
 
-<img alt="Sharan Foga" src="https://img.bagevent.com/resource/20190915/1320013581670936.png?imageView2/2/w/480/interlace/1/q/100" width="135" />
+<img alt="Sharan Foga" src="https://img.bagevent.com/resource/20190915/1320013581670936.png?imageView2/2/w/480/interlace/1/q/100" style="object-fit:cover;width:135px;height:135px;"/>
 
 _VP Apache Community Development - The Apache Software Foundation_
 
 <small>
 
-Sharan Foga has over 20 years in the IT industry working on the delivery and implementation of IT projects. She is currently based in Stockholm, Sweden and works for Sandvik  as an Agile Delivery Manager. She has been involved with the Apache Software Foundation (ASF) since 2008 and has presented at several conferences about ""The Apache Way"" of engaging and empowering communities. She enjoys working on open source community management and is VP Apache Community Development. She is a Committer, ASF Member and is involved in several ASF projects including Apache Community Development, Apache OFBiz, Apache Kibble, Apache Training (incubating) and Apache Incubator.
+Sharan Foga has over 20 years in the IT industry working on the delivery and implementation of IT projects. She is currently based in Stockholm, Sweden and works for Sandvik as an Agile Delivery Manager. She has been involved with the Apache Software Foundation (ASF) since 2008 and has presented at several conferences about ""The Apache Way"" of engaging and empowering communities. She enjoys working on open source community management and is VP Apache Community Development. She is a Committer, ASF Member and is involved in several ASF projects including Apache Community Development, Apache OFBiz, Apache Kibble, Apache Training (incubating) and Apache Incubator.
 
 </small>
 
@@ -188,15 +182,15 @@ They say you can’t be certain of anything unless it can be measured – so wha
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Brian Proffitt
 
 <author>
 
-<img alt="Brian Proffitt" src="https://photos.app.goo.gl/hNsForK4XjhiQRNV6" width="135" />
+<img alt="Brian Proffitt" src="https://photos.app.goo.gl/hNsForK4XjhiQRNV6" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Sr. Principal Community Architect - Red Hat_
 
@@ -218,15 +212,15 @@ This talk would take a humorous approach to explaining what really no one should
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Sean Goggins
 
 <author>
 
-<img alt="Sean Goggins" src="http://datascience.goggins.com/wp-content/uploads/2016/05/cropped-SEAN_2016_01screen.jpg" width="135" />
+<img alt="Sean Goggins" src="http://datascience.goggins.com/wp-content/uploads/2016/05/cropped-SEAN_2016_01screen.jpg" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Associate Professor - University of Missouri_
 
@@ -234,7 +228,7 @@ _Associate Professor - University of Missouri_
 
 Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented wtih on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.
 
-Sean is also the founder of the Data Science and Analytics Masters program at Missouri, which he’s now passed on to people who want administrative empire.  Sean’s publications focus on understanding how social technologies influence organizational, small group and community dynamics, typically including analysis of electronic trace data from systems combined with the perspectives of people whose behavior is traced. He lives in Columbia, MO with his wife Kate, two daughters and a dog named Huckleberry.
+Sean is also the founder of the Data Science and Analytics Masters program at Missouri, which he’s now passed on to people who want administrative empire. Sean’s publications focus on understanding how social technologies influence organizational, small group and community dynamics, typically including analysis of electronic trace data from systems combined with the perspectives of people whose behavior is traced. He lives in Columbia, MO with his wife Kate, two daughters and a dog named Huckleberry.
 
 </small>
 
@@ -244,21 +238,21 @@ Sean is also the founder of the Data Science and Analytics Masters program at Mi
 
 <blockquote>
 
-Making it simple to trust, ship, and grow open source at Twitter demanded visibility into contribution trends that were not readily available. Twitter's open source program office and the Augur project collaborated with CHAOSS using student interns from Google's Summer of Code, Twitter's intern program and the University of Missouri.  First, this talk will describe Twitter's engaging interface design and its fit to the needs of Open Source stakeholders within Twitter, but outside the open source program office. Second, we will describe how an open API and data collection tool, Augur, evolved in close collaboration with Twitter.
+Making it simple to trust, ship, and grow open source at Twitter demanded visibility into contribution trends that were not readily available. Twitter's open source program office and the Augur project collaborated with CHAOSS using student interns from Google's Summer of Code, Twitter's intern program and the University of Missouri. First, this talk will describe Twitter's engaging interface design and its fit to the needs of Open Source stakeholders within Twitter, but outside the open source program office. Second, we will describe how an open API and data collection tool, Augur, evolved in close collaboration with Twitter.
 
 </blockquote>
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Johan Linåker
 
 <author>
 
-<img alt="Johan Linåker" src="https://avatars.sched.co/0/6a/4433970/avatar.jpg" width="135" />
+<img alt="Johan Linåker" src="https://avatars.sched.co/0/6a/4433970/avatar.jpg" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Postdoctoral Researcher - Lund University_
 
@@ -286,15 +280,15 @@ As the metrics has just been introduced at the Employment Service, Johan will sh
 
 </details>
 
-</article><tr><td>
+</div>
 
-<article>
+<div>
 
 ### Tom Mens
 
 <author>
 
-<img alt="Tom Mens" src="http://informatique.umons.ac.be/genlog/images/tommens.jpg" width="135" />
+<img alt="Tom Mens" src="http://informatique.umons.ac.be/genlog/images/tommens.jpg" style="object-fit:cover;width:135px;height:135px;"/>
 
 _Professor in Software Engineering - University of Mons, Belgium_
 
@@ -316,7 +310,7 @@ This talk presents a generic and empirically validated measurement framework bas
 
 </details>
 
-</article>
+</div>
 
-</table>
+
 
