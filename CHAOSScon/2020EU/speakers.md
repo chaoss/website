@@ -313,5 +313,4 @@ This talk presents a generic and empirically validated measurement framework bas
 </div>
 
 
-</table>
 
