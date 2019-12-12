@@ -21,12 +21,11 @@ Registration & Networking
 <th align=right><time>9:30</time>
 <td align=center colspan=2><small><!--Session-->
 <b><samp style="color:#9999">TBA</samp></b><br/>
-<cite><author hidden><samp style="color:#9999">TBA</samp></author></cite>
-<td hidden align=left><small><!--Session-->
-<td hidden align=center><small>
+<!-- <cite><author hidden><samp style="color:#9999">TBA</samp></author></cite> -->
+<!--<td hidden align=left><small>--><!--Session-->
+<!--<td hidden align=center><small>-->
 
 <!-- [<kbd>Slides</kbd>]() -->
-
 <!-- [<kbd>Video</kbd>]() -->
 
 <!-- 9:50 - 10:20 --><!--UNCONFIRMED--><!--KEYNOTE-->
@@ -34,12 +33,11 @@ Registration & Networking
 <th align=right><time>9:50</time>
 <td align=center colspan=2><small><!--Session-->
 <b><samp style="color:#9999">TBA</samp></b><br/>
-<cite><author hidden><samp style="color:#9999">TBA</samp></author></cite>
-<td hidden align=left><small><!--Session-->
-<td hidden align=center><small>
+<!-- <cite><author hidden><samp style="color:#9999">TBA</samp></author></cite> -->
+<!--<td hidden align=left><small>--><!--Session-->
+<!--<td hidden align=center><small>-->
 
 <!-- [<kbd>Slides</kbd>]() -->
-
 <!-- [<kbd>Video</kbd>]() -->
 
 <!-- 10:20 - 10:40 --><!--CONFIRMED-->
@@ -50,7 +48,7 @@ Registration & Networking
 <cite><author>Sean G. & Remy DeC</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -70,7 +68,7 @@ Morning Break
 <cite><author>Sharan F.</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -82,7 +80,7 @@ Morning Break
 <cite><author>Tom Mens</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -94,7 +92,7 @@ Morning Break
 <cite><author>Daniel I.</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -111,12 +109,11 @@ Lunch & Networking
 <th align=right><time>13:00</time>
 <td align=center colspan=2><small><!--Session-->
 <b><samp style="color:#9999">TBA</samp></b><br/>
-<cite><author hidden><samp style="color:#9999">TBA</samp></author></cite>
-<td hidden align=left><small><!--Session-->
-<td hidden align=center><small>
+<!-- <cite><author hidden><samp style="color:#9999">TBA</samp></author></cite> -->
+<!--<td hidden align=left><small>--><!--Session-->
+<!--<td hidden align=center><small>-->
 
 <!-- [<kbd>Slides</kbd>]() -->
-
 <!-- [<kbd>Video</kbd>]() -->
 
 <!-- 13:20 - 13:40 --><!--UNCONFIRMED--><!--SESSION-->
@@ -124,12 +121,11 @@ Lunch & Networking
 <th align=right><time>13:20</time>
 <td align=center colspan=2><small><!--Session-->
 <b><samp style="color:#9999">TBA</samp></b><br/>
-<cite><author hidden><samp style="color:#9999">TBA</samp></author></cite>
-<td hidden align=left><small><!--Session-->
-<td hidden align=center><small>
+<!-- <cite><author hidden><samp style="color:#9999">TBA</samp></author></cite> -->
+<!--<td hidden align=left><small>--><!--Session-->
+<!--<td hidden align=center><small>-->
 
 <!-- [<kbd>Slides</kbd>]() -->
-
 <!-- [<kbd>Video</kbd>]() -->
 
 <!-- 13:40 - 14:00 --><!--UNCONFIRMED-->
@@ -137,12 +133,11 @@ Lunch & Networking
 <th align=right><time>13:40</time>
 <td align=center colspan=2><small><!--Session-->
 <b><samp style="color:#9999">TBA</samp></b><br/>
-<cite><author hidden><samp style="color:#9999">TBA</samp></author></cite>
-<td hidden align=left><small><!--Session-->
-<td hidden align=center><small>
+<!-- <cite><author hidden><samp style="color:#9999">TBA</samp></author></cite> -->
+<!--<td hidden align=left><small>--><!--Session-->
+<!--<td hidden align=center><small>-->
 
 <!-- [<kbd>Slides</kbd>]() -->
-
 <!-- [<kbd>Video</kbd>]() -->
 
 <!-- 14:00 - 14:20 --><!--CONFIRMED-->
@@ -153,7 +148,7 @@ Lunch & Networking
 <cite><author>Kevin L.</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -167,7 +162,7 @@ Lightning Talks
 <tr valign=top><td><small><b>Metrics and valuation of open source projects:</b><br/> A crossover between Open Source and Open Science
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -175,22 +170,20 @@ Lightning Talks
 <tr valign=top>
 <td align=center colspan=2><!--Talk-->
 <small><b><samp style="color:#9999">TBA</samp></b>
-<td hidden ><small><b></b><br/>
-<td hidden align=center><small>
+<!--<td hidden ><small><b></b><br/>-->
+<!--<td hidden align=center><small>-->
 
-[<kbd>Slides</kbd>]()
-
+<!-- [<kbd>Slides</kbd>]() -->
 <!-- [<kbd>Video</kbd>]() -->
 
 <!-- 14:20 - 14:50  --><!--UNCONFIRMED--><!--TALK-->
 <tr valign=top>
 <td align=center colspan=2><!--Talk-->
 <small><b><samp style="color:#9999">TBA</samp></b>
-<td hidden ><small><b></b><br/>
-<td hidden align=center><small>
+<!--<td hidden ><small><b></b><br/>-->
+<!--<td hidden align=center><small>-->
 
-[<kbd>Slides</kbd>]()
-
+<!-- [<kbd>Slides</kbd>]() -->
 <!-- [<kbd>Video</kbd>]() -->
 
 <tbody>
@@ -206,12 +199,11 @@ Break
 <th align=right><time>15:20</time>
 <td align=center colspan=2><small><!--Session-->
 <b><samp style="color:#9999">TBA</samp></b><br/>
-<cite><author hidden><samp style="color:#9999">TBA</samp></author></cite>
-<td hidden align=left><small><!--Session-->
-<td hidden align=center><small>
+<!-- <cite><author hidden><samp style="color:#9999">TBA</samp></author></cite> -->
+<!--<td hidden align=left><small>--><!--Session-->
+<!--<td hidden align=center><small>-->
 
 <!-- [<kbd>Slides</kbd>]() -->
-
 <!-- [<kbd>Video</kbd>]() -->
 
 <!-- 15:40 - 16:00 --><!--CONFIRMED-->
@@ -222,7 +214,7 @@ Break
 <cite><author>Matt Broberg</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -234,7 +226,7 @@ Break
 <cite><author>Johan L.</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -243,12 +235,11 @@ Break
 <th align=right><time>16:20</time>
 <td align=center colspan=2><small><!--Session-->
 <b><samp style="color:#9999">TBA</samp></b><br/>
-<cite><author hidden><samp style="color:#9999">TBA</samp></author></cite>
-<td hidden align=left><small><!--Session-->
-<td hidden align=center><small>
+<!-- <cite><author hidden><samp style="color:#9999">TBA</samp></author></cite> -->
+<!--<td hidden align=left><small>--><!--Session-->
+<!--<td hidden align=center><small>-->
 
 <!-- [<kbd>Slides</kbd>]() -->
-
 <!-- [<kbd>Video</kbd>]() -->
 
 <!-- 16:40 - 17:00 --><!--CONFIRMED-->
@@ -259,7 +250,7 @@ Break
 <cite><author>Ray Paik & Alberto</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -271,7 +262,7 @@ Break
 <cite><author>Matt & Matt</author></cite>
 <td align=center><small>
 
-[<kbd>Slides</kbd>]()
+<!-- [<kbd>Slides</kbd>]() -->
 
 <!-- [<kbd>Video</kbd>]() -->
 
@@ -280,12 +271,11 @@ Break
 <th align=right><time>17:20</time>
 <td align=center colspan=2><small><!--Session-->
 <b><samp style="color:#9999">TBA</samp></b><br/>
-<cite><author hidden><samp style="color:#9999">TBA</samp></author></cite>
-<td hidden align=left><small><!--Session-->
-<td hidden align=center><small>
+<!-- <cite><author hidden><samp style="color:#9999">TBA</samp></author></cite> -->
+<!--<td hidden align=left><small>--><!--Session-->
+<!--<td hidden align=center><small>-->
 
 <!-- [<kbd>Slides</kbd>]() -->
-
 <!-- [<kbd>Video</kbd>]() -->
 
 <tbody>
