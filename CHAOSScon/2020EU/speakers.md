@@ -46,6 +46,23 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 
 ---
 
+### Isabella Vieira Ferreira
+
+
+![Isabella Vieira Ferreira](https://chaoss.github.io/website/CHAOSScon/2020EU/images/isabella-ferreira.png)
+
+_PhD Student - Polytechnique Montréal_
+
+Isabella Ferreira is currently a PhD student at Polytechnique Montréal working under the supervision of Dr. Bram Adams. As part of her degree, she is working with cross-cultural contributions in open source projects, civil communication in open source projects, and on how to link review e-mails to Git commits. Her main research interests are mining software repositories, software maintenance and evolution, and human affect in Software Engineering. [@isaferreira_57](https://twitter.com/isaferreira_57)
+
+
+<details><summary><b>Language barriers for open source contributors</b></summary>
+
+While open source development is common across the world, projects from countries outside North America and Europe, such as China, have difficulties attracting international contributors. One major reason for this is language differences. Thus, there is a lack of understanding of whether there are problems with attraction and retention of contributors due to language differences. To address the aforementioned issue, the proposed presentation will provide an overview of the diversity of non-native English speakers in different open source ecosystems. Furthermore, we will provide results about whether or not those contributors face a language barrier when contributing to open source projects. This will include a survey and a discussion with the audience to understand their motivations when contributing to open source projects, if they have ever faced any communication problems due to language differences, if the non-native English speakers feel welcomed in open source communities, and if they have ever felt that there is a language barrier when contributing to open source projects. The presentation will conclude with a discussion on how we can create metrics to assess the spoken language diversity in open source communities and how to include those people in the community more easily.
+</details>
+
+___
+
 ### Johan Linåker
 
 ![Johan Linåker](https://chaoss.github.io/website/CHAOSScon/2020EU/images/johan-linaker.png)
@@ -63,6 +80,25 @@ In this talk Johan will present the practical application of ecosystem health on
 Elicited metrics cover the ecosystem's productivity in development and maintenance, robustness to withstand change and disruptions, and openness for new business applications, use cases and external contributions.
 
 As the metrics has just been introduced at the Employment Service, Johan will share some initial lessons learned and discuss the roadmap of connecting the health metrics to impact metrics relating to the ecosystem's common vision of improved job-matching on the Swedish labor market.
+</details>
+
+---
+
+### Jose Manrique Lopez de la Fuente
+
+![Jose Manrique Lopez de la Fuente](https://chaoss.github.io/website/CHAOSScon/2020EU/images/manrique-lopez.png)
+
+_CEO - Bitergia_
+
+Manrique is the CEO and shareholder in Bitergia and a free, libre, open source software development communities passionate. He is a graduate Industrial Engineer with research and development experience from the Technological Center for Computer Science and Communications of the Principality of Asturias (CTIC), W3C working groups, Ándago Engineering, and Continua Health Alliance. Former executive director of the Spanish Open Source Enterprises Association (ASOLIF), and expert consultant for the Spanish National Open Source Reference Center (CENATIC). 
+
+Involved in several communities related to free, libre, open source software he is currently active in GrimoireLab and CHAOSS(Community Health Analytics for Open Source Software). He has been recognized as AWS Data Hero and GitLab Community Hero.
+
+You can reach him on Twitter as @jsmanrique, and when he is not online he loves to spend time with his family and surfing.
+
+<details><summary><b>Meet Cauldron! Your SaaS Software Development Analytics solution</b></summary>
+Cauldron is a brand-new free **open source SaaS** able to analyze software development community and processes. It relies on [CHAOSS GrimoireLab](https://chaoss.github.io/grimoirelab) to collect and process data from different tools used in software development such as git, GitLab, GitHub and/or social platforms like Meetup, and [**Open Distro for ElasticSearch**](https://opendistro.github.io/for-elasticsearch/) to store and to display the project data.The talk shows how Cauldron can be easily put into action to analyze the software projects that matter to the attendees, and to get some CHAOSS metrics about them.
+
 </details>
 
 ---
@@ -173,4 +209,21 @@ Tom Mens obtained his PhD in Science at the Vrije Universiteit Brussel (Belgium)
 <details><summary><b>Session: Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software</b></summary>
 
 This talk presents a generic and empirically validated measurement framework based on the technical lag concept. The framework can be used to assess and reduce the outdatedness, vulnerability and bugginess of software deployments, software projects, software containers and reusable software libraries. We argue that such a metric is very relevant for assessing the health of software (eco)systems, and should become part of the CHAOSS metrics portfolio and tooling. The concept of technical lag aims to quantify to which extent a deployed collection of components is outdated with respect to an ideal deployment. How to interpret this ""ideal"" and the ""outdatedness"" w.r.t. this ""ideal"" is highly context-specific. Depending on the needs and goals of a specific project or a maintainer, the focus may be on functionality, security, stability or even other factors. The ""components"" under consideration could be individual software packages, third-party libraries, component dependencies, or software containers bundling collections of components. To cover this high variability, we have come up with a generic framework for technical lag. We have operationalised and empirically validated this framework in different contexts: to assess the technical lag incurred by outdated dependencies in reusable package repositories such as npm; and to quantify the outdatedness of Debian-based Docker containers in terms of missing updates, vulnerabilities and bugs. We also report on the qualitative evaluation of the usefulness of measuring technical lag, through online surveys conducted with open source software developers. Finally, we present Conpan, an open source tool that we have developed for analysing technical lag in Docker containers. Useful references about technical lag are available on https://secoassist.github.io/results.html
+</details>
+
+---
+
+### Yo Yehudi
+
+![Yo Yehudi](https://chaoss.github.io/website/CHAOSScon/2020EU/images/yo-yehudi.png)
+
+_Software Developer and EngD candidate - University of Cambridge and University of Manchester_
+
+Yo is a Software Sustainability Institute Fellow, founder of Code is Science (www.codeisscience.com/manifesto), EngD student at the University of Manchester studying the effects of community and usability on open source software, editor for the PLOS Open Source Toolkit (channels.plos.org/open-source-toolkit), board member of the Open Bioinformatics Foundation (www.open-bio.org/board/), and a software developer at the University of Cambridge, working on an open source biological data warehouse called InterMine (intermine.org).
+
+<details><summary><b>Open and Reproducible Research with Community-driven Research Software Metrics</b></summary>
+
+What do artificial neural networks, images of the black hole, and SETI@home all have in common? They all trace their roots to research software. In this session, we hope to explore metrics and best practices for evaluating open research software. Research software engineers are evaluated largely based on the numbers of publications and citations. However, metrics based on the number of publications encourage re-creating ‘new’ things or reimplementations instead of reuse, and there are huge variations in existing practices to cite software, meaning software isn't always cited or citations aren’t always captured. Better metrics that reflect the health of research software is crucial to avoid gamification, incentivising research software engineers to follow best software development practices by recognising and rewarding their effort appropriately, and ultimately advancing open science and improving the reproducibility of research. 
+
+Through engaging the audience in a discussion to compare research software and other FOSS, we hope to better connect the research software community to the wider FOSS community. By learning from each other, we aim to identify evaluation metrics that accurately reflect research software health and can be used by hiring committees and research funders, to encourage them to move away from current problematic metrics. Ultimately, we hope this will incentivise the creation and maintenance of good quality scientific open software.
 </details>

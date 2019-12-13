@@ -19,7 +19,7 @@
 | |
 |13:00|TBA
 |13:20|TBA
-|13:40|TBA
+|13:40|**Meet Cauldron! Your SaaS Software Development Analytics solution**<br/>Jose Manrique Lopez de la Fuente
 |14:00|**Navigating Community Health Through Comparison**<br/>Kevin Lumbard
 | |
 |14:20|Lightning Talks (5 minutes each)
@@ -28,13 +28,13 @@
 | |
 |14:50|Break
 | |
-|15:20|TBA
+|15:20|**Language barriers for open source contributors**<br/>Isabella Vieira Ferreira
 |15:40|**Metrics are more than the sum of their parts**<br/>Matt Broberg
 |16:00|**Application of Health metrics on a Cross-sector software ecosystem**<br/>Johan Linåker
-|16:20|TBA
+|16:20|**Open and Reproducible Research with Community-driven Research Software Metrics**<br/>Yo Yehudi
 |16:40|**Managing community backlog with the help of metrics**<br/>Ray Paik & Alberto Pérez García-Plaza
 |17:00|**Diversity & Inclusion Badging Program**<br/>Matt Germonprez & Matt Snell
-|17:20|TBA
+|17:20|**True Confessions: The Seven Deadly Sins of Open Source Communities**<br/>Brian Proffitt
 | |
 |17:50|Adjourn to FOSDEM Beer Event
 
