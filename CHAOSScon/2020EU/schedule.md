@@ -1,5 +1,6 @@
 # Schedule: January 31, 2020
 
+<div>
 <table>
 <thead>
 <!-- Header -->
@@ -247,3 +248,4 @@ Adjourn to FOSDEM Beer Event
 </tr>
 
 </table>
+</div>
