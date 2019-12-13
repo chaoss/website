@@ -10,7 +10,6 @@
 
 ![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)
 
-
 _Doctoral Student Researcher - University of Nebraska at Omaha_
 
 <small>
@@ -23,13 +22,11 @@ Kevin is a doctoral student at the University of Nebraska at Omaha. Kevin is an 
 
 <details><summary><b>Session: Navigating Community Health Through Comparison</b></summary>
 
-
-
 In this presentation, we share stories from 30 plus interviews on community health and offer our insights from engagement with the CHAOSS project. In particular, we focus on how people use comparisons in the determination of project health. To make solutions actionable, placing open source project metrics into the specific contexts where they are consumed is critical. When open source project contributors compare one open source project to another, they get a sense of how they are doing, relatively speaking. The comparison is social insofar as people draw comparisons between projects that are similar in terms of personnel or other key characteristics; projects they are socially familiar with. Through comparison, open source project contributors identify metrics that draw essential contrasts, and through these contrasts evaluate the likelihood of continued success or failure for their projects of interest.
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -55,13 +52,11 @@ Matt was an EMC storage expert, VMware vExpert, and former fan of other propriet
 
 <details><summary><b>Session: Metrics are more than the sum of their parts</b></summary>
 
-
-
 There was a time in human history when it was believed that all of human behavior could be explained with math. That widely acclaimed and highly respected science was disproved by an “incompleteness theorem” that showed math cannot explain the world on its own. In another time in human history, psychologists believed all human behavior could be reduced to cause and effect. This gave rise to Gestalt theory that shows perception is not always mapped cleanly or with certainty. We are in a state of Community building that maps success to metrics like lines of code and GitHub stars. I would like us to explore where these metrics fall short on capturing the most significant value of a community, and how we can use other metrics to begin to show the much larger impact Community organizations like Developer Relations (DevRel) can have on a business. This improved process begins with mapping value to business need, pairing it with a community need, and back to the business opportunities. If you enjoy a little science, a lot of community metrics, and are looking for new ways to show a business the value of your community efforts, this talk is for you. There will be practical advice on how to pitch and position Community whether you’re a Community Manager, Developer Advocate, or other Developer Relations professional.
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -85,13 +80,11 @@ Ray is a Community Manager at GitLab where he is helping to grow the community o
 
 <details><summary><b>Session: Managing community backlog with the help of metrics</b></summary>
 
-
-
 One of the ways you can measure responsiveness to community contribution is by looking at the size of the backlog periodically. If the backlog of community contribution keeps growing without contributions being closed/merged in a timely manner, this will lead to dissatisfaction among community members. In this talk, Ray will discuss why “Community contribution” Merge Request (MR) backlog has become important at GitLab and how he worked with Alberto at Bitergia to develop visualizations for MR backlogs across GitLab projects. Alberto will discuss why current GrimoireLab dashboards needed to evolve to support GitLab’s use case (beyond GrimoireLab’s existing backlog focused dashboards), technical challenges and limitations when developing the visualization (e.g. calculating the number of contributions that were in opened state on the fly within a given time range that can be selected by the user), and plans for upstreaming this work to CHAOSS.
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -115,13 +108,11 @@ Daniel Izquierdo Cortazar is a cofounder at Bitergia, a company that provides so
 
 <details><summary><b>Session: CHA-IO-SS - Community Health Analytics for Inner and Open Source Software</b></summary>
 
-
-
 CHAOSS has been on the ground for the last couple of years with a strong focus on open source. Indeed at the very beginning there was some discussion to have included in the mission and vision of the community the term InnerSource that was lately removed. What if we think for a while about InnerSource in the terms of metrics? As active member of the InnerSource Commons, it is worth mentioning a list of them and how behaviours that are assumed by default in open source communities (collaboration, transparency, communication) do not even exist at the InnerSource level. This talk aims at fostering some discussion internally at CHAOSS with the purpose of understanding InnerSource requirements and how with the same infrastructure, metrics and discussions we're having, CHAOSS may become at some point some standard in the industry about software development metrics (and not only open source software development metrics).
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -145,13 +136,11 @@ Matt Germonprez is the Mutual of Omaha Professor of Information Systems in the C
 
 <details><summary><b>Session: Diversity & Inclusion Badging Program</b></summary>
 
-
-
 The Bureau of Labor Statistics shows that employees in the field of “computer and mathematical occupations” are 25.6% female (Bureau of Labor Statistics, 2019). A lack of D&I is not only a known problem but also acts as a barrier for potential contributors becoming involved with IT as a lack of D&I will perpetuate complacency (Irwin, 2018), avoidance (Sterling, 2016), and a negative collective conscience (Blincoe et al., 2019). Within IT, open source software exhibits some of the worst D&I. The open source survey run by GitHub states that only 3% of contributors to open source software are female (GitHub, 2017). While open source has made strides in some aspects of D&I, such as event inclusivity (Irwin, 2017) and community engagement to support organizational diversity (Alexander, 2019), work remains. The proposed is aimed at contributing to this positive growth through the development of a D&I badging system. In open source, badges are available for community leaders to publicly display, providing a way for projects to signal their attention to such things as community health and software security. Known examples of software badging systems in open source include the CII Best Practices Badge, Black Duck Security Risk Badge, and the PyPi Python Coverage Badge. We can draw from this badging work to improve D&I in open source. While software badges present solutions for most goals of software development, no badge has been created to support D&I initiatives, and the proposed talk aims to advance these efforts. In this talk, I will discuss complexities associated with D&I metrics and propose a D&I badging system that provides open source communities the ability to make diversity and inclusion within open source projects more transparent.
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -175,13 +164,11 @@ Sharan Foga has over 20 years in the IT industry working on the delivery and imp
 
 <details><summary><b>Session: Measuring Culture</b></summary>
 
-
-
 They say you can’t be certain of anything unless it can be measured – so what about culture? We know it exists and can be passed on to others, so there must be a way to measure it. Using Apache Kibble we attempt to look for cultural indicators at the Apache Software Foundation, set a cultural benchmark then match real Apache projects against it. In theory we would expect a perfect match but as the results show, culture isn’t that simple.
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -205,13 +192,11 @@ Brian is a Senior Principal Community Architect for the Red Hat Open Source Prog
 
 <details><summary><b>Session: True Confessions: The Seven Deadly Sins of Open Source Communities</b></summary>
 
-
-
 This talk would take a humorous approach to explaining what really no one should do when managing and measuring open source community best practices, with the primary goal of instilling positive open source development practices to the audience. Such ""don'ts"" include not documenting anything, establishing no clear paths to success, and not bothering to communicate.
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -237,13 +222,11 @@ Sean is also the founder of the Data Science and Analytics Masters program at Mi
 
 <details><summary><b>Session: Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story</b></summary>
 
-
-
 Making it simple to trust, ship, and grow open source at Twitter demanded visibility into contribution trends that were not readily available. Twitter's open source program office and the Augur project collaborated with CHAOSS using student interns from Google's Summer of Code, Twitter's intern program and the University of Missouri. First, this talk will describe Twitter's engaging interface design and its fit to the needs of Open Source stakeholders within Twitter, but outside the open source program office. Second, we will describe how an open API and data collection tool, Augur, evolved in close collaboration with Twitter.
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -267,8 +250,6 @@ Johan is a postdoctoral researcher focusing on how the public sector can create 
 
 <details><summary><b>Session: Application of Health metrics on a Cross-sector software ecosystem</b></summary>
 
-
-
 Business and software ecosystem health can be considered as a key performance indicator of an ecosystem's potential to create opportunities for its members.
 
 In this talk Johan will present the practical application of ecosystem health on JobTech Dev, a software ecosystem of job-matching actors in Sweden. The ecosystem is lead by the Swedish Public Employment Service and is underpinned by open data and open source software that is used and co-developed by the whole ecosystem.
@@ -277,9 +258,9 @@ Elicited metrics cover the ecosystem's productivity in development and maintenan
 
 As the metrics has just been introduced at the Employment Service, Johan will share some initial lessons learned and discuss the roadmap of connecting the health metrics to impact metrics relating to the ecosystem's common vision of improved job-matching on the Swedish labor market.
 
-
-
 </details>
+
+---
 
 </div>
 
@@ -303,16 +284,15 @@ Tom Mens obtained his PhD in Science at the Vrije Universiteit Brussel (Belgium)
 
 <details><summary><b>Session: Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software</b></summary>
 
-
-
 This talk presents a generic and empirically validated measurement framework based on the technical lag concept. The framework can be used to assess and reduce the outdatedness, vulnerability and bugginess of software deployments, software projects, software containers and reusable software libraries. We argue that such a metric is very relevant for assessing the health of software (eco)systems, and should become part of the CHAOSS metrics portfolio and tooling. The concept of technical lag aims to quantify to which extent a deployed collection of components is outdated with respect to an ideal deployment. How to interpret this ""ideal"" and the ""outdatedness"" w.r.t. this ""ideal"" is highly context-specific. Depending on the needs and goals of a specific project or a maintainer, the focus may be on functionality, security, stability or even other factors. The ""components"" under consideration could be individual software packages, third-party libraries, component dependencies, or software containers bundling collections of components. To cover this high variability, we have come up with a generic framework for technical lag. We have operationalised and empirically validated this framework in different contexts: to assess the technical lag incurred by outdated dependencies in reusable package repositories such as npm; and to quantify the outdatedness of Debian-based Docker containers in terms of missing updates, vulnerabilities and bugs. We also report on the qualitative evaluation of the usefulness of measuring technical lag, through online surveys conducted with open source software developers. Finally, we present Conpan, an open source tool that we have developed for analysing technical lag in Docker containers. Useful references about technical lag are available on https://secoassist.github.io/results.html
-
-
 
 </details>
 
+---
+
 </div>
 
+<div>
 
 ### Georg Link
 
@@ -323,4 +303,7 @@ _Director of Sales - Bitergia_
 Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning. [@GeorgLink](https://twitter.com/georglink)
 
 
+
 <b>Keynote: Welcome & State of CHAOSS</b>
+
+</div>
