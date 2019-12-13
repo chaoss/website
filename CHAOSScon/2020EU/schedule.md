@@ -1,38 +1,14 @@
 # Schedule: January 31, 2020
 
 <div>
+Time|Sessions
+---|---
+|
+9:00|Registration & Networking
+|
+9:30|Keynote: Welcome & State of CHAOSS<br>Georg Link
+
 <table>
-<thead>
-<!-- Header -->
-<tr>
-<td>Time
-<td colspan=2>Session
-</tr>
-</thead>
-
-<!-- Body -->
-<tbody>
-
-<!-- 9:00 - 9:30 -->
-<tr><td colspan=3></tr>
-<tr>
-<td><time>9:00</time>
-<td colspan=2><!--Interim-->
-Registration & Networking
-</tr>
-
-<!-- 9:30 - 9:50 -->
-<tr><td colspan=3></tr>
-<tr>
-<td><time>9:30</time>
-<td>
-<b>Keynote: Welcome & State of CHAOSS</b><br/>
-<author>Georg Link</author>
-<td>
-<!-- [<kbd>Slides</kbd>]() -->
-<!-- [<kbd>Video</kbd>]() -->
-</tr>
-
 <!-- 9:50 - 10:20 -->
 <tr>
 <td><time>9:50</time>
