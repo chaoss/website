@@ -1,6 +1,5 @@
 # Schedule: January 31, 2020
 
-<div>
 Time|Sessions
 ---|---
 |
@@ -8,6 +7,7 @@ Time|Sessions
 |
 9:30|Keynote: Welcome & State of CHAOSS<br>Georg Link
 
+<div>
 <table>
 <!-- 9:50 - 10:20 -->
 <tr>
