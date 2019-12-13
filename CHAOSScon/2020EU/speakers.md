@@ -1,8 +1,20 @@
 ## Speakers and Session Descriptions
 
-<!-- Speakers will be announced after the call of participation ended. -->
+### Ahmed Zerouali
+
+![Ahmed Zerouali](https://chaoss.github.io/website/CHAOSScon/2020EU/images/ahmed-zerouali.png)
+
+_Postdoc in Software Engineering - University of Mons, Belgium_
+
+Ahmed finished his PhD in Science in 2019 from the University of Mons. He is currently working within the SECO-ASSIST project (https://secoassist.github.io) as a postdoctoral researcher from the UMONS. His research focuses on the evolution, health and analysis of open source software ecosystems. [@a_zerou](https://twitter.com/a_zerou)
+
+<details><summary><b>Session: Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software</b></summary>
+
+This talk presents a generic and empirically validated measurement framework based on the technical lag concept. The framework can be used to assess and reduce the outdatedness, vulnerability and bugginess of software deployments, software projects, software containers and reusable software libraries. We argue that such a metric is very relevant for assessing the health of software (eco)systems, and should become part of the CHAOSS metrics portfolio and tooling. The concept of technical lag aims to quantify to which extent a deployed collection of components is outdated with respect to an ideal deployment. How to interpret this ""ideal"" and the ""outdatedness"" w.r.t. this ""ideal"" is highly context-specific. Depending on the needs and goals of a specific project or a maintainer, the focus may be on functionality, security, stability or even other factors. The ""components"" under consideration could be individual software packages, third-party libraries, component dependencies, or software containers bundling collections of components. To cover this high variability, we have come up with a generic framework for technical lag. We have operationalised and empirically validated this framework in different contexts: to assess the technical lag incurred by outdated dependencies in reusable package repositories such as npm; and to quantify the outdatedness of Debian-based Docker containers in terms of missing updates, vulnerabilities and bugs. We also report on the qualitative evaluation of the usefulness of measuring technical lag, through online surveys conducted with open source software developers. Finally, we present Conpan, an open source tool that we have developed for analysing technical lag in Docker containers. Useful references about technical lag are available on https://secoassist.github.io/results.html
+</details>
 
 
+---
 
 ### Brian Proffitt
 

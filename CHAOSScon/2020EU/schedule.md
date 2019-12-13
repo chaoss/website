@@ -12,7 +12,7 @@
 |10:40|Morning Break
 | |
 |10:50|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)
-|11:00|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & Ahmed Zerouali
+|11:00|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)
 11:20|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)
 | |
 |11:50|Lunch & Networking
