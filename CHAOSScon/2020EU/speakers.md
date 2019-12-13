@@ -4,6 +4,69 @@
 
 
 
+### Brian Proffitt
+
+![Brian Proffitt](https://chaoss.github.io/website/CHAOSScon/2020EU/images/brian-proffitt.png)
+
+_Sr. Principal Community Architect - Red Hat_
+
+Brian is a Senior Principal Community Architect for the Red Hat Open Source Program Office, responsible for community content, onboarding, and open source consulting. Brian also serves on the governing board for Project CHAOSS, a metrics-oriented approach to ascertaining community health. A former technology journalist, Brian is also a graduate lecturer at the University of Notre Dame. Follow him on Twitter @TheTechScribe.
+
+<details><summary><b>Session: True Confessions: The Seven Deadly Sins of Open Source Communities</b></summary>
+
+This talk would take a humorous approach to explaining what really no one should do when managing and measuring open source community best practices, with the primary goal of instilling positive open source development practices to the audience. Such ""don'ts"" include not documenting anything, establishing no clear paths to success, and not bothering to communicate.
+</details>
+
+---
+
+### Daniel Izquierdo
+
+![Daniel Izquierdo](https://chaoss.github.io/website/CHAOSScon/2020EU/images/daniel-izquierdo.png)
+
+_Director of Consulting - Bitergia_
+
+Daniel Izquierdo Cortazar is a cofounder at Bitergia, a company that provides software analytics for open source and internal ecosystems, where he’s focused on the quality of the data, research of new metrics, analysis, and studies of interest for Bitergia customers via data mining and processing. Daniel holds a PhD in free software engineering from the Universidad Rey Juan Carlos in Madrid, where his research focused on the analysis of buggy developer activity patterns in the Mozilla community.
+
+<details><summary><b>Session: CHA-IO-SS - Community Health Analytics for Inner and Open Source Software</b></summary>
+
+CHAOSS has been on the ground for the last couple of years with a strong focus on open source. Indeed at the very beginning there was some discussion to have included in the mission and vision of the community the term InnerSource that was lately removed. What if we think for a while about InnerSource in the terms of metrics? As active member of the InnerSource Commons, it is worth mentioning a list of them and how behaviours that are assumed by default in open source communities (collaboration, transparency, communication) do not even exist at the InnerSource level. This talk aims at fostering some discussion internally at CHAOSS with the purpose of understanding InnerSource requirements and how with the same infrastructure, metrics and discussions we're having, CHAOSS may become at some point some standard in the industry about software development metrics (and not only open source software development metrics).
+</details>
+
+---
+
+### Georg Link
+
+![Georg Link](https://chaoss.github.io/website/CHAOSScon/2019NA/img/GeorgLink.png)
+
+_Director of Sales - Bitergia_
+
+Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning. [@GeorgLink](https://twitter.com/georglink)
+
+<b>Keynote: Welcome & State of CHAOSS</b>
+
+---
+
+### Johan Linåker
+
+![Johan Linåker](https://chaoss.github.io/website/CHAOSScon/2020EU/images/johan-linaker.png)
+
+_Postdoctoral Researcher - Lund University_
+
+Johan is a postdoctoral researcher focusing on how the public sector can create platforms with open data and software on which ecosystems of actors can innovate through cross-sector collaborations. In his Ph.D., he focused specifically on helping companies make contributions and engage with communities in alignment with business goals. He sits on the advisory board for Hack for Sweden, the Swedish governments gov-tech initiative for enabling open and data-driven innovation. He is also the founder of OpenHack, a non-profit tech-community solving real-world challenges connected to the global goals in Agenda 2030.
+
+<details><summary><b>Session: Application of Health metrics on a Cross-sector software ecosystem</b></summary>
+
+Business and software ecosystem health can be considered as a key performance indicator of an ecosystem's potential to create opportunities for its members.
+
+In this talk Johan will present the practical application of ecosystem health on JobTech Dev, a software ecosystem of job-matching actors in Sweden. The ecosystem is lead by the Swedish Public Employment Service and is underpinned by open data and open source software that is used and co-developed by the whole ecosystem.
+
+Elicited metrics cover the ecosystem's productivity in development and maintenance, robustness to withstand change and disruptions, and openness for new business applications, use cases and external contributions.
+
+As the metrics has just been introduced at the Employment Service, Johan will share some initial lessons learned and discuss the roadmap of connecting the health metrics to impact metrics relating to the ecosystem's common vision of improved job-matching on the Swedish labor market.
+</details>
+
+---
+
 ### Kevin Lumbard
 
 ![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)
@@ -36,36 +99,6 @@ There was a time in human history when it was believed that all of human behavio
 
 ---
 
-### Ray Paik
-
-![Ray Paik](https://chaoss.github.io/website/CHAOSScon/2020EU/images/ray-paik.png)
-
-_Community Manager - GitLab_
-
-Ray is a Community Manager at GitLab where he is helping to grow the community of contributors to GitLab. Prior to GitLab, Ray was responsible for the day-to-day operation of the Open Platform for NFV (OPNFV) community since its launch in 2014. He has over 15 years of experience in the high-tech industry in roles ranging from software engineer, product manager, program manager, account manager, and team lead at companies such as EDS, Intel, Linux Foundation, and Medallia. Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team.
-
-<details><summary><b>Session: Managing community backlog with the help of metrics</b></summary>
-
-One of the ways you can measure responsiveness to community contribution is by looking at the size of the backlog periodically. If the backlog of community contribution keeps growing without contributions being closed/merged in a timely manner, this will lead to dissatisfaction among community members. In this talk, Ray will discuss why “Community contribution” Merge Request (MR) backlog has become important at GitLab and how he worked with Alberto at Bitergia to develop visualizations for MR backlogs across GitLab projects. Alberto will discuss why current GrimoireLab dashboards needed to evolve to support GitLab’s use case (beyond GrimoireLab’s existing backlog focused dashboards), technical challenges and limitations when developing the visualization (e.g. calculating the number of contributions that were in opened state on the fly within a given time range that can be selected by the user), and plans for upstreaming this work to CHAOSS.
-</details>
-
----
-
-### Daniel Izquierdo
-
-![Daniel Izquierdo](https://chaoss.github.io/website/CHAOSScon/2020EU/images/daniel-izquierdo.png)
-
-_Director of Consulting - Bitergia_
-
-Daniel Izquierdo Cortazar is a cofounder at Bitergia, a company that provides software analytics for open source and internal ecosystems, where he’s focused on the quality of the data, research of new metrics, analysis, and studies of interest for Bitergia customers via data mining and processing. Daniel holds a PhD in free software engineering from the Universidad Rey Juan Carlos in Madrid, where his research focused on the analysis of buggy developer activity patterns in the Mozilla community.
-
-<details><summary><b>Session: CHA-IO-SS - Community Health Analytics for Inner and Open Source Software</b></summary>
-
-CHAOSS has been on the ground for the last couple of years with a strong focus on open source. Indeed at the very beginning there was some discussion to have included in the mission and vision of the community the term InnerSource that was lately removed. What if we think for a while about InnerSource in the terms of metrics? As active member of the InnerSource Commons, it is worth mentioning a list of them and how behaviours that are assumed by default in open source communities (collaboration, transparency, communication) do not even exist at the InnerSource level. This talk aims at fostering some discussion internally at CHAOSS with the purpose of understanding InnerSource requirements and how with the same infrastructure, metrics and discussions we're having, CHAOSS may become at some point some standard in the industry about software development metrics (and not only open source software development metrics).
-</details>
-
----
-
 ### Matt Germonprez
 
 ![Matt Germonprez](https://chaoss.github.io/website/CHAOSScon/2020EU/images/matt-germonprez.png)
@@ -81,33 +114,17 @@ The Bureau of Labor Statistics shows that employees in the field of “computer 
 
 ---
 
-### Sharan Foga
+### Ray Paik
 
-![Sharan Foga](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sharan-foga.png)
+![Ray Paik](https://chaoss.github.io/website/CHAOSScon/2020EU/images/ray-paik.png)
 
-_VP Apache Community Development - The Apache Software Foundation_
+_Community Manager - GitLab_
 
-Sharan Foga has over 20 years in the IT industry working on the delivery and implementation of IT projects. She is currently based in Stockholm, Sweden and works for Sandvik as an Agile Delivery Manager. She has been involved with the Apache Software Foundation (ASF) since 2008 and has presented at several conferences about ""The Apache Way"" of engaging and empowering communities. She enjoys working on open source community management and is VP Apache Community Development. She is a Committer, ASF Member and is involved in several ASF projects including Apache Community Development, Apache OFBiz, Apache Kibble, Apache Training (incubating) and Apache Incubator.
+Ray is a Community Manager at GitLab where he is helping to grow the community of contributors to GitLab. Prior to GitLab, Ray was responsible for the day-to-day operation of the Open Platform for NFV (OPNFV) community since its launch in 2014. He has over 15 years of experience in the high-tech industry in roles ranging from software engineer, product manager, program manager, account manager, and team lead at companies such as EDS, Intel, Linux Foundation, and Medallia. Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team.
 
-<details><summary><b>Session: Measuring Culture</b></summary>
+<details><summary><b>Session: Managing community backlog with the help of metrics</b></summary>
 
-They say you can’t be certain of anything unless it can be measured – so what about culture? We know it exists and can be passed on to others, so there must be a way to measure it. Using Apache Kibble we attempt to look for cultural indicators at the Apache Software Foundation, set a cultural benchmark then match real Apache projects against it. In theory we would expect a perfect match but as the results show, culture isn’t that simple.
-
-</details>
-
----
-
-### Brian Proffitt
-
-![Brian Proffitt](https://chaoss.github.io/website/CHAOSScon/2020EU/images/brian-proffitt.png)
-
-_Sr. Principal Community Architect - Red Hat_
-
-Brian is a Senior Principal Community Architect for the Red Hat Open Source Program Office, responsible for community content, onboarding, and open source consulting. Brian also serves on the governing board for Project CHAOSS, a metrics-oriented approach to ascertaining community health. A former technology journalist, Brian is also a graduate lecturer at the University of Notre Dame. Follow him on Twitter @TheTechScribe.
-
-<details><summary><b>Session: True Confessions: The Seven Deadly Sins of Open Source Communities</b></summary>
-
-This talk would take a humorous approach to explaining what really no one should do when managing and measuring open source community best practices, with the primary goal of instilling positive open source development practices to the audience. Such ""don'ts"" include not documenting anything, establishing no clear paths to success, and not bothering to communicate.
+One of the ways you can measure responsiveness to community contribution is by looking at the size of the backlog periodically. If the backlog of community contribution keeps growing without contributions being closed/merged in a timely manner, this will lead to dissatisfaction among community members. In this talk, Ray will discuss why “Community contribution” Merge Request (MR) backlog has become important at GitLab and how he worked with Alberto at Bitergia to develop visualizations for MR backlogs across GitLab projects. Alberto will discuss why current GrimoireLab dashboards needed to evolve to support GitLab’s use case (beyond GrimoireLab’s existing backlog focused dashboards), technical challenges and limitations when developing the visualization (e.g. calculating the number of contributions that were in opened state on the fly within a given time range that can be selected by the user), and plans for upstreaming this work to CHAOSS.
 </details>
 
 ---
@@ -129,23 +146,18 @@ Making it simple to trust, ship, and grow open source at Twitter demanded visibi
 
 ---
 
-### Johan Linåker
+### Sharan Foga
 
-![Johan Linåker](https://chaoss.github.io/website/CHAOSScon/2020EU/images/johan-linaker.png)
+![Sharan Foga](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sharan-foga.png)
 
-_Postdoctoral Researcher - Lund University_
+_VP Apache Community Development - The Apache Software Foundation_
 
-Johan is a postdoctoral researcher focusing on how the public sector can create platforms with open data and software on which ecosystems of actors can innovate through cross-sector collaborations. In his Ph.D., he focused specifically on helping companies make contributions and engage with communities in alignment with business goals. He sits on the advisory board for Hack for Sweden, the Swedish governments gov-tech initiative for enabling open and data-driven innovation. He is also the founder of OpenHack, a non-profit tech-community solving real-world challenges connected to the global goals in Agenda 2030.
+Sharan Foga has over 20 years in the IT industry working on the delivery and implementation of IT projects. She is currently based in Stockholm, Sweden and works for Sandvik as an Agile Delivery Manager. She has been involved with the Apache Software Foundation (ASF) since 2008 and has presented at several conferences about ""The Apache Way"" of engaging and empowering communities. She enjoys working on open source community management and is VP Apache Community Development. She is a Committer, ASF Member and is involved in several ASF projects including Apache Community Development, Apache OFBiz, Apache Kibble, Apache Training (incubating) and Apache Incubator.
 
-<details><summary><b>Session: Application of Health metrics on a Cross-sector software ecosystem</b></summary>
+<details><summary><b>Session: Measuring Culture</b></summary>
 
-Business and software ecosystem health can be considered as a key performance indicator of an ecosystem's potential to create opportunities for its members.
+They say you can’t be certain of anything unless it can be measured – so what about culture? We know it exists and can be passed on to others, so there must be a way to measure it. Using Apache Kibble we attempt to look for cultural indicators at the Apache Software Foundation, set a cultural benchmark then match real Apache projects against it. In theory we would expect a perfect match but as the results show, culture isn’t that simple.
 
-In this talk Johan will present the practical application of ecosystem health on JobTech Dev, a software ecosystem of job-matching actors in Sweden. The ecosystem is lead by the Swedish Public Employment Service and is underpinned by open data and open source software that is used and co-developed by the whole ecosystem.
-
-Elicited metrics cover the ecosystem's productivity in development and maintenance, robustness to withstand change and disruptions, and openness for new business applications, use cases and external contributions.
-
-As the metrics has just been introduced at the Employment Service, Johan will share some initial lessons learned and discuss the roadmap of connecting the health metrics to impact metrics relating to the ecosystem's common vision of improved job-matching on the Swedish labor market.
 </details>
 
 ---
@@ -162,15 +174,3 @@ Tom Mens obtained his PhD in Science at the Vrije Universiteit Brussel (Belgium)
 
 This talk presents a generic and empirically validated measurement framework based on the technical lag concept. The framework can be used to assess and reduce the outdatedness, vulnerability and bugginess of software deployments, software projects, software containers and reusable software libraries. We argue that such a metric is very relevant for assessing the health of software (eco)systems, and should become part of the CHAOSS metrics portfolio and tooling. The concept of technical lag aims to quantify to which extent a deployed collection of components is outdated with respect to an ideal deployment. How to interpret this ""ideal"" and the ""outdatedness"" w.r.t. this ""ideal"" is highly context-specific. Depending on the needs and goals of a specific project or a maintainer, the focus may be on functionality, security, stability or even other factors. The ""components"" under consideration could be individual software packages, third-party libraries, component dependencies, or software containers bundling collections of components. To cover this high variability, we have come up with a generic framework for technical lag. We have operationalised and empirically validated this framework in different contexts: to assess the technical lag incurred by outdated dependencies in reusable package repositories such as npm; and to quantify the outdatedness of Debian-based Docker containers in terms of missing updates, vulnerabilities and bugs. We also report on the qualitative evaluation of the usefulness of measuring technical lag, through online surveys conducted with open source software developers. Finally, we present Conpan, an open source tool that we have developed for analysing technical lag in Docker containers. Useful references about technical lag are available on https://secoassist.github.io/results.html
 </details>
-
----
-
-### Georg Link
-
-![Georg Link](https://chaoss.github.io/website/CHAOSScon/2019NA/img/GeorgLink.png)
-
-_Director of Sales - Bitergia_
-
-Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning. [@GeorgLink](https://twitter.com/georglink)
-
-<b>Keynote: Welcome & State of CHAOSS</b>
