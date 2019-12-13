@@ -1,11 +1,11 @@
 # Schedule: January 31, 2020
 
-Time|Sessions
+|Time|Sessions
 ---|---
-|
-9:00|Registration & Networking
-|
-9:30|Keynote: Welcome & State of CHAOSS<br>Georg Link
+| |
+| 9:00|Registration & Networking
+| |
+| 9:30|Keynote: Welcome & State of CHAOSS<br>Georg Link
 
 <div>
 <table>
