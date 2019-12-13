@@ -5,68 +5,20 @@
 | |
 | 9:00|Registration & Networking
 | |
-| 9:30|Keynote: Welcome & State of CHAOSS<br>Georg Link
-
-<div>
-<table>
-<!-- 9:50 - 10:20 -->
-<tr>
-<td><time>9:50</time>
-<td>
-<b>Keynote: Ethics (Title TBA)</b><br/>
-<author>Deb Nicholson</author>
-<td>
-<!-- [<kbd>Slides</kbd>]() -->
-<!-- [<kbd>Video</kbd>]() -->
-</tr>
-
-<!-- 10:20 - 10:40 -->
-<tr>
-<td><time>10:20</time>
-<td>
-<b>Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story</b><br/>
-<author>Sean Goggins & Remy DeCausemaker</author>
-<td>
-<!-- [<kbd>Slides</kbd>]() -->
-<!-- [<kbd>Video</kbd>]() -->
-</tr>
-
-<!-- 10:40 - 10:50 -->
-<tr><td colspan=3></tr>
-<tr>
-<td><time>10:40</time>
-<td colspan=2><!--Interim-->
-Morning Break
-</tr>
-<tr><td colspan=3></tr>
-
-<!-- 10:50 - 11:00 -->
-<tr>
-<td><time>10:50</time>
-<td>
-<b>Measuring Culture</b><br/>
-<author>Sharan Foga</author>
-<td>
-<!-- [<kbd>Slides</kbd>]() -->
-<!-- [<kbd>Video</kbd>]() -->
-</tr>
-
-<!-- 11:00 - 11:20 -->
-<tr>
-<td><time>11:00</time>
-<td>
-<b>Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software</b><br/>
-<author>Tom Mens & Ahmed Zerouali</author>
-<td>
-<!-- [<kbd>Slides</kbd>]() -->
-<!-- [<kbd>Video</kbd>]() -->
-</tr>
+| 9:30|**Keynote: Welcome & State of CHAOSS**<br>Georg Link
+| 9:50|**Keynote: Ethics (Title TBA)**<br>Deb Nicholson
+|10:20|**Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story**<br/>Sean Goggins & Remy DeCausemaker
+| |
+|10:40|Morning Break
+| |
+|10:50|**Measuring Culture**<br/>Sharan Foga
+|11:00|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>Tom Mens & Ahmed Zerouali
 
 <!-- 11:20 - 11:50 -->
 <tr>
 <td><time>11:20</time>
 <td>
-<b>CHA-IO-SS - Community Health Analytics for Inner and Open Source Software</b><br/>
+**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>
 <author>Daniel Izquierdo</author>
 <td>
 </tr>
@@ -102,7 +54,7 @@ TBA</tr>
 <tr>
 <td><time>14:00</time>
 <td>
-<b>Navigating Community Health Through Comparison</b><br/>
+**Navigating Community Health Through Comparison**<br/>
 <author>Kevin Lumbard</author>
 <td>
 </tr>
@@ -119,7 +71,7 @@ Lightning Talks
 </tr>
 
 <!-- 14:20 - 14:50  -->
-<tr><td><b>Metrics and valuation of open source projects: A crossover between Open Source and Open Science</b><br/>
+<tr><td>**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>
 <author>Camille Moulin</author>
 <td>
 <!-- [<kbd>Slides</kbd>]() -->
@@ -157,7 +109,7 @@ TBA</tr>
 <tr>
 <td><time>15:40</time>
 <td>
-<b>Metrics are more than the sum of their parts</b><br/>
+**Metrics are more than the sum of their parts**<br/>
 <author>Matt Broberg</author>
 <td>
 <!-- [<kbd>Slides</kbd>]() -->
@@ -168,7 +120,7 @@ TBA</tr>
 <tr>
 <td><time>16:00</time>
 <td>
-<b>Application of Health metrics on a Cross-sector software ecosystem</b><br/>
+**Application of Health metrics on a Cross-sector software ecosystem**<br/>
 <author>Johan Linåker</author>
 <td>
 <!-- [<kbd>Slides</kbd>]() -->
@@ -188,7 +140,7 @@ TBA
 <tr>
 <td><time>16:40</time>
 <td>
-<b>Managing community backlog with the help of metrics</b><br/>
+**Managing community backlog with the help of metrics**<br/>
 <author>Ray Paik & Alberto Pérez García-Plaza</author>
 <td>
 <!-- [<kbd>Slides</kbd>]() -->
@@ -199,7 +151,7 @@ TBA
 <tr>
 <td><time>17:00</time>
 <td>
-<b>Diversity & Inclusion Badging Program</b><br/>
+**Diversity & Inclusion Badging Program**<br/>
 <author>Matt Germonprez & Matt Snell</author>
 <td>
 <!-- [<kbd>Slides</kbd>]() -->
