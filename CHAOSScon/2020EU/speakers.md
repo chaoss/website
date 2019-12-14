@@ -198,6 +198,8 @@ One of the ways you can measure responsiveness to community contribution is by l
 
 ![Remy DeCausemaker](https://chaoss.github.io/website/CHAOSScon/2020EU/images/remy-decausemaker.png)
 
+_Open Source Program Manager - Twitter_
+
 Remy DeCausemaker is an open source advocate and community manager. He has lead community development around a number of open source projects and efforts including Fedora Linux, Hillary Clinton’s Presidential Campaign, and most recently as the head of open source at Twitter. Remy was also an Adjunct Professor at RIT where he helped formulate the school’s first interdisciplinary minor in free and open source software and free culture. [@Remy_D](https://twitter.com/Remy_D)
 
 <details><summary><b>Session: Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story</b></summary>
