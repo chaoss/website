@@ -185,11 +185,24 @@ The Bureau of Labor Statistics shows that employees in the field of “computer 
 
 _Community Manager - GitLab_
 
-Ray is a Community Manager at GitLab where he is helping to grow the community of contributors to GitLab. Prior to GitLab, Ray was responsible for the day-to-day operation of the Open Platform for NFV (OPNFV) community since its launch in 2014. He has over 15 years of experience in the high-tech industry in roles ranging from software engineer, product manager, program manager, account manager, and team lead at companies such as EDS, Intel, Linux Foundation, and Medallia. Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team. [@rspaik](https://twitter.com/rspaik)
+Ray is a Community Manager at GitLab where he is helping to grow the community of contributors to GitLab. Prior to GitLab, Ray was responsible for the day-to-day operation of the Open Platform for NFV (OPNFV) community since its launch in 2014. He has over 15 years of experience in the high-tech industry in roles ranging from software engineer, product manager, program manager, account manager, and team lead at companies such as EDS, Intel, Linux Foundation, and Medallia. Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team. 
 
 <details><summary><b>Session: Managing community backlog with the help of metrics</b></summary>
 
 One of the ways you can measure responsiveness to community contribution is by looking at the size of the backlog periodically. If the backlog of community contribution keeps growing without contributions being closed/merged in a timely manner, this will lead to dissatisfaction among community members. In this talk, Ray will discuss why “Community contribution” Merge Request (MR) backlog has become important at GitLab and how he worked with Alberto at Bitergia to develop visualizations for MR backlogs across GitLab projects. Alberto will discuss why current GrimoireLab dashboards needed to evolve to support GitLab’s use case (beyond GrimoireLab’s existing backlog focused dashboards), technical challenges and limitations when developing the visualization (e.g. calculating the number of contributions that were in opened state on the fly within a given time range that can be selected by the user), and plans for upstreaming this work to CHAOSS.
+</details>
+
+---
+
+### Remy DeCausemaker
+
+![Remy DeCausemaker](https://chaoss.github.io/website/CHAOSScon/2020EU/images/remy-decausemaker.png)
+
+Remy DeCausemaker is an open source advocate and community manager. He has lead community development around a number of open source projects and efforts including Fedora Linux, Hillary Clinton’s Presidential Campaign, and most recently as the head of open source at Twitter. Remy was also an Adjunct Professor at RIT where he helped formulate the school’s first interdisciplinary minor in free and open source software and free culture. [@Remy_D](https://twitter.com/Remy_D)
+
+<details><summary><b>Session: Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story</b></summary>
+
+Making it simple to trust, ship, and grow open source at Twitter demanded visibility into contribution trends that were not readily available. Twitter's open source program office and the Augur project collaborated with CHAOSS using student interns from Google's Summer of Code, Twitter's intern program and the University of Missouri. First, this talk will describe Twitter's engaging interface design and its fit to the needs of Open Source stakeholders within Twitter, but outside the open source program office. Second, we will describe how an open API and data collection tool, Augur, evolved in close collaboration with Twitter.
 </details>
 
 ---
