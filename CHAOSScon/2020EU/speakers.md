@@ -13,6 +13,20 @@ Ahmed finished his PhD in Science in 2019 from the University of Mons. He is cur
 This talk presents a generic and empirically validated measurement framework based on the technical lag concept. The framework can be used to assess and reduce the outdatedness, vulnerability and bugginess of software deployments, software projects, software containers and reusable software libraries. We argue that such a metric is very relevant for assessing the health of software (eco)systems, and should become part of the CHAOSS metrics portfolio and tooling. The concept of technical lag aims to quantify to which extent a deployed collection of components is outdated with respect to an ideal deployment. How to interpret this ""ideal"" and the ""outdatedness"" w.r.t. this ""ideal"" is highly context-specific. Depending on the needs and goals of a specific project or a maintainer, the focus may be on functionality, security, stability or even other factors. The ""components"" under consideration could be individual software packages, third-party libraries, component dependencies, or software containers bundling collections of components. To cover this high variability, we have come up with a generic framework for technical lag. We have operationalised and empirically validated this framework in different contexts: to assess the technical lag incurred by outdated dependencies in reusable package repositories such as npm; and to quantify the outdatedness of Debian-based Docker containers in terms of missing updates, vulnerabilities and bugs. We also report on the qualitative evaluation of the usefulness of measuring technical lag, through online surveys conducted with open source software developers. Finally, we present Conpan, an open source tool that we have developed for analysing technical lag in Docker containers. Useful references about technical lag are available on https://secoassist.github.io/results.html
 </details>
 
+---
+
+### Alberto Pérez García-Plaza
+
+![Alberto Pérez García-Plaza](https://chaoss.github.io/website/CHAOSScon/2020EU/images/alberto-garcia.png)
+
+_Software Engineer - Bitergia_
+
+Alberto Pérez García-Plaza is currently working as part of support and consulting teams at Bitergia. He is involved in helping customers to deal with data and compute metrics on top of them. He has over 10 years of experience working with data in fields from automatic document organization to cyber security intelligence tasks. He has also a Ph.D. in Artificial Intelligence related to web page representation by means of fuzzy logic oriented to clustering tasks. [@alpgarcia](https://twitter.com/alpgarcia)
+
+<details><summary><b>Session: Managing community backlog with the help of metrics</b></summary>
+
+One of the ways you can measure responsiveness to community contribution is by looking at the size of the backlog periodically. If the backlog of community contribution keeps growing without contributions being closed/merged in a timely manner, this will lead to dissatisfaction among community members. In this talk, Ray will discuss why “Community contribution” Merge Request (MR) backlog has become important at GitLab and how he worked with Alberto at Bitergia to develop visualizations for MR backlogs across GitLab projects. Alberto will discuss why current GrimoireLab dashboards needed to evolve to support GitLab’s use case (beyond GrimoireLab’s existing backlog focused dashboards), technical challenges and limitations when developing the visualization (e.g. calculating the number of contributions that were in opened state on the fly within a given time range that can be selected by the user), and plans for upstreaming this work to CHAOSS.
+</details>
 
 ---
 
