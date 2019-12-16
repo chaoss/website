@@ -32,12 +32,9 @@
 |15:40|**Metrics are more than the sum of their parts**<br/>[Matt Broberg](#user-content-matt-broberg)
 |16:00|**Application of Health metrics on a Cross-sector software ecosystem**<br/>[Johan Linåker](#user-content-johan-linåker)
 |16:20|**Open and Reproducible Research with Community-driven Research Software Metrics**<br/>[Yo Yehudi](#user-content-yo-yehudi)
-|16:40|**Managing community backlog with the help of metrics**<br/>[Ray Paik](#user-content-ray-paik) & Alberto Pérez García-Plaza
+|16:40|**Managing community backlog with the help of metrics**<br/>[Ray Paik](#user-content-ray-paik) & [Alberto Pérez García-Plaza](#user-content-alberto-pérez-garcía-plaza)
 |17:00|**Diversity & Inclusion Badging Program**<br/>[Matt Germonprez](#user-content-matt-germonprez) & Matt Snell
 |17:20|**True Confessions: The Seven Deadly Sins of Open Source Communities**<br/>[Brian Proffitt](#user-content-brian-proffitt)
 | |
 |17:50|Adjourn to FOSDEM Beer Event
 
-
-</table>
-</div>
