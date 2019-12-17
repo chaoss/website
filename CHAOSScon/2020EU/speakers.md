@@ -77,9 +77,37 @@ CHAOSS has been on the ground for the last couple of years with a strong focus o
 
 ---
 
+### Duane O'Brien
+
+![Georg Link](https://chaoss.github.io/website/CHAOSScon/2020EU/images/duane-obrien.png)
+
+_Head of Open Source - Indeed_
+
+Duane O'Brien is the Head of Open Source at Indeed.com, the world's #1 jobs site. He is passionate about enabling smart and meaningful contributions to the open source ecosystem by both developers and corporations. Duane navigates the path between engineering and management, drawing on his experience as a developer and program manager at companies such as Autodesk, Adobe, and PayPal, as well as his experience supporting Agile transformations. [@duaneobrien](https://twitter.com/duaneobrien)
+
+<details><summary><b>Hacktoberfest As A Catalyst For Open Source Contributors</b></summary>
+Hacktoberfest is a global open source event that has been running every October since 2014. The challenge is simple: submit four pull requests during the month of October, and you get a Hacktoberfest t-shirt.
+
+For the past two years, we have promoted and supported Hacktoberfest participation internally, while measuring open source participation by employees across the company. And we can say one thing definitively - Hacktoberfest participation can be a powerful catalyst for your community of free and open source software contributors.
+
+This talk will present an overview of the metrics we collected from two years of Hacktoberfest participation. We will present the metrics against the backdrop of contribution activity through the year.
+
+We will present:
+an overview of the metrics we collect about contribution activity 
+metrics for contribution activity from two years of Hacktoberfest;
+overall contribution metrics from the months when Hacktoberfest was not running;
+the lessons we learned from encouraging participation in the event;
+how we kept Hacktoberfest participants engaged after the event; 
+
+This talk is for anyone who is interested in driving Hacktoberfest participation in their own company, or who is looking for a way to jumpstart open source participation in their community.
+
+</details>
+
+---
+
 ### Georg Link
 
-![Georg Link](https://chaoss.github.io/website/CHAOSScon/2019NA/img/GeorgLink.png)
+![Georg Link](https://chaoss.github.io/website/CHAOSScon/2020EU/images/georg-link.png)
 
 _Director of Sales - Bitergia_
 

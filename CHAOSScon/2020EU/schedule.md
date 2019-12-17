@@ -24,6 +24,7 @@
 | |
 |14:20|Lightning Talks (5 minutes each)
 | |**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin)
+| | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)
 | |Additional Lightning Talk sign-ups during event 
 | |
 |14:50|Break
