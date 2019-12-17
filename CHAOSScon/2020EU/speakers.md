@@ -79,7 +79,7 @@ CHAOSS has been on the ground for the last couple of years with a strong focus o
 
 ### Duane O'Brien
 
-![Georg Link](https://chaoss.github.io/website/CHAOSScon/2020EU/images/duane-obrien.png)
+![Duane O'Brien](https://chaoss.github.io/website/CHAOSScon/2020EU/images/duane-obrien.png)
 
 _Head of Open Source - Indeed_
 
