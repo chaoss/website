@@ -87,7 +87,7 @@ Deb Nicholson is a free software policy expert and a passionate community advoca
 
 <details><summary><b>Keynote: Ethics: What You Know & What You Don't Know</b></summary>
 
-Deb Nicholson is a free software policy expert and a passionate community advocate. She is the Director of Community Operations at the Software Freedom Conservancy where she supports the work of its member organizations and facilitates collaboration with the wider free software community. She is also a founding organizer of the Seattle GNU/Linux Conference, an annual event dedicated to surfacing new voices and welcoming new people to the free software community. She lives with her husband and her lucky black cat in Cambridge, Massachusetts. 
+Metrics give us a lot of insight into what's going on with our projects -- but only if we have enough context. The catch is that personal biases and pre-conceptions are extremely hard to filter for so no one person can see everything. Those gaps means that even the most well-meaning of us could end up doing more harm than good. In this talk, I'll share a few examples of the ways human brains make assumptions, some of our typical blind spots and how incomplete data can cause harm when deployed without any checks. For folks who collect, analyze and ultimately make mission critical decisions with metrics, the challenge is to constantly maintain a bit of healthy skepticism of what the numbers seem to be telling us.
 </details>
 
 ---
