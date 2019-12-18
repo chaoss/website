@@ -6,7 +6,7 @@
 | 9:00|Registration & Networking
 | |
 | 9:30|**Keynote: Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)
-| 9:50|**Keynote: Ethics (Title TBA)**<br>Deb Nicholson
+| 9:50|**Keynote: Keynote: Ethics: What You Know & What You Don't Know**<br>[Deb Nicholson](#user-content-deb-nicholson)
 |10:20|**Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story**<br/>[Sean Goggins](#user-content-sean-goggins) & [Remy DeCausemaker](#user-content-remy-decausemaker)
 | |
 |10:40|Morning Break

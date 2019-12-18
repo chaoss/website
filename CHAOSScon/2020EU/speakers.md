@@ -77,6 +77,21 @@ CHAOSS has been on the ground for the last couple of years with a strong focus o
 
 ---
 
+### Deb Nicholson
+
+![Deb Nicholson](https://chaoss.github.io/website/CHAOSScon/2020EU/images/deb-nicholson.png)
+
+_Director of Community Operations - Software Freedom Conservancy_
+
+Deb Nicholson is a free software policy expert and a passionate community advocate. She is the Director of Community Operations at the Software Freedom Conservancy where she supports the work of its member organizations and facilitates collaboration with the wider free software community. She is also a founding organizer of the Seattle GNU/Linux Conference, an annual event dedicated to surfacing new voices and welcoming new people to the free software community. She lives with her husband and her lucky black cat in Cambridge, Massachusetts. 
+
+<details><summary><b>Keynote: Ethics: What You Know & What You Don't Know</b></summary>
+
+Deb Nicholson is a free software policy expert and a passionate community advocate. She is the Director of Community Operations at the Software Freedom Conservancy where she supports the work of its member organizations and facilitates collaboration with the wider free software community. She is also a founding organizer of the Seattle GNU/Linux Conference, an annual event dedicated to surfacing new voices and welcoming new people to the free software community. She lives with her husband and her lucky black cat in Cambridge, Massachusetts. 
+</details>
+
+---
+
 ### Duane O'Brien
 
 ![Duane O'Brien](https://chaoss.github.io/website/CHAOSScon/2020EU/images/duane-obrien.png)
