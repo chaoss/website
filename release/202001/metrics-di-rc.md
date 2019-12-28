@@ -13,7 +13,7 @@ Identify the diversity and inclusion at events.
   <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/attendee-demographics.md">Attendee Demographics</a></td><td>How diverse and inclusive are the attendees?</td></tr>
   <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/event-code-of-conduct.md">Code of Conduct at Event</a></td><td>How does the Code of Conduct for events support diversity and inclusion?</td></tr>
   <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/diversity-tickets.md">Diversity Access Tickets</a></td><td>How are Diversity Access Tickets used to support diversity and inclusion for an event?</td></tr>
-  <tr><td><a href="https://chaoss.community/metric-family-friendliness/">Family Friendliness</a></td><td>How does enabling families to attend together support diversity and inclusion of the event?</td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/family-friendly.md">Family Friendliness</a></td><td>How does enabling families to attend together support diversity and inclusion of the event?</td></tr>
     <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/speaker-demographics.md">Speaker Demographics</a></td><td>How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?</td></tr>
 </tbody>
 </table>
@@ -38,14 +38,6 @@ Identify how diverse and inclusive project governance is.
 ### Focus Area - Leadership
 
 **Goal:**  
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
->>>>>>> fbd4c38101c94c8f496ceba3df0fe69e450af550
-=======
-
->>>>>>> dbfaafb79edf2dbfb22842ccfacbb4d6c1f64fa7
 Identify how healthy community leadership is.
 
 <div>
