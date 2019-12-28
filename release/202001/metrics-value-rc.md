@@ -1,7 +1,10 @@
 ## Value
 Value Repository: https://github.com/chaoss/wg-value
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fbd4c38101c94c8f496ceba3df0fe69e450af550
 ### Focus Area - Ecosystem Value
 
 **Goal:**  
