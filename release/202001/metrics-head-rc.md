@@ -11,9 +11,13 @@ To make suggestions or edits to this webpage please visit the [website repo](htt
 * [When: Time](#user-content-focus-area---when:-time)
 * [Who: People](#user-content-focus-area---who:-people)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> fbd4c38101c94c8f496ceba3df0fe69e450af550
+=======
+
+>>>>>>> dbfaafb79edf2dbfb22842ccfacbb4d6c1f64fa7
 #### Diversity and Inclusion WG
 * [Event Diversity](#user-content-focus-area---event-diversity)
 * [Governance](#user-content-focus-area---governance)
@@ -25,18 +29,26 @@ To make suggestions or edits to this webpage please visit the [website repo](htt
 * [Issue Resolution](#user-content-focus-area---issue-resolution)
 * [Community Growth](#user-content-focus-area---community-growth)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> fbd4c38101c94c8f496ceba3df0fe69e450af550
+=======
+
+>>>>>>> dbfaafb79edf2dbfb22842ccfacbb4d6c1f64fa7
 #### Risk WG
 * [Business Risk](#user-content-focus-area---business-risk)
 * [Code Quality](#user-content-focus-area---code-quality)
 * [Licensing](#user-content-focus-area---licensing)
 * [Security](#user-content-focus-area---security)
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> fbd4c38101c94c8f496ceba3df0fe69e450af550
+=======
+
+>>>>>>> dbfaafb79edf2dbfb22842ccfacbb4d6c1f64fa7
 #### Value WG
 * [Labor Investment](#user-content-focus-area---labor-investment)
 * [Living Wage](#user-content-focus-area---living-wage)
