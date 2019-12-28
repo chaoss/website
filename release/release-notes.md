@@ -8,6 +8,10 @@ Download PDF of current release:
 
 ## Change Log
 
+Kevins notes from release:
+
+Evolution restructured focus areas
+Risk rolled back Transparency Focus area for new release?
 
 
 
