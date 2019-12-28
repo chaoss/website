@@ -38,7 +38,14 @@ Identify how diverse and inclusive project governance is.
 ### Focus Area - Leadership
 
 **Goal:**  
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 
+>>>>>>> fbd4c38101c94c8f496ceba3df0fe69e450af550
+=======
+
+>>>>>>> dbfaafb79edf2dbfb22842ccfacbb4d6c1f64fa7
 Identify how healthy community leadership is.
 
 <div>
