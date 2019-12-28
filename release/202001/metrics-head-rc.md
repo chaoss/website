@@ -10,6 +10,7 @@ To make suggestions or edits to this webpage please visit the [website repo](htt
 #### Common Metrics WG
 * [When: Time](#user-content-focus-area---when:-time)
 * [Who: People](#user-content-focus-area---who:-people)
+
 #### Diversity and Inclusion WG
 * [Event Diversity](#user-content-focus-area---event-diversity)
 * [Governance](#user-content-focus-area---governance)
@@ -20,11 +21,13 @@ To make suggestions or edits to this webpage please visit the [website repo](htt
 * [Code Development Process Quality](#user-content-focus-area---code-development-process-quality)
 * [Issue Resolution](#user-content-focus-area---issue-resolution)
 * [Community Growth](#user-content-focus-area---community-growth)
+
 #### Risk WG
 * [Business Risk](#user-content-focus-area---business-risk)
 * [Code Quality](#user-content-focus-area---code-quality)
 * [Licensing](#user-content-focus-area---licensing)
 * [Security](#user-content-focus-area---security)
+
 #### Value WG
 * [Labor Investment](#user-content-focus-area---labor-investment)
 * [Living Wage](#user-content-focus-area---living-wage)
