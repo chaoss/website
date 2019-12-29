@@ -10,7 +10,7 @@ Estimate the value of an open source project’s ecosystem.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue #</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://github.com/chaoss/wg-value/blob/master/focus-areas/ecosystem/social-currency-metric-system.md" target=" ">Social Currency Metric System (SCMS)</a></td><td>How does one measure the value of community interactions and accurately gauge “trust” within a community as evident from qualitative sentiment?</td><td><a href="https://github.com/chaoss/wg-value/issues/61" target="_blank">#61</a></td></tr>
+  <tr><td><a target="" href="https://github.com/chaoss/wg-value/blob/master/focus-areas/ecosystem/social-currency-metric-system.md" target="">Social Currency Metric System (SCMS)</a></td><td>How does one measure the value of community interactions and accurately gauge “trust” within a community as evident from qualitative sentiment?</td><td><a href="https://github.com/chaoss/wg-value/issues/61" target="_blank">#61</a></td></tr>
 </tbody>
 </table>
 </div>
