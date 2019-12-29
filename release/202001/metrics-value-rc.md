@@ -24,8 +24,8 @@ Estimate the labor investment in open source projects.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue #</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/labor_investment.md" target="_blank">Labor Investment</a></td><td>What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?</td><td><a href="https://github.com/chaoss/wg-value/issues/59" target="_blank"">#59</a></td></tr>
-  <tr><td><a href="https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/project_velocity.md" target="_blank"">Project Velocity</a></td><td>What is the development speed for an organization?</td><td><a href="https://github.com/chaoss/wg-value/issues/60" target="_blank"">#60</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/labor_investment.md" target="_blank">Labor Investment</a></td><td>What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?</td><td><a href="https://github.com/chaoss/wg-value/issues/59" target="_blank">#59</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-value/blob/master/focus-areas/labor-investment/project_velocity.md" target="_blank">Project Velocity</a></td><td>What is the development speed for an organization?</td><td><a href="https://github.com/chaoss/wg-value/issues/60" target="_blank">#60</a></td></tr>
 </tbody>
 </table>
 </div>
