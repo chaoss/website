@@ -35,4 +35,4 @@ To make suggestions or edits to this webpage please visit the [website repo](htt
 Release Freeze: January 1st, 2020  
 Candidate Release: January 24th, 2020  
 Public Comment Period: January 1st, 2020 to January 24th, 2020  
-Metrics Release Date: February 6th, 2020  
+Metrics Release Date: February 1st, 2020  
