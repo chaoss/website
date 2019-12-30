@@ -1,3 +1,4 @@
+
 # CHAOSS contributors include:
 
 Ahmed Zerouali,
@@ -114,20 +115,25 @@ Vicky Janicki,
 Victor Coisne,
 Vinod Ahuja,
 Will Norris,
-Zibby Keaton
+Zibby Keaton  
+
+
+Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue. Created a Pull Request. Gave feedback on our work. Please open an issue or post on the mailing list if we've missed anyone.  
 
 # CHAOSS Governing Board members at time of release:
 
+- Andrea Gallo, Linaro
+- Ben Lloyd Pearson, Nylas
 - Brian Proffitt, Red Hat
+- Daniel Izquierdo, Bitergia
 - Daniel M. German, University of Victoria
 - Dawn Foster, Pivotal
 - Don Marti, Mozilla
 - Georg Link, Bitergia
 - Ildikó Vancsa, OpenStack
-- Jesus M. Gonzalez-Barahona, Universidad Rey Juan Carlos
-- Josianne Marsan, Université Laval
+- Kate Stewart, Linux Foundation
 - Matt Germonprez, University of Nebraska at Omaha
+- Nicole Huesman, Intel
 - Ray Paik, GitLab
 - Sean Goggins, University of Missouri
 - Wayne Beaton, Eclipse Foundation
-- Kate Stewart, Linux Foundation 
