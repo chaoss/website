@@ -29,7 +29,7 @@ Learn how efficiently activities around code development get resolved.
 <tbody>
   <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews_Accepted.md">Reviews Accepted</a></td><td>How many accepted reviews are present in a code change?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/282">#282</a></td></tr>
   <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews_Declined.md">Reviews Declined</a></td><td>What reviews of code changes  ended up declining the change during a certain period?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/283">#283</a></td></tr>
-  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md">Review Duration</a></td><td>What is the duration of time between the moment a code review starts and moment it is accepted?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/284">#284</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md">Reviews Duration</a></td><td>What is the duration of time between the moment a code review starts and moment it is accepted?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/284">#284</a></td></tr>
 </tbody>
 </table>
 </div>
@@ -62,7 +62,7 @@ Identify how effective the community is at addressing issues identified by commu
   <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Issues_Closed.md">Issues Closed</a></td><td>What is the count of issues that were closed during a certain period?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/288">#288</a></td></tr>
   <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Issue_Age.md">Issue Age</a></td><td>What is the average time that open issues have been open?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/289">#289</a></td></tr>
   <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Issue_Response_Time.md">Issue Response Time</a></td><td>How much time passes between the opening of an issue and a response in the issue thread from another contributor?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/290">#290</a></td></tr>
-  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Issue_Resolution_Duration.md">Issues Resolution Duration</a></td><td>How long does it take for an issue to be closed?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/291">#291</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Issue_Resolution_Duration.md">Issue Resolution Duration</a></td><td>How long does it take for an issue to be closed?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/291">#291</a></td></tr>
 </tbody>
 </table>
 </div>
