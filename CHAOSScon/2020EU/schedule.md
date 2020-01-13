@@ -17,13 +17,11 @@
 | |
 |11:50|Lunch & Networking
 | |
-|13:00|TBA
-|13:20|TBA
+|13:20||**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin)
 |13:40|**Meet Cauldron! Your SaaS Software Development Analytics solution**<br/>[Jose Manrique Lopez de la Fuente](#user-content-jose-manrique-lopez-de-la-fuente)
 |14:00|**Navigating Community Health Through Comparison**<br/>[Kevin Lumbard](#user-content-kevin-lumbard)
 | |
 |14:20|Lightning Talks (5 minutes each)
-| |**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin)
 | | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)
 | |Additional Lightning Talk sign-ups during event 
 | |
