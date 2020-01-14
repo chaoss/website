@@ -34,7 +34,7 @@ One of the ways you can measure responsiveness to community contribution is by l
 
 ![Brian Proffitt](https://chaoss.github.io/website/CHAOSScon/2020EU/images/brian-proffitt.png)
 
-_Sr. Principal Community Architect - Red Hat_
+_Manager, Red Hat Open Source Program Office_
 
 Brian is a Manager within the Red Hat Open Source Program Office, active in community content, onboarding, and open source consulting. Brian also serves on the governing board for Project CHAOSS, a metrics-oriented approach to ascertaining community health. Follow him on Twitter @TheTechScribe.
 
