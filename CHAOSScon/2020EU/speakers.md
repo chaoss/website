@@ -36,7 +36,7 @@ One of the ways you can measure responsiveness to community contribution is by l
 
 _Sr. Principal Community Architect - Red Hat_
 
-Brian is a Senior Principal Community Architect for the Red Hat Open Source Program Office, responsible for community content, onboarding, and open source consulting. Brian also serves on the governing board for Project CHAOSS, a metrics-oriented approach to ascertaining community health. A former technology journalist, Brian is also a graduate lecturer at the University of Notre Dame. Follow him on Twitter [@TheTechScribe](https://twitter.com/TheTechScribe).
+Brian is a Manager within the Red Hat Open Source Program Office, active in community content, onboarding, and open source consulting. Brian also serves on the governing board for Project CHAOSS, a metrics-oriented approach to ascertaining community health. Follow him on Twitter @TheTechScribe.
 
 <details><summary><b>Session: True Confessions: The Seven Deadly Sins of Open Source Communities</b></summary>
 
