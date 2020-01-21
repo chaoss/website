@@ -16,7 +16,7 @@
 |11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)
 |12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin)
 | |
-|12:20|Conference Participants Group Foto
+|12:20|Group Foto with Conference Participants
 |12:30|Lunch & Networking
 | |
 |13:40|**Meet Cauldron! Your SaaS Software Development Analytics solution**<br/>[Jose Manrique Lopez de la Fuente](#user-content-jose-manrique-lopez-de-la-fuente)
@@ -28,7 +28,7 @@
 | | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)
 | |Additional Lightning Talk sign-ups during event 
 | |
-|15:30|Break
+|15:30|Afternoon Break
 | |
 |16:00|**Application of Health metrics on a Cross-sector software ecosystem**<br/>[Johan Linåker](#user-content-johan-linåker)
 |16:20|**Open and Reproducible Research with Community-driven Research Software Metrics**<br/>[Yo Yehudi](#user-content-yo-yehudi)
