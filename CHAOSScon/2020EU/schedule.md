@@ -14,7 +14,7 @@
 |10:50|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)
 |11:00|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)
 |11:20|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)
-|11:40||**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin)
+|11:40|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin)
 |12:00|**Meet Cauldron! Your SaaS Software Development Analytics solution**<br/>[Jose Manrique Lopez de la Fuente](#user-content-jose-manrique-lopez-de-la-fuente)
 | |
 |12:20|Conference Participants Group Foto
