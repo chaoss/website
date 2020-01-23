@@ -37,6 +37,7 @@
 |16:40|**Managing community backlog with the help of metrics**<br/>[Ray Paik](#user-content-ray-paik) & [Alberto Pérez García-Plaza](#user-content-alberto-pérez-garcía-plaza)
 |17:00|**Diversity & Inclusion Badging Program**<br/>[Matt Germonprez](#user-content-matt-germonprez) & Matt Snell
 |17:20|**True Confessions: The Seven Deadly Sins of Open Source Communities**<br/>[Brian Proffitt](#user-content-brian-proffitt)
+|17:40|Closing Remarks<br>[Georg Link](#user-content-georg-link)
 | |
 |17:50|Adjourn to FOSDEM Beer Event
 
