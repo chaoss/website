@@ -62,6 +62,14 @@ The presentation will also highlight how current research in academia on the eva
 
 ---
 
+### Celya Gruson-Daniel
+
+_Consultant - Inno3_
+
+As a consultant at Inno³, Célya Gruson-Daniel helps various private and public institutes in opening up research and innovation by promoting the implementation of open science and data science practices and the co-construction of knowledge (science/society interactions). With a PhD in social sciences, she frequently lectures in various research and higher education institutes to provide training in digital methodologies (data collection, analysis and management) using a pragmatic and participatory approach. She co-founded the HackYourPhD community to create a space for sharing and exchange on the evolution of research practices. She also undertakes various missions of project management and communication strategy using co-design methodologies. She gives particular attention to the development of collective dynamics and governance respectful of individuals and organizations to build sustainable digital societies. [@celyagd](https://twitter.com/celyagd)
+
+---
+
 ### Daniel Izquierdo
 
 ![Daniel Izquierdo](https://chaoss.github.io/website/CHAOSScon/2020EU/images/daniel-izquierdo.png)
