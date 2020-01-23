@@ -19,16 +19,18 @@
 |12:20|Group Foto with Conference Participants
 |12:30|Lunch & Networking
 | |
+|13:30|Start of Afternoon Sessions<br>[Georg Link](#user-content-georg-link)
 |13:40|**Meet Cauldron! Your SaaS Software Development Analytics solution**<br/>[Jose Manrique Lopez de la Fuente](#user-content-jose-manrique-lopez-de-la-fuente)
 |14:00|**Navigating Community Health Through Comparison**<br/>[Kevin Lumbard](#user-content-kevin-lumbard)
 |14:20|**Language barriers for open source contributors**<br/>[Isabella Vieira Ferreira](#user-content-isabella-vieira-ferreira)
 |14:40|**Metrics are more than the sum of their parts**<br/>[Matt Broberg](#user-content-matt-broberg)
+|15:00|**Emerging Tech Open-Source Scoring System (ETOSS)**<br/>[Cecilia Chapiro](#user-content-cecilia-chapiro) & [Justin W. Flory](#user-content-justin-w-flory)
 | |
-|15:00|Lightning Talks (5 minutes each)
+|15:20|Lightning Talks (5 minutes each)
 | | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)
 | |Additional Lightning Talk sign-ups during event 
 | |
-|15:30|Afternoon Break
+|15:40|Afternoon Break
 | |
 |16:00|**Application of Health metrics on a Cross-sector software ecosystem**<br/>[Johan Linåker](#user-content-johan-linåker)
 |16:20|**Open and Reproducible Research with Community-driven Research Software Metrics**<br/>[Yo Yehudi](#user-content-yo-yehudi)
