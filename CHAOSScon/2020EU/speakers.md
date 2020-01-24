@@ -95,6 +95,8 @@ Essentially, each startup gets a final scoring for each of the two dimensions th
 
 ### Celya Gruson-Daniel
 
+![Celya Gruson-Daniel](https://chaoss.github.io/website/CHAOSScon/2020EU/images/celya-gruson-daniel.png)
+
 _Consultant - Inno³_
 
 [@celyagd](https://twitter.com/celyagd)
@@ -251,11 +253,25 @@ Cauldron is a brand-new free **open source SaaS** able to analyze software devel
 
 ### Justin W. Flory
 
+![Justin W. Flory](https://chaoss.github.io/website/CHAOSScon/2020EU/images/justin-w-flory.png)
+
 _Open Source Contributor_
 
 [@jflory7](https://twitter.com/jflory7)
 
-Justin W. Flory is best-known as an open source contributor based in the United States. Since 2018, Justin is a leading member of the LibreCorps program of the FOSS@MAGIC initiative at the Rochester Institute of Technology. He was the first, full-time co-op placement to work exclusively on community issues for UNICEF Office of Innovation. This was work he did in concert with UNICEF personnel and Red Hat Open Innovations Lab on UNICEF’s MagicBox effort. Since then, Justin led workshops for UNICEF’s Innovation Fund to introduce over 20 international start-up teams to the Open Source way. Currently, he works as a consultant for open source projects and community-building. Using Justin’s initial efforts with MagicBox as a starting point, RIT’s current LibreCorps mentors build interactive resources for clients.
+Justin W. Flory is a creative maker. He is best-known as an open
+source contributor based in the United States. Since 2018, Justin is a
+leading member of the LibreCorps program of the FOSS@MAGIC
+initiative at the Rochester Institute of Technology. He was the first,
+full-time co-op placement to work exclusively on community issues for
+UNICEF Office of Innovation. This was work he did in concert with
+UNICEF personnel and Red Hat Open Innovations Lab on UNICEF’s
+MagicBox effort. Since then, Justin led workshops for UNICEF’s
+Innovation Fund to introduce over 20 international start-up teams to the
+Open Source way. Currently, he works as a consultant for open source
+projects and community-building. Using Justin’s initial efforts with
+MagicBox as a starting point, RIT’s current LibreCorps mentors build
+interactive resources for clients.
 
 
 <details><summary><b>Session:  Emerging Tech Open-Source Scoring System (ETOSS)</b></summary>
