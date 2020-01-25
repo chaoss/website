@@ -1,4 +1,4 @@
-# CHAOSS Metrics Release Candidates  
+# CHAOSS Metrics  
 ### Release 202001  
 
 *Released metrics are only a subset of metric ideas that are being developed. If you would like to learn more and discuss different metrics please visit the working group repositories. The metrics are sorted into Focus Areas. CHAOSS uses a Goal-Question-Metric format to present metrics. Individual metrics are released based on identified goals and questions. The metrics include a detail page with definitions, objectives, and examples.*  
