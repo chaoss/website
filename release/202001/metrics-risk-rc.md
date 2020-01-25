@@ -8,7 +8,7 @@ Understand how active a community exists around/to support a given software pack
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-committers/">Committers</a></td><td>How robust and diverse are the contributors to a community?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-elephant-factor/">Elephant Factor</a></td><td>What is the distribution of work in the community?</td></tr>
@@ -23,7 +23,7 @@ Understand the quality of a given software package.
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href=" https://chaoss.community/metric-test-coverage/">Test Coverage</a></td><td>How well is the code tested?</td></tr>
 </tbody>
@@ -37,7 +37,7 @@ Understand the potential intellectual property(IP) issues associated with a give
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-license-count/">License Count</a></td><td>How many different licenses are there?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-license-coverage/">License Coverage</a></td><td>How much of the code base has declared licenses?</td></tr>
@@ -54,7 +54,7 @@ Understand how transparent a given software package is with respect to dependenc
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-cii-best-practices-badge/">CII Best Practices badge</a></td><td>What is the current CII Best Practices status for the project?</td></tr>  
 </tbody>

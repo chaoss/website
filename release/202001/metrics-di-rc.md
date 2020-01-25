@@ -8,7 +8,7 @@ Identify the diversity and inclusion at events.
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-attendee-demographics/">Attendee Demographics</a></td><td>How diverse and inclusive are the attendees?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-code-of-conduct-at-event/">Code of Conduct at Event</a></td><td>How does the Code of Conduct for events support diversity and inclusion?</td></tr>
@@ -27,7 +27,7 @@ Identify how diverse and inclusive project governance is.
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-board-council-diversity/">Board/Council Diversity</a></td><td>What is the diversity within our governing board or council?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-code-of-conduct/">Code of Conduct for Project</a></td><td>How does the Code of Conduct for the project support diversity and inclusion?</td></tr>
@@ -42,7 +42,7 @@ Identify how healthy community leadership is.
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-mentorship/">Mentorship</a></td><td>How effective are our mentorship programs at supporting diversity and inclusion in our project?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-sponsorship.md">Sponsorship</a></td><td>How effective are long-time members who sponsor people in supporting diversity and inclusion in a community?</td></tr>

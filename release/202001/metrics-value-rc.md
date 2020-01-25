@@ -8,7 +8,7 @@ Estimate the value of an open source project’s ecosystem.
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-social-currency-metric-system/">Social Currency Metric System (SCMS)</a></td><td>How does one measure the value of community interactions and accurately gauge “trust” within a community as evident from qualitative sentiment?</td></tr>
 </tbody>
@@ -22,7 +22,7 @@ Estimate the labor investment in open source projects.
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href=" https://chaoss.community/metric-labor-investment/">Labor Investment</a></td><td>What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-project-velocity/">Project Velocity</a></td><td>What is the development speed for an organization?</td></tr>
@@ -37,7 +37,7 @@ Expanding opportunities for people to make a living wage in open source.
 
 <div>
 <table>
-  <thead><tr><th>Metric/Details</th><th>Question</th><th>Issue</th></tr></thead>
+  <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-organizational-project-skill-demand/">Organizational Project Skill Demand</a></td><td>How many organizations are using this project and could hire me if I become proficient?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-job-opportunities/" >Job Opportunities</a></td><td>How many job postings request skills with technologies from a project?</td></tr>
