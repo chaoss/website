@@ -45,7 +45,7 @@ Identify how healthy community leadership is.
   <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-mentorship/">Mentorship</a></td><td>How effective are our mentorship programs at supporting diversity and inclusion in our project?</td></tr>
-  <tr><td><a href="https://chaoss.community/metric-sponsorship.md">Sponsorship</a></td><td>How effective are long-time members who sponsor people in supporting diversity and inclusion in a community?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-sponsorship">Sponsorship</a></td><td>How effective are long-time members who sponsor people in supporting diversity and inclusion in a community?</td></tr>
 </tbody>
 </table>
 </div>
