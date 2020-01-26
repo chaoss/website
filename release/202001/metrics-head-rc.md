@@ -31,4 +31,4 @@
 Release Freeze: January 1st, 2020    
 Candidate Release: January 24th, 2020  
 Public Comment Period: January 1st, 2020 to January 24th, 2020  
-Metrics Release Date: February 1st, 2020  
+Metrics Release Date: January 31st, 2020  
