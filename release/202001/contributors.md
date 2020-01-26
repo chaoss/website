@@ -3,6 +3,7 @@
 
 Ahmed Zerouali,
 Akshita Gupta,
+Amanda Brindle,
 Alberto Martín,
 Alberto Pérez García-Plaza,
 Alexander Serebrenik,
@@ -131,7 +132,7 @@ Victor Coisne,
 Vinod Ahuja,
 Vipul Gupta,
 Will Norris,
-Xavier Bol
+Xavier Bol,
 Zibby Keaton  
 
 
