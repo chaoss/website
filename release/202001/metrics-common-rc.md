@@ -4,7 +4,7 @@ Common Metrics Repository: https://github.com/chaoss/wg-common
 ### Focus Area - When: Time
 
 **Goal:**  
-Understand when contributions from organizations and people are happening.
+Understand when contributions from organizations and people are happening.  
 
 <div>
 <table>
@@ -19,7 +19,7 @@ Understand when contributions from organizations and people are happening.
 ### Focus Area - Who: People
 
 **Goal:**  
-Understand organizational and personal engagement with open source projects.
+Understand organizational and personal engagement with open source projects.  
 
 <div>
 <table>
