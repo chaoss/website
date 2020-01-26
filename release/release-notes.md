@@ -24,15 +24,6 @@ Download PDF of previous release:
   * Board/Council Diversity
 * Improved clarity on several metrics that were in the previous release
 
-**Risk**
-* New metrics include:
-  * OSI Approved Licenses
-  *	Licenses Declared
-  *	Test Coverage (Updated)
-  *	Elephant Factor
-  *	Committers
-* Focused on increasing metrics coverage in the general areas of CNCF Core Infrastructure badging and licensing.
-
 **Evolution**
 * New metrics include:
   * Issue Age
@@ -45,6 +36,15 @@ Download PDF of previous release:
   * Code Development Process Quality
 * Kept the other 2 focus areas (Issue Resolution and Community Growth) the same.
 * No major changes were made to already existing metrics.
+
+**Risk**
+* New metrics include:
+  * OSI Approved Licenses
+  *	Licenses Declared
+  *	Test Coverage (Updated)
+  *	Elephant Factor
+  *	Committers
+* Focused on increasing metrics coverage in the general areas of CNCF Core Infrastructure badging and licensing.
 
 **Value**
 * New metrics include:
