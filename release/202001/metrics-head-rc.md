@@ -32,3 +32,5 @@ Release Freeze: January 1st, 2020
 Candidate Release: January 24th, 2020  
 Public Comment Period: January 1st, 2020 to January 24th, 2020  
 Metrics Release Date: January 31st, 2020  
+
+ <a href="https://chaoss.community/wp-content/uploads/sites/51/2020/01/CHAOSS-Metrics-v202001.pdf" download> Download a PDF of the 202001 Release</a>
