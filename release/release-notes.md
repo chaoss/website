@@ -1,6 +1,6 @@
 # Release History
 
-Current release:
+Download PDF of Current release:
 - [Release 202001](https://chaoss.github.io/website/release/202001/CHAOSS-Metrics-Release-202001.pdf)
 
 Download PDF of previous release:
