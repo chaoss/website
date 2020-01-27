@@ -2,6 +2,10 @@
 
 We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <linkgeorg@gmail.com> to get a reference added or create a pull request against the [coverage.md](https://github.com/chaoss/website/blob/master/About/Media/coverage.md) file.
 
+### 2020
+
+* (2020, January 26). **The Open Source Software Health Index Project.** Retrieved January 27, 2020, from:  http://blog.greptilian.com/2020/01/26/open-source-health-project/
+
 
 ### 2019
 
