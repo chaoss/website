@@ -4,7 +4,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2020
 
-* (2020, January 26). **The Open Source Software Health Index Project.** Retrieved January 27, 2020, from:  http://blog.greptilian.com/2020/01/26/open-source-health-project/
+* Durbin, P. (2020, January 26). **The Open Source Software Health Index Project.** Retrieved January 27, 2020, from:  http://blog.greptilian.com/2020/01/26/open-source-health-project/
 
 
 ### 2019
