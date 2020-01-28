@@ -39,7 +39,6 @@ Understand the potential intellectual property(IP) issues associated with a give
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-license-count/">License Count</a></td><td>How many different licenses are there?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-license-coverage/">License Coverage</a></td><td>How much of the code base has declared licenses?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-license-declared/">License Declared</a></td><td>What are the declared software package licenses?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-osi-approved-licenses/">OSI Approved Licenses</a></td><td>What percentage of a project’s licenses are OSI approved open source licenses?</td></tr>
