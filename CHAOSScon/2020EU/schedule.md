@@ -12,7 +12,7 @@
 |10:40|Morning Break
 | |
 |11:00|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)
-|11:20|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)|[pdf](https://github.com/chaoss/website/blob/master/CHAOSScon/2020EU/slides/techlag.pdf)
+|11:20|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/techlag.pdf)
 |11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)
 |12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin) & [Celya Gruson-Daniel](#user-content-celya-gruson-daniel)
 | |
@@ -40,4 +40,3 @@
 | |
 |17:40|Closing Remarks<br>[Georg Link](#user-content-georg-link)
 |17:50|Adjourn to FOSDEM Beer Event
-
