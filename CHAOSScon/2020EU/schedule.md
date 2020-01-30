@@ -1,7 +1,7 @@
 # Schedule: January 31, 2020
 
-|Time|Sessions
----|---
+|Time|Sessions|Slides|Video
+---|---|---|---
 | |
 | 9:00|Registration & Networking
 | |
@@ -16,7 +16,7 @@
 |11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)
 |12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin) & [Celya Gruson-Daniel](#user-content-celya-gruson-daniel)
 | |
-|12:20|Group Foto with Conference Participants
+|12:20|Group Photo with Conference Participants
 |12:30|Lunch & Networking
 | |
 |13:30|Start of Afternoon Sessions<br>[Georg Link](#user-content-georg-link)
