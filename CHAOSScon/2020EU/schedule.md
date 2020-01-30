@@ -1,7 +1,7 @@
 # Schedule: January 31, 2020
 
-|Time|Sessions|Slides|Video
----|---|---|---
+|Time|Sessions|Slides
+---|---|---
 | |
 | 9:00|Registration & Networking
 | |
