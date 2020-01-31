@@ -28,7 +28,10 @@
 | |
 |15:20|Lightning Talks (5 minutes each)
 | | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/hacktoberfest.pdf)
-| |Additional Lightning Talk sign-ups during event
+| | **Open Source Observatory (OSOR)**<br />Frederico|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/lightning_talk_2-OSOR.pdf)
+| | **Story of FOSSASIA**<br />Hong|[website](http://fossasia.org/)
+| | **Metrics for Open Hardware**<br />Pen | 
+| | **Project Thoth**<br />Francesco| [pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/lightning_talk_5-Thoth.pdf)
 | |
 |15:40|Afternoon Break
 | |
