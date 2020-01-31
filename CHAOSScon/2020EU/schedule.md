@@ -11,9 +11,9 @@
 | |
 |10:40|Morning Break
 | |
-|11:00|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)
+|11:00|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/Measuring-Culture.pdf)
 |11:20|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/techlag.pdf)
-|11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)
+|11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/cha-io-ss.pdf)
 |12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin) & [Celya Gruson-Daniel](#user-content-celya-gruson-daniel)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/metrics_valuation.pdf)
 | |
 |12:20|Group Photo with Conference Participants
@@ -24,7 +24,7 @@
 |14:00|**Navigating Community Health Through Comparison**<br/>[Kevin Lumbard](#user-content-kevin-lumbard)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/navigating_health_sc.pdf)
 |14:20|**Language barriers for open source contributors**<br/>[Isabella Vieira Ferreira](#user-content-isabella-vieira-ferreira)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/language_barriers.pdf)
 |14:40|**Metrics are more than the sum of their parts**<br/>[Matt Broberg](#user-content-matt-broberg)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/MattBroberg.pdf)
-|15:00|**Emerging Tech Open-Source Scoring System (ETOSS)**<br/>[Cecilia Chapiro](#user-content-cecilia-chapiro) & [Justin W. Flory](#user-content-justin-w-flory)
+|15:00|**Emerging Tech Open-Source Scoring System (ETOSS)**<br/>[Cecilia Chapiro](#user-content-cecilia-chapiro) & [Justin W. Flory](#user-content-justin-w-flory)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/chaoss_fund.pdf)
 | |
 |15:20|Lightning Talks (5 minutes each)
 | | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/hacktoberfest.pdf)
