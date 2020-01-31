@@ -27,7 +27,7 @@
 |15:00|**Emerging Tech Open-Source Scoring System (ETOSS)**<br/>[Cecilia Chapiro](#user-content-cecilia-chapiro) & [Justin W. Flory](#user-content-justin-w-flory)
 | |
 |15:20|Lightning Talks (5 minutes each)
-| | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)
+| | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/hacktoberfest.pdf)
 | |Additional Lightning Talk sign-ups during event
 | |
 |15:40|Afternoon Break
