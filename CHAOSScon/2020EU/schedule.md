@@ -5,7 +5,7 @@
 | |
 | 9:00|Registration & Networking
 | |
-| 9:30|**Keynote: Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)
+| 9:30|**Keynote: Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/state_of_chaoss.pdf)
 | 9:50|**Keynote: Ethics: What You Know & What You Don't Know**<br>[Deb Nicholson](#user-content-deb-nicholson)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/ethics.pdf)
 |10:20|**Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story**<br/>[Sean Goggins](#user-content-sean-goggins) & [Remy DeCausemaker](#user-content-remy-decausemaker)
 | |
@@ -14,7 +14,7 @@
 |11:00|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)
 |11:20|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/techlag.pdf)
 |11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)
-|12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin) & [Celya Gruson-Daniel](#user-content-celya-gruson-daniel)
+|12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin) & [Celya Gruson-Daniel](#user-content-celya-gruson-daniel)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/metrics_valuation.pdf)
 | |
 |12:20|Group Photo with Conference Participants
 |12:30|Lunch & Networking
@@ -27,7 +27,7 @@
 |15:00|**Emerging Tech Open-Source Scoring System (ETOSS)**<br/>[Cecilia Chapiro](#user-content-cecilia-chapiro) & [Justin W. Flory](#user-content-justin-w-flory)
 | |
 |15:20|Lightning Talks (5 minutes each)
-| | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)
+| | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/hacktoberfest.pdf)
 | |Additional Lightning Talk sign-ups during event
 | |
 |15:40|Afternoon Break
@@ -36,7 +36,7 @@
 |16:20|**Open and Reproducible Research with Community-driven Research Software Metrics**<br/>[Yo Yehudi](#user-content-yo-yehudi)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/open_reproducible_research.pdf)
 |16:40|**Managing community backlog with the help of metrics**<br/>[Ray Paik](#user-content-ray-paik) & [Alberto Pérez García-Plaza](#user-content-alberto-pérez-garcía-plaza)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/Managingbacklogs.pdf)
 |17:00|**Diversity & Inclusion Badging Program**<br/>[Matt Germonprez](#user-content-matt-germonprez) & Matt Snell|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/BadgingforDiversityInclusion.pdf)
-|17:20|**True Confessions: The Seven Deadly Sins of Open Source Communities**<br/>[Brian Proffitt](#user-content-brian-proffitt)
+|17:20|**True Confessions: The Seven Deadly Sins of Open Source Communities**<br/>[Brian Proffitt](#user-content-brian-proffitt)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/seven_deadly_sins.pdf)
 | |
 |17:40|Closing Remarks<br>[Georg Link](#user-content-georg-link)
 |17:50|Adjourn to FOSDEM Beer Event
