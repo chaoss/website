@@ -5,7 +5,7 @@
 | |
 | 9:00|Registration & Networking
 | |
-| 9:30|**Keynote: Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)
+| 9:30|**Keynote: Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/state_of_chaoss.pdf)
 | 9:50|**Keynote: Ethics: What You Know & What You Don't Know**<br>[Deb Nicholson](#user-content-deb-nicholson)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/ethics.pdf)
 |10:20|**Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story**<br/>[Sean Goggins](#user-content-sean-goggins) & [Remy DeCausemaker](#user-content-remy-decausemaker)
 | |
@@ -14,7 +14,7 @@
 |11:00|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)
 |11:20|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/techlag.pdf)
 |11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)
-|12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin) & [Celya Gruson-Daniel](#user-content-celya-gruson-daniel)
+|12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin) & [Celya Gruson-Daniel](#user-content-celya-gruson-daniel)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/metrics_valuation.pdf)
 | |
 |12:20|Group Photo with Conference Participants
 |12:30|Lunch & Networking
