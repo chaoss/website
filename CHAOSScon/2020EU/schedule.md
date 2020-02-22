@@ -36,7 +36,7 @@
 |15:40|Afternoon Break
 | |
 |16:00|**Application of Health metrics on a Cross-sector software ecosystem**<br/>[Johan Linåker](#user-content-johan-linåker)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/application_health_metrics.pdf)
-|16:20|**Open and Reproducible Research with Community-driven Research Software Metrics**<br/>[Yo Yehudi](#user-content-yo-yehudi)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/open_reproducible_research.pdf)
+|16:20|**Open and Reproducible Research with Community-driven Research Software Metrics**<br/>Emmy Tsang & [Yo Yehudi](#user-content-yo-yehudi) & Mateusz Kuzak|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/open_reproducible_research.pdf)
 |16:40|**Managing community backlog with the help of metrics**<br/>[Ray Paik](#user-content-ray-paik) & [Alberto Pérez García-Plaza](#user-content-alberto-pérez-garcía-plaza)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/Managingbacklogs.pdf)
 |17:00|**Diversity & Inclusion Badging Program**<br/>[Matt Germonprez](#user-content-matt-germonprez) & Matt Snell|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/BadgingforDiversityInclusion.pdf)
 |17:20|**True Confessions: The Seven Deadly Sins of Open Source Communities**<br/>[Brian Proffitt](#user-content-brian-proffitt)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/seven_deadly_sins.pdf)
