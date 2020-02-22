@@ -7,7 +7,7 @@
 | | |
 | 9:30|**Keynote: Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/state_of_chaoss.pdf)|[Video](https://youtu.be/v02f80LHhds)
 | 9:50|**Keynote: Ethics: What You Know & What You Don't Know**<br>[Deb Nicholson](#user-content-deb-nicholson)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/ethics.pdf)|[Video](https://youtu.be/iM3prg-7oHA)
-|10:20|**Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story**<br/>[Sean Goggins](#user-content-sean-goggins) & [Remy DeCausemaker](#user-content-remy-decausemaker)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/heat_light_love.pdf)|[Video]()
+|10:20|**Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story**<br/>[Sean Goggins](#user-content-sean-goggins) & [Remy DeCausemaker](#user-content-remy-decausemaker)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/heat_light_love.pdf)|[Video](https://youtu.be/mobHPWRjIns)
 | | |
 |10:40|Morning Break|
 | | |
@@ -27,11 +27,11 @@
 |15:00|**Emerging Tech Open-Source Scoring System (ETOSS)**<br/>[Cecilia Chapiro](#user-content-cecilia-chapiro) & [Justin W. Flory](#user-content-justin-w-flory)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/chaoss_fund.pdf)|[Video]()
 | | |
 |15:20|Lightning Talks (5 minutes each) |
-| | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/hacktoberfest.pdf)|[Video]()
-| | **Open Source Observatory (OSOR)**<br />Frederico|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/lightning_talk_2-OSOR.pdf)|[Video]()
-| | **Story of FOSSASIA**<br />Hong|[website](http://fossasia.org/)|[Video]()
-| | **Metrics for Open Hardware**<br />Pen | |[Video]()
-| | **Project Thoth**<br />Francesco| [pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/lightning_talk_5-Thoth.pdf)|[Video]()
+| | **Hacktoberfest As A Catalyst For Open Source Contributors**<br />[Duane O'Brien](#user-content-duane-obrien)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/hacktoberfest.pdf)|[Video](https://youtu.be/rMo554UwnH8)
+| | **Open Source Observatory (OSOR)**<br />Frederico|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/lightning_talk_2-OSOR.pdf)|[Video](https://youtu.be/iub8MN3zIj8)
+| | **Story of FOSSASIA**<br />Hong|[website](http://fossasia.org/)|[Video](https://youtu.be/q90K3uC24XU)
+| | **Metrics for Open Hardware**<br />Pen | |[Video](https://youtu.be/x-aGSZW4wgQ)
+| | **Project Thoth**<br />Francesco| [pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/lightning_talk_5-Thoth.pdf)|[Video](https://youtu.be/ofArO7ilys0)
 | | |
 |15:40|Afternoon Break|
 | | |
