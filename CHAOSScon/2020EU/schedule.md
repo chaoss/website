@@ -5,7 +5,7 @@
 | | |
 | 9:00|Registration & Networking|
 | | |
-| 9:30|**Keynote: Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/state_of_chaoss.pdf)|[Video]()
+| 9:30|**Keynote: Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/state_of_chaoss.pdf)|[Video](https://youtu.be/v02f80LHhds)
 | 9:50|**Keynote: Ethics: What You Know & What You Don't Know**<br>[Deb Nicholson](#user-content-deb-nicholson)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/ethics.pdf)|[Video](https://youtu.be/iM3prg-7oHA)
 |10:20|**Heat, Light, and Love: Telling Twitter's Open Source Program Office's Story**<br/>[Sean Goggins](#user-content-sean-goggins) & [Remy DeCausemaker](#user-content-remy-decausemaker)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/heat_light_love.pdf)|[Video]()
 | | |
