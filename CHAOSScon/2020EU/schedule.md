@@ -11,9 +11,9 @@
 | | |
 |10:40|Morning Break|
 | | |
-|11:00|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/Measuring-Culture.pdf)|[Video]()
-|11:20|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/techlag.pdf)|[Video]()
-|11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/cha-io-ss.pdf)|[Video]()
+|11:00|**Measuring Culture**<br/>[Sharan Foga](#user-content-sharan-foga)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/Measuring-Culture.pdf)|[Video](https://youtu.be/XwYzokT4p1o)
+|11:20|**Technical Lag: Measuring the outdatedness, vulnerability and bugginess of software**<br/>[Tom Mens](#user-content-tom-mens) & [Ahmed Zerouali](#user-content-ahmed-zerouali)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/techlag.pdf)|[Video](https://youtu.be/aGGhNnaD5iI)
+|11:40|**CHA-IO-SS - Community Health Analytics for Inner and Open Source Software**<br/>[Daniel Izquierdo](#user-content-daniel-izquierdo)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/cha-io-ss.pdf)|[Video](https://youtu.be/SmOBMP2p9DU)
 |12:00|**Metrics and valuation of open source projects: A crossover between Open Source and Open Science**<br/>[Camille Moulin](#user-content-camille-moulin) & [Celya Gruson-Daniel](#user-content-celya-gruson-daniel)|[pdf](https://chaoss.github.io/website/CHAOSScon/2020EU/slides/metrics_valuation.pdf)|[Video]()
 | | |
 |12:20|Group Photo with Conference Participants|
