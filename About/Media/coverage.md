@@ -6,6 +6,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Flory, J. W. (2020, February 25). **CHAOSScon EU 2020: Play by play.** Justin W. Flory’s Blog. Retrieved February 25, 2020, from: https://blog.justinwflory.com/2020/02/chaosscon-eu-2020-play-by-play/
 
+* Link, G. (2020, February 10). **Supporting the 2nd CHAOSS Metrics Release.** The Software Development Analytics Blog. Retrieved February 28, 2020, from: https://blog.bitergia.com/2020/02/11/supporting-the-2nd-chaoss-metrics-release/
+
 * Durbin, P. (2020, January 26). **The Open Source Software Health Index Project.** Retrieved January 27, 2020, from:  http://blog.greptilian.com/2020/01/26/open-source-health-project/
 
 
