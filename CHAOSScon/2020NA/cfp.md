@@ -35,6 +35,8 @@ open source project engagement.
    + how-to's
    + new features
 
+<br>
+
 - **Metrics related topics:**
    + metrics strategy
    + deep dive into the use of metrics
