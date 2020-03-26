@@ -11,5 +11,3 @@ Augur Code → https://github.com/chaoss/augur
 Getting started with Augur - https://oss-augur.readthedocs.io/en/master/getting-started/getting-started-toc.html
 
 Augur Data Collection - https://oss-augur.readthedocs.io/en/master/data-collection/data-collection-toc.html
-
-![](logo.2f4761bb.png)
