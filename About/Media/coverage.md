@@ -10,6 +10,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Santamarina, A. J. (2020, March 13). **Join CHAOSS & GrimoireLab GSoC 2020!** Retrieved March 30, 2020, from: https://blog.bitergia.com/2020/03/13/join-chaoss-grimoirelab-gsoc-2020/
 
+* Littauer, R., Berry, E., and Dorfman, J. (February 28, 2020). **The Data Behind Open Source is CHAOSS with Georg Link.** Retrieved April 1, 2020, from: https://sustain.codefund.fm/26
+
 * Flory, J. W. (2020, February 25). **CHAOSScon EU 2020: Play by play.** Justin W. Flory’s Blog. Retrieved February 25, 2020, from: https://blog.justinwflory.com/2020/02/chaosscon-eu-2020-play-by-play/
 
 * Link, G. (2020, February 10). **Supporting the 2nd CHAOSS Metrics Release.** The Software Development Analytics Blog. Retrieved February 28, 2020, from: https://blog.bitergia.com/2020/02/11/supporting-the-2nd-chaoss-metrics-release/
