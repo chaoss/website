@@ -4,6 +4,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2020
 
+* Douglas, B. (2020, Arpil 1). **JAMstack Radio - Ep. #53, Community Metrics with Georg Link of CHAOSS.** Retrieved April 1, 2020, from: https://soundcloud.com/heavybit/jamstack-radio-ep-53-community-metrics-with-georg-link-of-chaoss
+
 * Link, G. (2020, March 25). **Tough lessons learned from measuring community health with open source software.** Retrieved March 25, 2020, from: https://opensource.com/article/20/3/grimoirelab
 
 * Santamarina, A. J. (2020, March 13). **Join CHAOSS & GrimoireLab GSoC 2020!** Retrieved March 30, 2020, from: https://blog.bitergia.com/2020/03/13/join-chaoss-grimoirelab-gsoc-2020/
