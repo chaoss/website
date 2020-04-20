@@ -12,8 +12,8 @@ that are appropriate for this conference, and then **[submit your proposal][subm
 ## Dates to Remember:
 
 * CFP Opens: Wednesday, March 11, 2020
-* CFP Closes: Monday, April 20, 2020
-* CFP Notifications: Monday, May 4, 2020
+* CFP Closes: Monday, May 4, 2020
+* CFP Notifications: Monday, May 11, 2020
 * Schedule Announcement: Monday, May 18, 2012
 * Slide Due Date: Tuesday, June 23, 2020
 * Event Date: Thursday, June 25, 2020
