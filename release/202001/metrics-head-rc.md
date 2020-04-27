@@ -5,8 +5,9 @@
 
 ## Focus Areas by Working Group  
 #### Common Metrics WG  
-* [When: Time](#user-content-focus-area---when-time)  
-* [Who: People](#user-content-focus-area---who-people)  
+* [What](#user-content-focus-area---what)  
+* [When](#user-content-focus-area---when)  
+* [Who](#user-content-focus-area---who)  
 #### Diversity and Inclusion WG  
 * [Event Diversity](#user-content-focus-area---event-diversity)  
 * [Governance](#user-content-focus-area---governance)  
