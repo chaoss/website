@@ -76,7 +76,8 @@ Identify the size of the project community and whether it is growing, shrinking,
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-new-contributors-closing-issues/">New Contributors Closing Issues</a></td><td>How many contributors are closing issues for the first time?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-new-contributors/">New Contributors</a></td><td>How many contributors are closing issues for the first time?</td></tr>
+  <tr><td><a href="https://chaoss.community/metric-new-contributors-closing-issues/">New Contributors Closing Issues</a></td><td>How many contributors are making their first contribution to a given project and who are they?</td></tr>
 </tbody>
 </table>
 </div>
