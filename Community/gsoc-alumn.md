@@ -1,19 +1,5 @@
 # CHAOSS and Google Summer of Code Alumni
 
-## CHAOSS current GSoC students in 2020
-
-|Student|Project|Mentors|
-|-------|:-----:|-------|
-|Ria Gupta|Social Currency Metric System|Valerio Cosentino, Samantha Venia, Logan|
-|Tianyi Zhou|Large Social Network Analysis and Anomaly Detection with Augur|Sean Goggins, Jonahz, Gabe Heim|
-|Sarit Adhikari|Machine Learning for Anomaly Detection in Open Source Communities|Sean Goggins, Carter Landis, Gabe Heim|
-|Abhinav Bajpai|Implementing GitLab Data Collection Worker and Mapper to bind the responses of GitLab API, Github API & the Augur schema|Sean Goggins, Carter Landis|
-|bistaastha|Build Workflow process for CHAOSS D&I Badging Project|Matt Snell|
-|vchrombie|Creating Quality models using GrimoireLab and CHAOSS metrics|Valerio Cosentino, Aniruddha Karajgi|
-|Saicharan Reddy|Implementation of GitLab Data Collection Worker & Test Coverage Improvement|Elita Nelson, Sean Goggins, Jonahz|
-|Akshara P|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
-|Pratik Mishra|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
-
 ## CHAOSS GSoC students in 2019
 
 |Student|Project|Mentors|
