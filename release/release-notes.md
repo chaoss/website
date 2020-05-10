@@ -9,6 +9,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
   * New metrics include:
 - **Evolution WG**
   * New metrics include:
+    - New Contributors
 - **Risk WG**
   * New metrics include:
 - **Value WG**
