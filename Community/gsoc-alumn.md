@@ -17,7 +17,6 @@
 |[Pranjal Aswani](#pranjal-aswani)|Reporting of CHAOSS Metrics: Refactoring the existing code and extending the capabilities of the Manuscripts Project|Valerio Cosentino, Jesus Gonzalez-Barahona|
 
 
-
 ## Parth Sharma
 
 ### Project Title 
