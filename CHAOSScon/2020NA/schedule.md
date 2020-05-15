@@ -1,4 +1,4 @@
-# Schedule: June 25, 2020
+# Schedule: Event canceled
 
 |Time|Sessions|
 |---|---|

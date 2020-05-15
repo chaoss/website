@@ -1,3 +1,3 @@
 ## Speakers and Session Descriptions
 
-To be determined.
+CHAOSScon will return in 2021.
