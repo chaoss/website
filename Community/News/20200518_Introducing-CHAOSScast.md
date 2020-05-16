@@ -26,7 +26,7 @@ A big thank you to everyone in the CHAOSS community who has stepped up to make t
 *   **Matt Broberg** is the co-pilot that helps with the administration and management of the podcast.
 *   **Samantha Venia Logan** and **Sean Goggins**, in addition to Georg and Matt B, will be inviting guests and organizing episode recordings.
 *   **Dylan Marcy** will be publishing the episodes after they are edited.
-*   **Matt Germonprez,** **Dawn Foster, Kevin Lumbard, Brian Proffitt, **and **Don Marti** are regular panelists.
+*   **Matt Germonprez,** **Dawn Foster, Kevin Lumbard, Brian Proffitt, Don Marti,** and **Nicole Huesman** are regular panelists.
 
 Take a look at the [CHAOSS Community Handbook](https://github.com/chaoss/governance/blob/master/community-handbook/chaosscast.md) to learn more about how CHAOSScast is organized.
 
