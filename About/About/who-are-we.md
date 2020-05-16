@@ -1,12 +1,18 @@
+
+
 ## Who are we?
 
-CHAOSS is a Linux Foundation project focused on creating analytics and metrics to help define community health. Work in the CHAOSS Project community is organized in two committees and four working groups:
+CHAOSS(Community Health Open Source Analytics Software) is a Linux Foundation project creates tools to analyze software development and project health along several dimensions as well as robust guidelines and focused on creating the analytics and metrics making an open source community healthy and sustainable. 
+
+Work in the CHAOSS Project community is organized in two committees and five working groups:
+
 
 ### Committees
 
-- The [Metrics Committee](https://chaoss.community/metrics) works on establishing implementation-agnostic metrics for measuring community activity, contributions, and health.
+- The [Metrics Commission](https://chaoss.community/metrics) works on establishing implementation-agnostic metrics for measuring community activity, contributions, and health.
 
-- The [Software Committee](https://chaoss.community/software) works on producing integrated, open source software for analyzing software development, and definition of standards and models used in that software in specific use cases.
+- The [Software Commission](https://chaoss.community/software) works on producing integrated, open source software tools for analyzing software development, and definition of standards and models used in that software in specific use cases.
+
 
 ### Working Groups
 
