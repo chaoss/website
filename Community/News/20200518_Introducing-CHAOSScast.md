@@ -2,21 +2,25 @@
 
 by Georg Link
 
-CHAOSS has come a long way since founded in 2017 and is primed to go much further. Let’s take a look back at our accomplishments of the first three years. 
+CHAOSS has come a long way since founded in 2017 and is primed to go much further. It has expanded in major ways. We now have:
 
-We now have 6 working groups. We defined and released 40 metrics. We release the GrimoireLab and Augur metrics software. And we organized 5 CHAOSScon community events. 
+* 6 working groups
+* 40 defined metrics
+* 5 CHAOSScon have run internationally
+* Many updates to metric tools in GrimoireLab 
+* A new streamlined metric platform called Augur
 
-We have made the CHAOSS community a **vibrant place of activity** that brings together diverse people from across the open source ecosystem who are interested in understanding, measuring, and analyzing open source community health.
+We have made the CHAOSS community a **vibrant place of activity** that brings together diverse people from across the open source ecosystem who are interested in understanding, measuring, and analyzing open source community health. And we are now expanding our community in one more way
 
 **With [CHAOSScast](https://podcast.chaoss.community/), the CHAOSS community is growing even further!**
 
-The goal of the community podcast is to share use cases and experience with measuring open source community health. We want to elevate conversations around metrics, analytics, and software for open source community health. 
+The goal of this community podcast is to share use cases and experience with measuring open source community health. We want to elevate conversations around metrics, analytics, and software for open source community health. 
 
 The podcast will fill an important gap in the CHAOSS community. We will invite guests to speak about their unique use cases and experiences. These are stories we would have a hard time sharing otherwise.
 
 **[Listen to the first episode](https://podcast.chaoss.community/1) to learn more about CHAOSScast and our plans for it!**
 
-_CHAOSScast will become availale in your favorite podcast app during June 2020. Until then, you can [subscribe using an RSS feed](https://podcast.chaoss.community/rss)._
+_CHAOSScast will become available in your favorite podcast app during June 2020. Until then, you can [subscribe using the RSS feed](https://podcast.chaoss.community/rss)._
 
 A big thank you to everyone in the CHAOSS community who has stepped up to make this podcast a reality.
 
