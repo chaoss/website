@@ -22,4 +22,3 @@
 ### Scott K. Peterson
 
 ![Image not available text]()
-
