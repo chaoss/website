@@ -6,7 +6,7 @@
 
 ### Jono Bacon
 
-![Jono Bacon](https://github.com/chaoss/website/blob/master/About/images/jono_136.jpg)
+![Jono Bacon](https://github.com/chaoss/website/blob/master/About/images/jono_136.png)
 
 
 ### Jesús M. González-Barahona
@@ -16,9 +16,9 @@
 
 ### Josianne Marsan
 
-![Josianne Marsan](https://github.com/chaoss/website/blob/master/About/images/josianne_136.jpg)
+![Josianne Marsan](https://github.com/chaoss/website/blob/master/About/images/josianne_136.png)
 
 
 ### Scott K. Peterson
 
-![Scott K. Peterson](https://github.com/chaoss/website/blob/master/About/images/no-image-available-icon-11.jpg)
+![Scott K. Peterson](https://github.com/chaoss/website/blob/master/About/images/no-image-available-icon-11.png)
