@@ -21,6 +21,6 @@
 
 ### Scott K. Peterson
 
-![Image not available text]()
+![Image not available]()
 
 
