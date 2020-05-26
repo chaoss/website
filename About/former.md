@@ -21,6 +21,4 @@
 
 ### Scott K. Peterson
 
-![Image not available]()
-
-
+![Scott K. Peterson](https://chaoss.github.io/website/About/images/no-image-available-icon-11.jpg)
