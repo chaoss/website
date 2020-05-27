@@ -6,11 +6,11 @@ This past January, our friends over at [CHAOSS](https://chaoss.github.io/grimoir
 
 Then on May 4th, we were told that we had been accepted alongside side software developer [Ria Gupta](https://medium.com/@guptaria/my-journey-of-gsoc20-begins-268ff97c2954) for the Google Summer of Code, to write the SCMS _directly_ into CHAOSS community analytics system -- [GrimoireLab](https://chaoss.github.io/grimoirelab/) -- as a metric!
 
-![GrimoireLab](https://www.sociallyconstructed.online/uploads/2/5/6/3/25632458/grimoirelab-logo_orig.jpg) 
+![GrimoireLab](https://www.sociallyconstructed.online/uploads/2/5/6/3/25632458/grimoirelab-logo_orig.jpg)
 
 _**In this blog**_ we'll explain why we’ve been added to GrimoireLab, why we think it matters for you, and most importantly what the next steps are in this exciting new process, so you can implement the system, for free, starting today!
 
-## WHY THE SCMS WAS ADDED,​AND WHERE IT WILL TAKE YOU
+## WHY THE SCMS WAS ADDED,​ AND WHERE IT WILL TAKE YOU
 
 As part of an open-source industry built upon contributions from hundreds of online community members, users of CHAOSS' metrics platform need to understand their impacts on a "culture."
 
@@ -22,7 +22,8 @@ GrimoireLab and other projects at CHAOSS have done a great job of informing you 
 ​
 ​**But** quantitative data is only a _"behavior-tracking"_ strategy. Relying only on it to determine community health is like tracing a person’s footsteps in the sand to see where they went, but never asking them where they're going, or whether they want you to follow them.
 
-![Quanitative analytics](https://www.sociallyconstructed.online/uploads/2/5/6/3/25632458/published/sc-o-source-footsteps-in-sand.png?1589858927)
+![Quanitative analytics](https://www.sociallyconstructed.online/uploads/2/5/6/3/25632458/published/sc-o-source-footsteps-in-sand.png?1589858927)  
+
 _Footsteps in the sand as a metaphor for quantitative data Quantitative analytics track footsteps without the person._
 
 The numbers, trends, and other metrics CHAOSS offers provide a way to infer the community's status and where a community is going, but they are guessing at feelings, opinions, and voices that are clearly better found in qualitative data.
