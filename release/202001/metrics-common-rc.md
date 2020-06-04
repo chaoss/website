@@ -26,6 +26,7 @@ Understand when contributions from organizations and people are happening.
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-activity-dates-and-times/">Activity Dates and Times</a></td><td>What are the dates and timestamps of when contributor activities occur?</td></tr>
   <tr><td><a href="https://chaoss.community/metric-time-to-first-response/">Time to First Response</a></td><td>How much time passes between when an activity requiring attention is created and the first response?</td></tr>
+    <tr><td><a href="https://chaoss.community/metric-time-to-close/">Time to Close</a></td><td>How much time passes between creating and closing an operation such as an issue, review, or support ticket?</td></tr>
 </tbody>
 </table>
 </div>

@@ -5,6 +5,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 - **Common WG**
   * New metrics include:
     - Types of Contributions
+    - Time to Close
 - **Diversity & Inclusion WG**
   * New metrics include:
 - **Evolution WG**
