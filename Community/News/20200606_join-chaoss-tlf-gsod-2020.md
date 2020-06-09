@@ -1,5 +1,7 @@
 # Join CHAOSS and The Linux Foundation for GSoD 2020
 
+### By Venu Vardhan Reddy Tekula
+
 ![gsod-banner-chaoss-tlf](https://user-images.githubusercontent.com/25265451/83881479-5dc24a80-a75e-11ea-9167-23ed1fe0961d.png)
 
 CHAOSS and The Linux Foundation is taking part in Google Season of Docs 2020! 
