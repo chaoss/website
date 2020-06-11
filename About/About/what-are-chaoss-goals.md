@@ -6,6 +6,6 @@ The project goals are to:
 
 - Produce integrated open source software for analyzing software community development
 
-- Develop program for the deployment of metrics not attainable through online trace data
+- Develop programs for the deployment of metrics not attainable through online trace data
 
 - Build reproducible project health reports
