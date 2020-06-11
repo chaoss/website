@@ -9,7 +9,7 @@ We need your help! CHAOSS is focused on creating analytics and metrics to assess
 
 To help understand the motivation of today’s open source community members, our team has revisited the old scientific research studies on motivation and compiled a comprehensive and updated survey. We replicate the motivation studies, using some of the same questions so that we can see where the changes are from 20 years ago. We expect that this work will help companies, maintainers, foundations, and communities to adjust their understanding of motivation focusing on building more sustainable and inclusive communities.
 
-You can help by answering our questionnaire telling us about your motivations to contribute. The questionnaire os is simple and short (10 minutes): https://bit.ly/2TZwHQY.
+You can help by answering our questionnaire telling us about your motivations to contribute. The questionnaire os is simple and short (10 minutes): [bit.ly/2TZwHQY](https://bit.ly/2TZwHQY).
 
 The research is a collaborative effort with support from members of Northern Arizona University (USA), Oregon State University (USA), University of Adelaide (Australia), Universidad Rey Juan Carlos (Spain), Bitergia (Spain), and CHAOSS.
 
