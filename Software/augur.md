@@ -8,6 +8,6 @@ It is a prototyped implementation of the CHAOSS Project on [open source software
 
 Augur Code → https://github.com/chaoss/augur
 
-Getting started with Augur - https://oss-augur.readthedocs.io/en/master/getting-started/getting-started-toc.html
+Getting started with Augur - https://oss-augur.readthedocs.io/en/master/getting-started/toc.html
 
-Augur Data Collection - https://oss-augur.readthedocs.io/en/master/data-collection/data-collection-toc.html
+Augur Data Collection - https://oss-augur.readthedocs.io/en/master/getting-started/collecting-data.html
