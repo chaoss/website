@@ -1,9 +1,26 @@
 # CHAOSS Metrics  
-### Release 202008  
+### Upcoming Release 202008 [Under Review]
 
-*Released metrics are only a subset of metric ideas that are being developed. If you would like to learn more and discuss different metrics please visit the working group repositories. The metrics are sorted into Focus Areas. CHAOSS uses a Goal-Question-Metric format to present metrics. Individual metrics are released based on identified goals and questions. The metrics include a detail page with definitions, objectives, and examples.*  
+CHAOSS metrics are identified and defined using a continuous release process. The metrics are officially released biannually following a 30 day comment period. To contribute to the release or comment on metrics under review, please follow the links provided in the working group tables located below.
+
+To obtain a pdf copy of previous releases or see what is new in this release please visit the [release notes page](https://chaoss.community/release-history/).
+
+To make suggestions or edits to this webpage please visit the [website repo](https://github.com/chaoss/website) and open an issue or create a pull request.
+
+#### Disclaimer
+
+Released metrics are only a subset of metric ideas that are being developed. CHAOSS makes no assertions about the completeness of this list. If you would like to learn more about metrics, suggest new metrics, and or help define metrics please visit the working group repositories.  
+
+The CHAOSS project recognizes that there are ethical and legal challenges when using the metrics and software provided by the CHAOSS community. The particular challenges arise in the use that is specific to your context.  
+
+* Ethical challenges exist around protecting community members and empowering them with their personal information.  
+
+* Legal challenges exist around GDPR and similar laws or regulations that protect personal information of community members.  
 
 ## Focus Areas by Working Group  
+
+ *CHAOSS metrics are sorted into Focus Areas. CHAOSS uses a Goal-Question-Metric format to present metrics. Individual metrics are released based on identified goals and questions. The metrics include a detail page with definitions, objectives, and examples.*  
+
 #### Common Metrics WG  
 * [What](#user-content-focus-area---what)  
 * [When](#user-content-focus-area---when)  
@@ -29,6 +46,6 @@
 * [Living Wage](#user-content-focus-area---living-wage)  
 
 ### Important Dates for Release 202008  
-Release Freeze: July 1st, 2020    
-Public Comment Period: July 1st, 2020 to July 31st, 2020  
-Metrics Release Date: August 1st, 2020  
+202008 Release Freeze: July 1st, 2020    
+202008 Public Comment Period: July 1st, 2020 to July 31st, 2020  
+202008 Official Metrics Release Date: August 1st, 2020  
