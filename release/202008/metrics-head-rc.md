@@ -9,7 +9,7 @@ To make suggestions or edits to this webpage please visit the [website repo](htt
 
 #### Disclaimer
 
-Released metrics are only a subset of metric ideas that are being developed. CHAOSS makes no assertions about the completeness of this list. If you would like to learn more about metrics, suggest new metrics, and or help define metrics please visit the working group repositories.  
+Metrics on this page were debated in working groups and undergo a 30 day comment period to increase validity. Released metrics are only a subset of many possible metrics. CHAOSS acknowledges that more metrics exist and is working to identify and release new metrics in the future. If you would like to learn more about metrics, suggest new metrics, and or help define metrics please visit the working group repositories.   
 
 The CHAOSS project recognizes that there are ethical and legal challenges when using the metrics and software provided by the CHAOSS community. The particular challenges arise in the use that is specific to your context.  
 
@@ -48,4 +48,4 @@ The CHAOSS project recognizes that there are ethical and legal challenges when u
 ### Important Dates for Release 202008  
 202008 Release Freeze: July 1st, 2020    
 202008 Public Comment Period: July 1st, 2020 to July 31st, 2020  
-202008 Official Metrics Release Date: August 1st, 2020  
+202008 Official Metrics Release Date: First week of August 2020  
