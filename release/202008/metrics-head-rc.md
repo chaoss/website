@@ -29,6 +29,7 @@ The CHAOSS project recognizes that there are ethical and legal challenges when u
 * [Event Diversity](#user-content-focus-area---event-diversity)  
 * [Governance](#user-content-focus-area---governance)  
 * [Leadership](#user-content-focus-area---leadership)  
+* [Project and Community](#user-content-focus-area---project-and-community)
 #### Evolution WG  
 * [Code Development Activity](#user-content-focus-area---code-development-activity)  
 * [Code Development Efficiency](#user-content-focus-area---code-development-efficiency)  
@@ -41,9 +42,11 @@ The CHAOSS project recognizes that there are ethical and legal challenges when u
 * [Licensing](#user-content-focus-area---licensing)  
 * [Security](#user-content-focus-area---security)  
 #### Value WG  
-* [Ecosystem Value](#user-content-focus-area---ecosystem-value)  
-* [Labor Investment](#user-content-focus-area---labor-investment)  
-* [Living Wage](#user-content-focus-area---living-wage)  
+* [Communal Value](#user-content-focus-area---communal-value)  
+* [Individual Value](#user-content-focus-area---individual-value)  
+* [Organizational Value](#user-content-focus-area---organizational-value)  
+* [Social Value](#user-content-focus-area---social-value)  
+
 
 ### Important Dates for Release 202008  
 202008 Release Freeze: July 1st, 2020    

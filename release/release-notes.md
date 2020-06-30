@@ -4,7 +4,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 ## Continuous Metric Contributions Since Last Release
 - **Common WG**
   * New metrics include:
-    - Inactive Contributors
+    - Contributor Location
     - Time to Close
     - Types of Contributions
 - **Diversity & Inclusion WG**
@@ -12,14 +12,16 @@ CHAOSS metrics are released continuously. The regular release is when we update 
     - Documentation Usability
     - Inclusive Leadership
     - Issue Label Inclusivity
+  * New focus area - Project and Community
 - **Evolution WG**
   * New metrics include:
+    - Inactive Contributors
     - New Contributors
 - **Risk WG**
   * No new metrics this release
 - **Value WG**
   * No new metrics this release
-  * Work group focused on restructuring and creation of new focus areas
+  * Work group focused on restructuring and creation of new focus areas - Social Value, Organizational Value, Individual Value, and Communal Value
 
 ## Release 202001 Notes:
 - [PDF of released CHAOSS Metrics (v.202001)](https://chaoss.github.io/website/release/202001/CHAOSS-Metrics-Release-202001.pdf)
