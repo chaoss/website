@@ -1,7 +1,7 @@
 ## Value
 Value Repository: https://github.com/chaoss/wg-value
 
-_The value working group is undergoing a restructuring. All previously released metrics are being revised and will be released within the new focus group structure_
+_The value working group is undergoing a restructuring. All previously released metrics are being revised and moved into the new focus group structure_
 
 ### Focus Area - Communal Value
 
