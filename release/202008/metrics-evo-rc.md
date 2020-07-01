@@ -43,7 +43,7 @@ Learn about the processes to improve/review quality that are used (for example: 
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md">Reviews <img src="https://github.com/chaoss/website/tree/master/release/Images/under-review75.png" alt="[Under Review]"></a></td><td>What new review requests for changes to the source code occurred during a certain period?</td><td><a href=https://github.com/chaoss/wg-evolution/issues/337>Issue #337</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Reviews.md">Reviews <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review75.png" alt="Under Review"></a></td><td>What new review requests for changes to the source code occurred during a certain period?</td><td><a href=https://github.com/chaoss/wg-evolution/issues/337>Issue #337</a></td></tr>
 </tbody>
 </table>
 </div>
@@ -76,8 +76,8 @@ Identify the size of the project community and whether it is growing, shrinking,
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Inactive_Contributers.md">Inactive Contributors <img src="https://github.com/chaoss/website/tree/master/release/Images/under-review75.png" alt="[Under Review]"></a></td><td>How many Contributors have gone inactive over a specific period of time?</td><td><a href=https://github.com/chaoss/wg-evolution/issues/357>Issue #357</a></td></tr>
-  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/New_Contributors.md">New Contributors <img src="https://github.com/chaoss/website/tree/master/release/Images/under-review75.png" alt="[Under Review]"></a></td><td>How many contributors are closing issues for the first time?</td><td><a href https://github.com/chaoss/wg-evolution/issues/329>Issue #329</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/Inactive_Contributers.md">Inactive Contributors <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review75.png" alt="Under Review"></a></td><td>How many Contributors have gone inactive over a specific period of time?</td><td><a href=https://github.com/chaoss/wg-evolution/issues/357>Issue #357</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-evolution/blob/master/metrics/New_Contributors.md">New Contributors <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review75.png" alt="Under Review"></a></td><td>How many contributors are closing issues for the first time?</td><td><a href https://github.com/chaoss/wg-evolution/issues/329>Issue #329</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-new-contributors-closing-issues/">New Contributors Closing Issues</a></td><td>How many contributors are making their first contribution to a given project and who are they?</td><td></td></tr>
 </tbody>
 </table>
