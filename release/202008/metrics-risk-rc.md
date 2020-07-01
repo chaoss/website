@@ -11,7 +11,7 @@ Understand how active a community exists around/to support a given software pack
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-committers/">Committers</a></td><td>How robust and diverse are the contributors to a community?</td><td></td></tr>
-  <tr><td><a href="https://chaoss.community/metric-elephant-factor/">Elephant Factor</a></td><td>What is the distribution of work in the community?</td><td></td></tr>
+  <tr><td><a href=" https://github.com/chaoss/wg-risk/blob/master/metrics/Elephant_Factor.md">Elephant Factor<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the distribution of work in the community?</td><td><a href="https://github.com/chaoss/wg-risk/issues/102">Issue #102</a></td></tr>
 </tbody>
 </table>
 </div>

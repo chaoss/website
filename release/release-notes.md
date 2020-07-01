@@ -20,6 +20,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
   * The Reviews metric was revised
 - **Risk WG**
   * No new metrics this release
+  * The Elephant Factor metric was revised  
 - **Value WG**
   * No new metrics this release
   * The SCMS metric was revised
