@@ -1,4 +1,4 @@
-## Value <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review125.png">
+## Value <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png">
 
 Value Repository: https://github.com/chaoss/wg-value
 
