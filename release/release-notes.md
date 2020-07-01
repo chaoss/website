@@ -17,11 +17,14 @@ CHAOSS metrics are released continuously. The regular release is when we update 
   * New metrics include:
     - Inactive Contributors
     - New Contributors
+  * The Reviews metric was revised
 - **Risk WG**
   * No new metrics this release
 - **Value WG**
   * No new metrics this release
-  * Work group focused on restructuring and creation of new focus areas - Social Value, Organizational Value, Individual Value, and Communal Value
+  * The SCMS metric was revised
+  * Work group focused on restructuring and creation of new focus areas - Organizational Value, Individual Value, and Communal Value
+  * All previously released metrics were assigned to the new focus areas
 
 ## Release 202001 Notes:
 - [PDF of released CHAOSS Metrics (v.202001)](https://chaoss.github.io/website/release/202001/CHAOSS-Metrics-Release-202001.pdf)

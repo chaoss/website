@@ -45,7 +45,6 @@ The CHAOSS project recognizes that there are ethical and legal challenges when u
 * [Communal Value](#user-content-focus-area---communal-value)  
 * [Individual Value](#user-content-focus-area---individual-value)  
 * [Organizational Value](#user-content-focus-area---organizational-value)  
-* [Social Value](#user-content-focus-area---social-value)  
 
 
 ### Important Dates for Release 202008  
