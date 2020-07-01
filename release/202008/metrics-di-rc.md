@@ -44,7 +44,7 @@ Identify how healthy community leadership is.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/leadership/inclusive-leadership.md">Inclusive Leadership <img src="https://github.com/chaoss/website/tree/master/release/Images/under-review75.png" alt="[Under Review]"></a></td><td>How well is a project setup for diverse leadership?</td><td><a href = https://github.com/chaoss/wg-diversity-inclusion/issues/292>Issue #292</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/leadership/inclusive-leadership.md">Inclusive Leadership <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review75.png" alt="Under Review"></a></td><td>How well is a project setup for diverse leadership?</td><td><a href = https://github.com/chaoss/wg-diversity-inclusion/issues/292>Issue #292</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-mentorship/">Mentorship</a></td><td>How effective are our mentorship programs at supporting diversity and inclusion in our project?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-sponsorship">Sponsorship</a></td><td>How effective are long-time members who sponsor people in supporting diversity and inclusion in a community?</td><td></td></tr>
 </tbody>
@@ -60,8 +60,8 @@ Identify how diverse and inclusive our project places, where community engagemen
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/documentation-usability.md">Documentation Usability <img src="https://github.com/chaoss/website/tree/master/release/Images/under-review75.png" alt="[Under Review]"></a></td><td>What is the usability of documentation from content and structure perspectives?</td><td><a href = https://github.com/chaoss/wg-diversity-inclusion/issues/288>Issue 288</a></td></tr>
-  <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/issue-label-inclusivity.md">Issue Label Inclusivity <img src="https://github.com/chaoss/website/tree/master/release/Images/under-review75.png" alt="[Under Review]"></a></td><td>How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?</td><td><a href = https://github.com/chaoss/wg-diversity-inclusion/issues/291>Issue 291</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/documentation-usability.md">Documentation Usability <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review75.png" alt="Under Review"></a></td><td>What is the usability of documentation from content and structure perspectives?</td><td><a href = https://github.com/chaoss/wg-diversity-inclusion/issues/288>Issue 288</a></td></tr>
+  <tr><td><a href="https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/project-and-community/issue-label-inclusivity.md">Issue Label Inclusivity <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review75.png" alt="Under Review"></a></td><td>How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?</td><td><a href = https://github.com/chaoss/wg-diversity-inclusion/issues/291>Issue 291</a></td></tr>
 </tbody>
 </table>
 </div>
