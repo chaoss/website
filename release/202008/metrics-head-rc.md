@@ -1,6 +1,6 @@
 # CHAOSS Metrics
 
-### Upcoming Release 202008 
+### Upcoming Release 202008 <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png">
 
 CHAOSS metrics are identified and defined using a continuous release process. The metrics are officially released biannually following a 30 day comment period. To contribute to the release or comment on metrics under review, please follow the links provided in the working group tables located below.  
 
