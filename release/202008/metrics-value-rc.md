@@ -1,7 +1,7 @@
 ## Value 
 
-Value Repository: https://github.com/chaoss/wg-value
-<img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png">
+Value Repository: https://github.com/chaoss/wg-value  
+<img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png">  
 _The value working group is undergoing a restructuring. All previously released metrics are being revised and will be released within the new focus group structure. Please leave comments on the new focus areas in [Issue #95](https://github.com/chaoss/wg-value/issues/95)_
 
 ### Focus Area - Communal Value
