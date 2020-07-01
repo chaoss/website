@@ -1,5 +1,5 @@
 # CHAOSS Metrics  
-### Upcoming Release 202008 [Under Review]
+### Upcoming Release 202008 <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review.png" alt="Under Review">
 
 CHAOSS metrics are identified and defined using a continuous release process. The metrics are officially released biannually following a 30 day comment period. To contribute to the release or comment on metrics under review, please follow the links provided in the working group tables located below.
 
@@ -7,7 +7,7 @@ To obtain a pdf copy of previous releases or see what is new in this release ple
 
 To make suggestions or edits to this webpage please visit the [website repo](https://github.com/chaoss/website) and open an issue or create a pull request.
 
-#### Disclaimer
+### Disclaimer
 
 Metrics on this page were debated in working groups and undergo a 30 day comment period to increase validity. Released metrics are only a subset of many possible metrics. CHAOSS acknowledges that more metrics exist and is working to identify and release new metrics in the future. If you would like to learn more about metrics, suggest new metrics, and or help define metrics please visit the working group repositories.   
 
