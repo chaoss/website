@@ -15,6 +15,6 @@ Please read our [Code of Conduct](https://chaoss.community/about/code-of-conduct
 - Follow us on [Twitter](https://twitter.com/CHAOSSproj)
 - Listen to [CHAOSScast](https://podcast.chaoss.community/)
 - Read about our community on [CHAOSSblog](https://chaoss.community/blog/)
-- Check out the latest news at [CHAOSSweekly]()
+- Check out the latest news at [CHAOSSweekly](https://chaoss.community/news/)
 
 ### Join us for CHAOSS Community and Working Group video conferences
