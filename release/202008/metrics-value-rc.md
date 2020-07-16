@@ -7,7 +7,7 @@ _The value working group is undergoing a restructuring. All previously released 
 ### Focus Area - Communal Value
 
 **Goal:**  
-Understand if the project valuable to its community of users (including downstream projects) or contributors?  
+Identify the degree to which a project is valuable to its community of users (including downstream projects) or contributors
 
 <div>
 <table>
@@ -23,7 +23,7 @@ Understand if the project valuable to its community of users (including downstre
 ### Focus Area - Individual Value
 
 **Goal:**  
-Understand if the project is valuable to an individual user or contributor?
+Identify the degree to which a project is valuable to me as an individual user or contributor
 
 <div>
 <table>
@@ -38,7 +38,7 @@ Understand if the project is valuable to an individual user or contributor?
 ### Focus Area - Organizational Value
 
 **Goal:**  
-Understand  the projects monetarily Value from an organizations perspective?
+Identify the degree to which a project is monetarily valuable from an organization's perspective
 
 <div>
 <table>
