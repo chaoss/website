@@ -1,21 +1,37 @@
 ## Who are we?
 
-CHAOSS is a Linux Foundation project focused on creating analytics and metrics to help define community health. Work in the CHAOSS Project community is organized in two committees and four workgroups:
+CHAOSS is a Linux Foundation project focused on creating analytics and metrics to help define community health. Work in the CHAOSS Project community is largely organized around software and metrics. Additionally, users groups provide ways to consider how software and practices can support the deployment of CHAOSS metrics. 
 
-### Committees
+### Software: Developing software in the deployment of CHAOSS metrics
 
-- The [Metrics Committee](https://chaoss.community/metrics) works on establishing implementation-agnostic metrics for measuring community activity, contributions, and health.
+The CHAOSS software working groups are: 
 
-- The [Software Committee](https://chaoss.community/software) works on producing integrated, open source software for analyzing software development, and definition of standards and models used in that software in specific use cases.
+- [GrimoireLab](https://github.com/chaoss/grimoirelab)
 
-### Workgroups
+- [Augur](https://github.com/chaoss/augur)
 
-The goal of the workgroups is to refine the metrics and to work with software implementations. The workgroups are built around the four categories of metrics that CHAOSS has identified. The workgroups are:
+- [Cregit](https://github.com/cregit/cregit)
 
-- Diversity and Inclusion
 
-- Growth Maturity and Decline
+### Working Groups: Developing metics around key areas of interest
 
-- Risk
+The CHAOSS metrics working groups are:
 
-- Value
+- [Diversity and Inclusion](https://github.com/chaoss/wg-diversity-inclusion)
+
+- [Evolution](https://github.com/chaoss/wg-evolution)
+
+- [Common Metrics](https://github.com/chaoss/metrics)
+
+- [Value](https://github.com/chaoss/wg-value)
+
+- [Risk](https://github.com/chaoss/wg-risk)
+
+
+### User Groups: Considering how metrics and software/practics are brought together in important contexts
+
+The CHAOSS User Groups are: 
+
+- [Application Ecosystem ](https://github.com/chaoss/wg-app-ecosystem)
+
+- [Diversity & Inclusion Badging](https://github.com/badging)

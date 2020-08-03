@@ -1,43 +1,37 @@
-# Schedule: Tuesday, August 28, 2018
+# Schedule: Friday, February 1, 2019
 
-| Time | Topic | Speaker | Slides |
-|---|---|---|---|
-| 8:30 - 9:30 | Registration & Networking (Room: B213) | | |
+| Time | Topic | Speaker | Slides | Video |
+|---|---|---|---|---|
+| 9:00 - 10:00 | Registration & Networking |   |   |  |
+|   |   |   |   | |
+| 10:00 - 10:30 | **Keynote 1:** The Value of Metrics to Drive Your OSPO Plans  | [Nithya Ruff](#user-content-nithya-ruff) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Value-Metrics-Drive-OSPO-Plans.pdf) | [Video](https://www.youtube.com/watch?v=WxPZryN9U5M&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=2&t=0s) |
+| 10:30 - 11:00 | **Keynote 2:** Finding the Order in the Chaos(s) of Metrics: Are We There Yet? | [Ildiko Vancsa](#user-content-ildiko-vancsa) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Finding-Order-in-the-Chaoss-of-Metrics.pdf) | [Video](https://www.youtube.com/watch?v=jeSaKmxTqZA&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=3&t=0s) |
 |   |   |   |   |
-| 9:30 - 10:00 | **Keynote** (Room: B213) | [Matt Germonprez](#user-content-matt-germonprez) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/CHAOSSCon.Keynote.pdf)  |
-|   |   |   |   |
-| 10:00 - 11:00 | **Plenaries** (Room: B213) | | |
-| | If There Are No Metrics, Did It Even Happen? Tracking Open Source Contributions at Comcast | [Shilla Saebi](#user-content-shilla-saebi) & [David Grizzanti](#user-content-david-grizzanti) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/if-there-are-no-metrics-did-it-even-happen.pdf) |
-| | Open Source Metrics at Twitter | [Remy DeCausemaker](#user-content-remy-decausemaker) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/twitteross.pdf) |
-| | Towards GrimoireLab 1.0: a roadmap | [Santiago Dueñas](#user-content-santiago-dueñas) & [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/Towards-GrimoireLab-1.0.pdf) |
-|   |   |   |   |
-| 11:00 - 11:30 | Break & Networking | | |
-|   |   |   |   |
-| 11:30 - 12:30 | **Plenaries** (Room: B213) | | |
-| | Pains and tribulations of finding data | [John Hawley](#user-content-john-hawley) & [Alex Courouble](#user-content-alex-courouble)| [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/pains-and-tribulations-of-finding-data.pdf) |
-| | Identifying Metrics to Communicate the Value of Open Source Contributions | [Ben Lloyd Pearson](#user-content-ben-lloyd-pearson) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/communicating-value-of-open-source-metrics.pdf) |
-| | Chaos or CHAOSS: What We Hear From the CHAOSS Community  | [Georg Link](#user-content-georg-jp-link) & [Kevin Lumbard](#user-content-kevin-lumbard) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/Chaos-or-CHAOSS.pdf) |
-|   |   |   | |
-| 12:30 - 1:15 | **Panel:** Diversity & Inclusion: Innovating to Create a Consistent Definition, Data and Metrics | [Matt Germonprez](#user-content-matt-germonprez) (Moderator), [Emma Irwin](#user-content-emma-irwin), [Dawn Foster](#user-content-dawn-foster), [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona), [Sean Goggins](#user-content-sean-goggins) | |
-|   |   |   | |
-| 1:15 - 2:30 | Lunch and Networking | | |
-|   |   |   | |
-| 2:30 - 3:00 | **Lightning Talks** (Room: B213) | (Signup on site) | |
-|   | Ask, Join, Share  | Felipe Hoffa  |   |
-|   | Santi: Percival Demo  | Manrique López  | [notebook](https://colab.research.google.com/drive/1oXFbph7FeuQn2vNtPmwdLzijpSp65T1A) |
-|   | GrimoireLab to track GSoC  | Jesus Gonzales-Barahona  |   |
-|   | Community Health Visibility  | Johanna Smith  |   |
-|   | Augur Demo  | Sean Goggins  |   |
-|   | Risk Category brainstorming  | Matt Snell  | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/risk_metrics.pdf) |
-|   |   |   | |
-| 3:00 - 4:00 | **Workshops / Tutorials** | | |
-| Room: B213 | CHAOSS WG on Growth-Maturity-Metrics: status report | [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) | |
-| Room: B215 | Which house are you in? (Sorting Hat workshop) | [Santiago Dueñas](#user-content-santiago-dueñas) & [Valerio Cosentino](#user-content-valerio-cosentino) | |
-|   |   |   | |
-| 4:00 - 4:30 | Break & Networking | | |
-|   |   |   | |
-| 4:30 - 5:30 | **Workshops / Tutorials** | | |
-| Room: B213  | Establishing Metrics that Matter for Diversity & Inclusion | [Emma Irwin](#user-content-emma-irwin) | |
-| Room: B215  | GrimoireLab made simple: Using the basic stuff from Python | [Jesus Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) | [PDF](https://chaoss.github.io/website/CHAOSScon/2018NA/slides/GrimoireLab-made-simple.pdf) |
-|   |   |   | |
-| 5:30 - | Adjourn somewhere for more networking | | |
+| 11:00 - 11:20 | Your Team’s Open Source Contributions, in One Dashboard | [Alex Courouble](#user-content-alex-courouble) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Your-Teams-OSS-Contributions-in-one-Dashboard.pdf) | [Video](https://www.youtube.com/watch?v=04TQaMWGLxA&t=0s&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=4) | 
+| 11:20 - 11:40 | Metrics in a Company-led Open Source Project | [Ray Paik](#user-content-ray-paik) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Metrics-Company-Led-OSS-Project.pdf) | [Video](https://www.youtube.com/watch?v=2g-KQH45gRc&t=0s&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=5) | 
+| 11:40 - 12:00 | Putting Order into CHAOSS: Metrics to Analyze Code Development | [Ana Jimenez Santamaria](#user-content-ana-jimenez-santamaria) & [Daniel Izquierdo](#user-content-daniel-izquierdo) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Putting-Order-into-CHAOSS.pdf) | [Video](https://www.youtube.com/watch?v=a1UuCGuszBA&t=0s&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=6) | 
+|   |   |   |   | |
+| 12:00 - 13:00 | Lunch |   |   | | 
+|   |   |   |   | |
+| 13:00 - 13:30 | **Keynote 3:** A Tale of Metrics Faux Pas: Answers Without Questions | [Brian Proffitt](#user-content-brian-proffitt) |  [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Tale-of-Metrics-Faux-Pas.pdf) | [Video](https://www.youtube.com/watch?v=EoRwwnIl5ls&t=0s&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=7) |
+|   |   |   |   | |
+| 13:30 - 13:50 | What's new in CHAOSS/GrimoireLab? | [Manrique Lopez](#user-content-manrique-lopez) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Whats-new-in-CHAOSS_GrimoireLab.pdf) | | 
+| 13:50 - 14:10 | Hack Days...???...Profit | [Sanja Bonic](#user-content-sanja-bonic) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/HackDays-Profit.pdf) | [Video](https://www.youtube.com/watch?v=HvU0BhDRzTs&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=8&t=0s) |
+| 14:10 - 14:30 | Creating a Collection of Panels | [Alberto Pérez](#user-content-alberto-perez) & [Daniel Izquierdo](#user-content-daniel-izquierdo) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/Creating-a-Collection-of-Panels.pdf) | [Video](https://www.youtube.com/watch?v=dR3PxGfVtdY&list=PL60k37cxI-HTMXEL9tnwGDQ92BFzIHCls&index=9&t=0s) |
+|   |   |   |   | | 
+| 14:30 - 15:10 | Break |   |   | |
+|   |   |   |   | | 
+| 15:10 - 15:50 | Lightning Talks |   |   | | 
+|   | - Graal: Get the Knowledge Out of Your Code | [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/graal.pdf) | |
+|   | - SortingHat: Managing Contributor Identities in your Software Project | [Valerio Cosentino](#user-content-valerio-cosentino) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/SortingHat.pdf) | |
+|   | - GrimoireLab Alerts | [Luis Cañas-Díaz](#user-content-luis-canas-diaz) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GrimoireLab-Alerts.pdf) | |
+|   | - Software Heritage | Roberto De Cosmo |   | |
+|   | - Software Health Workshop (SoHeal) and SECO-ASSIST Project | Tom Mens | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/SoHeal.pdf) | |
+|   | - Augur | [Sean Goggins](#user-content-sean-goggins)| [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/augur.pdf) | |
+|   | - ClearlyDefined | Jeff McAffer |   | | 
+|   | - Apache Kibble Crash Course | Daniel Gruno & Sharan Foga | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/Apache-Kibble-Crash-Course.pdf) | |
+|   |   |   |   | |
+| 15:50 - 16:50 | Diversity & Inclusion WG Tutorial | [Dawn Foster](#user-content-dawn-foster) & [Daniel Izquierdo](#user-content-daniel-izquierdo)  | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/DI-tutorial.pdf) | |
+| 16:50 - 17:50 | Growth-Maturity-Decline WG Tutorial | [Jesus M. Gonzalez-Barahona](#user-content-jesus-m-gonzalez-barahona) & [Sean Goggins](#user-content-sean-goggins) | [PDF](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GMD-tutorial.pdf) | |
+|   |   |   |   | |
+| 17:50 | Adjourn to FOSDEM Beer Event |   |   | |

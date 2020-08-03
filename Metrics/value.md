@@ -1,5 +1,6 @@
-### value
+### Value
 
-Developers and organizations capture value from engaging in OSS communities. This category can inform what this value is.
+Economic value is expressed in different ways for different types of stakeholders. Lack of metrics makes it difficult for business decision makers to compare open-source and to allocate resources optimally across projects, slowing decision making and product innovation. The main goal is to publish trusted industry-standard Value Metrics. A kind of S&P for software development, an authoritative source for metrics significance and industry norms.
 
-Goals and Questions related to Value are located at (https://github.com/chaoss/metrics/blob/master/4_Value.md)
+Value Repository → https://github.com/chaoss/wg-value/
+

@@ -8,10 +8,6 @@ Specific CHAOSS software highlighted will be GrimoireLab and Augur with their re
 
 We will also share insights from the CHAOSS workgroups on *Diversity and Inclusion*, *Growth-Maturity-Decline*, *Risk*, and *Value* that branched out from the CHAOSS metrics work.
 
-## Register
-
-[Register for CHAOSSCon EU now!](https://www.eventbrite.com/e/chaosscon-europe-2019-tickets-51589130478) 
-
 ## Where?
 [L42 Business Center & Workspaces](http://www.l42.be/en/)<br/>
 Métro Arts-Loi, 42 Rue de la Loi ([map](https://goo.gl/maps/Bw2wABNqJWm))<br/>
@@ -19,15 +15,4 @@ Brussels, Belgium
 
 ## When?
 
-Friday, February 1st, 2019<br/>
-
-## Organizing Committee
-
-* Alolita Sharma, Amazon Web Services
-* Daniel Izquierdo, Bitergia
-* Dawn Foster, The Scale Factory / University of Greenwich
-* Georg Link, University of Nebraska at Omaha
-* Jesus M. Gonzalez-Barahona, Rey Juan Carlos University / Bitergia
-* Kevin Lumbard, University of Nebraska at Omaha
-* Nicole Huesman, Intel
-* Ray Paik, GitLab
+Friday, February 1st, 2019

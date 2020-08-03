@@ -4,6 +4,8 @@ _By: Georg Link, University of Nebraska at Omaha, and Raniere Silva, Software Su
 ![Image of MozFest session](./images/20181112_mozfestsession.png)
 _Image by Raniere Silva._
 
+The blog post also appeared here:
+https://software.ac.uk/blog/2018-11-12-open-community-metrics-and-privacy-mozfest18-recap
 
 ## TL;DR
 
