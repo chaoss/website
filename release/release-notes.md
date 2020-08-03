@@ -1,4 +1,4 @@
-# Release History
+# Release Notes
 CHAOSS metrics are released continuously. The regular release is when we update the version number, update the full release notes, and make a big announcement. These releases occur one to two times a year and may correspond with the dates for CHAOSScon North America and Europe. Prior to regular release, continuous release metrics may go through iterations of comment periods and edits.
 
 ## Continuous Metric Contributions Since Last Release
