@@ -7,7 +7,7 @@ What to get started right away without doing much work? Email a list of reposito
 ## Augur Components
 1. **START HERE**: Augur is a [Flask web application](http://augur.osshealth.io), [Python library](https://oss-augur.readthedocs.io/en/dev/library-documentation/python.html) and [REST server](http://augur.osshealth.io/static/api_docs/) that presents metrics on open source software development project health and sustainability.
 2. Augur now also includes https://github.com/chaoss/augur-community reports, which provides Jupyter Notebooks that enable open source projects to ask questions of Augur's rich, validated GitHub and GitLab datasets. 
-3. You can also now subscribe to slack notifications at http://auggie.augurlabs.io/#/configure from your Augur instance, at this link, which is located at the https://github.com/chaoss/auggie repository. 
+3. You can also now subscribe to slack notifications at http://auggie.augurlabs.io/#/configure from your Augur instance, at this link, which is located at the https://github.com/chaoss/augur-auggie repository. 
 4. Augur License Risk Analysis: https://github.com/chaoss/augur-spdx
 
 ## Augur Results
@@ -17,3 +17,20 @@ What to get started right away without doing much work? Email a list of reposito
 **Shortcuts:**
 1. Core Augur Code → https://github.com/chaoss/augur
 2. Documentation: Getting started with Augur - https://oss-augur.readthedocs.io/en/master/getting-started/toc.html
+
+
+# Leading Augur Contributors
+ - The CHAOSS Community
+ - Carter Landis
+ - Gabe Heim
+ - Derek Howard
+ - Jonah Zukowsky
+ - Elita Nelson
+ - Carolyn Perniciaro
+ - Andrew Brain
+ - Keanu Nichols
+ - Parth Sharma
+ - Christian Cmheil-Warn
+ - Matt Snell
+ - Michael Woodruff
+ - Sean Goggins
