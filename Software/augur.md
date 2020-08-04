@@ -12,7 +12,9 @@ What to get started right away without doing much work? Email a list of reposito
 
 ## Augur Results
 1. The Augur Medium Blog is located at https://medium.com/augurlabs
-2. 
+2. Augur is the first CHAOSS Software Project with push notification
+3. Augur is the first CHAOSS Software Project to incorporate community reports that aggregate and synthesize atomic CHAOSS metrics into actionable information
+4. Augur has supported 15 undergraduate computer science students, 8 Google Summer of Code students and is committed to prototyping CHAOSS Metrics
 
 **Shortcuts:**
 1. Core Augur Code → https://github.com/chaoss/augur
