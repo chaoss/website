@@ -2,7 +2,7 @@
 
 CHAOSS metrics are identified and defined using a continuous contribution process. The metrics are officially released biannually following a 30 day comment period. To contribute to the release or comment on metrics under review, please follow the links provided in the working group tables located below.  
 
-To obtain a pdf copy of previous releases or see what is new in this release please visit the [release history page](https://chaoss.community/release-history/).  
+To obtain a pdf copy of previous releases or see what is new in this release please visit the [Release History](https://chaoss.community/release-history/).  
 
 _To make suggestions or edits to this webpage please visit the [website repo](https://github.com/chaoss/website) and open an issue or create a pull request._  
 
