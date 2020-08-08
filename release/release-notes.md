@@ -11,7 +11,8 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 - **Evolution WG**
   * None
 - **Risk WG**
-  * None
+  * New metrics include:
+    - SPDX Document
 - **Value WG**
   * None
 
