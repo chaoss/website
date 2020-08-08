@@ -33,7 +33,7 @@ Understand the quality of a given software package.
 ### Focus Area - Licensing
 
 **Goal:**  
-Understand the potential intellectual property(IP) issues associated with a given software package’s use.
+Understand the potential intellectual property (IP) issues associated with a given software package’s use.
 
 <div>
 <table>
@@ -49,7 +49,7 @@ Understand the potential intellectual property(IP) issues associated with a give
 ### Focus Area - Security
 
 **Goal:**  
-Understand how transparent a given software package is with respect to dependencies, licensing (?), security processes, etc.
+Understand security processes and procedures associated with the software’s development.
 
 <div>
 <table>
