@@ -1,7 +1,7 @@
 
 # CHAOSS contributors include:
 
-Aastha Bist
+Aastha Bist,
 Abhinav Bajpai,
 Ahmed Zerouali,
 Akshara P,
