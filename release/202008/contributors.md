@@ -176,8 +176,8 @@ Are you eligible to be on this list? You are if you helped in any capacity, for 
 - Brian Proffitt, Red Hat
 - Daniel Izquierdo, Bitergia
 - Daniel M. German, University of Victoria
-- Dawn Foster, Pivotal
-- Don Marti, Mozilla
+- Dawn Foster, VMware
+- Don Marti, Consumer Reports
 - Georg Link, Bitergia
 - Ildikó Vancsa, OpenStack
 - Kate Stewart, Linux Foundation
