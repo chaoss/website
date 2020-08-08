@@ -1,22 +1,16 @@
 # CHAOSS Metrics
 
-## Upcoming Release 202008 <img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review125.png">
+CHAOSS metrics are identified and defined using a [continuous contribution process](https://github.com/chaoss/governance/blob/master/community-handbook/metrics-release.md). The metrics are officially released biannually following a 30 day comment period. To contribute to the release or comment on metrics under review, please follow the links provided in the working group tables located below.  
 
-CHAOSS metrics are identified and defined using a continuous release process. The metrics are officially released biannually following a 30 day comment period. To contribute to the release or comment on metrics under review, please follow the links provided in the working group tables located below.  
+To obtain a pdf copy of previous releases or see what is new in this release please visit the [Release History](https://chaoss.community/release-history/).  
 
-To obtain a pdf copy of previous releases or see what is new in this release please visit the [release notes page](https://chaoss.community/release-history/).  
-
-To make suggestions or edits to this webpage please visit the [website repo](https://github.com/chaoss/website) and open an issue or create a pull request.  
+_To make suggestions or edits to this webpage please visit the [website repo](https://github.com/chaoss/website) and open an issue or create a pull request._  
 
 ### Disclaimer
 
-Metrics on this page were debated in working groups and undergo a 30 day comment period to increase validity. Released metrics are only a subset of many possible metrics. CHAOSS acknowledges that more metrics exist and is working to identify and release new metrics in the future. If you would like to learn more about metrics, suggest new metrics, and or help define metrics please visit the working group repositories.   
+Metrics on this page were debated in working groups and undergo a 30 day comment period to ensure validity. Released metrics are only a subset of many possible metrics. CHAOSS acknowledges that more metrics exist and is working to identify and release new metrics in the future. If you would like to learn more about metrics, suggest new metrics, and or help define metrics please visit our [participate page](https://chaoss.community/participate/).   
 
-The CHAOSS project recognizes that there are ethical and legal challenges when using the metrics and software provided by the CHAOSS community. The particular challenges arise in the use that is specific to your context.  
-
-* Ethical challenges exist around protecting community members and empowering them with their personal information.  
-
-* Legal challenges exist around GDPR and similar laws or regulations that protect personal information of community members.  
+The CHAOSS project recognizes that there are ethical and legal challenges when using the metrics and software provided by the CHAOSS community. **Ethical challenges** exist around protecting community members and empowering them with their personal information. **Legal challenges** exist around GDPR and similar laws or regulations that protect personal information of community members. Particular challenges may arise in the use that is specific to your context.
 
 ## Focus Areas by Working Group  
 
@@ -48,7 +42,7 @@ The CHAOSS project recognizes that there are ethical and legal challenges when u
 * [Organizational Value](#user-content-focus-area---organizational-value)  
 
 
-### Important Dates for Release 202008  
-202008 Release Freeze: July 1st, 2020    
-202008 Public Comment Period: July 1st, 2020 to July 31st, 2020  
-202008 Official Metrics Release Date: First week of August 2020  
+### Tentative Dates for Next Release 2021-02
+Release Freeze: January 1st, 2021    
+Public Comment Period: January 1st, 2021 to January 31st, 2021  
+Official Metrics Release Date: First week of February 2021  
