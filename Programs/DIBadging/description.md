@@ -7,7 +7,6 @@ In order to submit an application for a project, review the following documents:
 - [Applicant role](./roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
 - [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a Event to be eligible for participation in CHAOSS Badging process.
 - [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how a Event can gain a badge under the CHAOSS Badging program.
-- [Event Criteria](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/event-criteria.md) - Additional criteria for Event Badging.
 
 Make sure to fill out all the fields! For additional information, please visit the Official [CHAOSS D&I Badging Repository](https://github.com/badging/diversity-and-inclusion/edit/master/README.md)
 
