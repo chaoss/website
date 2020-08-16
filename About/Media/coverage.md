@@ -4,6 +4,11 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2020
 
+* SPN Newsroom. (2020, August 14). **Researchers at UNO and the University of Missouri create CHAOSS for open source communities (in a good way).** Silicon Prairie News. Retrieved August 16, 2020, from: https://siliconprairienews.com/2020/08/researchers-at-uno-and-the-university-of-missouri-create-chaoss-for-open-source-communities-in-a-good-way/
+
+* Rucker, A. (2020, July 15). **Open Source Community Health Project Expands Private Funding with UNO and MU.** University of Nebraska Omaha. Retrieved August 16, 2020, from: https://www.unomaha.edu/news/2020/07/open-source-community-health-project-expands-funding-with-unoand-mu.php
+
+
 * VMware Open Source Team. (2020, June 16). **What’s With All the CHAOSS? Dawn Foster Explains This Project’s Impact.** VMware Open Source Blog. Retrieved June 17, 2020, from: https://blogs.vmware.com/opensource/2020/06/16/chaoss-open-source-project-dawn-foster/
 
 * Ankerholz, A. (2020, June 3). How CHAOSS Measures Open Source Community Health. FOSSlife.Org. Retrieved June 3, 2020, from: https://www.fosslife.org/how-chaoss-measures-open-source-community-health
