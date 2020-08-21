@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div id="mdiv">
 <p>
-<h2>Event Badge Submission</h2><br>
+<h2>In-Person Event Badge Submission</h2><br>
 <label for="pname">Event Name:</label>
 <input type="text" id="pname" name="pname"><br><br>
 <label for="linkweb">Link to the Event Website:</label>
@@ -14,6 +14,7 @@
 </p>
 <h2>Speaker Demographics</h2>
 <input type="checkbox" id="sdcb">&nbsp;This event commits to Speaker Diversity & Inclusion.
+<br>
 <br><p>  
 Detail the Process for measuring Speaker Demographics.<br><input type="text" id="sddsc" name="sddsc"><br><br>
 Provide the link for the page related to Speaker Demographics if available.<br><input type="text" id="sdlink" name="sdlink"><br><br>
@@ -21,6 +22,7 @@ Provide the link for the page related to Speaker Demographics if available.<br><
 
 <h2>Attendee Demographics</h2>
 <input type="checkbox" id="adcb">&nbsp;&nbsp;This event commits to Attendee Diversity & Inclusion.
+<br>
 <br><p>  
 Detail the process for measuring Attendee Demographics.<br><input type="text" id="addsc" name="addsc"><br><br>
 Provide the link for the page related to Attendee Demographics if available.<br><input type="text" id="adlink" name="adlink"><br><br>
@@ -28,6 +30,7 @@ Provide the link for the page related to Attendee Demographics if available.<br>
 
 <h2>Code of Conduct at Event</h2>
 <input type="checkbox" id="coccb">&nbsp;&nbsp;This event commits to the Code of Conduct at Event.
+<br>
 <br><p>  
 Is the code of conduct posted at Event venue?<br><input type="text" id="coclink" name="coclink"><br><br>
 Provide the link for the Event Code of Conduct.<br><input type="text" id="cocdsc" name="cocdsc"><br><br>
@@ -35,6 +38,7 @@ Provide the link for the Event Code of Conduct.<br><input type="text" id="cocdsc
 
 <h2>Diversity Access Tickets</h2>
 <input type="checkbox" id="dtcb">&nbsp;&nbsp;This event commits to the Diversity Access Tickets.
+<br>
 <br><p>  
 How many different types of diversity access tickets are available for the event?<br><input type="text" id="dt2" name="dt2"><br><br>
 What are the criteria for qualifying for a diversity access ticket?<br><input type="text" id="dt3" name="dt3"><br><br>
@@ -43,6 +47,7 @@ Provide a link to the page containing information about Diversity Access Tickets
 
 <h2>Family Friendliness</h2>
 <input type="checkbox" id="ffcb">&nbsp;&nbsp;This event commits to Family Friendliness.
+<br>
 <br><p>  
 Does the Event provide childcare facilities for its attendees and speakers?<br><input type="text" id="ff1" name="ff1"><br><br>
 What are the other ways that a family-friendly environment is being created in the Event?<br><input type="text" id="ff2" name="ff2"><br><br>
@@ -105,6 +110,7 @@ Provide relevant links related to family friendliness at the Event.<br><input ty
   - `A` {ff3}    
 </div>
 <input id="fsub" type="submit" value="Submit"><br>
+<br>
 <p>Once you click "submit", you must use your GitHub account to finalize the issue on their Website by clicking "Create New Issue".</p>
 <input id="fback" type="submit" value="Go Back" style="display:none">
 <script>
@@ -125,7 +131,7 @@ Provide relevant links related to family friendliness at the Event.<br><input ty
         }
       }
       const pName = document.getElementById("pname").value
-      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`Event Badge Submission: ${pName}`)}&body=${encodeURIComponent(text)}`;
+      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`In-Person Event Badge Submission: ${pName}`)}&body=${encodeURIComponent(text)}`;
       let loginAndOpenIssueURL = `https://github.com/login?return_to=${encodeURIComponent(openIssueURL)}`;
       console.log({openIssueURL, loginAndOpenIssueURL, pName, text, });
       window.location.href = loginAndOpenIssueURL;
