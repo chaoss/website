@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<body>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div id="IP">
+    <input id="collapseIP" type="submit" value="In-Person Event">
+    <input id="collapseVI" type="submit" value="Virtual Event">
+    <div id="mdivIP" style="display:none;">
+        <p>
+            <h2>In-Person Event Badge Submission</h2><br>
+            <label for="pname">Event Name:</label>
+            <input type="text" id="pname" name="pname"><br><br>
+            <label for="linkweb">Link to the Event Website:</label>
+            <input type="text" id="linkweb" name="linkweb"><br><br>
+            <label for="linkorg">Provide verification that you are an event organizer:</label>
+            <input type="text" id="linkorg" name="linkorg"><br><br>
+        </p>
+        <h2>Speaker Demographics</h2>
+        <input type="checkbox" id="sdcb">&nbsp;This event commits to Speaker Diversity & Inclusion.
+        <br>
+        <br>
+        <p>  
+            Detail the Process for measuring Speaker Demographics.<br><input type="text" id="sddsc" name="sddsc"><br><br>
+            Provide the link for the page related to Speaker Demographics if available.<br><input type="text" id="sdlink" name="sdlink"><br><br>
+        </p>
+
+        <h2>Attendee Demographics</h2>
+        <input type="checkbox" id="adcb">&nbsp;&nbsp;This event commits to Attendee Diversity & Inclusion.
+        <br>
+        <br>
+        <p>  
+            Detail the process for measuring Attendee Demographics.<br><input type="text" id="addsc" name="addsc"><br><br>
+            Provide the link for the page related to Attendee Demographics if available.<br><input type="text" id="adlink" name="adlink"><br><br>
+        </p>
+
+        <h2>Code of Conduct at Event</h2>
+        <input type="checkbox" id="coccb">&nbsp;&nbsp;This event commits to the Code of Conduct at Event.
+        <br>
+        <br>
+        <p>  
+            Is the code of conduct posted at Event venue?<br><input type="text" id="coclink" name="coclink"><br><br>
+            Provide the link for the Event Code of Conduct.<br><input type="text" id="cocdsc" name="cocdsc"><br><br>
+        </p>
+
+        <h2>Diversity Access Tickets</h2>
+        <input type="checkbox" id="dtcb">&nbsp;&nbsp;This event commits to the Diversity Access Tickets.
+        <br>
+        <br>
+        <p>  
+            How many different types of diversity access tickets are available for the event?<br><input type="text" id="dt2" name="dt2"><br><br>
+            What are the criteria for qualifying for a diversity access ticket?<br><input type="text" id="dt3" name="dt3"><br><br>
+            Provide a link to the page containing information about Diversity Access Tickets.<br><input type="text" id="dt1" name="dt1"><br><br>
+        </p>
+
+        <h2>Family Friendliness</h2>
+        <input type="checkbox" id="ffcb">&nbsp;&nbsp;This event commits to Family Friendliness.
+        <br>
+        <br>
+        <p>  
+            Does the Event provide childcare facilities for its attendees and speakers?<br><input type="text" id="ff1" name="ff1"><br><br>
+            What are the other ways that a family-friendly environment is being created in the Event?<br><input type="text" id="ff2" name="ff2"><br><br>
+            Provide relevant links related to family friendliness at the Event.<br><input type="text" id="ff3" name="ff3"><br><br>
+        </p>
+        <input id="fsubIP" type="submit" value="Submit"><br>
+        <p>Once you click "submit", you must use your GitHub account to finalize the issue on their Website by clicking "Create New Issue".</p>
+    </div>
+</div>
+<div id="VI">
+    <div id="mdivVI" style="display:none;">
+        <p>
+            <h2>Virtual Event Badge Submission</h2><br>
+            <label for="pname">Event Name:</label>
+            <input type="text" id="pname" name="pname"><br><br>
+            <label for="linkweb">Link to the Event Website:</label>
+            <input type="text" id="linkweb" name="linkweb"><br><br>
+            <label for="linkorg">Provide verification that you are an event organizer:</label>
+            <input type="text" id="linkorg" name="linkorg"><br><br>
+        </p>
+        <h2>Speaker Demographics</h2>
+        <input type="checkbox" id="sdcb">&nbsp;This event commits to Speaker Diversity & Inclusion.
+        <br>
+        <br>
+        <p>  
+            Detail the Process for measuring Speaker Demographics.<br><input type="text" id="sddsc" name="sddsc"><br><br>
+            Provide the link for the page related to Speaker Demographics if available.<br><input type="text" id="sdlink" name="sdlink"><br><br>
+        </p>
+
+        <h2>Attendee Demographics</h2>
+        <input type="checkbox" id="adcb">&nbsp;&nbsp;This event commits to Attendee Diversity & Inclusion.
+        <br>
+        <br>
+        <p>  
+            Detail the process for measuring Attendee Demographics.<br><input type="text" id="addsc" name="addsc"><br><br>
+            Provide the link for the page related to Attendee Demographics if available.<br><input type="text" id="adlink" name="adlink"><br><br>
+        </p>
+
+        <h2>Code of Conduct at Event</h2>
+        <input type="checkbox" id="coccb">&nbsp;&nbsp;This event commits to the Code of Conduct at Event.
+        <br>
+        <br>
+        <p>  
+            Is the code of conduct posted at Event venue?<br><input type="text" id="coclink" name="coclink"><br><br>
+            Provide the link for the Event Code of Conduct.<br><input type="text" id="cocdsc" name="cocdsc"><br><br>
+        </p>
+
+        <h2>Diversity Access Tickets</h2>
+        <input type="checkbox" id="dtcb">&nbsp;&nbsp;This event commits to the Diversity Access Tickets.
+        <br>
+        <br>
+        <p>  
+            How many different types of diversity access tickets are available for the event?<br><input type="text" id="dt2" name="dt2"><br><br>
+            What are the criteria for qualifying for a diversity access ticket?<br><input type="text" id="dt3" name="dt3"><br><br>
+            Provide a link to the page containing information about Diversity Access Tickets.<br><input type="text" id="dt1" name="dt1"><br><br>
+        </p>
+
+        <h2>Family Friendliness</h2>
+        <input type="checkbox" id="ffcb">&nbsp;&nbsp;This event commits to Family Friendliness.
+        <br>
+        <br>
+        <p>  
+            Does the Event provide childcare facilities for its attendees and speakers?<br><input type="text" id="ff1" name="ff1"><br><br>
+            What are the other ways that a family-friendly environment is being created in the Event?<br><input type="text" id="ff2" name="ff2"><br><br>
+            Provide relevant links related to family friendliness at the Event.<br><input type="text" id="ff3" name="ff3"><br><br>
+        </p>
+        <input id="fsubVI" type="submit" value="Submit"><br>
+        <p>Once you click "submit", you must use your GitHub account to finalize the issue on their Website by clicking "Create New Issue".</p>
+    </div>
+</div>
+<div id="templateIP" style="display:none">
+    # Event Submission
+
+    ## Requirements
+
+    - Event Name: {pname}
+    - Link to the Event Website: {linkweb}
+    - Provide verification that you are an event organizer: {linkorg}
+
+    ## Speaker Demographics
+
+    - [{sdcb}] This event commits to Speaker Diversity and Inclusion.
+    - `Q` Detail the process for measuring Speaker Demographics.
+    - `A` {sddsc}
+    - `Q` Provide the link for the page related to Speaker Demographics if available.
+    - `A` {sdlink}
+
+    ## Attendee Demographics
+
+    - [{adcb}] This event commits to Attendee Diversity and Inclusion.
+    - `Q` Detail the process for measuring Attendee Demographics.
+    - `A` {addsc}
+    - `Q` Provide the link for the page related to Attendee Demographics if available.
+    - `A` {adlink}
+
+    ## Code of Conduct at Event
+
+    - [{coccb}] This event commits to the Code of Conduct at Event.
+    - `Q` Is the code of conduct posted at Event venue?
+    - `A` {coclink}
+    - `Q` Provide a link for the Event Code of Conduct.
+    - `A` {cocdsc}
+
+    ## Diversity Access Tickets
+
+    - [{dtcb}] This event commits to the Diversity Access Tickets.
+    - `Q` How many different types of diversity access tickets are available for the event?
+    - `A` {dt2}
+    - `Q` What are the criteria for qualifying for a diversity access ticket?
+    - `A` {dt3}
+    - `Q` Provide a link to the page containing information about Diversity Access Tickets.
+    - `A` {dt1}
+
+    ## Family Friendliness
+
+    - [{ffcb}] This event commits to Family Friendliness.
+    - `Q` Does the Event provide childcare facilities for its attendees and speakers?
+    - `A` {ff1}
+    - `Q` What are the other ways that a family-friendly environment is being created in the Event?
+    - `A` {ff2}
+    - `Q` Provide relevant links related to family friendliness at the Event.
+    - `A` {ff3}    
+</div>
+<div id="templateVI" style="display:none">
+    # Event Submission
+    
+    ## Requirements
+    
+    - Event Name: {pname}
+    - Link to the Event Website: {linkweb}
+    - Provide verification that you are an event organizer: {linkorg}
+    
+    ## Speaker Demographics
+    
+    - [{sdcb}] This event commits to Speaker Diversity and Inclusion.
+      - `Q` Detail the process for measuring Speaker Demographics.
+      - `A` {sddsc}
+      - `Q` Provide the link for the page related to Speaker Demographics if available.
+      - `A` {sdlink}
+    
+    ## Attendee Demographics
+    
+    - [{adcb}] This event commits to Attendee Diversity and Inclusion.
+      - `Q` Detail the process for measuring Attendee Demographics.
+      - `A` {addsc}
+      - `Q` Provide the link for the page related to Attendee Demographics if available.
+      - `A` {adlink}
+    
+    ## Code of Conduct at Event
+    
+    - [{coccb}] This event commits to the Code of Conduct at Event.
+      - `Q` Is the code of conduct posted?
+      - `A` {coclink}
+      - `Q` Provide a link for the Event Code of Conduct.
+      - `A` {cocdsc}
+    
+    ## Diversity Access Tickets
+    
+    - [{dtcb}] This event commits to the Diversity Access Tickets.
+      - `Q` How many different types of diversity access tickets are available for the event?
+      - `A` {dt2}
+      - `Q` What are the criteria for qualifying for a diversity access ticket?
+      - `A` {dt3}
+      - `Q` Provide a link to the page containing information about Diversity Access Tickets.
+      - `A` {dt1} 
+    </div>
+<br>
+<script>
+    document.getElementById("collapseIP").addEventListener("click", function(){
+        let divIP = document.getElementById("mdivIP");
+        let divVI = document.getElementById("mdivVI");
+        if (divIP.style.display == "none") { 
+          divIP.style.display = "block";
+        } else {
+          divIP.style.display = "none";
+        }
+        if (divVI.style.display == "block") { 
+          divVI.style.display = "none";
+        }
+    });
+    document.getElementById("collapseVI").addEventListener("click", function(){  
+        let divIP = document.getElementById("mdivIP");
+        let divVI = document.getElementById("mdivVI");  
+        if (divVI.style.display == "none") { 
+          divVI.style.display = "block";
+        } else {
+          divVI.style.display = "none";
+        }
+        if (divIP.style.display == "block") { 
+          divIP.style.display = "none";
+        }
+    });
+    document.getElementById("fsubIP").addEventListener("click", function(){
+      let IP = document.getElementById("templateIP");
+      let div = document.getElementById("mdivIP");
+      let text = IP.innerHTML;
+      let inputs = document.getElementsByTagName('input');
+      let index = 0;
+      for (index = 0; index < inputs.length; ++index) {
+        let cur = inputs[index];
+        if (cur.type == "text") {
+          text = text.replace("{" + cur.id + "}", cur.value)
+        } else if (cur.type == "checkbox") {
+          if (cur.checked == true){
+            text = text.replace("{" + cur.id + "}", "x");
+          } else {
+            text = text.replace("{" + cur.id + "}", " ");
+          }
+        }
+      }
+      const pName = document.getElementById("pname").value
+      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`In-Person Event Badge Submission: ${pName}`)}&body=${encodeURIComponent(text)}`;
+      let loginAndOpenIssueURL = `https://github.com/login?return_to=${encodeURIComponent(openIssueURL)}`;
+      console.log({openIssueURL, loginAndOpenIssueURL, pName, text, });
+      window.location.href = loginAndOpenIssueURL;
+    });
+    document.getElementById("fsubVI").addEventListener("click", function(){
+      let IP = document.getElementById("templateVI");
+      let div = document.getElementById("mdivVI");
+      let text = IP.innerHTML;
+      let inputs = document.getElementsByTagName('input');
+      let index = 0;
+      for (index = 0; index < inputs.length; ++index) {
+        let cur = inputs[index];
+        if (cur.type == "text") {
+          text = text.replace("{" + cur.id + "}", cur.value)
+        } else if (cur.type == "checkbox") {
+          if (cur.checked == true){
+            text = text.replace("{" + cur.id + "}", "x");
+          } else {
+            text = text.replace("{" + cur.id + "}", " ");
+          }
+        }
+      }
+      const pName = document.getElementById("pname").value
+      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`In-Person Event Badge Submission: ${pName}`)}&body=${encodeURIComponent(text)}`;
+      let loginAndOpenIssueURL = `https://github.com/login?return_to=${encodeURIComponent(openIssueURL)}`;
+      console.log({openIssueURL, loginAndOpenIssueURL, pName, text, });
+      window.location.href = loginAndOpenIssueURL;
+    });
+</script>
+</body>
+</html>
