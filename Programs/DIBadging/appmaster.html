@@ -293,7 +293,7 @@
         }
       }
       const pName = document.getElementById("pname").value
-      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`In-Person Event Badge Submission: ${pName}`)}&body=${encodeURIComponent(text)}`;
+      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`Virtual Event Badge Submission: ${pName}`)}&body=${encodeURIComponent(text)}`;
       let loginAndOpenIssueURL = `https://github.com/login?return_to=${encodeURIComponent(openIssueURL)}`;
       console.log({openIssueURL, loginAndOpenIssueURL, pName, text, });
       window.location.href = loginAndOpenIssueURL;
