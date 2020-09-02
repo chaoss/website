@@ -11,12 +11,12 @@
     <div id="mdivIP" style="display:none;">
         <p><br>
             <h2>In-Person Event Badge Submission</h2><br>
-            <label for="pname">Event Name:</label>
-            <input type="text" id="pname" name="pname"><br><br>
-            <label for="linkweb">Link to the Event Website:</label>
-            <input type="text" id="linkweb" name="linkweb"><br><br>
-            <label for="linkorg">Provide verification that you are an event organizer:</label>
-            <input type="text" id="linkorg" name="linkorg"><br><br>
+            <label for="pnameIP">Event Name:</label>
+            <input type="text" id="pnameIP" name="pname"><br><br>
+            <label for="linkwebIP">Link to the Event Website:</label>
+            <input type="text" id="linkwebIP" name="linkweb"><br><br>
+            <label for="linkorgIP">Provide verification that you are an event organizer:</label>
+            <input type="text" id="linkorgIP" name="linkorg"><br><br>
         </p>
         <h2>Speaker Demographics</h2>
         <input type="checkbox" id="sdcb">&nbsp;<strong>This event commits to Speaker Diversity & Inclusion.</strong>
@@ -72,12 +72,12 @@
     <div id="mdivVI" style="display:none;">
         <p>
             <h2>Virtual Event Badge Submission</h2><br>
-            <label for="pname">Event Name:</label>
-            <input type="text" id="pname" name="pname"><br><br>
-            <label for="linkweb">Link to the Event Website:</label>
-            <input type="text" id="linkweb" name="linkweb"><br><br>
-            <label for="linkorg">Provide verification that you are an event organizer:</label>
-            <input type="text" id="linkorg" name="linkorg"><br><br>
+            <label for="pnameVI">Event Name:</label>
+            <input type="text" id="pnameVI" name="pname"><br><br>
+            <label for="linkwebVI">Link to the Event Website:</label>
+            <input type="text" id="linkwebVI" name="linkweb"><br><br>
+            <label for="linkorgVI">Provide verification that you are an event organizer:</label>
+            <input type="text" id="linkorgVI" name="linkorg"><br><br>
         </p>
         <h2>Speaker Demographics</h2>
         <input type="checkbox" id="sdcb">&nbsp;<strong>This event commits to Speaker Diversity & Inclusion.</strong>
@@ -124,9 +124,9 @@
 
     ## Requirements
 
-    - Event Name: {pname}
-    - Link to the Event Website: {linkweb}
-    - Provide verification that you are an event organizer: {linkorg}
+    - Event Name: {pnameIP}
+    - Link to the Event Website: {linkwebIP}
+    - Provide verification that you are an event organizer: {linkorgIP}
 
     ## Speaker Demographics
 
@@ -177,9 +177,9 @@
     
     ## Requirements
     
-    - Event Name: {pname}
-    - Link to the Event Website: {linkweb}
-    - Provide verification that you are an event organizer: {linkorg}
+    - Event Name: {pnameVI}
+    - Link to the Event Website: {linkwebVI}
+    - Provide verification that you are an event organizer: {linkorgVI}
     
     ## Speaker Demographics
     
@@ -259,8 +259,8 @@
           }
         }
       }
-      const pName = document.getElementById("pname").value
-      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`In-Person Event Badge Submission: ${pName}`)}&body=${encodeURIComponent(text)}`;
+      const pName = document.getElementById("pnameIP").value
+      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`[In-Person Event] ${pName}`)}&body=${encodeURIComponent(text)}`;
       let loginAndOpenIssueURL = `https://github.com/login?return_to=${encodeURIComponent(openIssueURL)}`;
       console.log({openIssueURL, loginAndOpenIssueURL, pName, text, });
       window.location.href = loginAndOpenIssueURL;
@@ -283,8 +283,8 @@
           }
         }
       }
-      const pName = document.getElementById("pname").value
-      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`Virtual Event Badge Submission: ${pName}`)}&body=${encodeURIComponent(text)}`;
+      const pName = document.getElementById("pnameVI").value
+      const openIssueURL = `https://github.com/badging/event-diversity-and-inclusion/issues/new?title=${encodeURIComponent(`[Virtual Event] ${pName}`)}&body=${encodeURIComponent(text)}`;
       let loginAndOpenIssueURL = `https://github.com/login?return_to=${encodeURIComponent(openIssueURL)}`;
       console.log({openIssueURL, loginAndOpenIssueURL, pName, text, });
       window.location.href = loginAndOpenIssueURL;
