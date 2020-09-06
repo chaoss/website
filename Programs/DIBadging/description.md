@@ -1,7 +1,7 @@
 # Diversity & Inclusion Event Badging Form
 Thank you for showing interest in D&I Badging for your event! The Event Badging section of CHAOSS Badging is about measuring inclusivity of different technical events through human reviews.
 
-The goal of the Diversity & Inclusion Badging Program is to encourage projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
+The goal of the Diversity & Inclusion Badging Program is to encourage events to obtain D&I badges for reasons of leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
 
 ### Motivation to Apply 
  
