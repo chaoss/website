@@ -1,0 +1,201 @@
+<script type="text/javascript" src="https://www.linuxfoundation.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://www.linuxfoundation.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script><meta charset="utf-8">
+<style>
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #505050;
+  outline: none;
+  background-color: #fff;
+  max-width: 800px;
+  border-radius: 5px;
+}input, select, textarea{
+    color: #505050;
+}
+textarea:focus, input:focus {
+    color: #505050;
+}
+input[type=button], input[type=submit], input[type=reset] {
+  border: none;
+  color: #fff;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+  textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 1px solid #505050;
+  border-radius: 5px;
+  background-color: #fff;
+  resize: none;
+  max-width: 800px;
+}.chaossLogo{
+  height: 75px;
+}.chaossTitle{
+  font-size: 26px;
+  font-weight: 400;
+  color: #202124;
+  line-height: 135%;
+  font-family: Roboto,Arial,sans-serif;
+}.formInput{
+  margin-top: 20px;
+  font-family: Roboto,Arial,sans-serif;
+  color: #505050;
+}.chaossFormPage{
+  padding: 50px;
+  background-color: #ececec;
+}#message{
+  color: grey;
+  margin-top: 20px;
+  font-family: Roboto,Arial,sans-serif;
+  font-size: 16px;
+}
+</style>
+<div class="chaossFormPage">
+<div class="chaossLogo">
+    <img src="http://image.email.thelinuxfoundation.org/lib/fe37157075640475711c73/m/2/305df60e-81a6-4ed1-b9c8-219cdbc71045.png" height="100%">
+</div>
+<div class="chaossTitle">
+    CHAOSS Community Health Report Request
+</div>
+
+<div id="message"></div><form id="myform" action="https://cloud.email.thelinuxfoundation.org/hfrSubmission" style="margin-top: 30px;">
+    <div class="formInput">
+        <label for="FirstName">First Name*</label>
+        <div>
+            <input type="text" name="FirstName">
+        </div>
+    </div>    <div class="formInput">
+        <label for="LastName">Last Name*</label>
+        <div>
+            <input type="text" name="LastName">
+        </div>
+    </div>    <div class="formInput">
+        <label for="EmailAddress">Email*</label>
+        <div>
+            <input type="text" name="EmailAddress" required="">
+        </div>
+    </div>    <div class="formInput">
+        <label for="Github">GitHub or GitLab URL *</label>
+        <div>
+            <input type="text" name="Github" required="">
+        </div>
+    </div>    <div class="formInput">
+        <label for="Repositories">Repository Organization URL to analyze *
+  </label><br><br>
+        <div>
+            <textarea name="Repositories" required="" placeholder="Provide the repository you’d like to have analyzed"></textarea>
+        </div>
+    </div>
+
+    <div class="formInput">
+        <label for="file"> Logo </label>
+        <div style="padding-top: 10px;">
+            <input id="file" type="file" accept="image/*">
+            <div style="font-size: 13px;">
+                The provided logo of your project/organization will be used on the generated report and CHAOSS website.
+            </div>
+        </div>
+    </div>    <div class="formInput">
+        <label for="interestreason">Why do you want a community health report? *</label>
+        <div>
+            <input type="text" name="interestreason" required="">
+        </div>
+    </div>    <div class="formInput">
+        <label for="Metrics">In many cases open source projects have interest in questions like: (Check those that interest you):</label>
+  <br>
+        <div style="margin-top:0.4rem">
+            <input type="checkbox" name="Metrics" value="Issue response time">Issue response time<br>
+   <input type="checkbox" name="Metrics" value="Pull Request/Merge Request Response Time">Pull Request/Merge Request Response Time<br>
+   <input type="checkbox" name="Metrics" value="Pull Request/Merge Request Time to Close">Pull Request/Merge Request Time to Close<br>
+   <input type="checkbox" name="Metrics" value="New Contributor counts per time period">New Contributor counts per time period<br>
+   <input type="checkbox" name="Metrics" value="Percentage of first time contributor retention">Percentage of first time contributor retention<br>        </div>
+    </div>
+ <div class="formInput">
+  <label for="otherAnswers">What other questions do you hope to answer with the community health report?</label>
+  <br>
+  <div>
+   <input type="text" name="otherAnswers" required="">
+  </div>
+ </div>
+    <div class="formInput">
+        <label for="public">Can we make this health report public on the CHAOSS Community website? *</label>
+        <div>
+            <input type="radio" name="public" value="yes"> Yes
+            <br>
+            <input type="radio" name="public" value="no"> No
+            <br>
+        </div>
+    </div>    <div class="formInput">
+        <label for="notified">Do you want to be notified of other CHAOSS activities? *</label>
+        <div>
+            <input type="radio" name="notified" value="yes"> Yes<br>
+            <input type="radio" name="notified" value="no"> No<br>
+        </div>
+    </div>    <input type="hidden" id="txtUrl" name="txtUrl" value="" readonly="">
+    <input type="hidden" id="base64enc" name="base64enc" value="" readonly="">
+    <input type="hidden" id="fileName" name="fileName" value="" readonly="">
+    <input type="hidden" id="assetName" name="assetName" value="" readonly="">    <input style="background-color: #000; margin-top: 30px;" type="submit" value="Submit" id="loginbtn">
+</form></div><script>
+document.getElementById('txtUrl').value = window.location.href;
+</script><script type="text/javascript">jQuery(document).ready(function() {
+    var f = jQuery("#myform")
+    f.on("click", "#loginbtn", function(e) {
+        if(f[0].checkValidity()) {
+            e.preventDefault();
+            onSubmit();
+        }
+    });
+});
+function onSubmit() {  var files = document.getElementById("file").files;
+  if (files.length > 0) {
+    var reader = new FileReader();
+    reader.readAsDataURL(files[0]);
+    reader.onload = function() {      //prepare data to pass to processing page
+      var fileEncoded = reader.result;
+      var base64enc = fileEncoded.split(";base64,")[1];
+      var fullFileName = document.getElementById("file").files[0].name;
+      var fileName = fullFileName.split(".")[0];
+      var assetName = fullFileName.split(".")[1];
+      document.getElementById('base64enc').value = base64enc;
+      document.getElementById('fileName').value = fileName;
+      document.getElementById('assetName').value = assetName;
+      submitForm();
+    };
+    reader.onerror = function(error) {
+        console.log('Error: ', error);
+    };
+  } else {
+    submitForm();
+  }
+
+}function submitForm(){
+  var f = jQuery("#myform")
+    jQuery.ajax({
+        url: f.attr("action"),
+        type: 'POST',
+        data: f.serialize(),
+        beforeSend: function() {
+            jQuery("#myform").toggle();
+            jQuery("#message").html("Thank you for your submission, please wait while we process your request...");
+        }
+        ,
+        success: function(data) {
+            //msg = jQuery(data).find("p").text();
+            jQuery("#message").html('Thank you for your submission, we have received your request.');
+        }
+    });
+}jQuery("#file").on("change", function (e) {
+  if(this.files[0].size > 3145728){
+       alert("Please upload logo upto 3MB!");
+       this.value = "";
+  };
+});</script>
