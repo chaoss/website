@@ -1,5 +1,7 @@
 # Project Launch: CHAOSS Diversity & Inclusion Badging Program
 
+### By Matt Snell
+
 We are so excited to announce that our Diversity & Inclusion Badging Program is up and running. We are currently accepting applications for events, both in-person and virtual. If you are an organizer of an event, consider applying for a CHAOSS D&I Event Badge! You can start the process here: 
 
 https://chaoss.community/diversity-and-inclusion-badging/
