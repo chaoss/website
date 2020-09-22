@@ -12,22 +12,22 @@ In the interest of transparency, the money we seek will ensure that we can deliv
 
 **We are open to including a sponsor message in our episodes for anyone who financially supports CHAOSScast.**
 
-* Personal Level: $25
-  - Optional perk: Shoutout on one episode.
+Personal Level: $25
+- _Optional perk: Shoutout on one episode._
 
-* Single-Episode Level: $280
-  - Optional perk: Pre-roll sponsor message and mention in show notes for one episode.
+Single-Episode Level: $280
+- _Optional perk: Pre-roll sponsor message and mention in show notes for one episode._
 
-* One-Month Level: $1,000
-  - Optional perk: Pre-roll sponsor message and mention in show notes for 4 episodes.
+One-Month Level: $1,000
+- _Optional perk: Pre-roll sponsor message and mention in show notes for 4 episodes._
 
-* Quarter-year Level: $2,500
-  - Optional perk: Pre-roll and mid-roll sponsorship message and mention in show notes for 12 episodes.
+Quarter-year Level: $2,500
+- _Optional perk: Pre-roll and mid-roll sponsorship message and mention in show notes for 12 episodes._
 
-* Half-year Level: $5,000
-  - Optional perk: Pre-roll, mid-roll sponsorship message and mention in show notes for 26 episodes. Logo display on our website chaoss.community.
+Half-year Level: $5,000
+- _Optional perk: Pre-roll, mid-roll sponsorship message and mention in show notes for 26 episodes. Logo display on our website chaoss.community._
 
-* Full-year Level: $10,000
-  - Optional perk: Pre-roll, mid-roll, and end-roll sponsorship message and mention in show notes for 52 episodes. Weekly thank-you message in our newsletter to the CHAOSS community. Logo display on our website chaoss.community.
+Full-year Level: $10,000
+- _Optional perk: Pre-roll, mid-roll, and end-roll sponsorship message and mention in show notes for 52 episodes. Weekly thank-you message in our newsletter to the CHAOSS community. Logo display on our website chaoss.community._
 
 Please reach out to podcast@chaoss.community with any questions.
