@@ -9,7 +9,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 [Registration is now open!](https://www.eventbrite.com/e/chaosscon-europe-2020-tickets-76515900117)
 
-This is the first time we are charging a $10 fee for registering to attend CHAOSScon. We'd like to explain. At CHAOSScon NA 2019, interested people were discouraged from coming because they were on a waitlist but we had many empty seats due to no-shows. By charging a small amount, we hope to limit no-shows. The ticket fee will go towards providing coffee, tee, snacks, and serve lunch.
+This is the first time we are charging a $10 fee for registering to attend CHAOSScon. We'd like to explain. At CHAOSScon NA 2019, interested people were discouraged from coming because they were on a waitlist but we had many empty seats due to no-shows. By charging a small amount, we hope to limit no-shows. The ticket fee will go towards providing coffee, tea, snacks, and serve lunch.
 
 ### Diversity and Inclusion
 

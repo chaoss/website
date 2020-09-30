@@ -2,7 +2,7 @@
 
 If you want to quickly and flexibly understand a set of open source software projects, give Augur a try! "Augur" is the core software, and "augur-community-reports", "augur-spdx" (for licensing), and "Auggie", which is a slack plugin for notifications that enables you to get push messages from Augur.
 
-What to get started right away without doing much work? Email a list of repository to GitHub/GitLab organizations to Augur at s@groupinformatics.org with the subject line "Augur Instance", and we will respond with a timeline within a day. The more repositories you request, the longer it takes to gather data (FYI). 
+Want to get started right away without doing much work? Email a list of repository to GitHub/GitLab organizations to Augur at s@groupinformatics.org with the subject line "Augur Instance", and we will respond with a timeline within a day. The more repositories you request, the longer it takes to gather data (FYI). 
 
 ## Augur Components
 1. **START HERE**: Augur is a [Flask web application](http://augur.osshealth.io), [Python library](https://oss-augur.readthedocs.io/en/dev/library-documentation/python.html) and [REST server](http://augur.osshealth.io/static/api_docs/) that presents metrics on open source software development project health and sustainability.
