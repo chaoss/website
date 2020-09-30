@@ -111,7 +111,7 @@ Ildikó started her journey with virtualization during the university years and 
 
 Session: **Keynote 2: Finding the Order in the Chaos(s) of Metrics: Are We There Yet?**
 
-> We often ask ourselves and look around in our environments, wondering if our actions and activities are up to standards and efficient enough or if there is room for improvement. Measuring efficiency, modelling health with numbers, and creating dashboards have been part of our lives for a long time now, but do we do it in the right way? Are we abusing the numbers or are we looking at accurate pictures at all times?
+> We often ask ourselves and look around in our environments, wondering if our actions and activities are up to standards and efficient enough or if there is room for improvement. Measuring efficiency, modeling health with numbers, and creating dashboards have been part of our lives for a long time now, but do we do it in the right way? Are we abusing the numbers or are we looking at accurate pictures at all times?
 >
 > The CHAOSS project was created to help navigating the chaos of metrics. CHAOSS exists to help understand the purpose of numbers and KPI’s and to understand the dynamics and health of our environments -- corporate and open source.
 >
@@ -159,7 +159,7 @@ Session: **What's new in CHAOSS/GrimoireLab?**
 >
 > GrimoireLab started some years ago as a little project evolving from legacy Bitergia's open source development analytics tools. During first years, the project was focus on supporting as many data sources as possible and creating the ground for flexible analytics and reporting. The main known output for GrimoireLab users is the GrimoireLab Dashboard, with its set of predefined panels that show some interesting metrics.
 >
-> This talk will show some of the latest features. For example the ones focus on easy panels customization, to easily get the answer to the questions each user has. How these customizations can be shared, reused and adapted by others for their specific use cases will be also shown. The concept of ""GrimoireLab panels collection"" shall be discussed as one key feature. As extra ball, we'll present the CHAOSS Metrics panels collection.
+> This talk will show some of the latest features. For example the ones focus on easy panels customization, to easily get the answer to the questions each user has. How these customization can be shared, reused and adapted by others for their specific use cases will be also shown. The concept of ""GrimoireLab panels collection"" shall be discussed as one key feature. As extra ball, we'll present the CHAOSS Metrics panels collection.
 >
 > After this talk, attendees shall be able to take advantage of these features for their own analytics needs.
 
