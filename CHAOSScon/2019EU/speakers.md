@@ -111,7 +111,7 @@ Ildikó started her journey with virtualization during the university years and 
 
 Session: **Keynote 2: Finding the Order in the Chaos(s) of Metrics: Are We There Yet?**
 
-> We often ask ourselves and look around in our environments, wondering if our actions and activities are up to standards and efficient enough or if there is room for improvement. Measuring efficiency, modelling health with numbers, and creating dashboards have been part of our lives for a long time now, but do we do it in the right way? Are we abusing the numbers or are we looking at accurate pictures at all times?
+> We often ask ourselves and look around in our environments, wondering if our actions and activities are up to standards and efficient enough or if there is room for improvement. Measuring efficiency, modeling health with numbers, and creating dashboards have been part of our lives for a long time now, but do we do it in the right way? Are we abusing the numbers or are we looking at accurate pictures at all times?
 >
 > The CHAOSS project was created to help navigating the chaos of metrics. CHAOSS exists to help understand the purpose of numbers and KPI’s and to understand the dynamics and health of our environments -- corporate and open source.
 >

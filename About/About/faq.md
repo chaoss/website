@@ -11,4 +11,4 @@ No, open source projects work very differently and we believe that a single inde
 Our goal is to define metrics independent of a specific implementation. At the CHAOSS project, we provide the tools by which you can make more informed decisions regarding the open source projects that are important to you -- in your specific context. 
 
 ## What are the IPs or commitments that contributing members are making to make sure that the derived IP is patent free and distributed under an open source license?
-Our goal is to make our innovations available to everyone to use for free. We honour open source licenses of upstream projects. We license our own work under the GPLv2+ and MIT open source licenses. We only accept patent free contributions or where patent licenses are available for free.
+Our goal is to make our innovations available to everyone to use for free. We honor open source licenses of upstream projects. We license our own work under the GPLv2+ and MIT open source licenses. We only accept patent free contributions or where patent licenses are available for free.
