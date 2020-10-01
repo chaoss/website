@@ -7,6 +7,6 @@ This repository is part of the CHAOSS Community, a Linux Foundation project focu
 ## How to Contribute
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## Website Maintainers
+## Website Maintained by
 * Kevin Lumbard - klumbard@unomaha.edu
 * Georg Link - glink@unomaha.edu
