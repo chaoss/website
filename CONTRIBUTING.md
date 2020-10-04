@@ -11,7 +11,7 @@ See the CHAOSS [contributing.md](https://github.com/chaoss/governance/blob/maste
 Content requests could include upcoming events you would like to see posted on the site, project specific information, or requested edits.
 
 ## News and blog posts
-To add news and blogs articles, please fork the repo and create a Markdown file in the [Community/News](./Community/News) folder. Name the file with the current date 'YYYYMMDD_title.md When the pull request is accepted, the content will be added to the website.
+To add news and blogs articles, please fork the repo and create a Markdown file in the [Community/News](./Community/News) folder. Name the file with the current date 'YYYYMMDD_title.md'. When the pull request is accepted, the content will be added to the website.
 
 ## Wordpress/Github Markdown Content
 
