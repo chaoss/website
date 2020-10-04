@@ -1,4 +1,4 @@
-## Speakers and Session Descriptions
+﻿## Speakers and Session Descriptions
 
 
 ### Andy Leak
@@ -25,7 +25,7 @@ _PhD Cand. / DevOps - Polytechnique Montreal_
 Ph.D. Candidate.,   Software Engineering, MCIS -- Laboratory, École Polytechnique de Montréal.
 OpenStack Member Level: Foundation Member.
 I am focused on empirical research on ecosystems software releases.  I apply mixed method research as a means to answer both the how and why in my findings, which is beneficiary to both the academic and industrial communities.  I am Using a DevOps approach with machine learning to make crucial decisions. Currently, I am involved with the release team of OpenStack and serving as the PC chair of AI and HPC track, for the submit at Denver 2019. Additionally, I am a Big Data analytics guy.
-Before my current experience, I had Worked on interesting software engineering topics for swarms of robots. Moreover, my expertise in cloud computing is an asset, which I bring along. In my thesis, I investigated the phenomena of live migrations and how we can apply both the supervised and reinforced learning technique (Machine learning algorithms) on live migration in the cloud.  
+Before my current experience, I had worked on interesting software engineering topics for swarms of robots. Moreover, my expertise in cloud computing is an asset, which I bring along. In my thesis, I investigated the phenomena of live migrations and how we can apply both the supervised and reinforced learning technique (Machine learning algorithms) on live migration in the cloud.  
 I was part of the team; team lead on an exciting project at LASSENA Laboratory Montreal, Canada. My main task includes building test bench simulator for micro iBB black boxes for cars in other to reconstruct accident scenario to understand driver's behavior.
 Currently, I am serving as a Science Judge for Quebec and Canada (Canada-Wide-Science)
 Member of IEEE and ACM. [@foundjem](https://twitter.com/foundjem)
@@ -63,7 +63,7 @@ As a software engineer for Indeed's open source team, Dani builds tools to help 
 
 Before learning to code, Dani worked at non-profits and was a professional backpacking guide. She became passionate about social justice, interconnectedness, and sharing good ideas, and now brings those passions to her work as a technologist. 
 
-Dani is also an educator and experienced speaker who has given talks at Waffle.js, SCaLE, and more. She is always interested in talking about open source sustainability, learning to code, or your favorite place to go hiking.
+Dani is also an educator and experienced speaker who has given talks at Waffle.js, SCALE and more. She is always interested in talking about open source sustainability, learning to code, or your favorite place to go hiking.
 
 > Session: **Finding Your Focus and Measuring Your Success as a Young OSPO**
 >
@@ -117,7 +117,7 @@ Please see LinkedIn for information about Harish: http://linkedin.com/in/harishp
 
 > Session: **Morality and Ethics in Software: Can it be measured?**
 >
-> Software drives everything. What drives software is algorithms.  We have been able to measure how "good" or "bad" a piece of  software is by various metrics as done by the Prospector  project. Is there a higher level of consideration around the ethical basis of software and contrasting that with the morality of software and algorithms.   How should developers be driven when it comes to crafting ethical solutions if the morality of the developer is  challenged and vice versa? Is there an absolute moral code for developers? Ethical codes are crafted in many professions but there aren't moral codes. Is that an oversight.  This talk will explore the nuances of ethics and morals  and propose some mental strategies in navigating these. It is not meant to be exhaustive nor definitive. There does not seem to be much by way of research in this field and one of the outcomes of this talk is to trigger the discussion and potentially finding a way to quantify, measure and  perhaps act on being ethical and moral in software development.
+> Software drives everything. What drives software is algorithms.  We have been able to measure how "good" or "bad" a piece of  software is by various metrics as done by the Prospector  project. Is there a higher level of consideration around the ethical basis of software and contrasting that with the morality of software and algorithms . How should developers be driven when it comes to crafting ethical solutions if the morality of the developer is  challenged and vice versa? Is there an absolute moral code for developers? Ethical codes are crafted in many professions but there aren't moral codes. Is that an oversight.  This talk will explore the nuances of ethics and morals  and propose some mental strategies in navigating these. It is not meant to be exhaustive nor definitive. There does not seem to be much by way of research in this field and one of the outcomes of this talk is to trigger the discussion and potentially finding a way to quantify, measure and  perhaps act on being ethical and moral in software development.
 
 
 <hr>
