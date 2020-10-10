@@ -4,6 +4,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2020
 
+* FINOS Team. (2020, October 9). CHAOSS Talks OSS Metrics Lessons Learned with Rob Underwood. FINOS News. Retrieved October 9, 2020, from: https://www.finos.org/hubfs/FINOS/finos-logo/FINOS-linkedin-logo.png
+
 * SPN Newsroom. (2020, August 14). **Researchers at UNO and the University of Missouri create CHAOSS for open source communities (in a good way).** Silicon Prairie News. Retrieved August 16, 2020, from: https://siliconprairienews.com/2020/08/researchers-at-uno-and-the-university-of-missouri-create-chaoss-for-open-source-communities-in-a-good-way/
 
 * Rucker, A. (2020, July 15). **Open Source Community Health Project Expands Private Funding with UNO and MU.** University of Nebraska Omaha. Retrieved August 16, 2020, from: https://www.unomaha.edu/news/2020/07/open-source-community-health-project-expands-funding-with-unoand-mu.php
