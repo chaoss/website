@@ -1,6 +1,6 @@
 # GrimoireLab
 
-GrimoireLab is a set of free, open source software tools for software development analytics. They gather data from several platforms involved in software development (Git, GitHub, Jira, Bugzilla, Gerrit, Mailing lists, Jenkins, Slack, Discourse, Confluence, StackOverflow, [and more](https://gitlab.com/Bitergia/c/FAQ/tree/master/sources#supported-data-sources)), merge and organize it in a database, and produce visualizations, actionable dashboards, and analytics of all of it.  
+GrimoireLab is a set of free, open source software tools for software development analytics. They gather data from several platforms involved in software development (Git, GitHub, Jira, Bugzilla, Gerrit, Mailing lists, Jenkins, Slack, Discourse, Confluence, StackOverflow, [and more](https://chaoss.github.io/grimoirelab/)), merge and organize it in a database, and produce visualizations, actionable dashboards, and analytics of all of it.  
 
 GrimoireLab is focused on analyzing activity, community, and processes. Nonetheless, it can be easily tailored for other aims, and integrated with other tools.
 
@@ -11,24 +11,25 @@ Projects and services built using Grimoirelab technology:
 1. [Cauldron.io](https://cauldron.io/): A SaaS solution that allows project managers, analysts, and developers to understand more about the community and processes involved in software development. 
 2. [TLF Community Bridge Insights](https://lfanalytics.io/projects): A centralized platform that collects and visualizes data to let you monitor and analyze your open source projects.
 3. [Mautic Community Dashboard](https://dashboard.mautic.org/): The Community Dashboard uses the open-source GrimoireLab tool to import, analyze and visualize data from multiple sources in one central location.
-4. [Bitergia Analytics Platform](https://bitergia.com/bitergia-analytics/): A centralized source for metrics and data about software development projects.
+4. [The Document Foundation Dashboard](https://dashboard.documentfoundation.org/): TDF dashboard uses Grimoirelab tool in order to show a transparent overview of LibreOffice development.
+5. [Bitergia Analytics Platform](https://bitergia.com/bitergia-analytics/): A centralized source for metrics and data about software development projects.
 
 ## Main components
 
 GrimoireLab tookit is organized in twelve different components. Each of them can be used as independent tools:
 
-**Data retrieval related components:**
+**Data retrieval:**
 
 * [Perceval](https://github.com/chaoss/grimoirelab-perceval): Tool used to retrieve and gather data from software repositories.
 * [Graal](https://github.com/chaoss/grimoirelab-graal): Source data analysis with external tools
 * [KingArthur](https://github.com/chaoss/grimoirelab-kingarthur): batch processing for massive retrieval
 
-**Data enrichment related components:**
+**Data enrichment:**
 
 * [GrimoireElk](https://github.com/chaoss/grimoirelab-elk): storage and enrichment of data
 * [SortingHat](https://github.com/chaoss/grimoirelab-sortinghat): identity management
 
-**Data visualization related components:** 
+**Data visualization:** 
 
 * [Kibiter](https://github.com/chaoss/grimoirelab-kibiter): dashboard, downstream version of Kibana
 * [Sigils](https://github.com/chaoss/grimoirelab-sigils): visualizations and dashboards
