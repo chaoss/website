@@ -14,3 +14,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </tbody>
 </table>
 </div>
+
+#### Public Community Reports:
+* <a href="#">CHAOSS</a>
+* <a href="#">Zephyr</a>
+* <a href="#">Project x</a>
+* <a href="#">Project y</a>
+
+***Visit <a href="#">here</a> to request a community report for your project***
+
+#### Communities reports are generated using CHAOSS software:
+* <a href="#">Augur</a>
+* <a href="#">Grimoire Lab</a>
