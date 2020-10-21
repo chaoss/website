@@ -69,15 +69,22 @@ input[type=button], input[type=submit], input[type=reset] {
     </div>
 
 <div class="formInput">
-        <label for="file"> Logo </label>
+        <label for="file"> Project Logo </label>
+   <div style="font-size: 13px;">
+      The provided logo of your project/organization will be used on the generated report and CHAOSS website
+            </div>
         <div style="padding-top: 10px;">
             <input id="file" type="file" accept="image/*">
-            <div style="font-size: 13px;">
-                The provided logo of your project/organization will be used on the generated report and CHAOSS website
-            </div>
         </div>
     </div>
-
+<div style="font-size: 13px;">
+      Please upload an image file (maximum size 3MB) or provide a image URL for your project/organization
+            </div>
+ <div class="formInput">
+        <div>
+            <textarea name="Repositories" required="" placeholder="Paste your repository logo URL here"></textarea>
+        </div>
+    </div>
     <div class="formInput">
         <label for="interestreason">Why do you want a community health report?</label><br><br>
         <div>
@@ -92,21 +99,24 @@ input[type=button], input[type=submit], input[type=reset] {
         </div>
     </div>-->
 
+
     <div class="formInput">
-        <label for="Metrics">CHAOSS has defined several different types of metrics for community health reports. Please check those that interest you:</label>
+        <label for="Metrics">CHAOSS has defined several different types of metrics for future community health reports. Please check those that interest you (optional):</label>
   <br>
         <div style="margin-top:0.4rem">
             <input type="checkbox" name="Metrics" value="Issue response time">Issue response time<br>
    <input type="checkbox" name="Metrics" value="Pull Request/Merge Request Response Time">Pull Request/Merge Request Response Time<br>
    <input type="checkbox" name="Metrics" value="Pull Request/Merge Request Time to Close">Pull Request/Merge Request Time to Close<br>
    <input type="checkbox" name="Metrics" value="New Contributor counts per time period">New Contributor counts per time period<br>
-   <input type="checkbox" name="Metrics" value="Percentage of first time contributor retention">Percentage of first time contributor retention<br>        </div>
+   <input type="checkbox" name="Metrics" value="Percentage of first time contributor retention">Percentage of first time contributor retention<br>
+</div>
     </div>
+
 
     <div class="formInput">
         <label for="otherAnswers">What other questions do you hope to answer with the community health report? (optional)</label><br><br>
         <div>
-            <textarea name="otherAnswers" required="" ></textarea>
+            <textarea name="otherAnswers" ></textarea>
         </div>
     </div>
 
@@ -117,6 +127,7 @@ input[type=button], input[type=submit], input[type=reset] {
    <input type="text" name="otherAnswers" required="">
   </div>
  </div>-->
+
 
     <div class="formInput">
         <label for="public">Can we make this health report public on the CHAOSS Community website?</label>
@@ -145,8 +156,9 @@ input[type=button], input[type=submit], input[type=reset] {
         </div>
     </div>
 
+
     <div class="formInput">
-        <label for="notified">Do you want to be notified of other CHAOSS activities?</label>
+        <label for="notified">Do you want to be notified of other CHAOSS activities, such as CHAOSS events, hackathons, or meetups?</label>
         <div>
             <input type="radio" name="notified" value="yes"> Yes<br>
             <input type="radio" name="notified" value="no"> No<br>
