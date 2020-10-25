@@ -6,12 +6,12 @@ GrimoireLab is focused on analyzing activity, community, and processes. Nonethel
 
 ## Built with GrimoireLab
 
-Projects and services built using Grimoirelab technology:
+Projects and services built using GrimoireLab technology:
 
 1. [Cauldron.io](https://cauldron.io/): A SaaS solution that allows project managers, analysts, and developers to understand more about the community and processes involved in software development. 
 2. [TLF Community Bridge Insights](https://lfanalytics.io/projects): A centralized platform that collects and visualizes data to let you monitor and analyze your open source projects.
 3. [Mautic Community Dashboard](https://dashboard.mautic.org/): The Community Dashboard uses the open-source GrimoireLab tool to import, analyze and visualize data from multiple sources in one central location.
-4. [The Document Foundation Dashboard](https://dashboard.documentfoundation.org/): TDF dashboard uses Grimoirelab tool in order to show a transparent overview of LibreOffice development.
+4. [The Document Foundation Dashboard](https://dashboard.documentfoundation.org/): TDF dashboard uses GrimoireLab tool in order to show a transparent overview of LibreOffice development.
 5. [Bitergia Analytics Platform](https://bitergia.com/bitergia-analytics/): A centralized source for metrics and data about software development projects.
 
 ## Main components
@@ -48,7 +48,7 @@ GrimoireLab tookit is organized in twelve different components. Each of them can
 
 ## Contributing to GrimoireLab
 
-Welcome contributors! We truly ♥ free, libre, open source software as much as you do. If you are considering to contribute to Grimoirelab, there are two important things you should know:
+Welcome contributors! We truly ♥ free, libre, open source software as much as you do. If you are considering to contribute to GrimoireLab, there are two important things you should know:
 
 1. **Documentation:** You can start by reading the [CONTRIBUTING.md](https://github.com/chaoss/grimoirelab/blob/master/CONTRIBUTING.md) file available at GrimoireLab’s GitHub repository.
 2. **Communication channels:** GrimoireLab uses a [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/grimoirelab-discussions), [IRC](http://webchat.freenode.net/?channels=GrimoireLab), and [Issues](https://github.com/chaoss/grimoirelab/issues) as the main communication channels. 
