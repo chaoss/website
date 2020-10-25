@@ -46,7 +46,7 @@ GrimoireLab tookit is organized in twelve different components. Each of them can
 
 **START HERE:** https://chaoss.github.io/grimoirelab-tutorial
 
-## Contirbuting to GrimoireLab
+## Contributing to GrimoireLab
 
 Welcome contributors! We truly ♥ free, libre, open source software as much as you do. If you are considering to contribute to Grimoirelab, there are two important things you should know:
 
