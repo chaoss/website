@@ -27,9 +27,9 @@ Learn how efficiently activities around code development get resolved.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-change-request-accepted/ ">Change Request Accepted<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How many accepted change requests are present in a code change?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/385/">Issue 385</a></td></tr>
-  <tr><td><a href="https://chaoss.community/metric-change-request-declined/">Change Request Declined<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What reviews of change requests ended up declining the change during a certain period?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/384/">Issue 384</a></td></tr>
-  <tr><td><a href="https://chaoss.community/metric-change-request-duration/">Change Request Duration<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the duration of time between the moment a change request starts and moment it is accepted?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/383/">Issue 383</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-change-requests-accepted/ ">Change Requests Accepted<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How many accepted change requests are present in a code change?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/385/">Issue 385</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-change-requests-declined/">Change Requests Declined<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What reviews of change requests ended up declining the change during a certain period?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/384/">Issue 384</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-change-requests-duration/">Change Requests Duration<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the duration of time between the moment a change request starts and moment it is accepted?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/383/">Issue 383</a></td></tr>
 </tbody>
 </table>
 </div>
@@ -43,7 +43,7 @@ Learn about the processes to improve/review quality that are used (for example: 
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-change-request/">Change Request<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What new requests for changes to the source code occurred during a certain period?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/386/">Issue 386</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-change-requests/">Change Requests<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What new requests for changes to the source code occurred during a certain period?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/386/">Issue 386</a></td></tr>
 </tbody>
 </table>
 </div>
