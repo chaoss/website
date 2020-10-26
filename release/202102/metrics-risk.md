@@ -42,7 +42,7 @@ Understand the potential intellectual property (IP) issues associated with a giv
   <tr><td><a href="https://chaoss.community/metric-license-coverage/">License Coverage</a></td><td>How much of the code base has declared licenses?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-license-declared/">License Declared</a></td><td>What are the declared software package licenses?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-osi-approved-licenses/">OSI Approved Licenses</a></td><td>What percentage of a project’s licenses are OSI approved open source licenses?</td><td></td></tr>
-  <tr><td><a href="https://github.com/chaoss/wg-risk/blob/master/metrics/SPDX_Document.md">SPDX Document<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>Does the software package have an associated SPDX document as a standard expression of dependencies, licensing, and security-related issues?</td><td><a href="https://github.com/chaoss/wg-risk/issues/106">Issue #106</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-spdx-document/">SPDX Document<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>Does the software package have an associated SPDX document as a standard expression of dependencies, licensing, and security-related issues?</td><td><a href="https://github.com/chaoss/wg-risk/issues/106">Issue #106</a></td></tr>
 </tbody>
 </table>
 </div>
