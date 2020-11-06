@@ -4,9 +4,9 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2020
 
-* Rieger, O. Y., & Springer, R. (2020, November 5). In the Eye of the Beholder. Ithaka S+R. Retrieved November 6, 2020, from: https://sr.ithaka.org/blog/in-the-eye-of-the-beholder/
+* Rieger, O. Y., & Springer, R. (2020, November 5). **In the Eye of the Beholder.** Ithaka S+R. Retrieved November 6, 2020, from: https://sr.ithaka.org/blog/in-the-eye-of-the-beholder/
 
-* FINOS Team. (2020, October 9). CHAOSS Talks OSS Metrics Lessons Learned with Rob Underwood. FINOS News. Retrieved October 9, 2020, from: https://www.finos.org/hubfs/FINOS/finos-logo/FINOS-linkedin-logo.png
+* FINOS Team. (2020, October 9). **CHAOSS Talks OSS Metrics Lessons Learned with Rob Underwood.** FINOS News. Retrieved October 9, 2020, from: https://www.finos.org/hubfs/FINOS/finos-logo/FINOS-linkedin-logo.png
 
 * SPN Newsroom. (2020, August 14). **Researchers at UNO and the University of Missouri create CHAOSS for open source communities (in a good way).** Silicon Prairie News. Retrieved August 16, 2020, from: https://siliconprairienews.com/2020/08/researchers-at-uno-and-the-university-of-missouri-create-chaoss-for-open-source-communities-in-a-good-way/
 
@@ -15,7 +15,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * VMware Open Source Team. (2020, June 16). **What’s With All the CHAOSS? Dawn Foster Explains This Project’s Impact.** VMware Open Source Blog. Retrieved June 17, 2020, from: https://blogs.vmware.com/opensource/2020/06/16/chaoss-open-source-project-dawn-foster/
 
-* Ankerholz, A. (2020, June 3). How CHAOSS Measures Open Source Community Health. FOSSlife.Org. Retrieved June 3, 2020, from: https://www.fosslife.org/how-chaoss-measures-open-source-community-health
+* Ankerholz, A. (2020, June 3). **How CHAOSS Measures Open Source Community Health.** FOSSlife.Org. Retrieved June 3, 2020, from: https://www.fosslife.org/how-chaoss-measures-open-source-community-health
 
 * Ward, C. (2020, May 18). **Measuring Metrics in Open-Source Projects.** Dzone.Com. Retrieved July 6, 2020, from: https://dzone.com/articles/-measuring-metrics-in-open-source-projects
 
