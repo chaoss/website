@@ -3,9 +3,9 @@ By: CHAOSS D&I WG (Georg Link & Justin W. Flory)
 
 In the D&I Working Group, we worked on the Chat Platform Inclusivity metric and began exploring data collection on different chat platforms. To create an implementation for collecting data from chat platforms, we had a number of considerations.
 
-Is a chat platform open source,  thus making it easy to integrate? 
-Does a chat platform provide a stable API to gather data we want to study?
-Is a platform already supported by Perceval, a CHAOSS GrimoireLab’s tool support?
+1. Is a chat platform open source,  thus making it easy to integrate? 
+2. Does a chat platform provide a stable API to gather data we want to study?
+3. Is a platform already supported by Perceval, a CHAOSS GrimoireLab’s tool support?
 
 From this conversation, we created a list best represented in the visual below:
 
