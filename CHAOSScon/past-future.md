@@ -1,7 +1,7 @@
-## Upcoming CHAOSScon events
+## Upcoming Events
 * [**CHAOSScon 2021 Europe**](), Brussels, Belgium, co-located with FOSDEM 2021.
 
-## Past CHAOSScon events
+## Past Events
 * [**CHAOSScon 2020 Europe**](https://chaoss.community/chaosscon-2020-eu/), January 31, 2020, Brussels, Belgium, co-located with FOSDEM 2020.
 * [**CHAOSScon 2019 North America**](https://chaoss.community/chaosscon-2019-na/), August 20th, 2019, San Diego, California, co-located with Open Source Summit 2019.
 * [**CHAOSScon 2019 Europe**](https://chaoss.community/chaosscon-2019-eu/), February 1, 2019, Brussels, Belgium, co-located with FOSDEM 2019.

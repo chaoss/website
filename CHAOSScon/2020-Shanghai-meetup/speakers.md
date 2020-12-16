@@ -76,9 +76,3 @@ Session: **SortingHat: Managing Contributor Identities in your Software Project*
 > SortingHat helps you to track contributor identities and their related information such as gender, country and organization enrollments. It allows you to manipulate identities interactively as well as to load them via batch files (useful for projects with large communities). SortingHat functionalities can also be used through Hatstall, which provides a handy graphical interface for non-technical users. In this talk you will see how easy is to manage contributor identities and how to empower your project with analytics focused on individual contributions.
 
 > SortingHat and HatStall are two components of GrimoireLab, an industry strong open source platform developed by Bitergia, which offers commercial software analytics and is part of the CHAOSS project of the Linux Foundation.
-
-
-
-## Organizing Committee
-
-*
