@@ -5,4 +5,4 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 ## Registration
 
-[Registration is now open!](https://www.eventbrite.com/e/chaosscon-europe-2020-tickets-76515900117)
+[Registration is now open!](https://www.bagevent.com/event/7034790)
