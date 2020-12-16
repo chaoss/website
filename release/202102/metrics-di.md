@@ -60,6 +60,7 @@ Identify how diverse and inclusive our project places, where community engagemen
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
+  <tr><td><a href="https://chaoss.community/metric-chat-platform-inclusivity/">Chat Platform Inclusivity<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png" alt="Under Review"></a></td><td>How do you review Chat Platform inclusivity for your community?</td><td><a href = https://github.com/chaoss/wg-diversity-inclusion/issues/328>Issue 328</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-documentation-accessibility/">Documentation Accessibility<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png" alt="Under Review"></a></td><td>How does the documentation accommodate different users?</td><td><a href = https://github.com/chaoss/wg-diversity-inclusion/issues/321>Issue 321</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-documentation-usability/">Documentation Usability</a></td><td>What is the usability of documentation from content and structure perspectives?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-issue-label-inclusivity/">Issue Label Inclusivity</a></td><td>How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?</td><td></td></tr>
