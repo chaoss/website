@@ -1,3 +1,3 @@
-## CHAOSScon EU 2020 Organizing Committee
+## Shanghai Meetup 2020 Organizing Committee
 
 *
