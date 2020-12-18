@@ -3,6 +3,6 @@
 * Elizabeth Barron
 * King Gao
 * Matt Germonprez
-* William Jiang
+* Willem Jiang
 * Will Wang
 * Xiaoya Xia
