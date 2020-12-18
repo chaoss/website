@@ -1,6 +1,8 @@
 ## Shanghai Meetup 2020 Organizing Committee
 
-* CHAOSS
-* X-lab
-* Kaiyuanshe
-
+* Elizabeth Barron
+* King Gao
+* Matt Germonprez
+* William Jiang
+* Will Wang
+* Xiaoya Xia
