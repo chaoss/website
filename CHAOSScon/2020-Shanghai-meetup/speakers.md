@@ -2,6 +2,8 @@
 
 ### Elizabeth Barron
 
+![Elizabeth_Barron](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/elizabeth_avatar_preview.jpeg)
+
 _Community Manager - CHAOSS_
 
 Elizabeth Barron has spent 20+ years in open source, and is currently the Community Manager for CHAOSS. She has written 2 fiction books, 3 technical books, given 37 talks, written 52 magazine articles and blog posts, appeared on 20 podcasts, and organized over 100 events, large and small. She loves to bring people together to connect with each other and loves building welcoming and inclusive communities. In her free time, she is a professional nature photographer, and enjoys spending time with her family. 
@@ -16,9 +18,11 @@ _Community Manager - GitLab_
 
 ### Ruth Ikegah
 
-_Title_
+![Ruth Ikegah](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/Ruth_Ikegah.jpeg)
 
-**Needs Upated Bio**
+_Backend Developer and Technical Writer_
+
+Ruth Ikegah is a Backend developer, Github Star, and Technical writer.  A lover of advocating and onboarding beginners into open source communities, she is also a social volunteer and a voluntary blood donor.
 
 
 ### Daniel Izquierdo
