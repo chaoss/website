@@ -2,7 +2,7 @@
 
 ### Elizabeth Barron
 
-![Elizabeth_Barron](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/elizabeth_barron.png)
+![Elizabeth Barron](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/elizabeth_barron.png)
 
 _Community Manager - CHAOSS_
 
