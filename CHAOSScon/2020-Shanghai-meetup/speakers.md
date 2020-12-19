@@ -29,7 +29,7 @@ Ruth Ikegah is a Backend developer, Github Star, and Technical writer.  A lover 
 
 ![Daniel Izquierdo](https://chaoss.github.io/website/CHAOSScon/2019EU/img/DanielIzquierdo.png)
 
-_Data Analyst - Bitergia_
+_Co-Founder - Bitergia, InnerSource Commons_
 
 Daniel Izquierdo is co-founder of Bitergia, a start-up focused on providing metrics and consultancy about open source projects. His main interests about open source are related to the community itself, trying to help community managers, organizations and developers to better understand how the project is performing. He has contributed to several open analytics dashboards such as the OpenStack, Wikimedia or Xen. He has participated as speaker giving details about gender diversity in OpenStack, InnerSource metrics strategy at OSCON, and other metrics-related talks.
 
