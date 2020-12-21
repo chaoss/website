@@ -52,8 +52,48 @@ Sean is an open source software researcher and a founding member of the Linux Fo
 
 ### Will Wang
 
-![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/WillWang.png)
+![Will Wang](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/WillWang.png)
 
 _Professor - East China Normal University_
 
-Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented with on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.
+Wang Wei, researcher and doctoral supervisor of the School of Data Science and Engineering, East China Normal University, the University of Wisconsin Madison as a senior visiting scholar, the University of Florida as a CSC visiting scholar; CCF senior member, CCF Computer Education Committee member; director of Kaiyuanshe, executive secretary of Shanghai Open Source Information Technology Association; research interest including computational education, open source digital ecology, and published more than 100 papers in academic journals and conferences.
+
+### King Gao
+
+![King Gao](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)
+
+_Expert  --- Huawei 2012 2012 Laboratory_
+
+King Gao has six years of experience in enterprise open source governance. He was responsible for establishing a governance system for Huawei's compliant and secure use of open source. CHAOSS was the first open source community I participated in.
+
+### Xiaoya Xia
+
+![Xiaoya](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)
+
+_Student  --- East China Normal University_
+
+Xiaoya is currently a postgraduate student of ECNU. She participated in CHAOSS project as a GSoD student, working on documentation of D&I Badging project. Study and research on GitHub data analysis. An opensource fresher and enthusiast.
+
+### Jun Zhong
+
+![Zhong](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/Zhong.JPG)
+
+_Expert ---- Intelligent Computing Product Line_
+
+Participated in the open source community for more than 6 years. Currently, she is responsible for the digital operation system of the openEuler, MindSpore, openGauss, and openLookeng projects. Served as a core contributor to multiple communities, such as the maintainer of the infra sig team of the openEuler open source community, the maintainer of the infra sig team of the openGauss open source community, and the core member of the OpenStack manila project.
+
+### Zhipeng Huang
+
+![Huang](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/Huang.JPG)
+
+_MindSpore community manager ----  Intelligent Computing Product Line_
+
+Zhipeng Huang is now the TAC member of LFAI, TAC and Outreach member of the Confidential Computing Consortium, co-lead of the Kubernetes Policy WG, project lead of CNCF Security SIG, founder of the OpenStack Cyborg project, and co-chair of OpenStack Public Cloud WG. Zhipeng is also leading a team in Huawei that works on ONNX, Kubeflow, Akraino, and other open source communities.
+
+### Biaowei Zhuang
+
+![Zhuang](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/Zhuang.JPG)
+
+_Cloud Computing Product Expert -- Huawei Cloud_
+
+With more than 20 years of development and community experience, he is an active member of the Chinese open source community. Currently serves as the board chair of the Kaiyuanshe. He has rich experience in open source, inner source, community operation, and open source governance. 
