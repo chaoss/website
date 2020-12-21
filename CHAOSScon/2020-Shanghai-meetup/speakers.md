@@ -49,3 +49,11 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 _Professor - University of Missouri_
 
 Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented with on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.
+
+### Will Wang
+
+![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/WillWang.png)
+
+_Professor - East China Normal University_
+
+Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented with on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.
