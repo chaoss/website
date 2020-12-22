@@ -72,7 +72,7 @@ King Gao has six years of experience in enterprise open source governance. He wa
 
 _Student  --- East China Normal University_
 
-Xiaoya is currently a postgraduate student of ECNU. She participated in CHAOSS project as a GSoD student, working on documentation of D&I Badging project. Study and research on GitHub data analysis. An opensource fresher and enthusiast.
+Xiaoya is currently a postgraduate student of ECNU, major in data science and software. She participated in CHAOSS project as a GSoD student, working on documentation of D&I Badging project. Her study and research is about GitHub data analysis, and she is also an opensource fresher and enthusiast.
 
 ### Jun Zhong
 
