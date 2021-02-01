@@ -10,6 +10,7 @@ Understand how active a community exists around/to support a given software pack
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
+  <tr><td><a href="https://chaoss.community/metric-bus-factor/">Bus Factor<img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png" alt="Under Review"></a></td><td>How high is the risk to a project should the most active people leave?</td><td><a href=https://github.com/chaoss/wg-risk/issues/114>Issue 114</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-committers/">Committers</a></td><td>How robust and diverse are the contributors to a community?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-elephant-factor/">Elephant Factor</a></td><td>What is the distribution of work in the community?</td><td></td></tr>
 </tbody>

@@ -12,6 +12,7 @@ Learn about the types and frequency of activities involved in developing code.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
+  <tr><td><a href="https://chaoss.community/metric-branch-lifecycle/">Branch Lifecycle<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How do projects manage the lifecycle of their version control branches?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/393/">Issue 393</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-code-changes/">Code Changes</a></td><td>What changes were made to the source code during a specified period?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-code-changes-lines/">Code Changes Lines</a></td><td>What is the sum of the number of lines touched (lines added plus lines removed) in all changes to the source code during a certain period?</td><td></td></tr>
 </tbody>
@@ -30,6 +31,7 @@ Learn how efficiently activities around code development get resolved.
   <tr><td><a href="https://chaoss.community/metric-change-requests-accepted/ ">Change Requests Accepted<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How many accepted change requests are present in a code change?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/385/">Issue 385</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-change-requests-declined/">Change Requests Declined<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What reviews of change requests ended up declining the change during a certain period?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/384/">Issue 384</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-change-requests-duration/">Change Requests Duration<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the duration of time between the moment a change request starts and moment it is accepted?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/383/">Issue 383</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-change-request-acceptance-ratio/">Change Request Acceptance Ratio<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the ratio of change requests accepted to change requests closed without being merged?</td><td><a href="https://github.com/chaoss/wg-evolution/issues/392">Issue 392</a></td></tr>
 </tbody>
 </table>
 </div>
