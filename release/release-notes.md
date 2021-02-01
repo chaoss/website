@@ -5,16 +5,31 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 ## Continuous Metric Contributions Since Last Release
 
 - **Common WG**
-  * None
+  * New metrics include:
+    - Technical fork
+    - Burstiness
+    - Review Cycle Duration within a Change Request
 - **Diversity & Inclusion WG**
-  * None
+  * New metrics include:
+    - Chat Platform Inclusivity
+    - Documentation Accessibility
+    - Project Burnout
 - **Evolution WG**
-  * None
+  * New metrics include:
+    - Branch lifecycle
+    - Change Request Acceptance ratio
+  * Name Change Revision
+    - Change Requests accepted
+    - Change Requests declined
+    - Change Requests Duration
+    - Change Requests
 - **Risk WG**
   * New metrics include:
     - SPDX Document
+    - Bus Factor
 - **Value WG**
-  * None
+  * Name Change Revision
+    - Social Listening
 
 
 ## Release 2020-08 Notes:
