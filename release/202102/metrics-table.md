@@ -28,6 +28,6 @@
 * [Organizational Value](#user-content-focus-area---organizational-value)  
 
 ### Tentative Dates for Next Release 2021-02
-Release Freeze: January 1st, 2021    
-Public Comment Period: January 1st, 2021 to January 31st, 2021  
-Official Metrics Release Date: First week of February 2021  
+Release Freeze: February 1st, 2021    
+Public Comment Period: February 1st, 2021 to February 28th, 2021  
+Official Metrics Release Date: First week of March 2021  
