@@ -10,7 +10,7 @@ Understand what contributions from organizations and people are being made.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-technical-fork/">Technical Fork<img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png" alt="Under Review"></a></td><td>What are a number of technical forks of an open source project on code development platforms?</td><td><a href=https://github.com/chaoss/wg-common/issues/94>Issue 94</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-technical-fork/">Technical Fork<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png" alt="Under Review"></a></td><td>What are a number of technical forks of an open source project on code development platforms?</td><td><a href=https://github.com/chaoss/wg-common/issues/94>Issue 94</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-types-of-contributions/">Types of Contributions</a></td><td>What types of contributions are being made?</td><td></td></tr>
 </tbody>
 </table>
