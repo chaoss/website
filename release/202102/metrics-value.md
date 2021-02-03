@@ -11,6 +11,7 @@ Identify the degree to which a project is valuable to its community of users (in
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
+  <tr><td><a href="https://chaoss.community/metric-project-popularity">Project Popularity<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How does one measure the value of community interactions and accurately gauge “trust” within a community as evident from qualitative sentiment?</td><td><a href="https://github.com/chaoss/wg-value/issues/127">Issue 127</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-project-velocity/">Project Velocity</a></td><td>What is the development speed for an organization?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-social-listening">Social Listening<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How does one measure the value of community interactions and accurately gauge “trust” within a community as evident from qualitative sentiment?</td><td><a href="https://github.com/chaoss/wg-value/issues/121">Issue 121</a></td></tr>
 </tbody>
