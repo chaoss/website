@@ -28,9 +28,9 @@ Ray is the Head of Community at Cube Dev where he is helping to grow the communi
 
 ![King Gao](https://chaoss.github.io/website/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)
 
-_Expert  --- Huawei 2012 2012 Laboratory_
+_Expert  --- Huawei 2012 Laboratory_
 
-King Gao has six years of experience in enterprise open source governance. He was responsible for establishing a governance system for Huawei's compliant and secure use of open source. CHAOSS was the first open source community I participated in.
+King Gao has six years of experience in enterprise open source governance. He was responsible for establishing a governance system for Huawei's compliant and secure use of open source. CHAOSS was the first open source community he participated in.
 
 ### Ruth Ikegah
 
