@@ -2,9 +2,12 @@
 
 We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <linkgeorg@gmail.com> to get a reference added or create a pull request against the [coverage.md](https://github.com/chaoss/website/blob/master/About/Media/coverage.md) file.
 
-### 2020
+### 2021
 
 * Wisenhoff, D. (2021, February 15). **Introducing Open Source Health by Debricked.** Debricked. Retrieved February 17, 2021 from: https://debricked.com/blog/2021/02/15/introducing-open-source-health-by-debricked/
+
+
+### 2020
 
 * Bitergia. (2020, November 16). **GrimoireLab grows up to power The Linux Foundation’s LFX Insights platform.** Retrieved November 16, 2020, from: https://www.prnewswire.com/news-releases/grimoirelab-grows-up-to-power-the-linux-foundations-lfx-insights-platform-301173642.html
 
@@ -15,7 +18,6 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 * SPN Newsroom. (2020, August 14). **Researchers at UNO and the University of Missouri create CHAOSS for open source communities (in a good way).** Silicon Prairie News. Retrieved August 16, 2020, from: https://siliconprairienews.com/2020/08/researchers-at-uno-and-the-university-of-missouri-create-chaoss-for-open-source-communities-in-a-good-way/
 
 * Rucker, A. (2020, July 15). **Open Source Community Health Project Expands Private Funding with UNO and MU.** University of Nebraska Omaha. Retrieved August 16, 2020, from: https://www.unomaha.edu/news/2020/07/open-source-community-health-project-expands-funding-with-unoand-mu.php
-
 
 * VMware Open Source Team. (2020, June 16). **What’s With All the CHAOSS? Dawn Foster Explains This Project’s Impact.** VMware Open Source Blog. Retrieved June 17, 2020, from: https://blogs.vmware.com/opensource/2020/06/16/chaoss-open-source-project-dawn-foster/
 
@@ -72,6 +74,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Santamarina, A. J. (2019, January 15). **Bitergia owls everywhere! Join us at FOSDEM and CHAOSSCon 2019.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/01/15/bitergia-owls-everywhere-join-us-at-fosdem-and-chaosscon-2019/
 
+
 ### 2018
 
 * Irwin, E. (2018, December 18). **Innovating for Inclusion in the Mozilla Open Source Support Program.** Retrieved December 19, 2018, from https://blog.mozilla.org/inclusion/2018/12/18/innovating-for-inclusion-in-the-mozilla-open-source-support-program
@@ -93,6 +96,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 * Ahuja, V., Marti, D., Link, G. J.P., Germonprez, M., & Goggins, S. P. (2018, May 23). **How to measure the impact of your open source project.** Retrieved May 23, 2018, from https://opensource.com/article/18/5/metrics-project-success
 
 * Fernández, M. Á. (2018, March 27). **Highlights from CHAOSSCon + FOSDEM 2018.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2018/03/27/highlights-from-chaosscon-fosdem-2018/
+
 
 ### 2017
 
