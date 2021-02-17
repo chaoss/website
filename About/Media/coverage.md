@@ -4,7 +4,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2020
 
-* Wisenhoff, D. (2021, February 15). Introducing Open Source Health by Debricked. Debricked. Retrieved February 17, 2021 from: https://debricked.com/blog/2021/02/15/introducing-open-source-health-by-debricked/
+* Wisenhoff, D. (2021, February 15). **Introducing Open Source Health by Debricked.** Debricked. Retrieved February 17, 2021 from: https://debricked.com/blog/2021/02/15/introducing-open-source-health-by-debricked/
 
 * Bitergia. (2020, November 16). **GrimoireLab grows up to power The Linux Foundation’s LFX Insights platform.** Retrieved November 16, 2020, from: https://www.prnewswire.com/news-releases/grimoirelab-grows-up-to-power-the-linux-foundations-lfx-insights-platform-301173642.html
 
