@@ -27,6 +27,11 @@
 * [Individual Value](#user-content-focus-area---individual-value)  
 * [Organizational Value](#user-content-focus-area---organizational-value)  
 
+### Dates for Release 2021-03
+Release Freeze: February 1st, 2021    
+Public Comment Period: February 1st, 2021 to February 28th, 2021  
+Official Metrics Release Date: First week of March 2021
+
 ### Tentative Dates for Next Release 2021-09
 Release Freeze: August 1st, 2021    
 Public Comment Period: August 1st, 2021 to August 31st, 2021  
