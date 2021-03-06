@@ -6,6 +6,24 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 - **Common WG**
   * New metrics include:
+  * Name Change/Revision:
+- **Diversity & Inclusion WG**
+  * New metrics include:
+  * Name Change/Revision:
+- **Evolution WG**
+  * New metrics include:
+  * Name Change/Revision:
+- **Risk WG**
+  * New metrics include:
+  * Name Change/Revision:
+- **Value WG**
+  * New metrics include:
+  * Name Change/Revision:
+
+## Release 2021-03 Notes:
+
+- **Common WG**
+  * New metrics include:
     - Technical fork
     - Burstiness
     - Review Cycle Duration within a Change Request
