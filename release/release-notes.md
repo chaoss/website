@@ -18,7 +18,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
   * New metrics include:
     - Branch lifecycle
     - Change Request Acceptance ratio
-  * Name Change Revision
+  * Name Change/Revision
     - Change Requests accepted
     - Change Requests declined
     - Change Requests Duration
@@ -28,9 +28,10 @@ CHAOSS metrics are released continuously. The regular release is when we update 
     - SPDX Document
     - Bus Factor
 - **Value WG**
-  * Name Change Revision
-    - Social Listening
-
+  * New metrics include:
+    - Project popularity
+  * Name Change/Revision
+      - Social Listening
 
 ## Release 2020-08 Notes:
 
