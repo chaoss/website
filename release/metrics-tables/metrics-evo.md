@@ -28,7 +28,7 @@ Learn how efficiently activities around code development get resolved.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-change-requests-accepted/ ">Change Requests Accepted\</a></td><td>How many accepted change requests are present in a code change?</td><td></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-change-requests-accepted/ ">Change Requests Accepted</a></td><td>How many accepted change requests are present in a code change?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-change-requests-declined/">Change Requests Declined</a></td><td>What reviews of change requests ended up declining the change during a certain period?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-change-requests-duration/">Change Requests Duration</a></td><td>What is the duration of time between the moment a change request starts and moment it is accepted?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-change-request-acceptance-ratio/">Change Request Acceptance Ratio</a></td><td>What is the ratio of change requests accepted to change requests closed without being merged?</td><td></td></tr>
