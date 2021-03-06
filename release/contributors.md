@@ -7,6 +7,7 @@ Ahmed Zerouali,
 Akshara P,
 Akshita Gupta,
 Amanda Brindle,
+Anita Ihuman,
 Alberto Martín,
 Alberto Pérez García-Plaza,
 Alexander Serebrenik,
@@ -14,6 +15,7 @@ Alexandre Courouble,
 Alolita Sharma,
 Alvaro del Castillo,
 Ahmed Zerouali,
+Amanda Casari,
 Amy Marrich,
 Ana Jimenez Santamaria,
 Andre Klapper,
@@ -29,6 +31,7 @@ Armstrong Foundjem,
 Atharva Sharma,
 Ben Lloyd Pearson,
 Benjamin Copeland,
+Beth Hancock,
 Bingwen Ma,
 Boris Baldassari,
 Bram Adams,
@@ -49,9 +52,11 @@ Dawn Foster,
 Derek Howard,
 Don Marti,
 Drashti,
+Duane O’Brien,
 Dylan Marcy,
 Eleni Constantinou,
 Elizabeth Barron,
+Emily Brown,
 Emma Irwin,
 Eriol Fox,
 Fil Maj,
@@ -66,6 +71,7 @@ Igor Steinmacher,
 Ildiko Vancsa,
 Jacob Green,
 Jaice Singer Du Mars,
+Jaskirat Singh,
 Jason Clark,
 Javier Luis Cánovas Izquierdo,
 Jeff McAffer,
@@ -86,6 +92,7 @@ Joshua R. Simmons,
 Josianne Marsan,
 Justin W. Flory,
 Kate Stewart,
+Katie Schueths,
 Keanu Nichols,
 Kevin Lumbard,
 King Gao,
@@ -124,9 +131,11 @@ Quan Zhou,
 Ray Paik,
 Remy DeCausemaker,
 Ria Gupta,
+Richard Littauer,
 Robert Lincoln Truesdale III,
 Robert Sanchez,
 Rupa Dachere,
+Ruth Ikegah,
 Saicharan Reddy,
 Saloni Garg,
 Saleh Abdel Motaal,
@@ -147,6 +156,7 @@ Sophia Vargas,
 Sri Ramkrishna,
 Stefano Zacchiroli,
 Stefka Dimitrova,
+Stephen Jacobs,
 Tharun Ravuri,
 Thom DeCarlo,
 Tianyi Zhou,
@@ -170,13 +180,13 @@ Are you eligible to be on this list? You are if you helped in any capacity, for 
 
 # CHAOSS Governing Board members at time of release:
 
+- Amy Marrich, Red Hat
 - Andrea Gallo, Linaro
-- Ben Lloyd Pearson, Nylas
-- Brian Proffitt, Red Hat
+- Armstrong Foundjem, MCIS Laboratory at Queen's University
 - Daniel Izquierdo, Bitergia
 - Daniel M. German, University of Victoria
 - Dawn Foster, VMware
-- Don Marti, Consumer Reports
+- Don Marti, CafeMedia
 - Georg Link, Bitergia
 - Ildikó Vancsa, OpenStack
 - Kate Stewart, Linux Foundation
