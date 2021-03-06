@@ -54,7 +54,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 ## Release 2020-08 Notes:
 
-- [PDF of released CHAOSS Metrics (v.2020-08)](https://chaoss.github.io/website/release/202008/CHAOSS-Metrics-Release-2020-08.pdf)  
+- [PDF of released CHAOSS Metrics (v.2020-08)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2020-08.pdf)  
 - **Common WG**
   * New metrics include:
     - Contributor Location
@@ -82,7 +82,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 ## Release 2020-01 Notes:
 
-- [PDF of released CHAOSS Metrics (v.2020-01)](https://chaoss.github.io/website/release/202001/CHAOSS-Metrics-Release-202001.pdf)  
+- [PDF of released CHAOSS Metrics (v.2020-01)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2020-01.pdf)  
 - All Metrics were restructured to conform to the new CHAOSS Project metrics document structure.
 - **Common WG**
   * New metrics include:
@@ -127,7 +127,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
   * A new focus area of Ecosystem Value was developed
 
 
-## Release 201908 Notes
+## Release 2019-08 Notes
 
-- [PDF of released CHAOSS Metrics (v.2019-08)](https://chaoss.github.io/website/release/201908/CHAOSS-Metrics-Release-201908.pdf)
+- [PDF of released CHAOSS Metrics (v.2019-08)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2019-08.pdf)
 - Initial CHAOSS Metrics release.
