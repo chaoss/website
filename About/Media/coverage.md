@@ -11,6 +11,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Bitergia. (2020, November 16). **GrimoireLab grows up to power The Linux Foundation’s LFX Insights platform.** Retrieved November 16, 2020, from: https://www.prnewswire.com/news-releases/grimoirelab-grows-up-to-power-the-linux-foundations-lfx-insights-platform-301173642.html
 
+* Kolokotronis, N., Link, G., McCance, S., Ramkrishna, S., Sanchez, N.. (2020, November 20). **How we develop success metrics for open source events.** Retrieved November 20, 2020, from: https://opensource.com/article/20/11/chaoss-open-source-events
+
 * Rieger, O. Y., & Springer, R. (2020, November 5). **In the Eye of the Beholder.** Ithaka S+R. Retrieved November 6, 2020, from: https://sr.ithaka.org/blog/in-the-eye-of-the-beholder/
 
 * FINOS Team. (2020, October 9). **CHAOSS Talks OSS Metrics Lessons Learned with Rob Underwood.** FINOS News. Retrieved October 9, 2020, from: https://www.finos.org/hubfs/FINOS/finos-logo/FINOS-linkedin-logo.png
