@@ -2,7 +2,7 @@
 
 ### Thanks for your interest in generating a CHAOSS Community Report for your project. A few things that we ask:
 
-1) Only submit one repository from your project from which we will generate a CHAOSS Commumnity Report. This can be your project's main repository and it can be a large repository. For the time being, we are limiting the CHAOSS Community Reports to one page and submitting more than one repository will require more than one page for reporting.
+1) Only submit one repository from your project from which we will generate a CHAOSS Community Report. This can be your project's main repository and it can be a large repository. For the time being, we are limiting the CHAOSS Community Reports to one page and submitting more than one repository will require more than one page for reporting.
 
 2) If you submit more than a single repository for your CHAOSS Community Report, we will simply select the first one on the list (Hint: If you would like two repositories analyzed, submit two report requests).
 
