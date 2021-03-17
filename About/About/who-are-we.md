@@ -13,7 +13,7 @@ The CHAOSS software working groups are:
 - [Cregit](https://github.com/cregit/cregit)
 
 
-### Working Groups: Developing metics around key areas of interest
+### Working Groups: Developing metrics around key areas of interest
 
 The CHAOSS metrics working groups are:
 
@@ -28,7 +28,7 @@ The CHAOSS metrics working groups are:
 - [Risk](https://github.com/chaoss/wg-risk)
 
 
-### User Groups: Considering how metrics and software/practics are brought together in important contexts
+### User Groups: Considering how metrics and software/practices are brought together in important contexts
 
 The CHAOSS User Groups are: 
 
