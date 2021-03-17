@@ -21,8 +21,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * <a href="#">Project x</a>
 * <a href="#">Project y</a>
 
-***Visit <a href="#">here</a> to request a community report for your project***
+***Visit <a href="https://chaoss.community/community-reports/">here</a> to request a community report for your project***
 
 #### Communities reports are generated using CHAOSS software:
-* <a href="#">Augur</a>
-* <a href="#">Grimoire Lab</a>
+* <a href="https://chaoss.community/software/#user-content-augur">Augur</a>
+* <a href="https://chaoss.community/software/#user-content-grimoirelab">Grimoire Lab</a>
