@@ -1,4 +1,4 @@
-## LEARNING HOW TO CONTRIBUTE TO CHAOSS’ WEBSITE  
+## LEARNING HOW TO CONTRIBUTE TO CHAOSS’ WEBSITE at  https://chaoss.community
 <img src="https://github.com/seun-beta/website/blob/master/Beginners%20Guide/community%20home%20page.JPG/"
      alt="Picture of community page of chaoss.community"
      style="float: left; margin-right: 10px;" />  
