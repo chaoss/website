@@ -16,7 +16,7 @@ Projects and services built using GrimoireLab technology:
 
 ## Main components
 
-GrimoireLab tookit is organized in twelve different components. Each of them can be used as independent tools:
+GrimoireLab toolkit is organized in twelve different components. Each of them can be used as independent tools:
 
 **Data retrieval:**
 
