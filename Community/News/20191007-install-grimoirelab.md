@@ -12,7 +12,7 @@ One insight was that the GrimoireLab tutorial is NOT the easiest way to get Grim
 
 This blog post is to share my experience and give a hands-on, easy to follow guide. Although I am using a MacBook Air for writing this blog post and confirming the steps work, it is very similar on Ubuntu or DigitalOcean. 
 
-**A BIG THANK YOU to several CHAOSS members who have walked through the following proceedure and confirmed their correct working!**
+**A BIG THANK YOU to several CHAOSS members who have walked through the following procedure and confirmed their correct working!**
 
 Grab a fresh cup of coffee and settle in for the ride. Based on the feedback I got, it takes about 10 minutes to follow the steps but a bit longer to wait for some steps to finish executing.
 
