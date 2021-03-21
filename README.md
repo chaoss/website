@@ -2,7 +2,7 @@
 Content of http://chaoss.community website.
 
 ## CHAOSS Community
-This repository is part of the CHAOSS Community, a Linux Foundation project focused on creating analytics and metrics to help define community health.
+This repository is a part of the CHAOSS Community, a Linux Foundation project which focused on creating analytics and metrics to help and define community health.
 
 ## How to Contribute
 See [CONTRIBUTING.md](CONTRIBUTING.md)
