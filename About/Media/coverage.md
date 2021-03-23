@@ -102,7 +102,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2017
 
-* Synopsys, Inc. (2017, October 31). 2017 Coverity Scan report. Retrieved from https://lists.linuxfoundation.org/pipermail/oss-health-metrics/2017-October/000218.html
+* Synopsys, Inc. (2017, October 31). **2017 Coverity Scan report.** Retrieved from https://lists.linuxfoundation.org/pipermail/oss-health-metrics/2017-October/000218.html
 
 * Izquierdo, D. (2017, October 16). **How to define a metrics strategy for your community.** Retrieved February 13, 2019, from Opensource.com website: https://opensource.com/article/17/10/defining-metrics-strategy-your-community
 

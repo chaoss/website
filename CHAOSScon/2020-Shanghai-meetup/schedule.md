@@ -13,7 +13,7 @@
 | 14:20 | **Video:Contributing to CHAOSS: the Burnout metric** | Ruth Ikegah |
 | 14:30 | **Keynote:Contributing to CHAOSS: get yourself involved in the community** | Xiaoya Xia |
 | | |
-| 14:40 | Break&Snacks | |
+| 14:40 | Break and Snacks | |
 | | |
 | 14:50 | **Video:Talking about innersource**  | Daniel Izquierdo |
 | 15:00 | **Keynote: How we build PingCap tidb community** | Wei Yao  |
@@ -22,7 +22,7 @@
 | 15:30 | **Video:Introduction of GrimoireLab and how to get involved** | Georg Link | 
 | 15:40 | **Keynote:Apply CHAOSS metrics to OpenEuler**   | Jun Zhong | 
 | | | 
-| 15:50   | Break&Snacks | 
+| 15:50   | Break and Snacks | 
 | | | 
 | 16:00  | **Roundtable Panel：Things about opensource community** | Frank,Zhuang |
 | | | 
