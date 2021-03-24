@@ -1,6 +1,6 @@
 # The First Edition of D&I Badging Documentation is Available
 ### By xiaoya
-It has been an amazing experience to build documentation with CHAOSS D&I Bading program during the past two months, and I am thrilled to announce that the first edition is now available as a subsection of the CHAOSS community handbook at :
+It has been an amazing experience to build documentation with CHAOSS D&I Badging program during the past two months, and I am thrilled to announce that the first edition is now available as a subsection of the CHAOSS community handbook at :
 
 https://handbook.chaoss.community/community-handbook/badging/overview
 

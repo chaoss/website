@@ -257,7 +257,7 @@ B.Sc., M.Sc. and Ph.D. degrees from the Department of Informatics of Aristotle U
 <a href="http://georg.link/" target="_blank"><img src="/img/chaosscon/georg.png" alt="Georg Link" class="img-responsive"></a>
 </div>
 <div class="col-sm-11">
-<h3 style="margin-top: 0!important;">Georg Link <small>PhD Student at Univerisity of Nebraska at Omaha</small></h3>
+<h3 style="margin-top: 0!important;">Georg Link <small>PhD Student at University of Nebraska at Omaha</small></h3>
 Georg Link is a founding member of the CHAOSS community. His contributions in the Metrics Committee include outreach, maintaining the wiki and repository, and documenting meetings. Georg is a PhD student at the University of Nebraska at Omaha where he studies organizational engagement in open source communities.
 </div>
 </div>

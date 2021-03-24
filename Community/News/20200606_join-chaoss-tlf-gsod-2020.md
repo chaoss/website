@@ -10,7 +10,7 @@ CHAOSS and The Linux Foundation is taking part in Google Season of Docs 2020!
 The Season of Docs is an annual program organised by Google. The main goal of the program is to foster collaboration 
 between open source projects and technical writers. 
 
-During the course of the prorgram, technical writers will spend a few months working with their chosen open source project. 
+During the course of the program, technical writers will spend a few months working with their chosen open source project. 
 It brings open source projects and technical writers together with the shared goal of creating great documentation. 
 The writers bring their expertise to the projects, and the project mentors help the technical writers learn more about open 
 source and new technologies. 
