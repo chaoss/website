@@ -10,3 +10,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Website Maintainers
 * Kevin Lumbard - klumbard@unomaha.edu
 * Georg Link - glink@unomaha.edu
+
+## Website Contributors
+<a href="https://github.com/chaoss/website/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=chaoss/website" />
+</a>
