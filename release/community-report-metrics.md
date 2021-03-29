@@ -1,5 +1,4 @@
 ## Community Report Metrics
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <div>
 <table>
@@ -21,8 +20,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * <a href="#">Project x</a>
 * <a href="#">Project y</a>
 
-***Visit <a href="#">here</a> to request a community report for your project***
+***Visit <a href="https://chaoss.community/community-reports/">here</a> to request a community report for your project***
 
 #### Communities reports are generated using CHAOSS software:
-* <a href="#">Augur</a>
-* <a href="#">Grimoire Lab</a>
+* <a href="https://chaoss.community/software/#user-content-augur">Augur</a>
+* <a href="https://chaoss.community/software/#user-content-grimoirelab">Grimoire Lab</a>
