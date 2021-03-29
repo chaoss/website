@@ -1,7 +1,7 @@
 
 ## Why Create CHAOSS?
 
-The importance of open source software is no longer in question and its importance raises important questions about how we understand the health of the open source projects we rely on. Unhealthy projects can have negative impacts for the community involved in the project as well as organizations that rely on such projects. In response, people want to know more about the open source projects they are engaged with. For example: 
+The importance of open source software is no longer in question and its importance raises important questions about how we understand the health of the open-source projects we rely on. Unhealthy projects can have negative impacts on the community involved in the project as well as organizations that rely on such projects. In response, people want to know more about the open-source projects they are engaged with. For example:
 
 - Open source contributors want to know where they should place their efforts and know that they are making an impact. 
 - Open source communities want to attract new members, ensure consistent quality, and reward valuable members. 

@@ -89,7 +89,7 @@ In the instance that your talk is accepted, we want to make sure that you give t
 [Part 1](http://www.youtube.com/watch?v=iE9y3gyF8Kw>) and 
 [Part 2](http://www.youtube.com/watch?v=gcOP4WQfJl4>)
 
-## Submit proposal
+## Submit a proposal
 
 **[Submit your proposal][submit].** 
 
