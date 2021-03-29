@@ -24,9 +24,9 @@ _PhD Cand. / DevOps - Polytechnique Montreal_
 
 Ph.D. Candidate.,   Software Engineering, MCIS -- Laboratory, École Polytechnique de Montréal.
 OpenStack Member Level: Foundation Member.
-I am focused on empirical research on ecosystems software releases.  I apply mixed method research as a means to answer both the how and why in my findings, which is beneficial to both the academic and industrial communities.  I am Using a DevOps approach with machine learning to make crucial decisions. Currently, I am involved with the release team of OpenStack and serving as the PC chair of AI and HPC track, for the submit at Denver 2019. Additionally, I am a Big Data analytics guy.
+I am focused on empirical research on ecosystems software releases.  I apply mixed method research as a means to answer both the how and why in my findings, which is beneficiary to both the academic and industrial communities.  I am Using a DevOps approach with machine learning to make crucial decisions. Currently, I am involved with the release team of OpenStack and serving as the PC chair of AI and HPC track, for the submit at Denver 2019. Additionally, I am a Big Data analytics guy.
 Before my current experience, I had Worked on interesting software engineering topics for swarms of robots. Moreover, my expertise in cloud computing is an asset, which I bring along. In my thesis, I investigated the phenomena of live migrations and how we can apply both the supervised and reinforced learning technique (Machine learning algorithms) on live migration in the cloud.  
-I was part of the team; team lead on an exciting project at LASSENA Laboratory Montreal, Canada. My main task includes building test bench simulator for micro iBB black boxes for cars in other to reconstruct accident scenarios to understand driver's behavior.
+I was part of the team; team lead on an exciting project at LASSENA Laboratory Montreal, Canada. My main task includes building test bench simulator for micro iBB black boxes for cars in other to reconstruct accident scenario to understand driver's behavior.
 Currently, I am serving as a Science Judge for Quebec and Canada (Canada-Wide-Science)
 Member of IEEE and ACM. [@foundjem](https://twitter.com/foundjem)
 
@@ -93,7 +93,7 @@ Dawn works on OSS Strategy at Pivotal in London. She has more than 20 years of e
 
 _Director of Sales - Bitergia_
 
-Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years of experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning. [@GeorgLink](https://twitter.com/georglink)
+Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning. [@GeorgLink](https://twitter.com/georglink)
 
 > Session: **Diversity & Inclusion WG Tutorial**
 >
@@ -117,7 +117,7 @@ Please see LinkedIn for information about Harish: http://linkedin.com/in/harishp
 
 > Session: **Morality and Ethics in Software: Can it be measured?**
 >
-> Software drives everything. What drives software is algorithms.  We have been able to measure how "good" or "bad" a piece of  software is by various metrics as done by the Prospector  project. Is there a higher level of consideration around the ethical basis of software and contrasting that with the morality of software and algorithms?.   How should developers be driven when it comes to crafting ethical solutions if the morality of the developer is  challenged and vice versa? Is there an absolute moral code for developers? Ethical codes are crafted in many professions but there aren't moral codes. Is that an oversight.  This talk will explore the nuances of ethics and morals  and propose some mental strategies in navigating these. It is not meant to be exhaustive nor definitive. There does not seem to be much by way of research in this field and one of the outcomes of this talk is to trigger the discussion and potentially finding a way to quantify, measure and  perhaps act on being ethical and moral in software development.
+> Software drives everything. What drives software is algorithms.  We have been able to measure how "good" or "bad" a piece of  software is by various metrics as done by the Prospector  project. Is there a higher level of consideration around the ethical basis of software and contrasting that with the morality of software and algorithms.   How should developers be driven when it comes to crafting ethical solutions if the morality of the developer is  challenged and vice versa? Is there an absolute moral code for developers? Ethical codes are crafted in many professions but there aren't moral codes. Is that an oversight.  This talk will explore the nuances of ethics and morals  and propose some mental strategies in navigating these. It is not meant to be exhaustive nor definitive. There does not seem to be much by way of research in this field and one of the outcomes of this talk is to trigger the discussion and potentially finding a way to quantify, measure and  perhaps act on being ethical and moral in software development.
 
 
 <hr>
@@ -147,7 +147,7 @@ Manrique is the CEO and shareholder in Bitergia and a free, libre, open source s
 
 > Session: **Dive into GrimoireLab**
 >
-> GrimoireLab is one of the CHAOSS projects, and it is basically a toolkit to automatic and incremental data gathering from almost any tool (data source) related to contributing to Open Source development, data enrichment, by merging duplicated identities, adding additional information about contributors affiliation, calculation delays or geographical data, and data visualization, allowing filtering by time range, project, repository, contributor, etc. During this workshop, attendees shall learn more about how each GrimoireLab component work, and finally, how to get CHAOSS metrics through the toolkit, or even their own custom metrics for their very specific needs.
+> GrimoireLab is one of the CHAOSS projects, and it is basically a toolkit to automatic and incremental data gathering from almost any tool (data source) related with contributing to Open Source development, data enrichment, by merging duplicated identities, adding additional information about contributors affiliation, calculation delays or geographical data, and data visualization, allowing filtering by time range, project, repository, contributor, etc. During this workshop, attendees shall learn more about how each GrimoireLab component work, and finally, how to get CHAOSS metrics through the toolkit, or even their own custom metrics for their very specific needs.
 
 
 <hr>
@@ -158,7 +158,7 @@ Manrique is the CEO and shareholder in Bitergia and a free, libre, open source s
 
 _Student-Developer - University of Nebraska at Omaha_
 
-Matt is an undergraduate student at the University of Nebraska at Omaha. Working with Dr. Matt Germonprez, he was part of the team that developed the Global Consent Manager. He presented this work at Mozfest 2018. His current focus is on implementing risk metrics for Augur and enhancing the newcomer experience. [@msnell](https://twitter.com/msnell)
+Matt is a undergraduate student at the University of Nebraska at Omaha. Working with Dr. Matt Germonprez, he was part of the team that developed the Global Consent Manager. He presented this work at Mozfest 2018. His current focus is on implementing risk metrics for Augur and enhancing newcomer experience. [@msnell](https://twitter.com/msnell)
 
 > Session: **Implementing CII Best Practice Metrics & What it Really Means**
 >
@@ -202,7 +202,7 @@ Santiago Dueñas is an open source advocate and a CTO at Bitergia. He is part of
 
 > Session: **Dive into GrimoireLab**
 >
-> GrimoireLab is one of the CHAOSS projects, and it is basically a toolkit to automatic and incremental data gathering from almost any tool (data source) related to contributing to Open Source development, data enrichment, by merging duplicated identities, adding additional information about contributors affiliation, calculation delays or geographical data, and data visualization, allowing filtering by time range, project, repository, contributor, etc. During this workshop, attendees shall learn more about how each GrimoireLab component work, and finally, how to get CHAOSS metrics through the toolkit, or even their own custom metrics for their very specific needs.
+> GrimoireLab is one of the CHAOSS projects, and it is basically a toolkit to automatic and incremental data gathering from almost any tool (data source) related with contributing to Open Source development, data enrichment, by merging duplicated identities, adding additional information about contributors affiliation, calculation delays or geographical data, and data visualization, allowing filtering by time range, project, repository, contributor, etc. During this workshop, attendees shall learn more about how each GrimoireLab component work, and finally, how to get CHAOSS metrics through the toolkit, or even their own custom metrics for their very specific needs.
 
 
 <hr>

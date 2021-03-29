@@ -22,7 +22,7 @@ Wang Wei, researcher and doctoral supervisor of the School of Data Science and E
 
 _Head of Community - Cube Dev_
 
-Ray is the Head of Community at Cube Dev where he is helping to grow the community of contributors to cube.js. Prior to Cube Dev, Ray managed open source communities at GitLab and the Linux Foundation. He has over 15 years of experience in the high-tech industry in roles ranging from a softwaresoftware engineer, product manager, program manager, and team lead at companies such as EDS, Intel, and Medallia. Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team. Previously Ray spoke at CHAOSScon, Community Leadership Summit, FOSDEM, GitLab Commit, and Open Source Summit.
+Ray is the Head of Community at Cube Dev where he is helping to grow the community of contributors to cube.js. Prior to Cube Dev, Ray managed open source communities at GitLab and the Linux Foundation. He has over 15 years of experience in the high-tech industry in roles ranging from software engineer, product manager, program manager, and team lead at companies such as EDS, Intel, and Medallia. Ray lives in Sunnyvale, CA with his wife and daughter and all three are loyal season ticket holders of the San Jose Earthquakes soccer team. Previously Ray spoke at CHAOSScon, Community Leadership Summit, FOSDEM, GitLab Commit, and Open Source Summit.
 
 ### King Gao
 
@@ -55,7 +55,7 @@ Xiaoya is currently a postgraduate student of ECNU, major in data science and so
 
 _Co-Founder - Bitergia, InnerSource Commons_
 
-Daniel Izquierdo is co-founder of Bitergia, a start-up focused on providing metrics and consultancy about open source projects. His main interests in open source are related to the community itself, trying to help community managers, organizations and developers to better understand how the project is performing. He has contributed to several open analytics dashboards such as the OpenStack, Wikimedia or Xen. He has participated as a speaker giving details about gender diversity in OpenStack, InnerSource metrics strategy at OSCON, and other metrics-related talks.
+Daniel Izquierdo is co-founder of Bitergia, a start-up focused on providing metrics and consultancy about open source projects. His main interests about open source are related to the community itself, trying to help community managers, organizations and developers to better understand how the project is performing. He has contributed to several open analytics dashboards such as the OpenStack, Wikimedia or Xen. He has participated as speaker giving details about gender diversity in OpenStack, InnerSource metrics strategy at OSCON, and other metrics-related talks.
 
 ### Jun Zhong
 
@@ -71,7 +71,7 @@ Participated in the open source community for more than 6 years. Currently, she 
 
 _Director of Sales - Bitergia_
 
-Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years of experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning. [@GeorgLink](https://twitter.com/georglink)
+Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning. [@GeorgLink](https://twitter.com/georglink)
 
 ### Zhipeng Huang
 

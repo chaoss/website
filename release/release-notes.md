@@ -1,8 +1,8 @@
 # Release History
-CHAOSS metrics are released continuously. The regular release is when we update the version number, update the full release notes, and make a big announcement. These releases occur one to two times a year and may correspond with the dates of a CHAOSScon event. Before regular release, continuously released metrics go through a comment period of at least 30 days.
+CHAOSS metrics are released continuously. The regular release is when we update the version number, update the full release notes, and make a big announcement. These releases occur one to two times a year and may correspond with the dates of a CHAOSScon event. Prior to regular release, continuous released metrics go through a comment period of at least 30 days.
 
 
-## Continuous Metric Contributions Since the Last Release
+## Continuous Metric Contributions Since Last Release
 
 - **Common WG**
   * New metrics include:
@@ -103,7 +103,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
     -	Issue Resolution Duration
     -	New Contributors Closing Issues
   *	Updated focus areas.
-    Refactored the "Code Development" focus area into 3 separate focus areas to more closely align with other working groups. Rather than having one broad focus area with multiple subsections, we decided our intent would be better communicated by making each of these subsections into their focus areas.
+    Refactored the "Code Development" focus area into 3 separate focus areas to more closely align with other working groups. Rather than having one broad focus area with multiple subsections, we decided our intent would be better communicated by making each of these subsections into their own focus areas.
     The 3 separate focus areas include:
       - Code Development Activity
       - Code Development Efficiency

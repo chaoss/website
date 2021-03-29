@@ -6,7 +6,7 @@
 
 _Researcher and Software Developer - Bitergia_
 
-Software engineer at Bitergia and analytics team member. After finishing his PhD on web page representation for clustering tasks in 2012, he has been working on projects involving data retrieval and analysis from different data sources. He has experience with Java, Spring, Python, MySQL, Apache Solr and ElasticSearch, among others. Apart from implementing metrics with Python and Kibana and according to his close family, he is interested in too many things to write a list here.
+Software engineer at Bitergia and analytics team member. After finishing his PhD on web page representation for clustering tasks in 2012, he has been working in projects involving data retrieval and analysis from different data sources. He has experience with Java, Spring, Python, MySQL, Apache Solr and ElasticSearch, among others. Apart from implementing metrics with Python and Kibana and according to his close family, he is interested in too many things to write a list here.
 
 Session: **Creating a Collection of Panels**
 
@@ -25,10 +25,10 @@ Session: **Creating a Collection of Panels**
 
 _Open Source Engineer - VMware_
 
-Alex is an Open Source Engineer at VMware Open Source Technology Center, where he works on VMware open source contribution analytics. Before VMware, Alex was getting his master's in Software Engineering at Polytechnique Montreal, where he researched collaboration and contribution in Open Source communities.
+Alex is an Open Source Engineer at VMware Open Source Technology Center, where he works on VMware open source contribution analytics. Before VMware, Alex was a getting his masters in Software Engineering at Polytechnique Montreal, where he researched collaboration and contribution in Open Source communities.
 
 Session: **Your Team’s Open Source Contributions, in One Dashboard**
-> With the rise of Open Source Program Offices in the industry, we are observing a rise in teams dedicated to upstream open source contributions. As this often represents the result of large investment from a company, it is important to be able to quantify and monitor the team’s contributions over time. To answer this, we created a tool that tracks the open source contributions from a list of users. The tool uses Perceval and the GitHub API to track pull requests, issues, comments, reviews, commits authored, and commits merged. The dashboard then displays a summary of the team’s contributions, any user’s contributions as well as a series of charts.
+> With the rise of Open Source Program Offices in the industry, we are observing a rise in teams dedicated to upstream open source contributions. As this often represents the result of a large investment from a company, it is important to be able to quantify and monitor the team’s contributions over time. To answer this, we created a tool that tracks the open source contributions from a list of users. The tool uses Perceval and the GitHub API to track pull requests, issues, comments, reviews, commits authored, and commits merged. The dashboard then displays a summary of the team’s contributions, any user’s contributions as well as a series of charts.
 
 
 ### Ana Jimenez Santamaria
@@ -37,11 +37,11 @@ Session: **Your Team’s Open Source Contributions, in One Dashboard**
 
 _Marketing Specialist - Bitergia_
 
-Ana holds a Bachelor's degree in Marketing and is currently working at Bitergia, a software development analytics company focused on OpenSource and InnerSource environments.
+Ana holds a Bachelor degree in Marketing and is currently working at Bitergia, a software development analytics company focused on OpenSource and InnerSource environments.
 
 Session: **Putting order into CHAOSS: metrics to analyze code development**
 
-> CHAOSS Growth, Maturity and Decline working group provides several metrics definitions focused on code development. Using GrimoireLab we have put some of those definitions into action by setting up a collection of panels for tracking and visualizing specific datasets. During the talk we will present this collection of panels taking a deeper look at the metrics applied in a real use case.
+> CHAOSS Growth, Maturity and Decline working group provides several metrics definitions focused on code development. Using GrimoireLab we have put some of those definitions into action by setting up a collection of panels for tracking and visualizing specific datasets. During the talk we will present this collection of panels taking a deeper look to the metrics applied in a real use case.
 
 
 ### Brian Proffitt
@@ -63,11 +63,11 @@ Session: **A Tale of Metrics Faux Pas: Answers Without Questions**
 
 _Data Analyst - Bitergia_
 
-Daniel Izquierdo is co-founder of Bitergia, a start-up focused on providing metrics and consultancy about open source projects. His main interests in open source are related to the community itself, trying to help community managers, organizations and developers to better understand how the project is performing. He has contributed to several open analytics dashboards such as the OpenStack, Wikimedia or Xen. He has participated as a speaker giving details about gender diversity in OpenStack, InnerSource metrics strategy at OSCON, and other metrics-related talks.
+Daniel Izquierdo is co-founder of Bitergia, a start-up focused on providing metrics and consultancy about open source projects. His main interests about open source are related to the community itself, trying to help community managers, organizations and developers to better understand how the project is performing. He has contributed to several open analytics dashboards such as the OpenStack, Wikimedia or Xen. He has participated as speaker giving details about gender diversity in OpenStack, InnerSource metrics strategy at OSCON, and other metrics-related talks.
 
 Session: **Putting order into CHAOSS: metrics to analyze code development**
 
-> CHAOSS Growth, Maturity and Decline working group provides several metrics definitions focused on code development. Using GrimoireLab we have put some of those definitions into action by setting up a collection of panels for tracking and visualizing specific datasets. During the talk we will present this collection of panels taking a deeper look at the metrics applied in a real use case.
+> CHAOSS Growth, Maturity and Decline working group provides several metrics definitions focused on code development. Using GrimoireLab we have put some of those definitions into action by setting up a collection of panels for tracking and visualizing specific datasets. During the talk we will present this collection of panels taking a deeper look to the metrics applied in a real use case.
 
 Session: **Creating a Collection of Panels**
 
