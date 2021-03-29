@@ -17,9 +17,9 @@ Our website [CHAOSS community](https://chaoss.community) is a WordPress website 
 
 This [repository](https://github.com/chaoss/website) contains all the Markdown files that deploy to create [CHAOSS's Website](https://chaoss.community) as a whole.   
 For example:  
-* The [About](https://chaoss.community/about) page on [CHAOSS community](www.chaoss.communty) and all it's contents are created by the [About](https://github.com/chaoss/website/tree/master/About) Folder. So to make changes to any part of the [About](https://chaoss.community/about/) page, you can check the contents of the [About](https://github.com/chaoss/website/tree/master/About) Folder and make any change.  
+* The [About](https://chaoss.community/about) page on [CHAOSS community](www.chaoss.community) and all it's contents are created by the [About](https://github.com/chaoss/website/tree/master/About) Folder. So to make changes to any part of the [About](https://chaoss.community/about/) page, you can check the contents of the [About](https://github.com/chaoss/website/tree/master/About) Folder and make any change.  
   
-* The [Community](http://chaoss.community/news) page on [CHAOSS community](www.chaoss.communty) and all it's contents are created by the [Community](https://github.com/chaoss/website/tree/master/Community) Folder. So to make changes to any part of the [Community](https://chaoss.community/news) page, you can check the contents of the [Community](https://github.com/chaoss/website/tree/master/Community) Folder and make any necessary change.  
+* The [Community](http://chaoss.community/news) page on [CHAOSS community](www.chaoss.community) and all it's contents are created by the [Community](https://github.com/chaoss/website/tree/master/Community) Folder. So to make changes to any part of the [Community](https://chaoss.community/news) page, you can check the contents of the [Community](https://github.com/chaoss/website/tree/master/Community) Folder and make any necessary change.  
   
 * The [CHAOSScon](https://chaoss.community/CHAOSScon-2020-NA/) page on [CHAOSS community](www.chaoss.communty) and all it's contents are created by the [CHAOSScon](https://github.com/chaoss/website/tree/master/CHAOSScon) Folder.  
 The CHAOSScon Folder has some subfolders:
