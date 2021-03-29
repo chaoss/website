@@ -1,8 +1,11 @@
 |**Maintainers**|**Reviewers**        |**Moderators** |
 |---------------|---------------------|---------------|
-|Aastha Bist    |Ruth Ikegah          |Matt Germonprez|
-|Matt Snell     |Neofytos Kolokotronis|Xiaoya Esther  |
+|Aastha Bist    |Ruth Ikegah          |Xiaoya Esther  |
+|Matt Snell     |Neofytos Kolokotronis|               |
 |               |Anita Ihuman         |               |
-|               |Harsh Gupta          |               |
 |               |Dustin Mitchell      |               |
 |               |Vinodh Ilangovan     |               |
+|               |Matt Germonprez      |               |
+|               |Molly de Blanc       |               |
+|               |Gema Rodriguez       |               |
+|               |Dhruv Sachdev        |               |

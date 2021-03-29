@@ -63,6 +63,6 @@ Venia will also be a regular panelist on the podcast so join us to talk about al
 
 #### 3rd,  start up the SCMS for FREE using the [new instructions](https://chaoss.community/metric-social-currency-metric-system/) over at CHAOSS!  
 
-We are providing this system as a methodology for free because we truly believe that augmenting your data with qualtiative social listening will make a better, safer, more secure online community.  
+We are providing this system as a methodology for free because we truly believe that augmenting your data with qualitative social listening will make a better, safer, more secure online community.  
 
 And of course if you'd like to learn more, get a personalized demo, or have us set up your SCMS, we offer a [free 1-hour consultation](https://www.sociallyconstructed.online/services.html) as well!  
