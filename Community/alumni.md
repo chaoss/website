@@ -2,33 +2,61 @@
 
 # CHAOSS Mentorship Alumni
 
-The CHAOSS Community thanks all mentees and mentors who participated in Google Summer of Code and Outreachy.
+The CHAOSS Community thanks all mentees and mentors who participated in Google Summer of Code, Google Season of Docs and Outreachy.
 
 
 ## List of all Mentees
 
-|Student|Year|Project|Mentors|
-|-------|----|:-----:|-------|
-|[Ria Gupta](#Ria-Gupta)|2020|Social Currency Metric System|Valerio Cosentino, Samantha Venia, Logan|
-|[Tianyi Zhou](#Tianyi-Zhou)|2020|Large Social Network Analysis and Anomaly Detection with Augur|Sean Goggins, Jonahz, Gabe Heim|
-|[Sarit Adhikari](#Sarit-Adhikari)|2020|Machine Learning for Anomaly Detection in Open Source Communities|Sean Goggins, Carter Landis, Gabe Heim|
-|[Abhinav Bajpai](#Abhinav-Bajpai)|2020|Implementing GitLab Data Collection Worker and Mapper to bind the responses of GitLab API, Github API & the Augur schema|Sean Goggins, Carter Landis|
-|[bistaastha](#bistaastha)|2020|Build Workflow process for CHAOSS D&I Badging Project|Matt Snell|
-|[vchrombie](#vchrombie)|2020|Creating Quality models using GrimoireLab and CHAOSS metrics|Valerio Cosentino, Aniruddha Karajgi|
-|[Saicharan Reddy](#Saicharan-Reddy)|2020|Implementation of GitLab Data Collection Worker & Test Coverage Improvement|Elita Nelson, Sean Goggins, Jonahz|
-|[Akshara P](#Akshara-P)|2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
-|[Pratik Mishra](#Pratik-Mishra)|2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
-|[Ore-Aruwaji Oloruntola](#Ore-Aruwaji-Oloruntola)|2020|Build Workflow Process for CHAOSS Diversity & Inclusion Badging|Matt Germonprez, Matt Snell, Saleh Abdel Motaal|
-|[Parth Sharma](#parth-sharma)|2019|Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur|Sean Goggins|
-|[Bingwen Ma](#bingwen-ma)|2019|Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur|Sean Goggins, Matt Germonprez|
-|[Aniruddha Karajgi](#aniruddha-karajgi)|2019|Implementing CHAOSS Metrics with Perceval|Jesus Gonzalez-Barahona, valcos, Pranjal Aswani|
-|[Nishchith K Shetty](#nishchith-k-shetty)|2019|Support of Source Code Related Metrics|Jesus Gonzalez-Barahona, valcos, Pranjal Aswani|
-|[Keanu Nichols](#keanu-nichols)|2018|Reporting of CHAOSS Metrics|Sean Goggins, Jesus Gonzalez-Barahona|
-|[Pranjal Aswani](#pranjal-aswani)|2018|Reporting of CHAOSS Metrics: Refactoring the existing code and extending the capabilities of the Manuscripts Project|Valerio Cosentino, Jesus Gonzalez-Barahona|
+|Student|Program & Year|Project|Mentors|
+|-------|--------------|-------|-------|
+|[Jaskirat Singh](#Jaskirat-Singh)|GSoD 2020|Create a CHAOSS Community-wide Handbook|Georg J.P.link, Armstrong Foundjem, Matt Germonprez
+|[Xiaoya Xia](#Xiaoya-Xia)|GSoD 2020|Build documentation for CHAOSS D&I Badging project|Matt Snell, Aastha Bist
+|[Ria Gupta](#Ria-Gupta)|GSoC 2020|Social Currency Metric System|Valerio Cosentino, Samantha Venia, Logan|
+|[Tianyi Zhou](#Tianyi-Zhou)|GSoC 2020|Large Social Network Analysis and Anomaly Detection with Augur|Sean Goggins, Jonahz, Gabe Heim|
+|[Sarit Adhikari](#Sarit-Adhikari)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Sean Goggins, Carter Landis, Gabe Heim|
+|[Abhinav Bajpai](#Abhinav-Bajpai)|GSoC 2020|Implementing GitLab Data Collection Worker and Mapper to bind the responses of GitLab API, Github API & the Augur schema|Sean Goggins, Carter Landis|
+|[bistaastha](#bistaastha)|GSoC 2020|Build Workflow process for CHAOSS D&I Badging Project|Matt Snell|
+|[vchrombie](#vchrombie)|GSoC 2020|Creating Quality models using GrimoireLab and CHAOSS metrics|Valerio Cosentino, Aniruddha Karajgi|
+|[Saicharan Reddy](#Saicharan-Reddy)|GSoC 2020|Implementation of GitLab Data Collection Worker & Test Coverage Improvement|Elita Nelson, Sean Goggins, Jonahz|
+|[Akshara P](#Akshara-P)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
+|[Pratik Mishra](#Pratik-Mishra)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
+|[Ore-Aruwaji Oloruntola](#Ore-Aruwaji-Oloruntola)|Outreachy 2020|Build Workflow Process for CHAOSS Diversity & Inclusion Badging|Matt Germonprez, Matt Snell, Saleh Abdel Motaal|
+|[Parth Sharma](#parth-sharma)|GSoC 2019|Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur|Sean Goggins|
+|[Bingwen Ma](#bingwen-ma)|GSoC 2019|Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur|Sean Goggins, Matt Germonprez|
+|[Aniruddha Karajgi](#aniruddha-karajgi)|GSoC 2019|Implementing CHAOSS Metrics with Perceval|Jesus Gonzalez-Barahona, valcos, Pranjal Aswani|
+|[Nishchith K Shetty](#nishchith-k-shetty)|GSoC 2019|Support of Source Code Related Metrics|Jesus Gonzalez-Barahona, valcos, Pranjal Aswani|
+|[Keanu Nichols](#keanu-nichols)|GSoC 2018|Reporting of CHAOSS Metrics|Sean Goggins, Jesus Gonzalez-Barahona|
+|[Pranjal Aswani](#pranjal-aswani)|GSoC 2018|Reporting of CHAOSS Metrics: Refactoring the existing code and extending the capabilities of the Manuscripts Project|Valerio Cosentino, Jesus Gonzalez-Barahona|
 
 
 ## Mentees
 
+### Jaskirat Singh
+
+Jaskirat Singh selected for GSoD 2020 under the Linux Foundation
+
+#### Project Title
+
+Create a CHAOSS Community-wide Handbook
+
+
+#### Project Description
+
+Community Handbook is a document that defines the community’s key policies and procedures and outlines the community’s mission, values, and workings. This handbook provides a clear introduction and workings to the newly joined members of the community. Currently, the CHAOSS community Handbook is available on the GitHub repository and needs to be revamped and refactored with more information for newcomers and existing community users.
+
+
+### Xiaoya Xia
+
+Xiaoya Xia selected for GSoD 2020 under the Linux Foundation
+
+#### Project Title
+
+Build documentation for CHAOSS D&I Badging project
+
+
+#### Project Description
+
+The work is about building documentation for a young project of CHAOSS: D&I Badging project,  the project is a peer-review system, using badge as the final review result, and CHAOSS D&I metrics as the review references. So applicants and reviewers are two important roles, there should have clear and elaborate guidance to show them what to do, how to submit the application, and how to review with a checklist on GitHub.
 
 
 ### Ria Gupta
