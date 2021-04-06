@@ -20,17 +20,17 @@ This report, which is also an open source project([GitHub Address](https://githu
 
 Here are some highlights:
 
-![2021040602](/Users/xiaoya/Documents/GitHub/website/Community/News/images/2021040602.jpg)
+![2021040602](./images/2021040602.jpg)
 
 
 
-![2021040603](/Users/xiaoya/Documents/GitHub/website/Community/News/images/2021040603.jpg)
+![2021040603](./images/2021040603.jpg)
 
 
 
-![2021040604](/Users/xiaoya/Documents/GitHub/website/Community/News/images/2021040604.jpg)
+![2021040604](./images/2021040604.jpg)
 
 
 
-![2021040605](/Users/xiaoya/Documents/GitHub/website/Community/News/images/2021040605.jpg)
+![2021040605](./images/2021040605.jpg)
 
