@@ -17,7 +17,7 @@ The CHAOSS Community thanks all mentees and mentors who participated in Google S
 |[Abhinav Bajpai](#user-content-Abhinav-Bajpai)|GSoC 2020|Implementing GitLab Data Collection Worker and Mapper to bind the responses of GitLab API, Github API & the Augur schema|Sean Goggins, Carter Landis|
 |[bistaastha](#user-content-bistaastha)|GSoC 2020|Build Workflow process for CHAOSS D&I Badging Project|Matt Snell|
 |[vchrombie](#user-content-vchrombie)|GSoC 2020|Creating Quality models using GrimoireLab and CHAOSS metrics|Valerio Cosentino, Aniruddha Karajgi|
-|[Saicharan Reddy](#Suser-content-aicharan-Reddy)|GSoC 2020|Implementation of GitLab Data Collection Worker & Test Coverage Improvement|Elita Nelson, Sean Goggins, Jonahz|
+|[Saicharan Reddy](#user-content-Saicharan-Reddy)|GSoC 2020|Implementation of GitLab Data Collection Worker & Test Coverage Improvement|Elita Nelson, Sean Goggins, Jonahz|
 |[Akshara P](#user-content-Akshara-P)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
 |[Pratik Mishra](#user-content-Pratik-Mishra)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
 |[Ore-Aruwaji Oloruntola](#user-content-Ore-Aruwaji-Oloruntola)|Outreachy 2020|Build Workflow Process for CHAOSS Diversity & Inclusion Badging|Matt Germonprez, Matt Snell, Saleh Abdel Motaal|
