@@ -45,8 +45,9 @@ Create a CHAOSS Community-wide Handbook
 Community Handbook is a document that defines the community’s key policies and procedures and outlines the community’s mission, values, and workings. This handbook provides a clear introduction and workings to the newly joined members of the community. Currently, the CHAOSS community Handbook is available on the GitHub repository and needs to be revamped and refactored with more information for newcomers and existing community users.
 
 #### Links
- * [Project Link on GSoD Website](https://developers.google.com/season-of-docs/docs/2020/participants/project-linuxfoundation-jaskiratsingh2000)
- * [GitHub](https://github.com/jaskiratsingh2000)
+* [Project Link on GSoD Website](https://developers.google.com/season-of-docs/docs/2020/participants/project-linuxfoundation-jaskiratsingh2000)
+* [GitHub](https://github.com/jaskiratsingh2000)
+* [Blog Posts](https://jaskiratsingh2000.medium.com/)
 
 
 ### Xiaoya Xia
