@@ -46,7 +46,7 @@ Community Handbook is a document that defines the community’s key policies and
 
 #### Links
  * [Project Link on GSoD Website](https://developers.google.com/season-of-docs/docs/2020/participants/project-linuxfoundation-jaskiratsingh2000)
- * [Github](https://github.com/jaskiratsingh2000)
+ * [GitHub](https://github.com/jaskiratsingh2000)
 
 
 ### Xiaoya Xia
@@ -65,7 +65,7 @@ The work is about building documentation for a young project of CHAOSS: D&I Badg
 #### Links
 
 * [Project Link on GSoD Website](https://developers.google.com/season-of-docs/docs/2020/participants/project-linuxfoundation-xiaoya)
-* [Github](https://github.com/xiaoya-Esther)
+* [GitHub](https://github.com/xiaoya-Esther)
 
 
 ### Ria Gupta
@@ -85,7 +85,8 @@ Implementing Social Currency Metric System (SCMS) will be a huge milestone in pr
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/6478870728933376/)
-* [Github](https://github.com/ria18405)
+* [GitHub](https://github.com/ria18405)
+* [Blog Posts](https://medium.com/@guptaria)
 
 ### Tianyi Zhou
 
@@ -108,7 +109,7 @@ Then I would like to establish the Augur server to mining and monitor the open s
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/5556345006194688/)
-* [Github](https://github.com/tianyichow)
+* [GitHub](https://github.com/tianyichow)
 
 
 ### Sarit Adhikari
@@ -128,7 +129,8 @@ Open-source software development is a collaborative effort that requires decentr
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/5310055743750144/)
-* [Github](https://github.com/sarit-adh)
+* [GitHub](https://github.com/sarit-adh)
+* [Blog Posts](https://medium.com/@sarit.adhikari)
 
 ### Abhinav Bajpai
 
@@ -147,7 +149,8 @@ The project aims to develop a Gitlab collection worker closely tied up with the 
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/5515047721238528/)
-* [Github](https://github.com/abhinavbajpai2012)
+* [GitHub](https://github.com/abhinavbajpai2012)
+* [Blog Posts](https://medium.com/@abhinavbajpai)
 
 
 ### bistaastha
@@ -169,7 +172,8 @@ This project would extend the existing CHAOSS Badging work and implement an Open
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/5160792611094528/)
-* [Github](https://github.com/bistaastha)
+* [GitHub](https://github.com/bistaastha)
+* [Blog Posts](https://dev.to/bistaastha)
 
 
 ### vchrombie
@@ -193,8 +197,8 @@ The main aim of the project is to design an approach to shape the GrimoireLab da
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/6524989651550208/)
-* [Github](https://github.com/vchrombie)
-
+* [GitHub](https://github.com/vchrombie)
+* [Blog Posts](https://vchrombie.github.io/blog/tags/g-so-c)
 
 ### Saicharan Reddy
 
@@ -214,7 +218,8 @@ The primary goal of this project is to congregate data pertaining to GitLab issu
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/6512121090670592/)
-* [Github](https://github.com/mrsaicharan1)
+* [GitHub](https://github.com/mrsaicharan1)
+* [Blog Posts](https://medium.com/@saicharan.reddy1)
 
 ### Akshara P
 
@@ -233,7 +238,8 @@ Augur is a Flask based prototyping web stack for CHAOSS metrics. It provides str
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/6266324608614400/)
-* [Github](https://github.com/aksh555)
+* [GitHub](https://github.com/aksh555)
+* [Blog Posts](https://medium.com/@akshblr555)
 
 
 ### Pratik Mishra
@@ -253,7 +259,8 @@ This project will play one of the most vital roles in achieving Augur's goal tow
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2020/projects/5947135322750976/)
-* [Github](https://github.com/pratikmishra356)
+* [GitHub](https://github.com/pratikmishra356)
+* [Blog Posts](https://medium.com/@pratikmishra_60029)
 
 
 ### Ore-Aruwaji Oloruntola
@@ -268,9 +275,10 @@ Build Workflow Process for CHAOSS Diversity & Inclusion Badging
 
 #### Links
 
-* [Blog Posts](https://medium.com/@darecoder/how-i-got-selected-as-an-outreachy-intern-b0c378a66bed)
-* [Twitter](https://twitter.com/thecraftman_)
-* [Github](https://github.com/thecraftman)
+* [Blog Posts](https://thecraftman.medium.com/)
+* [Project Link on Outreachy Website](https://www.outreachy.org/alums/)
+* [GitHub](https://github.com/thecraftman)
+
 
 
 
@@ -293,9 +301,7 @@ Augur is fully functional prototyping web stack for CHAOSS metrics. It provides 
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2019/projects/5952207168471040/)
 * [Blog Posts](https://parthsharma2.github.io/posts)
-* [LinkedIn](https://www.linkedin.com/in/parthsharma2)
-* [Twitter](https://twitter.com/parthshar2)
-* [Github](https://github.com/parthsharma2)
+* [GitHub](https://github.com/parthsharma2)
 
 ### Bingwen Ma
 
@@ -315,9 +321,7 @@ The project aims are to implement Risk metrics and other metrics within the Grow
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2019/projects/6646571444207616/)
-* [Blog Posts](https://blog.bing0ne.com/gsoc-final)
-* [Twitter](https://twitter.com/bing0ne)
-* [Github](https://github.com/bing0n3)
+* [GitHub](https://github.com/bing0n3)
 
 ### Aniruddha Karajgi
 
@@ -337,9 +341,8 @@ The aim of this project is to create reference implementations and tests, primar
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2019/projects/4788572886925312/)
-* [Blog Posts](https://polaris000.github.io/blog/final_report)
-* [LinkedIn](https://www.linkedin.com/in/polaris000)
-* [Github](https://github.com/Polaris000)
+* [Blog Posts](https://polaris000.github.io/tags/GSoC)
+* [GitHub](https://github.com/Polaris000)
 
 ### Nishchith K Shetty
 
@@ -367,10 +370,7 @@ Out of all the five backends provided by Graal, CoCom (Code Complexity) covers a
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2019/projects/5400999387201536/)
-* [Blog Posts](https://nishchith.com//20blog19/08/coding-period-3-11.html)
-* [LinkedIn](https://www.linkedin.com/in/inishchith/)
-* [Twitter](https://twitter.com/inishchith)
-* [Github](https://github.com/inishchith)
+* [GitHub](https://github.com/inishchith)
 
 
 ### Keanu Nichols
@@ -391,9 +391,8 @@ Writing Python code to query GrimoireLab Elastisearch databases and obtain from 
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2018/projects/6518865190191104/)
-* [Blog Posts](https://kmn5409.github.io/keanu-nichols/gsoc/2018/08/10/gsoc-Week-14.html)
-* [LinkedIn](https://www.linkedin.com/in/keanu-nichols/)
-* [Github](https://github.com/kmn5409)
+* [Blog Posts](https://kmn5409.github.io/keanu-nichols/)
+* [GitHub](https://github.com/kmn5409)
 
 
 ### Pranjal Aswani
@@ -414,6 +413,5 @@ The Manuscripts project, which is a part of the Grimoire Toolset, helps us in an
 #### Links
 
 * [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2018/projects/5756915711737856/)
-* [Blog Posts](https://aswanipranjal.github.io/posts/page/2/)
-* [LinkedIn](https://www.linkedin.com/in/pranjalaswani/)
-* [Github](https://github.com/aswanipranjal)
+* [Blog Posts](https://aswanipranjal.github.io/posts/)
+* [GitHub](https://github.com/aswanipranjal)
