@@ -9,24 +9,24 @@ The CHAOSS Community thanks all mentees and mentors who participated in Google S
 
 |Student|Program & Year|Project|Mentors|
 |-------|--------------|-------|-------|
-|[Jaskirat Singh](#Jaskirat-Singh)|GSoD 2020|Create a CHAOSS Community-wide Handbook|Georg J.P.link, Armstrong Foundjem, Matt Germonprez
-|[Xiaoya Xia](#Xiaoya-Xia)|GSoD 2020|Build documentation for CHAOSS D&I Badging project|Matt Snell, Aastha Bist
-|[Ria Gupta](#Ria-Gupta)|GSoC 2020|Social Currency Metric System|Valerio Cosentino, Samantha Venia, Logan|
-|[Tianyi Zhou](#Tianyi-Zhou)|GSoC 2020|Large Social Network Analysis and Anomaly Detection with Augur|Sean Goggins, Jonahz, Gabe Heim|
-|[Sarit Adhikari](#Sarit-Adhikari)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Sean Goggins, Carter Landis, Gabe Heim|
-|[Abhinav Bajpai](#Abhinav-Bajpai)|GSoC 2020|Implementing GitLab Data Collection Worker and Mapper to bind the responses of GitLab API, Github API & the Augur schema|Sean Goggins, Carter Landis|
-|[bistaastha](#bistaastha)|GSoC 2020|Build Workflow process for CHAOSS D&I Badging Project|Matt Snell|
-|[vchrombie](#vchrombie)|GSoC 2020|Creating Quality models using GrimoireLab and CHAOSS metrics|Valerio Cosentino, Aniruddha Karajgi|
-|[Saicharan Reddy](#Saicharan-Reddy)|GSoC 2020|Implementation of GitLab Data Collection Worker & Test Coverage Improvement|Elita Nelson, Sean Goggins, Jonahz|
-|[Akshara P](#Akshara-P)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
-|[Pratik Mishra](#Pratik-Mishra)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
-|[Ore-Aruwaji Oloruntola](#Ore-Aruwaji-Oloruntola)|Outreachy 2020|Build Workflow Process for CHAOSS Diversity & Inclusion Badging|Matt Germonprez, Matt Snell, Saleh Abdel Motaal|
-|[Parth Sharma](#parth-sharma)|GSoC 2019|Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur|Sean Goggins|
-|[Bingwen Ma](#bingwen-ma)|GSoC 2019|Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur|Sean Goggins, Matt Germonprez|
-|[Aniruddha Karajgi](#aniruddha-karajgi)|GSoC 2019|Implementing CHAOSS Metrics with Perceval|Jesus Gonzalez-Barahona, valcos, Pranjal Aswani|
-|[Nishchith K Shetty](#nishchith-k-shetty)|GSoC 2019|Support of Source Code Related Metrics|Jesus Gonzalez-Barahona, valcos, Pranjal Aswani|
-|[Keanu Nichols](#keanu-nichols)|GSoC 2018|Reporting of CHAOSS Metrics|Sean Goggins, Jesus Gonzalez-Barahona|
-|[Pranjal Aswani](#pranjal-aswani)|GSoC 2018|Reporting of CHAOSS Metrics: Refactoring the existing code and extending the capabilities of the Manuscripts Project|Valerio Cosentino, Jesus Gonzalez-Barahona|
+|[Jaskirat Singh](#user-content-Jaskirat-Singh)|GSoD 2020|Create a CHAOSS Community-wide Handbook|Georg J.P.link, Armstrong Foundjem, Matt Germonprez
+|[Xiaoya Xia](#user-content-Xiaoya-Xia)|GSoD 2020|Build documentation for CHAOSS D&I Badging project|Matt Snell, Aastha Bist
+|[Ria Gupta](#user-content-Ria-Gupta)|GSoC 2020|Social Currency Metric System|Valerio Cosentino, Samantha Venia, Logan|
+|[Tianyi Zhou](#user-content-Tianyi-Zhou)|GSoC 2020|Large Social Network Analysis and Anomaly Detection with Augur|Sean Goggins, Jonahz, Gabe Heim|
+|[Sarit Adhikari](#user-content-Sarit-Adhikari)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Sean Goggins, Carter Landis, Gabe Heim|
+|[Abhinav Bajpai](#user-content-Abhinav-Bajpai)|GSoC 2020|Implementing GitLab Data Collection Worker and Mapper to bind the responses of GitLab API, Github API & the Augur schema|Sean Goggins, Carter Landis|
+|[bistaastha](#user-content-bistaastha)|GSoC 2020|Build Workflow process for CHAOSS D&I Badging Project|Matt Snell|
+|[vchrombie](#user-content-vchrombie)|GSoC 2020|Creating Quality models using GrimoireLab and CHAOSS metrics|Valerio Cosentino, Aniruddha Karajgi|
+|[Saicharan Reddy](#user-content-Saicharan-Reddy)|GSoC 2020|Implementation of GitLab Data Collection Worker & Test Coverage Improvement|Elita Nelson, Sean Goggins, Jonahz|
+|[Akshara P](#user-content-Akshara-P)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
+|[Pratik Mishra](#user-content-Pratik-Mishra)|GSoC 2020|Machine Learning for Anomaly Detection in Open Source Communities|Elita Nelson, Sean Goggins, Gabe Heim|
+|[Ore-Aruwaji Oloruntola](#user-content-Ore-Aruwaji-Oloruntola)|Outreachy 2020|Build Workflow Process for CHAOSS Diversity & Inclusion Badging|Matt Germonprez, Matt Snell, Saleh Abdel Motaal|
+|[Parth Sharma](#user-content-parth-sharma)|GSoC 2019|Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur|Sean Goggins|
+|[Bingwen Ma](#user-content-bingwen-ma)|GSoC 2019|Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur|Sean Goggins, Matt Germonprez|
+|[Aniruddha Karajgi](#user-content-aniruddha-karajgi)|GSoC 2019|Implementing CHAOSS Metrics with Perceval|Jesus Gonzalez-Barahona, valcos, Pranjal Aswani|
+|[Nishchith K Shetty](#user-content-nishchith-k-shetty)|GSoC 2019|Support of Source Code Related Metrics|Jesus Gonzalez-Barahona, valcos, Pranjal Aswani|
+|[Keanu Nichols](#user-content-keanu-nichols)|GSoC 2018|Reporting of CHAOSS Metrics|Sean Goggins, Jesus Gonzalez-Barahona|
+|[Pranjal Aswani](#user-content-pranjal-aswani)|GSoC 2018|Reporting of CHAOSS Metrics: Refactoring the existing code and extending the capabilities of the Manuscripts Project|Valerio Cosentino, Jesus Gonzalez-Barahona|
 
 
 ## Mentees
