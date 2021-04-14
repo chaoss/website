@@ -7,4 +7,5 @@ The working groups are:
 [Diversity and Inclusion](https://github.com/chaoss/wg-diversity-inclusion)  
 [Evolution](https://github.com/chaoss/wg-evolution)  
 [Risk](https://github.com/chaoss/wg-risk)  
-[Value](https://github.com/chaoss/wg-value)  
+[Value](https://github.com/chaoss/wg-value)
+[App Ecosystem](https://github.com/chaoss/wg-app-ecosystem)
