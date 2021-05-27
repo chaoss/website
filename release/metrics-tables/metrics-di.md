@@ -62,8 +62,9 @@ Identify how diverse and inclusive our project places, where community engagemen
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-chat-platform-inclusivity/">Chat Platform Inclusivity</a></td><td>How do you review Chat Platform inclusivity for your community?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-documentation-accessibility/">Documentation Accessibility</a></td><td>How does the documentation accommodate different users?</td><td></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-documentation-discoverability/">Documentation Discoverability<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How does the documentation accommodate different users?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/313">Issue 313</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-documentation-usability/">Documentation Usability</a></td><td>What is the usability of documentation from content and structure perspectives?</td><td></td></tr>
-  <tr><td><a href="https://chaoss.community/metric-issue-label-inclusivity/">Issue Label Inclusivity</a></td><td>How well are project issues labeled to invite new contributors, skilled contributors, non-code contributors, and other types of contributors?</td><td></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-issue-label-inclusivity/">Issue Label Inclusivity</a></td><td>How easily can users and contributors find the information they are looking for in a project’s documentation?</td><td> </td></tr>
   <tr><td><a href="https://chaoss.community/metric-project-burnout/">Project Burnout</a></td><td>How is project burnout identified and managed within an open source project?</td><td></td></tr>
 </tbody>
 </table>
