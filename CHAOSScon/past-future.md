@@ -1,5 +1,5 @@
 ## Upcoming Events
-* **To Be Announced**
+* [CHAOSScon 2021 North America is Here!](https://chaoss.community/chaosscon-2021-na/)
 
 ## Past Events
 * [**CHAOSScon 2020 Europe**](https://chaoss.community/chaosscon-2020-eu/), January 31, 2020, Brussels, Belgium, co-located with FOSDEM 2020.
