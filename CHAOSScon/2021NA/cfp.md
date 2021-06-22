@@ -16,8 +16,8 @@ that are appropriate for this conference, and then **[submit your proposal][subm
 * Slide Due Date: Friday, September 24, 2021
 * Event Date: Thursday, September 30, 2021
 
-## Suggested Topics:
 
+## Suggested Topics:
 All submissions should relate to the CHAOSS project's mission of developing
 metrics, methodologies, and software for expressing open source project
 health and sustainability. By measuring open source project health and
@@ -27,18 +27,20 @@ that relevant stakeholders can make more informed decisions about
 open source project engagement.  
 
 - **Software related metrics topics:**  
-   + tutorials
-   + walk throughs
-   + demos
-   + how-to's
-   + new features
+   + tutorials  
+   + walk throughs  
+   + demos  
+   + how-to's  
+   + new features  
+
 
 - **Metrics related topics:**  
-   + metrics strategy
-   + deep dive into the use of metrics
-   + failure of metrics in practice
-   + lessons learned, use cases, and case studies
-   + proposals for new metrics
-   + new visualizations
+   + metrics strategy  
+   + deep dive into the use of metrics  
+   + failure of metrics in practice  
+   + lessons learned, use cases, and case studies  
+   + proposals for new metrics  
+   + new visualizations  
 
-   [submit]: https://docs.google.com/forms/d/14oG7HdBS7eQDi3tDoBSiKpm5FaUqYWj5FV-puxmZtzg/viewform?edit_requested=true
+
+[submit]: https://docs.google.com/forms/d/14oG7HdBS7eQDi3tDoBSiKpm5FaUqYWj5FV-puxmZtzg/viewform?edit_requested=true
