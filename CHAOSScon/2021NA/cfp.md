@@ -8,8 +8,7 @@ please read through the rest of this page to understand the types of talks
 that are appropriate for this conference, and then **[submit your proposal][submit].**  
 
 
-## Dates to Remember:
-
+## Dates to Remember:  
 * CFP Opens: Monday, June 21, 2021
 * CFP Closes: Friday August 13, 2021
 * CFP Notifications: Friday, August 27, 2021
@@ -25,16 +24,16 @@ health and sustainability. By measuring open source project health and
 sustainability, CHAOSS seeks to improve the transparency and
 actionability of open source project health and sustainability so
 that relevant stakeholders can make more informed decisions about
-open source project engagement.
+open source project engagement.  
 
-- **Software related metrics topics:**
+- **Software related metrics topics:**  
    + tutorials
    + walk throughs
    + demos
    + how-to's
    + new features
 
-- **Metrics related topics:**
+- **Metrics related topics:**  
    + metrics strategy
    + deep dive into the use of metrics
    + failure of metrics in practice
