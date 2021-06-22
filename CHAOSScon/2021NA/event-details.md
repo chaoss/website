@@ -8,11 +8,3 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 ## Registration
 
 [Registration for CHAOSScon is part of the Open Source Summit!](https://events.linuxfoundation.org/open-source-summit-north-america/register/)
-
-This is the first time we are charging a $10 fee for registering to attend CHAOSScon. We'd like to explain. At CHAOSScon NA 2019, interested people were discouraged from coming because they were on a waitlist but we had many empty seats due to no-shows. By charging a small amount, we hope to limit no-shows. The ticket fee will go towards providing coffee, tea, snacks, and serve lunch.
-
-### Diversity and Inclusion
-
-To encourage and increase the participation of a diverse community, we are pleased to offer waivers for registration based on diversity or need. To get a your registration waived, please [submit a request](https://forms.gle/11vMAS46dyV6fHn87). For questions, please contact [Georg Link](mailto:linkgeorg@gmail.com).
-
-***Anyone*** may request a waiver for the registration fee.  
