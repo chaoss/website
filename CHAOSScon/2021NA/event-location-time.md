@@ -2,7 +2,8 @@
 
 Room: TBA
 
-[Hyatt Regency Seattle](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears?src=adm_sem_agn_360i_crp_ppc_D+Brand-Seattle-NonGP_google_Brand-Seattle-HR+Seattle-Exact_e_hyatt regency seattle_Brand&&src=adm_sem_agn_360i_crp_ppc_D+Brand-Seattle-NonGP_google_Brand-Seattle-HR+Seattle-Exact)
+[Hyatt Regency Seattle](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears?)  
+
 808 Howell St
 Seattle, WA 98101
 
