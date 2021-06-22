@@ -1,4 +1,4 @@
-## CHAOSScon EU 2020 Organizing Committee
+## CHAOSScon NA 2021 Organizing Committee
 
 * Daniel Izquierdo
 * Dawn Foster
