@@ -16,6 +16,8 @@ Please read our [Code of Conduct](https://chaoss.community/about/code-of-conduct
 - Listen to [CHAOSScast](https://podcast.chaoss.community/)
 - Read about our community on [CHAOSSblog](https://chaoss.community/blog/)
 - Check out the latest news at [CHAOSSweekly](https://chaoss.community/news/)
+- Join our [Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) workspace
+- For folks who **speak Chinese**, we hold a bi-weekly [Tencent meeting](https://meeting.tencent.com/s/VXrSwJv2KoYs) at 8:30 pm(GMT+8). Look at the [meeting minutes](https://shimo.im/docs/qCK63DQxdCJ9cvpH) for more details.
 
 ### Join us for CHAOSS Community and Working Group video conferences
 
