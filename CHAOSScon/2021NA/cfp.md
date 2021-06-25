@@ -3,7 +3,7 @@
 ## Submit a Proposal
 
 This conference is about open source metrics.
-If you are interested in speaking at CHAOSSCon EU on Thursday, September 30,
+If you are interested in speaking at CHAOSScon North America on Thursday, September 30,
 please read through the rest of this page to understand the types of talks
 that are appropriate for this conference, and then **[submit your proposal][submit].**  
 
