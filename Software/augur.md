@@ -6,7 +6,7 @@ Want to get started right away without doing much work? Email a list of reposito
 
 ## Augur Components
 1. **START HERE**: Augur is a [Flask web application](http://augur.osshealth.io), [Python library](https://oss-augur.readthedocs.io/en/dev/library-documentation/python.html) and [REST server](http://augur.osshealth.io/static/api_docs/) that presents metrics on open source software development project health and sustainability.
-2. Augur now also includes https://github.com/chaoss/augur-community reports, which provides Jupyter Notebooks that enable open source projects to ask questions of Augur's rich, validated GitHub and GitLab datasets. 
+2. Augur now also includes https://github.com/chaoss/augur-community-reports, which provides Jupyter Notebooks that enable open source projects to ask questions of Augur's rich, validated GitHub and GitLab datasets. 
 3. You can also now subscribe to slack notifications at http://auggie.augurlabs.io/#/configure from your Augur instance, at this link, which is located at the https://github.com/chaoss/augur-auggie repository. We even have a GitHub Webpage, here: https://chaoss.github.io/augur-auggie/ that consolidates the readme.md and development guide in a nifty, aesthetically pleasing template, sure to lure the real estate agent in your life. 
 4. Augur License Risk Analysis: https://github.com/chaoss/augur-spdx
 
