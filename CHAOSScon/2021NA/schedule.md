@@ -5,7 +5,7 @@
 | | |
 | 8:00|Registration & Networking (Hallway Track)|
 | | |
-| 9:00 - 9:10|**Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)||
+| 9:00 - 9:10|**Welcome & State of CHAOSS**<br>[Georg Link]()||
 | 9:10 - 9:40|**Keynote**<br>[Emma Irwin]()||
 |9:45 - 10:00|**Presentation 1** ||
 |10:05 - 10:20|**Presentation 2** ||
@@ -17,7 +17,7 @@
 |11:45 - 12:00|**Presentation 5** ||
 |12:05 - 12:20|**Presentation 6** ||
 | | |
-|12:20|Closing Remarks|
+|12:20|**Closing Remarks**<br>[Georg Link]()|
 |12:30|Group Photo with Conference Participants|
 |TBA|**CHAOSS Networking Event**|
 | | |
