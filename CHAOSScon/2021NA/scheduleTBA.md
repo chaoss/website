@@ -1,7 +1,5 @@
-## Schedule: September 30, 2021
+## Schedule: September 30, 2021 9:00 am to 12:30 pm 
 
-### TBA
-
-|Time|Sessions|Slides|Video
+Time|Sessions|Slides|Video
 ---|---|---|---
 | | |
