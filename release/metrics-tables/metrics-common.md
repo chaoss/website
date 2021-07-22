@@ -1,7 +1,7 @@
 ## Common Metrics
 Common Metrics Repository: https://github.com/chaoss/wg-common/
 
-### Focus Area - Contributions
+### Focus Area - Contributions  
 
 **Goal:**  
 Understand what contributions from organizations and people are being made.
@@ -17,9 +17,7 @@ Understand what contributions from organizations and people are being made.
 </table>
 </div>
 
-
-
-### Focus Area - Time
+### Focus Area - Time  
 
 **Goal:**  
 Understand when contributions from organizations and people are happening.  
@@ -37,7 +35,7 @@ Understand when contributions from organizations and people are happening.
 </table>
 </div>
 
-### Focus Area - People
+### Focus Area - People  
 
 **Goal:**  
 Understand organizational and personal engagement with open source projects.  
@@ -53,7 +51,7 @@ Understand organizational and personal engagement with open source projects.
 </table>
 </div>
 
-### Focus Area - Place
+### Focus Area - Place  
 
 **Goal**
 Identify where contributions occur in terms of physical and virtual places (e.g., GitHub, Chat Channel, Forum, conferences)
