@@ -1,7 +1,7 @@
 ## Common Metrics
 Common Metrics Repository: https://github.com/chaoss/wg-common/
 
-### Focus Area - What
+### Focus Area - Contributions
 
 **Goal:**  
 Understand what contributions from organizations and people are being made.
@@ -10,6 +10,7 @@ Understand what contributions from organizations and people are being made.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
+  <tr><td><a href="https://chaoss.community/metric-language-distribution/">Language Distribution<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What are the different programming languages present in an open source project(s), and what is the percentage of each language?</td><td><a href="https://github.com/chaoss/wg-common/issues/131">Issue 131</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-technical-fork/">Technical Fork</a></td><td>What are a number of technical forks of an open source project on code development platforms?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-types-of-contributions/">Types of Contributions</a></td><td>What types of contributions are being made?</td><td></td></tr>
 </tbody>
@@ -18,7 +19,7 @@ Understand what contributions from organizations and people are being made.
 
 
 
-### Focus Area - When
+### Focus Area - Time
 
 **Goal:**  
 Understand when contributions from organizations and people are happening.  
@@ -36,7 +37,7 @@ Understand when contributions from organizations and people are happening.
 </table>
 </div>
 
-### Focus Area - Who
+### Focus Area - People
 
 **Goal:**  
 Understand organizational and personal engagement with open source projects.  
@@ -48,6 +49,20 @@ Understand organizational and personal engagement with open source projects.
   <tr><td><a href="https://chaoss.community/metric-contributors/">Contributors</a></td><td>Who are the contributors to a project?</td><td></td></tr>
     <tr><td><a href="https://chaoss.community/metric-contributor-location/">Contributor Location</a></td><td>What is the location of contributors?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-organizational-diversity/">Organizational Diversity</a></td><td>What is the organizational diversity of contributions?</td><td></td></tr>
+</tbody>
+</table>
+</div>
+
+### Focus Area - Place
+
+**Goal**
+Identify where contributions occur in terms of physical and virtual places (e.g., GitHub, Chat Channel, Forum, conferences)
+
+<div>
+<table>
+  <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
+<tbody>
+  <tr><td><a href="https://chaoss.community/metric-collaboration-platform-activity/">Collaboration Platform Activity<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the count of activities across digital collaboration platforms used by a project?</td><td><a href="https://github.com/chaoss/wg-common/issues/132">Issue 132</a></td></tr>
 </tbody>
 </table>
 </div>
