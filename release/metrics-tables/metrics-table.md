@@ -28,6 +28,7 @@
 * [Security](#user-content-focus-area---security)  
 
 ### Value Areas  
+* [Academic Value](#user-content-focus-area---academic-value)  
 * [Communal Value](#user-content-focus-area---communal-value)  
 * [Individual Value](#user-content-focus-area---individual-value)  
 * [Organizational Value](#user-content-focus-area---organizational-value)  
