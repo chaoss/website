@@ -11,11 +11,11 @@ Identify the diversity, equity, and inclusion aspects at events.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-attendee-demographics/">Attendee Demographics</a></td><td>How diverse and inclusive are the attendees?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-code-of-conduct-at-event/">Code of Conduct at Event</a></td><td>How does the Code of Conduct for events support diversity, equity, inclusion?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-diversity-access-tickets/">Diversity Access Tickets</a></td><td>How are Diversity Access Tickets used to support diversity, equity, and inclusion for an event?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-family-friendliness/">Family Friendliness</a></td><td>How does enabling families to attend together support diversity, equity, and inclusion of the event?</td><td></td></tr>
-  <tr><td><a href="https://chaoss.community/metric-speaker-demographics/">Speaker Demographics</a></td><td>How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?</td><td></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-event-demographics/">Event Demographics<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/367">Issue 367</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-time-inclusion-for-virtual-events/">Time Inclusion for Virtual Events<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How can organizers of virtual events be mindful of attendees and speakers in other time zones?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/370">Issue 370</a></td></tr>
 </tbody>
 </table>
 </div>
