@@ -2,6 +2,20 @@
 
 Value Repository: https://github.com/chaoss/wg-value  
 
+### Focus Area - Academic Value
+
+**Goal:**  
+Identify the degree to which a project is valuable to researchers and academic institutions.
+
+<div>
+<table>
+  <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
+<tbody>
+  <tr><td><a href="https://chaoss.community/metric-academic-open-source-project-impact/">Academic Open Source Project Impact<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the impact of open source projects that an academician or a team of academicians creates as an important part of a university reappointment, tenure, and promotion process?</td><td><a href="https://github.com/chaoss/wg-value/issues/149">Issue 149</a></td></tr>
+</tbody>
+</table>
+</div>
+
 ### Focus Area - Communal Value
 
 **Goal:**  
