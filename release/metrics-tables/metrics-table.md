@@ -2,32 +2,32 @@
 
  *CHAOSS metrics are sorted into Focus Areas. CHAOSS uses a Goal-Question-Metric format to present metrics. Individual metrics are released based on identified goals and questions. The metrics include a detail page with definitions, objectives, and examples.*  
 
-#### Common Metrics Focus Areas  
+### Common Metrics Focus Areas  
 * [Contributions](#user-content-focus-area---contributions)  
 * [Time](#user-content-focus-area---time)  
 * [People](#user-content-focus-area---people)  
 * [Place](#user-content-focus-area---place)  
 
-#### Diversity and Inclusion Areas  
+### Diversity and Inclusion Areas  
 * [Event Diversity](#user-content-focus-area---event-diversity)  
 * [Governance](#user-content-focus-area---governance)  
 * [Leadership](#user-content-focus-area---leadership)  
 * [Project and Community](#user-content-focus-area---project-and-community)
 
-#### Evolution Areas  
+### Evolution Areas  
 * [Code Development Activity](#user-content-focus-area---code-development-activity)  
 * [Code Development Efficiency](#user-content-focus-area---code-development-efficiency)  
 * [Code Development Process Quality](#user-content-focus-area---code-development-process-quality)  
 * [Issue Resolution](#user-content-focus-area---issue-resolution)  
 * [Community Growth](#user-content-focus-area---community-growth)  
 
-#### Risk Areas  
+### Risk Areas  
 * [Business Risk](#user-content-focus-area---business-risk)  
 * [Code Quality](#user-content-focus-area---code-quality)  
 * [Licensing](#user-content-focus-area---licensing)  
 * [Security](#user-content-focus-area---security)  
 
-#### Value Areas  
+### Value Areas  
 * [Communal Value](#user-content-focus-area---communal-value)  
 * [Individual Value](#user-content-focus-area---individual-value)  
 * [Organizational Value](#user-content-focus-area---organizational-value)  
