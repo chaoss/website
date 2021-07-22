@@ -3,9 +3,10 @@
  *CHAOSS metrics are sorted into Focus Areas. CHAOSS uses a Goal-Question-Metric format to present metrics. Individual metrics are released based on identified goals and questions. The metrics include a detail page with definitions, objectives, and examples.*  
 
 #### Common Metrics Focus Areas  
-* [What - contributions are being made](#user-content-focus-area---what)  
-* [When - are contributions occurring](#user-content-focus-area---when)  
-* [Who - is making contributions](#user-content-focus-area---who)  
+* [Contributions](#user-content-focus-area---contributions)  
+* [Time](#user-content-focus-area---time)  
+* [People](#user-content-focus-area---People)  
+* [Place](#user-content-focus-area---place)  
 #### Diversity and Inclusion Areas  
 * [Event Diversity](#user-content-focus-area---event-diversity)  
 * [Governance](#user-content-focus-area---governance)  
