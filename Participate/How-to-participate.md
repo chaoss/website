@@ -19,6 +19,10 @@ Please read our [Code of Conduct](https://chaoss.community/about/code-of-conduct
 
 ### For folks who **speak Chinese**
 - We hold a bi-weekly [Tencent meeting](https://meeting.tencent.com/s/VXrSwJv2KoYs) at 8:30 pm(GMT+8) on Sunday. Look at the [meeting minutes](https://shimo.im/docs/qCK63DQxdCJ9cvpH) for more details.
+- Slack channel: https://chaoss-workspace.slack.com/archives/C0258G98SSX
+- Bilibili space: https://space.bilibili.com/1292724697?spm_id_from=333.33.b_73656375726974794f75744c696e6b.1
+- WeChat official account:
+![WeChat](images/wechat.png)
 
 ### Join us for CHAOSS Community and **Working Group** video conferences
 
