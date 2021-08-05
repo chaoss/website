@@ -40,7 +40,7 @@ Official Metrics Release Date: First week of March 2021
 
 - [PDF of released CHAOSS Metrics (v.2021-03)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2021-03.pdf)
 
-### Tentative Dates for Next Release 2021-09
+### Tentative Dates for Next Release 2021-10
 Release Freeze: September 1st, 2021    
 Public Comment Period: September 1st, 2021 to September 30th, 2021  
 Official Metrics Release Date: First week of October 2021
