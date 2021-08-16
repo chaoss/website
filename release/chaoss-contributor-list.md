@@ -185,7 +185,6 @@ Are you eligible to be on this list? You are if you helped in any capacity, for 
 - Andrea Gallo, Linaro
 - Armstrong Foundjem, MCIS Laboratory at Queen's University
 - Daniel Izquierdo, Bitergia
-- Daniel M. German, University of Victoria
 - Dawn Foster, VMware
 - Don Marti, CafeMedia
 - Georg Link, Bitergia
