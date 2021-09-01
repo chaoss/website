@@ -5,18 +5,18 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 ## Continuous Metric Contributions Since Last Release
 
 ### Common WG 
-* Focus Area Name Revisions:**  
+* Focus Area Name Revisions:  
     - People (was "Who")  
     - Contribution (was "What")  
     - Time (was "When")  
     - Place (was "Where")  
-*New metrics include:   
+* New metrics include:   
     - Bot Activity
     - Clones
     - Collaboration Platform Activity
     - Event Locations
     - Language Distribution  
-* Metric Revision:**    
+* Metric Revision:    
     - Technical Forks  
 ### Diversity & Inclusion WG
   * New metrics include:
@@ -25,17 +25,17 @@ CHAOSS metrics are released continuously. The regular release is when we update 
     - Psychological Safety
   * Name Change/Revision:
     - Attendee Demographics and Speaker Demographics merged into Event Demographics
-- **Evolution WG**
+### Evolution WG
   * New metrics include:
     - Contribution Attribution
-- **Risk WG**
-  * New Focus Area
+### Risk WG
+  * New Focus Area:
     - Dependency Risk Assessment
   * New metrics include:
     - Libyears
     - Upstream Code Dependencies
-- **Value WG**
-  * New Focus Area
+### Value WG
+  * New Focus Area:
     - Academic Value
   * New metrics include:
     - Academic Open Source Project impact
@@ -44,58 +44,58 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 ## Release 2021-03 Notes:
 
 - [PDF of released CHAOSS Metrics (v.2021-03)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2021-03.pdf)  
-- **Common WG**
+### Common WG
   * New metrics include:
     - Technical fork
     - Burstiness
     - Review Cycle Duration within a Change Request
-- **Diversity & Inclusion WG**
+### Diversity & Inclusion WG
   * New metrics include:
     - Chat Platform Inclusivity
     - Documentation Accessibility
     - Project Burnout
-- **Evolution WG**
+### Evolution WG
   * New metrics include:
     - Branch lifecycle
     - Change Request Acceptance ratio
-  * Name Change/Revision
+  * Name Change/Revision:
     - Change Requests accepted
     - Change Requests declined
     - Change Requests Duration
     - Change Requests
-- **Risk WG**
+### Risk WG
   * New metrics include:
     - SPDX Document
     - Bus Factor
-- **Value WG**
+### Value WG
   * New metrics include:
     - Project popularity
-  * Name Change/Revision
+  * Name Change/Revision:
       - Social Listening
 
 ## Release 2020-08 Notes:
 
 - [PDF of released CHAOSS Metrics (v.2020-08)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2020-08.pdf)  
-- **Common WG**
+### Common WG
   * New metrics include:
     - Contributor Location
     - Time to Close
     - Types of Contributions
-- **Diversity & Inclusion WG**
+### Diversity & Inclusion WG
   * New metrics include:
     - Documentation Usability
     - Inclusive Leadership
     - Issue Label Inclusivity
   * New focus area - Project and Community
-- **Evolution WG**
+### Evolution WG
   * New metrics include:
     - Inactive Contributors
     - New Contributors
   * The Reviews metric was revised
-- **Risk WG**
+### Risk WG
   * No new metrics this release
   * The Elephant Factor metric was revised  
-- **Value WG**
+### Value WG
   * No new metrics this release
   * The SCMS metric was revised
   * Work group focused on restructuring and creation of new focus areas - Organizational Value, Individual Value, and Communal Value
@@ -105,19 +105,19 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 - [PDF of released CHAOSS Metrics (v.2020-01)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2020-01.pdf)  
 - All Metrics were restructured to conform to the new CHAOSS Project metrics document structure.
-- **Common WG**
+### Common WG
   * New metrics include:
     - Activity Dates and Times
     - Time to First Response
     -	Contributors
   * Restructured and renamed focus areas
   * Organizational Diversity remains unchanged from previous release.
-- **Diversity & Inclusion WG**
+### Diversity & Inclusion WG
   * New metrics include:
     - Sponsorship
     - Board/Council Diversity
   * Improved clarity on several metrics that were in the previous release
-- **Evolution WG**
+### Evolution WG
   * New metrics include:
     - Issue Age
     -	Issue Response Time
@@ -131,7 +131,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
       - Code Development Process Quality
   * Kept the other 2 focus areas (Issue Resolution and Community Growth) the same.
   * No major changes were made to already existing metrics.
-- **Risk WG**
+### Risk WG
   * New metrics include:
     - OSI Approved Licenses
     -	Licenses Declared
@@ -141,7 +141,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
   * Focused on increasing metrics coverage in the general areas of CNCF Core Infrastructure badging and licensing.
   * License Count was removed from the release. It is being replaced by the Licenses Declared metric.
   * Software Bill of Materials was removed from the release. It is being reworked as the SPDX Document metric for the next release.
-- **Value WG**
+### Value WG
   * New metrics include:
     - Social Currency Metric System (SCMS)
     - Job Opportunities
