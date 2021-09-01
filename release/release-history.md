@@ -6,7 +6,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 - **Common WG**
   * Focus Area Name Revisions
-    - People (was "Who")
+    * People (was "Who")
     - Contribution (was "What")
     - Time (was "When")
     - Place (was "Where")
