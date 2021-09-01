@@ -23,7 +23,7 @@ Please read our [Code of Conduct](https://chaoss.community/about/code-of-conduct
 - Bilibili space: https://space.bilibili.com/1292724697?spm_id_from=333.33.b_73656375726974794f75744c696e6b.1
 - WeChat official account:  
 
-![WeChat](./images/wechat.png)
+![WeChat](../images/wechat.png)
 
 ### Join us for CHAOSS Community and **Working Group** video conferences
 
