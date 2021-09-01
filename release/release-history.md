@@ -5,18 +5,18 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 ## Continuous Metric Contributions Since Last Release
 
 - **Common WG**
-  * Focus Area Name Revisions
-    * People (was "Who")
+  Focus Area Name Revisions:  
+    - People (was "Who")
     - Contribution (was "What")
     - Time (was "When")
     - Place (was "Where")
-  * New metrics include:
+  New metrics include:  
     - Bot Activity
     - Clones
     - Collaboration Platform Activity
     - Event Locations
     - Language Distribution
-  * Metric Revision:
+  Metric Revision:  
     - Technical Forks
 - **Diversity & Inclusion WG**
   * New metrics include:
