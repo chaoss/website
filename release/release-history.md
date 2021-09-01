@@ -140,10 +140,10 @@ CHAOSS metrics are released continuously. The regular release is when we update 
     -	Issue Resolution Duration
     -	New Contributors Closing Issues
 * Updated focus areas:
-_Refactored the "Code Development" focus area into 3 separate focus areas to more closely align with other working groups. Rather than having one broad focus area with multiple subsections, we decided our intent would be better communicated by making each of these subsections into their own focus areas.The 3 separate focus areas include:_
-      - Code Development Activity
-      - Code Development Efficiency
-      - Code Development Process Quality
+_Refactored the "Code Development" focus area into 3 separate focus areas to more closely align with other working groups. Rather than having one broad focus area with multiple subsections, we decided our intent would be better communicated by making each of these subsections into their own focus areas.The 3 separate focus areas include:_  
+    - Code Development Activity
+    - Code Development Efficiency
+    - Code Development Process Quality
 * Kept the other 2 focus areas (Issue Resolution and Community Growth) the same.
 * No major changes were made to already existing metrics.
 
