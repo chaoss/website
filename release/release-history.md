@@ -33,7 +33,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
     - Dependency Risk Assessment
   * New metrics include:
     - Libyears
-    - Upstream Dependency Count
+    - Upstream Code Dependencies
 - **Value WG**
   * New Focus Area
     - Academic Value
