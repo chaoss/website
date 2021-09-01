@@ -31,6 +31,21 @@ Understand the quality of a given software package.
 </table>
 </div>
 
+### Focus Area - Dependency Risk Assessment
+
+**Goal:**  
+Understand the quality of a given software package.
+
+<div>
+<table>
+  <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
+<tbody>
+  <tr><td><a href="https://chaoss.community/metric-libyears/">Libyears<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the age of the project’s dependencies compared to current stable releases?</td><td><a href="https://github.com/chaoss/wg-risk/issues/138">Issue 138</a></td></tr>
+    <tr><td><a href="https://chaoss.community/metric-upstream-dependency-count/">Upstream Dependency Count<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What projects and libraries does my project depend on?</td><td><a href="https://github.com/chaoss/wg-risk/issues/118">Issue 118</a></td></tr>
+</tbody>
+</table>
+</div>
+
 ### Focus Area - Licensing
 
 **Goal:**  

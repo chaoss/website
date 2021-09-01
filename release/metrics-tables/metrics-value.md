@@ -57,6 +57,7 @@ Identify the degree to which a project is monetarily valuable from an organizati
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
+  <tr><td><a href="https://chaoss.community/metric-organizational-influence/">Organizational Influence<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How much influence does an organization have on an open source community?</td><td><a href="https://github.com/chaoss/wg-value/issues/146">Issue 146</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-labor-investment/">Labor Investment</a></td><td>What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?</td><td></td></tr>
 </tbody>
 </table>

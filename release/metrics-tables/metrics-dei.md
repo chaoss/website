@@ -15,6 +15,7 @@ Identify the diversity, equity, and inclusion aspects at events.
   <tr><td><a href="https://chaoss.community/metric-diversity-access-tickets/">Diversity Access Tickets</a></td><td>How are Diversity Access Tickets used to support diversity, equity, and inclusion for an event?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-family-friendliness/">Family Friendliness</a></td><td>How does enabling families to attend together support diversity, equity, and inclusion of the event?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-event-demographics/">Event Demographics<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How well does the speaker lineup for the event represent a diverse set of demographics and can be improved in the future?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/367">Issue 367</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-inclusive-experience-at-event/">Inclusive Experience at Event<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>To what extent does an event organizing team commit to an inclusive experience at an event?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/375">Issue 375</a></td></tr>
   <tr><td><a href="https://chaoss.community/metric-time-inclusion-for-virtual-events/">Time Inclusion for Virtual Events<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How can organizers of virtual events be mindful of attendees and speakers in other time zones?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/370">Issue 370</a></td></tr>
 </tbody>
 </table>
@@ -67,6 +68,7 @@ Identify how diverse, equitable, and inclusive our project places are, i.e. wher
   <tr><td><a href="https://chaoss.community/metric-documentation-usability/">Documentation Usability</a></td><td>What is the usability of documentation from content and structure perspectives?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-issue-label-inclusivity/">Issue Label Inclusivity</a></td><td>How easily can users and contributors find the information they are looking for in a project’s documentation?</td><td> </td></tr>
   <tr><td><a href="https://chaoss.community/metric-project-burnout/">Project Burnout</a></td><td>How is project burnout identified and managed within an open source project?</td><td></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-psychological-safety/">Psychological Safety<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>To what extent do community members feel safe within a community, including adding contributions, influencing change, bringing their authentic selves, and general participation within the project?</td><td><a href="https://github.com/chaoss/wg-diversity-inclusion/issues/376">Issue 376</a></td></tr>
 </tbody>
 </table>
 </div>
