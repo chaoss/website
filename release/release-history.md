@@ -5,20 +5,41 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 ## Continuous Metric Contributions Since Last Release
 
 - **Common WG**
+  * Focus Area Name Revisions
+    - People (was "Who")
+    - Contribution (was "What")
+    - Time (was "When")
+    - Place (was "Where")
   * New metrics include:
-  * Name Change/Revision:
+    - Bot Activity
+    - Clones
+    - Collaboration Platform Activity
+    - Event Locations
+    - Language Distribution
+  * Metric Revision:
+    - Technical Forks
 - **Diversity & Inclusion WG**
   * New metrics include:
+    - Documentation Discoverability
+    - Inclusive Experience at Event
+    - Psychological Safety
   * Name Change/Revision:
+    - Attendee Demographics and Speaker Demographics merged into Event Demographics
 - **Evolution WG**
   * New metrics include:
-  * Name Change/Revision:
+    - Contribution Attribution
 - **Risk WG**
+  * New Focus Area
+    - Dependency Risk Assessment
   * New metrics include:
-  * Name Change/Revision:
+    - Libyears
+    - Upstream Dependency Count
 - **Value WG**
+  * New Focus Area
+    - Academic Value
   * New metrics include:
-  * Name Change/Revision:
+    - Academic Open Source Project impact
+    - Organizational Influence
 
 ## Release 2021-03 Notes:
 
