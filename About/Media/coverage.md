@@ -4,6 +4,9 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2021
 
+* Foster, Q. (2021, September 4). **Essential open source tools for an academic organization.** Opensource.Com. https://opensource.com/article/21/9/open-source-tools-ospo
+
+
 * Anadiotis, G. (2021, May 3). **Open-source software economics and community health analytics: Enter CHAOSS.** ZDNet. https://www.zdnet.com/article/open-source-software-economics-and-community-health-analytics-enter-chaoss/
 
 * Wisenhoff, D. (2021, February 15). **Introducing Open Source Health by Debricked.** Debricked. Retrieved February 17, 2021 from: https://debricked.com/blog/2021/02/15/introducing-open-source-health-by-debricked/
