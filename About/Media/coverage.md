@@ -4,7 +4,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2021
 
-* Foster, Q. (2021, September 4). **Essential open source tools for an academic organization.** Opensource.Com. https://opensource.com/article/21/9/open-source-tools-ospo
+* Foster, Q. (2021, September 4). **Essential open source tools for an academic organization.** Opensource.Com. Retrieved September 8, 2021 from: https://opensource.com/article/21/9/open-source-tools-ospo
 
 
 * Anadiotis, G. (2021, May 3). **Open-source software economics and community health analytics: Enter CHAOSS.** ZDNet. https://www.zdnet.com/article/open-source-software-economics-and-community-health-analytics-enter-chaoss/
