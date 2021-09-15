@@ -1,8 +1,10 @@
 ## Speakers and Session Descriptions
 
-### Georg Link
+### Georg Link 
 
 ![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)  
+
+<br>
 
 _Director of Sales - Bitergia_  
 
@@ -15,6 +17,8 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 ### Emma Irwin
 
 ![Emma Irwin]()
+
+<br>
 
 _Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_
 
@@ -36,6 +40,8 @@ In this talk, I’ll share ways Microsoft’s OSPO has approached organizational
 
 ![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)  
 
+<br>
+
 _Doctoral Student Researcher - University of Nebraska at Omaha_  
 
 [@Paper_Monkeys](https://twitter.com/Paper_Monkeys)  
@@ -49,6 +55,8 @@ This talk will present the preliminary results from 40 interviews with corporate
 ###  Elizabeth Barron  
 
 ![Elizabeth Barron]()  
+
+<br>
 
 _CHAOSS Community Manager_  
 
@@ -64,6 +72,8 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ![Isabella Ferreira](https://twitter.com/isaferreira_57/photo)  
 
+<br>
+
 _PhD Candidate in Computer Engineering, Polytechnique Montréal_  
 
 [@isaferreira_57](https://twitter.com/isaferreira_57)  
@@ -78,6 +88,8 @@ Code review is an important quality assurance activity for open source software 
 
 ![Stephen Jacobs](https://www.facesofopensource.com/stephen-jacobs-2/)
 
+<br>
+
 _Director, Open@RIT, Rochester Institute of Technology_  
 
 Stephen Jacobs is the director of Open@RIT, a research center and the OSPO for the Rochester Institute of Technology. He serves on the steering committee of the TODO Group, is a member of the CHAOSS Value working group and was a pre-board organizer of the recently announced O3D Foundation. Jacobs has been teaching RIT classes in Open Source for thirteen years and  led the development of RIT’s academic minor in “Free and Open Source Software and Free Culture” the first of it’s kind in the country and the culminating piece in RIT’s FOSS across the curriculum offerings at the university.   
@@ -89,6 +101,8 @@ The last few years have seen a significant uptick in interest in the concept of 
 ### Emi Simpson
 
 ![Emi Simpson]()  
+
+<br>
 
 _Director, Open@RIT, Rochester Institute of Technology_  
 
@@ -102,6 +116,8 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ![Xiaoya Xia](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)  
 
+<br>
+
 _Master Degree Student, East China Normal University_  
 
 Xiaoya is a postgraduate Student at East China Normal University  
@@ -114,6 +130,8 @@ The purpose of defining metrics is to continuously improve the workflow, empower
 
 ![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)  
 
+<br>
+
 _Technical Expert --- Huawei 2012 Laboratory_  
 
 King worked at Huawei for 10 years and six years of open source governance experience. He started to participate in the open source community last year. CHAOSS is the first open source community he has participated in.  
@@ -125,6 +143,8 @@ The purpose of defining metrics is to continuously improve the workflow, empower
 ### Sean Goggins
 
 ![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sean-goggins.png)  
+
+<br>
 
 _Associate Professor - University of Missouri_  
 
@@ -150,6 +170,8 @@ Approach. The metrics we then implemented using the CHAOSS Project’s Augur sof
 ### Anita Ihuman  
 
 ![Anita Ihuman](https://drive.google.com/file/d/1sZ-PqGXqJ2XVFmjKmzBL46nG4IwhgaOK/view?usp=sharing)  
+
+<br>
 
 _Software Developer, CHAOSS_  
 
