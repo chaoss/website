@@ -6,7 +6,7 @@
 | 8:00 - 9:00|**Networking Meetup (Hallway Track)**<br>Grab a coffee and join us before the conference begins|
 | | |
 | 9:00 - 9:10|**Welcome & State of CHAOSS**<br>[Georg Link]()||
-| 9:10 - 9:40|**KEYNOTE<br>Looking in the mirror: A holistic approach to evaluating and measuring organizational success in open source**<br>[Emma Irwin]()| | |
+| 9:10 - 9:40|**KEYNOTE<br>_Looking in the mirror: A holistic approach to evaluating and measuring organizational success in open source_**<br>[Emma Irwin]()| | |
 | 9:40 - 9:45|**Break**|
 | | |
 | 9:45 - 10:05|_**Why we join and why we leave open source communities**_<br>[Kevin Lumbard]() & [Elizabeth Barron]()| | |
