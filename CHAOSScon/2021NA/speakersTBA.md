@@ -2,9 +2,7 @@
 
 ### Georg Link 
 
-![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)  
-
-<br>
+![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)<br>  
 
 _Director of Sales - Bitergia_  
 
