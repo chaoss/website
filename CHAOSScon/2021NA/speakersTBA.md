@@ -4,9 +4,9 @@
 _Director of Sales - Bitergia_  
 [@GeorgLink](https://twitter.com/georglink) 
 
-<div>![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)</div>
+![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)
 
-Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning.  
+<div>Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning.</div>
 
 <b>Welcome & Closing Remarks</b>  
 
