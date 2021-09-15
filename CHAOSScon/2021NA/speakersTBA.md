@@ -76,7 +76,7 @@ Code review is an important quality assurance activity for open source software 
 
 ### Stephen Jacobs
 
-![Stephen Jacobs]()
+![Stephen Jacobs](https://www.facesofopensource.com/stephen-jacobs-2/)
 
 _Director, Open@RIT, Rochester Institute of Technology_  
 
@@ -149,24 +149,11 @@ Approach. The metrics we then implemented using the CHAOSS Project’s Augur sof
 
 ### Anita Ihuman  
 
-![Anita Ihuman]()  
+![Anita Ihuman](https://drive.google.com/file/d/1sZ-PqGXqJ2XVFmjKmzBL46nG4IwhgaOK/view?usp=sharing)  
 
 _Software Developer, CHAOSS_  
 
 Anita is a Software Developer, an Author and a Speaker who enjoys sharing information through Public Speaking and Technical Writing. She loves learning, teaching, and engaging with the Open Source communities. She is a reviewer for the CHAOSS Diversity and Inclusion Badging initiative. She is a community manager at Layer5, an organization that represents the largest Service Mesh projects and their maintainers in the world.  
-
-<details><summary<b>Session: CHAOSS DEI Badging - From There to Here</b></summary>
-The CHAOSS project would like to share our experience developing, and implementing a peer reviewed event badging program.  
-
-The value of appreciating and acknowledging diversity, equity, and inclusion (DEI) in open source communities is underestimated. It is critical to bring together people with different backgrounds, mindsets, ideas and experiences to work for a common cause. The CHAOSS Diversity, Equity, and Inclusion Badging Initiative awards badges to events based on their adherence to and prioritization of DEI best practices. The initiative aims to increase understanding of project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.  
-
-This presentation will provide a holistic view of:  
-* The CHAOSS DEI Badging Initiative  
-* Examples of badged events and lessons learned from the process  
-* Ideas on how the badging process may be improved  
-
-In particular, we will highlight the people, technologies, and processes that have made the CHAOSS DEI Badging Initiative a success to date.  
-</details> 
 
 <details><summary><b>Session: CHAOSS DEI Badging - From There to Here</b></summary>
 The CHAOSS project would like to share our experience developing, and implementing a peer reviewed event badging program.  
