@@ -19,7 +19,7 @@
 |11:35 - 11:45|**CHAOSS DEI Badging: From There to Here**<br>[Anita Ihuman]()||
 |11:40 - 11:55|**Break**|
 | | |
-|11:45 - 12:00|**Lightning Talks**<br>Signup available day of the conference||
+|11:55 - 12:20|**Lightning Talks**<br>Signup available day of the conference||
 |12:20|**Closing Remarks**<br>[Georg Link]()|
 |12:30|**Group Photo with Conference Participants**||
 |TBD|**CHAOSS Networking Event**<br>Subscribe to the #CHAOSScon [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) for news about CHAOSS meetups|
