@@ -3,23 +3,24 @@
 |Time|Sessions|Slides|Video
 ---|---|---|---
 | | |
-| 8:00|Registration & Networking (Hallway Track)|
+| 8:00|Networking Meetup (Hallway Track)|Grab a coffee and join us|
 | | |
 | 9:00 - 9:10|**Welcome & State of CHAOSS**<br>[Georg Link]()||
-| 9:10 - 9:40|**Keynote**<br>[Emma Irwin]()||
-|9:45 - 10:00|**Presentation 1** ||
-|10:05 - 10:20|**Presentation 2** ||
-|10:25 - 10:40|Break|
+| 9:10 - 9:40|**Keynote - "Looking in the mirror: A holistic approach to evaluating and measuring organizational success in open source."**<br>[Emma Irwin]()||
+|9:40 - 10:45|Break|
 | | |
-|10:45 - 11:00|**Presentation 3** ||
-|11:05) - 11:20|**Presentation 4** ||
-|11:25 - 11:40|**Lightning Talks** ||
-|11:45 - 12:00|**Presentation 5** ||
-|12:05 - 12:20|**Presentation 6** ||
+|9:45 - 10:05|**Why we join and why we leave open source communities.**<br>[Kevin Lumbard]() & [Elizabeth Barron]()||
+|10:05 - 10:25|**Characterizing and Detecting Incivility in Open Source Code Review Discussions**<br>[Isabella Ferreira]()||
+|10:25 - 10:55|**Mystic - An initial effort in academic metrics, impact and community**<br>[Stephen Jacobs]() & [Emi Simpson]()||
+|10:55 - 11:05|Break|
 | | |
+|11:05 - 11:25|**Building Metrics Models Based on the State of the Art Best Practices**<br>[Xiaoya Xia]() & [King Gao]()||
+|11:25) - 11:35|**A complex web of open source software dependencies risk**<br>[Sean Goggins]()||
+|11:35 - 11:45|**CHAOSS DEI Badging: From There to Here**<br>[Anita Ihuman]()||
+|11:40 - 11:55|Break|
+| | |
+|11:45 - 12:00|**Lightning Talks** |Signup available at conference|
 |12:20|**Closing Remarks**<br>[Georg Link]()|
-|12:30|Group Photo with Conference Participants|
-|TBA|**CHAOSS Networking Event**|
+|12:30|Group Photo with Conference Participants||
+|TBA|**CHAOSS Networking Event**||
 | | |
-
-
