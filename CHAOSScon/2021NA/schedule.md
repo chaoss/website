@@ -3,7 +3,7 @@
 |Time|Sessions|Slides|Video
 ---|---|---|---
 | | |
-| 8:00|Networking Meetup (Hallway Track)|Grab a coffee and join us|
+| 8:00|**Networking Meetup (Hallway Track)**<br>Grab a coffee and join us|
 | | |
 | 9:00 - 9:10|**Welcome & State of CHAOSS**<br>[Georg Link]()||
 | 9:10 - 9:40|**Keynote - "Looking in the mirror: A holistic approach to evaluating and measuring organizational success in open source."**<br>[Emma Irwin]()||
@@ -22,5 +22,5 @@
 |11:45 - 12:00|**Lightning Talks** |Signup available at conference|
 |12:20|**Closing Remarks**<br>[Georg Link]()|
 |12:30|Group Photo with Conference Participants||
-|TBD|**CHAOSS Networking Event**|Subscribe to the #CHAOSScon [Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) channel for news about CHAOSS meetups|
+|TBD|**CHAOSS Networking Event**<br>Subscribe to the #CHAOSScon [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g)for news about CHAOSS meetups|
 | | |
