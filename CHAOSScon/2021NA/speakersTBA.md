@@ -2,7 +2,7 @@
 
 ### Georg Link 
 
-![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)<br><br><br><br><br><br>        
+![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)<br><br><br><br><br>  
 
 _Director of Sales - Bitergia_  
 [@GeorgLink](https://twitter.com/georglink)  
@@ -13,9 +13,7 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 
 ### Emma Irwin
 
-![Emma Irwin]()
-
-<br>
+![Emma Irwin]()<br><br><br><br><br>  
 
 _Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_
 
@@ -35,9 +33,7 @@ In this talk, I’ll share ways Microsoft’s OSPO has approached organizational
 
 ### Kevin Lumbard
 
-![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)  
-
-<br>
+![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)<br><br><br><br><br>  
 
 _Doctoral Student Researcher - University of Nebraska at Omaha_  
 
@@ -51,9 +47,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ###  Elizabeth Barron  
 
-![Elizabeth Barron]()  
-
-<br>
+![Elizabeth Barron]()<br><br><br><br><br>   
 
 _CHAOSS Community Manager_  
 
@@ -67,9 +61,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ### Isabella Ferreira  
 
-![Isabella Ferreira](https://twitter.com/isaferreira_57/photo)  
-
-<br>
+![Isabella Ferreira](https://twitter.com/isaferreira_57/photo)<br><br><br><br><br>  
 
 _PhD Candidate in Computer Engineering, Polytechnique Montréal_  
 
@@ -83,9 +75,7 @@ Code review is an important quality assurance activity for open source software 
 
 ### Stephen Jacobs
 
-![Stephen Jacobs](https://www.facesofopensource.com/stephen-jacobs-2/)
-
-<br>
+![Stephen Jacobs](https://www.facesofopensource.com/stephen-jacobs-2/)<br><br><br><br><br>  
 
 _Director, Open@RIT, Rochester Institute of Technology_  
 
@@ -97,9 +87,7 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ### Emi Simpson
 
-![Emi Simpson]()  
-
-<br>
+![Emi Simpson]()<br><br><br><br><br>  
 
 _Director, Open@RIT, Rochester Institute of Technology_  
 
@@ -111,9 +99,7 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ### Xiaoya Xia
 
-![Xiaoya Xia](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)  
-
-<br>
+![Xiaoya Xia](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)<br><br><br><br><br>   
 
 _Master Degree Student, East China Normal University_  
 
@@ -125,9 +111,7 @@ The purpose of defining metrics is to continuously improve the workflow, empower
 
 ### King Gao
 
-![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)  
-
-<br>
+![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)<br><br><br><br><br>   
 
 _Technical Expert --- Huawei 2012 Laboratory_  
 
@@ -139,9 +123,7 @@ The purpose of defining metrics is to continuously improve the workflow, empower
 
 ### Sean Goggins
 
-![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sean-goggins.png)  
-
-<br>
+![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sean-goggins.png)<br><br><br><br><br>  
 
 _Associate Professor - University of Missouri_  
 
@@ -166,9 +148,7 @@ Approach. The metrics we then implemented using the CHAOSS Project’s Augur sof
 
 ### Anita Ihuman  
 
-![Anita Ihuman](https://drive.google.com/file/d/1sZ-PqGXqJ2XVFmjKmzBL46nG4IwhgaOK/view?usp=sharing)  
-
-<br>
+![Anita Ihuman](https://drive.google.com/file/d/1sZ-PqGXqJ2XVFmjKmzBL46nG4IwhgaOK/view?usp=sharing)<br><br><br><br><br>  
 
 _Software Developer, CHAOSS_  
 
