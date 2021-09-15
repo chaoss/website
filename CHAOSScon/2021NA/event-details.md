@@ -14,3 +14,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 Subscribe to our [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) #CHAOSScon for updates about the conference and to coordinate meetups.  
 
 Follow [@CHAOSSproj](https://twitter.com/CHAOSSproj) and tweet #CHAOSS #CHAOSScon during the Summit and CHAOSScon to let everyone know how important open source community health is!
+
+## Live Streaming and Recorded Presentations
+
+***TBA***
