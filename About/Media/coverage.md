@@ -4,6 +4,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2021
 
+* Foster, Q. (2021, September 10). **Building an open source community health analytics platform.** Opensource.Com. Retrieved September 15, 2021 from: https://opensource.com/article/21/9/openrit-mystic
+
 * Foster, Q. (2021, September 4). **Essential open source tools for an academic organization.** Opensource.Com. Retrieved September 8, 2021 from: https://opensource.com/article/21/9/open-source-tools-ospo
 
 
