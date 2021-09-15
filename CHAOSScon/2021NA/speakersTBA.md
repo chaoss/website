@@ -1,6 +1,7 @@
 ## Speakers and Session Descriptions
 
 ### Georg Link 
+
 ![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)_Director of Sales - Bitergia_  
 [@GeorgLink](https://twitter.com/georglink)  
 
@@ -10,9 +11,7 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 
 ### Emma Irwin
 
-![Emma Irwin]()<br><br><br><br><br>  
-
-_Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_
+![Emma Irwin]()_Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_
 
 "During a successful career as a software developer, Emma discovered open source and was inspired by the potential of developing software collaboratively - especially the opportunity to connect with others around shared purpose.  This led to contribution and participation in many projects over the years including Drupal, MySQL and Mozilla - she even maintained a few of her own small projects.  
 
@@ -30,10 +29,7 @@ In this talk, I’ll share ways Microsoft’s OSPO has approached organizational
 
 ### Kevin Lumbard
 
-![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)<br><br><br><br><br>  
-
-_Doctoral Student Researcher - University of Nebraska at Omaha_  
-
+![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)_Doctoral Student Researcher - University of Nebraska at Omaha_  
 [@Paper_Monkeys](https://twitter.com/Paper_Monkeys)  
 
 Kevin is a doctoral candidate at the University of Nebraska at Omaha. His concentration is on Human-Centered Computing (HCC) and Project Management. His research focus is on design and community health metrics in the context of corporate-communal open source projects and open agriculture projects. He is a charter member and maintainer for the CHAOSS project.  
@@ -44,10 +40,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ###  Elizabeth Barron  
 
-![Elizabeth Barron]()<br><br><br><br><br>   
-
-_CHAOSS Community Manager_  
-
+![Elizabeth Barron]()_CHAOSS Community Manager_  
 [@ElizabethN](https://twitter.com/ElizabethN)
 
 Elizabeth has spent 20+ years in open source, with the bulk of her career in community management. She currently works as the Community Manager for CHAOSS, and previously was in community management at GitHub, Pivotal/VMWare, Engine Yard and Sourceforge. She is also a professional nature and botanical photographer. Elizabeth lives in Cincinnati, Ohio.
@@ -58,10 +51,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ### Isabella Ferreira  
 
-![Isabella Ferreira](https://twitter.com/isaferreira_57/photo)<br><br><br><br><br>  
-
-_PhD Candidate in Computer Engineering, Polytechnique Montréal_  
-
+![Isabella Ferreira](https://twitter.com/isaferreira_57/photo)_PhD Candidate in Computer Engineering, Polytechnique Montréal_  
 [@isaferreira_57](https://twitter.com/isaferreira_57)  
 
 Isabella Ferreira is currently a PhD candidate at Polytechnique Montréal working under the direction of Dr. Jinghui Cheng and Dr. Bram Adams. Her research focuses on investigating (in)civility in Free/Libre and Open Source Software (FLOSS) communities. Her main research interests are mining software repositories, affective computing, and software maintenance and evolution.  
@@ -72,9 +62,7 @@ Code review is an important quality assurance activity for open source software 
 
 ### Stephen Jacobs
 
-![Stephen Jacobs](https://www.facesofopensource.com/stephen-jacobs-2/)<br><br><br><br><br>  
-
-_Director, Open@RIT, Rochester Institute of Technology_  
+![Stephen Jacobs](https://www.facesofopensource.com/stephen-jacobs-2/)_Director, Open@RIT, Rochester Institute of Technology_  
 
 Stephen Jacobs is the director of Open@RIT, a research center and the OSPO for the Rochester Institute of Technology. He serves on the steering committee of the TODO Group, is a member of the CHAOSS Value working group and was a pre-board organizer of the recently announced O3D Foundation. Jacobs has been teaching RIT classes in Open Source for thirteen years and  led the development of RIT’s academic minor in “Free and Open Source Software and Free Culture” the first of it’s kind in the country and the culminating piece in RIT’s FOSS across the curriculum offerings at the university.   
 
@@ -84,11 +72,9 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ### Emi Simpson
 
-![Emi Simpson]()<br><br><br><br><br>  
+![Emi Simpson]()_Director, Open@RIT, Rochester Institute of Technology_  
 
-_Director, Open@RIT, Rochester Institute of Technology_  
-
-Bio Coming Soon  
+Bio Coming Soon<br><br><br><br><br><br><br><br>
 
 <details><summary><b>Session: Mystic - An initial effort in academic metrics, impact and community</b></summary>
 The last few years have seen a significant uptick in interest in the concept of Open Source Program Offices in academic and governmental entities. Last year the EU adopted an Open Source Strategy for 2020-2023.  This year, the United States, The National Academies for Science, Engineering and Mathematics, has called for presidents and provosts of colleges and universities to significantly increase support for Open Work across all colleges and universities in the US. This panel will start with members of the OSPO++ working group (that meets regularly to encourage the creation of municipal and academic OSPOs) will briefly introduce attendees to the needs of these developer and user communities. It will then move to a demo of Mystic, and Open@RIT effort to use GrimoireLab to collect data and display data on faculty Open Work contributions. Questions for all panelists will be encouraged in the last ten minutes.  
@@ -96,11 +82,9 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ### Xiaoya Xia
 
-![Xiaoya Xia](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)<br><br><br><br><br>   
+![Xiaoya Xia](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)_Master Degree Student, East China Normal University_  
 
-_Master Degree Student, East China Normal University_  
-
-Xiaoya is a postgraduate Student at East China Normal University  
+Xiaoya is a postgraduate Student at East China Normal University<br><br><br><br><br><br><br><br>
 
 <details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
@@ -108,11 +92,9 @@ The purpose of defining metrics is to continuously improve the workflow, empower
 
 ### King Gao
 
-![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)<br><br><br><br><br>   
+![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)_Technical Expert --- Huawei 2012 Laboratory_  
 
-_Technical Expert --- Huawei 2012 Laboratory_  
-
-King worked at Huawei for 10 years and six years of open source governance experience. He started to participate in the open source community last year. CHAOSS is the first open source community he has participated in.  
+King worked at Huawei for 10 years and six years of open source governance experience. He started to participate in the open source community last year. CHAOSS is the first open source community he has participated in.<br><br><br><br><br><br>  
 
 <details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
@@ -120,10 +102,7 @@ The purpose of defining metrics is to continuously improve the workflow, empower
 
 ### Sean Goggins
 
-![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sean-goggins.png)<br><br><br><br><br>  
-
-_Associate Professor - University of Missouri_  
-
+![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sean-goggins.png)_Associate Professor - University of Missouri_  
 [@sociallycompute](https://twitter.com/sociallycompute)  
 
 Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented wtih on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.  
@@ -145,9 +124,7 @@ Approach. The metrics we then implemented using the CHAOSS Project’s Augur sof
 
 ### Anita Ihuman  
 
-![Anita Ihuman](https://drive.google.com/file/d/1sZ-PqGXqJ2XVFmjKmzBL46nG4IwhgaOK/view?usp=sharing)<br><br><br><br><br>  
-
-_Software Developer, CHAOSS_  
+![Anita Ihuman](https://drive.google.com/file/d/1sZ-PqGXqJ2XVFmjKmzBL46nG4IwhgaOK/view?usp=sharing)_Software Developer, CHAOSS_  
 
 Anita is a Software Developer, an Author and a Speaker who enjoys sharing information through Public Speaking and Technical Writing. She loves learning, teaching, and engaging with the Open Source communities. She is a reviewer for the CHAOSS Diversity and Inclusion Badging initiative. She is a community manager at Layer5, an organization that represents the largest Service Mesh projects and their maintainers in the world.  
 
