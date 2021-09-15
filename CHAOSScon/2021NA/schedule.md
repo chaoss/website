@@ -22,5 +22,6 @@
 |11:55 - 12:20|**Lightning Talks**<br>Signup available the day of the conference| | |
 |12:20 - 12:30|**Closing Remarks**<br>[Georg Link]()|
 |12:30|**Group Photo with Conference Participants**|
+| | |
 |TBD|**CHAOSS Networking Event**<br>Subscribe to the #CHAOSScon [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) for news about CHAOSS meetups in Seattle|
 | | |
