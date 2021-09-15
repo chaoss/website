@@ -52,7 +52,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 _CHAOSS Community Manager_  
 
-[@Twitter]()
+[@ElizabethN](https://twitter.com/ElizabethN)
 
 Elizabeth has spent 20+ years in open source, with the bulk of her career in community management. She currently works as the Community Manager for CHAOSS, and previously was in community management at GitHub, Pivotal/VMWare, Engine Yard and Sourceforge. She is also a professional nature and botanical photographer. Elizabeth lives in Cincinnati, Ohio.
 
@@ -94,15 +94,7 @@ _Director, Open@RIT, Rochester Institute of Technology_
 
 Bio Coming Soon  
 
-<details><summary><b>Session: Characterizing and Detecting Incivility in Open Source Code Review Discussions</b></summary>
-Code review is an important quality assurance activity for open source software development. Yet, code review discussions among developers and maintainers can be heated and sometimes involve personal attacks and unnecessary disrespectful comments, demonstrating, therefore, incivility. Although incivility in public discussions has received increasing attention from researchers in different domains, the understanding of this phenomenon is still very limited in the context of software development and, more specifically, code review. To address this gap, this proposed talk will present the results of a qualitative analysis conducted on 1,545 emails from the Linux Kernel Mailing List (LKML) that were associated with rejected changes. From this analysis, we identified the features of discussion of civil and uncivil communication as well as the causes and consequences of uncivil communication. Based on our results and with the goal to create healthier and more attractive open source communities, we will also discuss in this talk (i) approaches that could be used to address incivility before and after it happens, (ii) pitfalls to avoid when trying to automatically detect incivility, and (iii) heuristics for detecting incivility in code review discussions.  
-</details>  
-
 <details><summary><b>Session: Mystic - An initial effort in academic metrics, impact and community</b></summary>
-The last few years have seen a significant uptick in interest in the concept of Open Source Program Offices in academic and governmental entities. Last year the EU adopted an Open Source Strategy for 2020-2023.  This year, the United States, The National Academies for Science, Engineering and Mathematics, has called for presidents and provosts of colleges and universities to significantly increase support for Open Work across all colleges and universities in the US. This panel will start with members of the OSPO++ working group (that meets regularly to encourage the creation of municipal and academic OSPOs) will briefly introduce attendees to the needs of these developer and user communities. It will then move to a demo of Mystic, and Open@RIT effort to use GrimoireLab to collect data and display data on faculty Open Work contributions. Questions for all panelists will be encouraged in the last ten minutes.  
-</details>  
-
-<details><summary<b>Session: Mystic - An initial effort in academic metrics, impact and community</b></summary>
 The last few years have seen a significant uptick in interest in the concept of Open Source Program Offices in academic and governmental entities. Last year the EU adopted an Open Source Strategy for 2020-2023.  This year, the United States, The National Academies for Science, Engineering and Mathematics, has called for presidents and provosts of colleges and universities to significantly increase support for Open Work across all colleges and universities in the US. This panel will start with members of the OSPO++ working group (that meets regularly to encourage the creation of municipal and academic OSPOs) will briefly introduce attendees to the needs of these developer and user communities. It will then move to a demo of Mystic, and Open@RIT effort to use GrimoireLab to collect data and display data on faculty Open Work contributions. Questions for all panelists will be encouraged in the last ten minutes.  
 </details>  
 
@@ -114,7 +106,7 @@ _Master Degree Student, East China Normal University_
 
 Xiaoya is a postgraduate Student at East China Normal University  
 
-<details><summary<b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
+<details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
 </details>  
 
@@ -126,7 +118,7 @@ _Technical Expert --- Huawei 2012 Laboratory_
 
 King worked at Huawei for 10 years and six years of open source governance experience. He started to participate in the open source community last year. CHAOSS is the first open source community he has participated in.  
 
-<details><summary<b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
+<details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
 </details>  
 
@@ -174,4 +166,17 @@ This presentation will provide a holistic view of:
 * Ideas on how the badging process may be improved  
 
 In particular, we will highlight the people, technologies, and processes that have made the CHAOSS DEI Badging Initiative a success to date.  
-</details>  
+</details> 
+
+<details><summary><b>Session: CHAOSS DEI Badging - From There to Here</b></summary>
+The CHAOSS project would like to share our experience developing, and implementing a peer reviewed event badging program.  
+
+The value of appreciating and acknowledging diversity, equity, and inclusion (DEI) in open source communities is underestimated. It is critical to bring together people with different backgrounds, mindsets, ideas and experiences to work for a common cause. The CHAOSS Diversity, Equity, and Inclusion Badging Initiative awards badges to events based on their adherence to and prioritization of DEI best practices. The initiative aims to increase understanding of project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.  
+
+This presentation will provide a holistic view of:  
+* The CHAOSS DEI Badging Initiative  
+* Examples of badged events and lessons learned from the process  
+* Ideas on how the badging process may be improved  
+
+In particular, we will highlight the people, technologies, and processes that have made the CHAOSS DEI Badging Initiative a success to date. 
+</details> 
