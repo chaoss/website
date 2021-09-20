@@ -79,7 +79,7 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ### Emi Simpson
 
-![Emi Simpson](https://chaoss.github.io/website/CHAOSScon/2021NA/images/emi-simpson.png)_Director, Open@RIT, Rochester Institute of Technology_  
+![Emi Simpson](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/images/no-image-available.png)_Director, Open@RIT, Rochester Institute of Technology_  
 
 Emi (any pronouns except she/her) is a full-stack developer for Open@RIT, and the lead developer for the open source community health metrics dashboard, Mystic.  Although xe's done work all over the open source community, Emi holds a particular interest in decentralized open source projects, ethical source, and of course, the art of building inclusive and healthy open source communities and ecosystems.
 
