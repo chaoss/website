@@ -12,7 +12,7 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 
 ### Emma Irwin
 
-![Emma Irwin](https://chaoss.github.io/website/CHAOSScon/2021NA/images/emma-irwin.png)_Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_
+![Emma Irwin](https://chaoss.github.io/website/CHAOSScon/2021NA/images/emma-irwin.png)_Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_  
 [@sunnydeveloper](https://twitter.com/sunnydeveloper)
 
 "During a successful career as a software developer, Emma discovered open source and was inspired by the potential of developing software collaboratively - especially the opportunity to connect with others around shared purpose.  This led to contribution and participation in many projects over the years including Drupal, MySQL and Mozilla - she even maintained a few of her own small projects.  
