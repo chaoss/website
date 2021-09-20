@@ -44,7 +44,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ###  Elizabeth Barron  
 
-![Elizabeth Barron]()_CHAOSS Community Manager_  
+![Elizabeth Barron](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/images/elizabeth_avatar_preview.jpeg)_CHAOSS Community Manager_  
 [@ElizabethN](https://twitter.com/ElizabethN)
 
 Elizabeth has spent 20+ years in open source, with the bulk of her career in community management. She currently works as the Community Manager for CHAOSS, and previously was in community management at GitHub, Pivotal/VMWare, Engine Yard and Sourceforge. She is also a professional nature and botanical photographer. Elizabeth lives in Cincinnati, Ohio.
