@@ -135,7 +135,7 @@ Approach. The metrics we then implemented using the CHAOSS Project’s Augur sof
 
 ### Anita Ihuman  
 
-![Anita Ihuman](https://chaoss.github.io/website/CHAOSScon/2021NA/images/anita-ihuman.png)_Software Developer, CHAOSS_  
+![Anita Ihuman](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/images/anita-ihuman.png)_Software Developer, CHAOSS_  
 [@Anita_ihuman](https://twitter.com/Anita_ihuman)
 
 Anita is a Software Developer, an Author and a Speaker who enjoys sharing information through Public Speaking and Technical Writing. She loves learning, teaching, and engaging with the Open Source communities. She is a reviewer for the CHAOSS Diversity and Inclusion Badging initiative. She is a community manager at Layer5, an organization that represents the largest Service Mesh projects and their maintainers in the world.  
