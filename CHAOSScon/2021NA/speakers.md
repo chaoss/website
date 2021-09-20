@@ -92,22 +92,23 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ![Xiaoya Xia](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)_Master Degree Student, East China Normal University_  
 
-Xiaoya is a postgraduate student at East China Normal University. Her major is software engineering. She has two years of experience in open source, and one of the research topics is data-driven open source collaboration and community governance. She became a technical writer of CHAOSS D&I Badging project in 2020, then participated in growing the CHAOSS community in Asia Pacific region.<br><br><br><br><br><br><br><br>
+Xiaoya is a postgraduate student at East China Normal University. Her major is software engineering. She has two years of experience in open source, and one of the research topics is data-driven open source collaboration and community governance. She became a technical writer of CHAOSS D&I Badging project in 2020, then participated in growing the CHAOSS community in Asia Pacific region.
 
 <details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
-</details>  
-<br>  
+</details>   
+<br> 
 
 ### King Gao
 
 ![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)_Technical Expert --- Huawei 2012 Laboratory_  
 
-King Gao is an engineer from Huawei Technologies Co.,Ltd and has 6 years of experience in open source governance. His focus is on compliance and operations in open source communities. He founded CHAOSS' Asia-Pacific meeting and organized CHAOSS's first China meetup. CHAOSS is the first community in his life, and he is very glad to participate in CHAOSS. King is also a board member in the OpenChain project under the Linux foundation.<br><br><br><br><br><br>  
+King Gao is an engineer from Huawei Technologies Co.,Ltd and has 6 years of experience in open source governance. His focus is on compliance and operations in open source communities. He founded CHAOSS' Asia-Pacific meeting and organized CHAOSS's first China meetup. CHAOSS is the first community in his life, and he is very glad to participate in CHAOSS. King is also a board member in the OpenChain project under the Linux foundation.
 
 <details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
 </details>  
+<br> 
 
 ### Sean Goggins
 
@@ -130,6 +131,7 @@ To answer these questions we worked across Linux Foundation projects to identify
 
 Approach. The metrics we then implemented using the CHAOSS Project’s Augur software will demonstrate one approach for visualizing and assessing dependency risk across large project portfolios.  The key takeaway is it is work measuring the riskiness of a piece of software you're using or dependent on.  
 </details>  
+<br> 
 
 ### Anita Ihuman  
 
