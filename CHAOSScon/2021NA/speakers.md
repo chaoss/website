@@ -44,7 +44,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ###  Elizabeth Barron  
 
-![Elizabeth Barron]()_CHAOSS Community Manager_  
+![Elizabeth Barron](https://chaoss.github.io/website/CHAOSScon/2021NA/images/elizabeth-barron.png)_CHAOSS Community Manager_  
 [@ElizabethN](https://twitter.com/ElizabethN)
 
 Elizabeth has spent 20+ years in open source, with the bulk of her career in community management. She currently works as the Community Manager for CHAOSS, and previously was in community management at GitHub, Pivotal/VMWare, Engine Yard and Sourceforge. She is also a professional nature and botanical photographer. Elizabeth lives in Cincinnati, Ohio.
@@ -56,7 +56,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ### Isabella Ferreira  
 
-![Isabella Ferreira]()_PhD Candidate in Computer Engineering, Polytechnique Montréal_  
+![Isabella Ferreira](https://chaoss.github.io/website/CHAOSScon/2021NA/images/isabella-ferreira.png)_PhD Candidate in Computer Engineering, Polytechnique Montréal_  
 [@isaferreira_57](https://twitter.com/isaferreira_57)  
 
 Isabella Ferreira is currently a PhD candidate at Polytechnique Montréal working under the direction of Dr. Jinghui Cheng and Dr. Bram Adams. Her research focuses on investigating (in)civility in Free/Libre and Open Source Software (FLOSS) communities. Her main research interests are mining software repositories, affective computing, and software maintenance and evolution.  
@@ -68,7 +68,7 @@ Code review is an important quality assurance activity for open source software 
 
 ### Stephen Jacobs
 
-![Stephen Jacobs]()_Director, Open@RIT, Rochester Institute of Technology_  
+![Stephen Jacobs](https://chaoss.github.io/website/CHAOSScon/2021NA/images/stephen-jacobs.png)_Director, Open@RIT, Rochester Institute of Technology_  
 
 Stephen Jacobs is the director of Open@RIT, a research center and the OSPO for the Rochester Institute of Technology. He serves on the steering committee of the TODO Group, is a member of the CHAOSS Value working group and was a pre-board organizer of the recently announced O3D Foundation. Jacobs has been teaching RIT classes in Open Source for thirteen years and  led the development of RIT’s academic minor in “Free and Open Source Software and Free Culture” the first of it’s kind in the country and the culminating piece in RIT’s FOSS across the curriculum offerings at the university.   
 
@@ -79,7 +79,7 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ### Emi Simpson
 
-![Emi Simpson]()_Director, Open@RIT, Rochester Institute of Technology_  
+![Emi Simpson](https://chaoss.github.io/website/CHAOSScon/2021NA/images/emi-simpson.png)_Director, Open@RIT, Rochester Institute of Technology_  
 
 Emi (any pronouns except she/her) is a full-stack developer for Open@RIT, and the lead developer for the open source community health metrics dashboard, Mystic.  Although xe's done work all over the open source community, Emi holds a particular interest in decentralized open source projects, ethical source, and of course, the art of building inclusive and healthy open source communities and ecosystems.
 
@@ -103,9 +103,7 @@ The purpose of defining metrics is to continuously improve the workflow, empower
 
 ![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)_Technical Expert --- Huawei 2012 Laboratory_  
 
-"King Gao is an engineer from Huawei Technologies Co.,Ltd and has 6 years of experience in open source governance. He focus is on compliance and operations in open source communities. He founded CHAOSS' Asia-Pacific meeting and organized CHAOSS's first China meetup. CHAOSS is the first community in his life, and he is very glad to participate in CHAOSS. King is also a board member in the OpenChain project under the Linux foundation.
-
- ".<br><br><br><br><br><br>  
+King Gao is an engineer from Huawei Technologies Co.,Ltd and has 6 years of experience in open source governance. His focus is on compliance and operations in open source communities. He founded CHAOSS' Asia-Pacific meeting and organized CHAOSS's first China meetup. CHAOSS is the first community in his life, and he is very glad to participate in CHAOSS. King is also a board member in the OpenChain project under the Linux foundation.<br><br><br><br><br><br>  
 
 <details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
@@ -135,7 +133,7 @@ Approach. The metrics we then implemented using the CHAOSS Project’s Augur sof
 
 ### Anita Ihuman  
 
-![Anita Ihuman](https://drive.google.com/file/d/1sZ-PqGXqJ2XVFmjKmzBL46nG4IwhgaOK/view?usp=sharing)_Software Developer, CHAOSS_  
+![Anita Ihuman](https://chaoss.github.io/website/CHAOSScon/2021NA/images/anita-ihuman.png)_Software Developer, CHAOSS_  
 [@Anita_ihuman](https://twitter.com/Anita_ihuman)
 
 Anita is a Software Developer, an Author and a Speaker who enjoys sharing information through Public Speaking and Technical Writing. She loves learning, teaching, and engaging with the Open Source communities. She is a reviewer for the CHAOSS Diversity and Inclusion Badging initiative. She is a community manager at Layer5, an organization that represents the largest Service Mesh projects and their maintainers in the world.  
