@@ -13,6 +13,7 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 ### Emma Irwin
 
 ![Emma Irwin]()_Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_
+[@sunnydeveloper](https://twitter.com/sunnydeveloper)
 
 "During a successful career as a software developer, Emma discovered open source and was inspired by the potential of developing software collaboratively - especially the opportunity to connect with others around shared purpose.  This led to contribution and participation in many projects over the years including Drupal, MySQL and Mozilla - she even maintained a few of her own small projects.  
 
@@ -80,7 +81,7 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ![Emi Simpson]()_Director, Open@RIT, Rochester Institute of Technology_  
 
-Bio Coming Soon<br><br><br><br><br><br><br><br>
+Emi (any pronouns except she/her) is a full-stack developer for Open@RIT, and the lead developer for the open source community health metrics dashboard, Mystic.  Although xe's done work all over the open source community, Emi holds a particular interest in decentralized open source projects, ethical source, and of course, the art of building inclusive and healthy open source communities and ecosystems.
 
 <details><summary><b>Session: Mystic - An initial effort in academic metrics, impact and community</b></summary>
 The last few years have seen a significant uptick in interest in the concept of Open Source Program Offices in academic and governmental entities. Last year the EU adopted an Open Source Strategy for 2020-2023.  This year, the United States, The National Academies for Science, Engineering and Mathematics, has called for presidents and provosts of colleges and universities to significantly increase support for Open Work across all colleges and universities in the US. This panel will start with members of the OSPO++ working group (that meets regularly to encourage the creation of municipal and academic OSPOs) will briefly introduce attendees to the needs of these developer and user communities. It will then move to a demo of Mystic, and Open@RIT effort to use GrimoireLab to collect data and display data on faculty Open Work contributions. Questions for all panelists will be encouraged in the last ten minutes.  
@@ -133,6 +134,7 @@ Approach. The metrics we then implemented using the CHAOSS Project’s Augur sof
 ### Anita Ihuman  
 
 ![Anita Ihuman](https://drive.google.com/file/d/1sZ-PqGXqJ2XVFmjKmzBL46nG4IwhgaOK/view?usp=sharing)_Software Developer, CHAOSS_  
+[@Anita_ihuman](https://twitter.com/Anita_ihuman)
 
 Anita is a Software Developer, an Author and a Speaker who enjoys sharing information through Public Speaking and Technical Writing. She loves learning, teaching, and engaging with the Open Source communities. She is a reviewer for the CHAOSS Diversity and Inclusion Badging initiative. She is a community manager at Layer5, an organization that represents the largest Service Mesh projects and their maintainers in the world.  
 
