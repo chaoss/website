@@ -12,7 +12,7 @@ Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Fo
 
 ### Emma Irwin
 
-![Emma Irwin](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/images/elizabeth_avatar_preview.jpeg)_Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_
+![Emma Irwin]()_Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_
 [@sunnydeveloper](https://twitter.com/sunnydeveloper)
 
 "During a successful career as a software developer, Emma discovered open source and was inspired by the potential of developing software collaboratively - especially the opportunity to connect with others around shared purpose.  This led to contribution and participation in many projects over the years including Drupal, MySQL and Mozilla - she even maintained a few of her own small projects.  
@@ -44,7 +44,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ###  Elizabeth Barron  
 
-![Elizabeth Barron](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/images/elizabeth_avatar_preview.jpeg)_CHAOSS Community Manager_  
+![Elizabeth Barron]()_CHAOSS Community Manager_  
 [@ElizabethN](https://twitter.com/ElizabethN)
 
 Elizabeth has spent 20+ years in open source, with the bulk of her career in community management. She currently works as the Community Manager for CHAOSS, and previously was in community management at GitHub, Pivotal/VMWare, Engine Yard and Sourceforge. She is also a professional nature and botanical photographer. Elizabeth lives in Cincinnati, Ohio.
@@ -56,7 +56,7 @@ This talk will present the preliminary results from 40 interviews with corporate
 
 ### Isabella Ferreira  
 
-![Isabella Ferreira](https://twitter.com/isaferreira_57/photo)_PhD Candidate in Computer Engineering, Polytechnique Montréal_  
+![Isabella Ferreira]()_PhD Candidate in Computer Engineering, Polytechnique Montréal_  
 [@isaferreira_57](https://twitter.com/isaferreira_57)  
 
 Isabella Ferreira is currently a PhD candidate at Polytechnique Montréal working under the direction of Dr. Jinghui Cheng and Dr. Bram Adams. Her research focuses on investigating (in)civility in Free/Libre and Open Source Software (FLOSS) communities. Her main research interests are mining software repositories, affective computing, and software maintenance and evolution.  
@@ -68,7 +68,7 @@ Code review is an important quality assurance activity for open source software 
 
 ### Stephen Jacobs
 
-![Stephen Jacobs](https://www.facesofopensource.com/stephen-jacobs-2/)_Director, Open@RIT, Rochester Institute of Technology_  
+![Stephen Jacobs]()_Director, Open@RIT, Rochester Institute of Technology_  
 
 Stephen Jacobs is the director of Open@RIT, a research center and the OSPO for the Rochester Institute of Technology. He serves on the steering committee of the TODO Group, is a member of the CHAOSS Value working group and was a pre-board organizer of the recently announced O3D Foundation. Jacobs has been teaching RIT classes in Open Source for thirteen years and  led the development of RIT’s academic minor in “Free and Open Source Software and Free Culture” the first of it’s kind in the country and the culminating piece in RIT’s FOSS across the curriculum offerings at the university.   
 
@@ -92,7 +92,7 @@ The last few years have seen a significant uptick in interest in the concept of 
 
 ![Xiaoya Xia](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)_Master Degree Student, East China Normal University_  
 
-Xiaoya is a postgraduate Student at East China Normal University<br><br><br><br><br><br><br><br>
+Xiaoya is a postgraduate student at East China Normal University. Her major is software engineering. She has two years of experience in open source, and one of the research topics is data-driven open source collaboration and community governance. She became a technical writer of CHAOSS D&I Badging project in 2020, then participated in growing the CHAOSS community in Asia Pacific region.<br><br><br><br><br><br><br><br>
 
 <details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
@@ -103,7 +103,9 @@ The purpose of defining metrics is to continuously improve the workflow, empower
 
 ![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)_Technical Expert --- Huawei 2012 Laboratory_  
 
-King worked at Huawei for 10 years and six years of open source governance experience. He started to participate in the open source community last year. CHAOSS is the first open source community he has participated in.<br><br><br><br><br><br>  
+"King Gao is an engineer from Huawei Technologies Co.,Ltd and has 6 years of experience in open source governance. He focus is on compliance and operations in open source communities. He founded CHAOSS' Asia-Pacific meeting and organized CHAOSS's first China meetup. CHAOSS is the first community in his life, and he is very glad to participate in CHAOSS. King is also a board member in the OpenChain project under the Linux foundation.
+
+ ".<br><br><br><br><br><br>  
 
 <details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
 The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
