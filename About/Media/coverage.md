@@ -4,6 +4,8 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2021
 
+* VMware. (2021, September 17). **VMware: Measuring Constructiveness and Inclusivity in Open Source – Part 1.** MarketScreener. Retrieved September 20, 2021 from: https://www.marketscreener.com/quote/stock/VMWARE-INC-58476/news/VMware-Measuring-Constructiveness-and-Inclusivity-in-Open-Source-ndash-Part-1-36456294/
+
 * Foster, Q. (2021, September 10). **Building an open source community health analytics platform.** Opensource.Com. Retrieved September 15, 2021 from: https://opensource.com/article/21/9/openrit-mystic
 
 * Foster, Q. (2021, September 4). **Essential open source tools for an academic organization.** Opensource.Com. Retrieved September 8, 2021 from: https://opensource.com/article/21/9/open-source-tools-ospo
