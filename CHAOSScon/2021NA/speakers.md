@@ -19,12 +19,10 @@
 
 Emma brought her passion for technology and people into her role as an open source strategist at Mozilla where she spent seven years focused on empowering product teams, and their contributors. She's most proud of her of her work developing the first-ever diversity, equity, and inclusion strategy for open source communities, and contributing this work to the CHAOSS D&I working group. Emma now brings that same passion for people and open source to her role as a PM Microsoft's Open Source Programs Office (OSPO). She can't believe her good fortune to be working with Stormy Peters and the rest of the talented OSPO team and hopes this isn't just a dream!"  
 
-<details><summary><b>Keynote: Looking in the mirror - A holistic approach to evaluating and measuring organizational success in open source</b></summary>
-The emergence of the Open Source Programs Office (OSPO) across industry, government, and academia, reflects a growing awareness that success in open source requires policy, procedure, tools, collaborations and especially the empowerment of people within those organizations to achieve more, and to contribute more.  
+<details><summary><b>Keynotez All of the People, All of the Time: A holistic approach to building empowered open source culture in your organization</b></summary>
+As an ecosystem, open source has been making vast improvements in how we think about and design for community and contributor success. What's lacking is an investment, and common language needed to build healthy open source culture inside organizations; the success of which can have direct and lasting impact in communities, and the products we're working on together.  
 
-From the perspective of open source metrics, this trend likely requires an expansion of open source metrics, that have historically focused on volunteer contributors , to include outcomes of organizational investment (people, time, sustainability efforts).  
-
-In this talk, I’ll share ways Microsoft’s OSPO has approached organizational metrics from the perspective of engineering excellence, empowerment of people including goals to contribute back, and fund the ecosystem of which we are humbly a part.  
+In this talk, Emma will share how she evaluates and designs for a healthy, and inclusive open source culture within Microsoft using building blocks of empowerment, purpose, trust and belonging.  
 </details>
 <br>  
 
