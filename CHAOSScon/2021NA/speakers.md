@@ -19,9 +19,9 @@
 
 Emma brought her passion for technology and people into her role as an open source strategist at Mozilla where she spent seven years focused on empowering product teams, and their contributors. She's most proud of her of her work developing the first-ever diversity, equity, and inclusion strategy for open source communities, and contributing this work to the CHAOSS D&I working group. Emma now brings that same passion for people and open source to her role as a PM Microsoft's Open Source Programs Office (OSPO). She can't believe her good fortune to be working with Stormy Peters and the rest of the talented OSPO team and hopes this isn't just a dream!"  
 
-<details><summary><b>Keynotez All of the People, All of the Time: A holistic approach to building empowered open source culture in your organization</b></summary>
+<details><summary><b>Keynote: All of the People, All of the Time: A holistic approach to building empowered open source culture in your organization</b></summary>
 As an ecosystem, open source has been making vast improvements in how we think about and design for community and contributor success. What's lacking is an investment, and common language needed to build healthy open source culture inside organizations; the success of which can have direct and lasting impact in communities, and the products we're working on together.  
-
+  
 In this talk, Emma will share how she evaluates and designs for a healthy, and inclusive open source culture within Microsoft using building blocks of empowerment, purpose, trust and belonging.  
 </details>
 <br>  
