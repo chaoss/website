@@ -6,7 +6,7 @@ Seattle, WA 98101
 
 Phone: 1-206-973-1234  
 
-Room: TBA  
+Room: 301 - Ashnola 
 
 ### When
 September 30, 2021  
