@@ -1,5 +1,5 @@
 ## Schedule
-### September 30, 2021 9:00 am to 12:30 pm
+### September 30, 2021 9:00 am to 12:30 pm Pacific Daylight Time (PDT)
 
 |Time|Sessions|
 |---|---|
