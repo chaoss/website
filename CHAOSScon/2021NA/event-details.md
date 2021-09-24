@@ -21,4 +21,4 @@ Follow [@CHAOSSproj](https://twitter.com/CHAOSSproj) and tweet #CHAOSS #CHAOSSco
 
 Live streaming of CHAOSScon will be available on our [YouTube Channel](https://www.youtube.com/channel/UCrG-a3hIc_hCEUWloG0gm9A/live).
 
-Recorded presentations will be available on [YouTube](https://www.youtube.com/c/CHAOSStube/featured) approxiamately two weeks after the event. 
+Recorded presentations will be available on [YouTube](https://www.youtube.com/c/CHAOSStube/featured) approximately two weeks after the event. 
