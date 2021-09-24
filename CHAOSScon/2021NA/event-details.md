@@ -7,10 +7,6 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 ***For Emergency Services at the event, please dial (911)***
 
-### Registration
-
-[Registration for CHAOSScon is part of the Open Source Summit!](https://events.linuxfoundation.org/open-source-summit-north-america/register/)
-
 ### Social Media and Conference Updates
 
 Subscribe to our [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) #CHAOSScon for updates about the conference and to coordinate meetups.  
