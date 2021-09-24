@@ -10,7 +10,7 @@ Room: 301 - Ashnola
 
 ### When
 September 30, 2021  
-9am to 12:30pm  
+9am to 12:30pm (PDT)
 
 
 ### Live Streaming and Recorded Presentations
