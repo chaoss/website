@@ -6,7 +6,7 @@
 | | | |
 | 8:00 - 9:00|**[In-Person] Networking Meetup (Hallway Track)**<br>Grab a coffee and join us before the conference begins| |
 | | | |
-| 9:00 - 9:10|**[In-Person] Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)|  |
+| 9:00 - 9:10|**[In-Person] Welcome & State of CHAOSS**<br>[Georg Link](#user-content-georg-link)| [PDF](slides/GeorgLink_State-of-CHAOSS.pdf)|
 | 9:10 - 9:40|**[Remote/Live] KEYNOTE<br>_All of the People, All of the Time: A holistic approach to building empowered open source culture in your organization_**<br>[Emma Irwin](#user-content-emma-irwin)| |
 | 9:40 - 9:45|**Break**| |
 | | | |
