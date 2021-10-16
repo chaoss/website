@@ -11,7 +11,7 @@ Identify the degree to which a project is valuable to researchers and academic i
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-academic-open-source-project-impact/">Academic Open Source Project Impact<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>What is the impact of open source projects that an academician or a team of academicians creates as an important part of a university reappointment, tenure, and promotion process?</td><td><a href="https://github.com/chaoss/wg-value/issues/149">Issue 149</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-academic-open-source-project-impact/">Academic Open Source Project Impact</a></td><td>What is the impact of open source projects that an academician or a team of academicians creates as an important part of a university reappointment, tenure, and promotion process?</td><td></td></tr>
 </tbody>
 </table>
 </div>
@@ -57,7 +57,7 @@ Identify the degree to which a project is monetarily valuable from an organizati
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-organizational-influence/">Organizational Influence<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png"></a></td><td>How much influence does an organization have on an open source community?</td><td><a href="https://github.com/chaoss/wg-value/issues/146">Issue 146</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-organizational-influence/">Organizational Influence</a></td><td>How much influence does an organization have on an open source community?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-labor-investment/">Labor Investment</a></td><td>What was the cost of an organization for its employees to create the counted contributions (e.g., commits, issues, and pull requests)?</td><td></td></tr>
 </tbody>
 </table>
