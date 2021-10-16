@@ -2,7 +2,7 @@
 
  *CHAOSS metrics are sorted into Focus Areas. CHAOSS uses a Goal-Question-Metric format to present metrics. Individual metrics are released based on identified goals and questions. The metrics include a detail page with definitions, objectives, and examples.*  
 
-### Dates for Release 2021-010
+### Dates for Release 2021-10
 Release Freeze: September 1st, 2021    
 Public Comment Period: September 1st, 2021 to September 30th, 2021  
 Metrics Release Date: First week of October 2021
