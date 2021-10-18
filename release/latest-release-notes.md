@@ -2,34 +2,42 @@
 
 CHAOSS metrics are released continuously. The regular release is when we update the version number, update the full release notes, and make a big announcement. These releases occur one to two times a year and may correspond with the dates of a CHAOSScon event. Prior to regular release, continuous released metrics go through a comment period of at least 30 days.
 
-## Release 2021-03 Notes:
+## Release 2021-10 Notes:
 
-- [PDF of released CHAOSS Metrics (v.2021-03)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2021-03.pdf)  
+- [PDF of released CHAOSS Metrics (v.2021-10)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2021-10.pdf)  
 - **Common WG**
-  * New metrics include:
-    - Technical fork
-    - Burstiness
-    - Review Cycle Duration within a Change Request
+    * Focus Area Name Revisions:  
+        - People (was "Who")  
+        - Contribution (was "What")  
+        - Time (was "When")  
+        - Place (was "Where")  
+    * New metrics include:   
+        - Bot Activity
+        - Clones
+        - Collaboration Platform Activity
+        - Event Locations
+        - Language Distribution  
+    * Metric Revision:    
+        - Technical Forks          
 - **Diversity & Inclusion WG**
-  * New metrics include:
-    - Chat Platform Inclusivity
-    - Documentation Accessibility
-    - Project Burnout
+    * New metrics include:  
+        - Documentation Discoverability  
+        - Inclusive Experience at Event  
+        - Psychological Safety  
+    * Name Change/Revision:  
+        - Attendee Demographics and Speaker Demographics merged into Event Demographics  
 - **Evolution WG**
-  * New metrics include:
-    - Branch lifecycle
-    - Change Request Acceptance ratio
-  * Name Change/Revision
-    - Change Requests accepted
-    - Change Requests declined
-    - Change Requests Duration
-    - Change Requests
+    * New metrics include:  
+        - Contribution Attribution                
 - **Risk WG**
-  * New metrics include:
-    - SPDX Document
-    - Bus Factor
+    * New Focus Area:  
+        - Dependency Risk Assessment  
+    * New metrics include:  
+        - Libyears  
+        - Upstream Code Dependencies  
 - **Value WG**
-  * New metrics include:
-    - Project popularity
-  * Name Change/Revision
-      - Social Listening
+    * New Focus Area:  
+        - Academic Value  
+    * New metrics include:  
+        - Academic Open Source Project impact  
+        - Organizational Influence 
