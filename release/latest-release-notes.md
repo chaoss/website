@@ -5,7 +5,9 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 ## Release 2021-10 Notes:
 
 - [PDF of released CHAOSS Metrics (v.2021-10)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2021-10.pdf)  
-### Common WG 
+
+**Common WG** 
+
 * Focus Area Name Revisions:  
     - People (was "Who")  
     - Contribution (was "What")  
@@ -20,7 +22,8 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 * Metric Revision:    
     - Technical Forks  
 
-### Diversity & Inclusion WG  
+**Diversity & Inclusion WG**
+
 * New metrics include:  
     - Documentation Discoverability  
     - Inclusive Experience at Event  
@@ -28,18 +31,21 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 * Name Change/Revision:  
     - Attendee Demographics and Speaker Demographics merged into Event Demographics  
 
-### Evolution WG  
+**Evolution WG**
+
 * New metrics include:  
     - Contribution Attribution  
 
-### Risk WG  
+**Risk WG**
+
 * New Focus Area:  
     - Dependency Risk Assessment  
 * New metrics include:  
     - Libyears  
     - Upstream Code Dependencies  
 
-### Value WG  
+**Value WG**
+
 * New Focus Area:  
     - Academic Value  
 * New metrics include:  
