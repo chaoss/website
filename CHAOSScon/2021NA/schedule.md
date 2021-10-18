@@ -18,7 +18,7 @@
 | | | |
 |11:15 - 11:40|**[In-Person] Lightning Talks**<br>Signup available the day of the conference| |
 |11:40 - 12:00|_**[Recorded] Building metrics models based on the state of the art best practices**_<br>[Xiaoya Xia](#user-content-xiaoya-xia) & [King Gao](#user-content-king-gao)|[PDF](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/slides/Xiaoya_King_building-metrics.pdf)|
-|12:00 - 12:10|_**[In-Person] A complex web of open source software dependencies risk**_<br>[Sean Goggins](#user-content-sean-goggins)| |
+|12:00 - 12:10|_**[In-Person] A complex web of open source software dependencies risk**_<br>[Sean Goggins](#user-content-sean-goggins)| [PDF](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/slides/Sean_Complex-web-OSS.pdf)|
 |12:10 - 12:20|_**[Recorded] CHAOSS DEI Badging: From there to here**_<br>[Anita Ihuman](#user-content-anita-ihuman)|[PDF](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/slides/AnitaIhuman_%20DEI-Badging.pdf)|
 | | | |
 |12:20 - 12:30|**[In-Person] Closing Remarks**<br>[Georg Link](#user-content-georg-link)| |
