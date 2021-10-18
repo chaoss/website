@@ -3,9 +3,15 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 ## Continuous Metric Contributions Since Last Release  
 
-(Scheduled for Release 202110)  
+(Scheduled for Release 2022-04)
 
-### Common WG 
+TBA
+
+## Release 2021-10 Notes:
+
+- [PDF of released CHAOSS Metrics (v.2021-10)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2021-10.pdf)  
+
+### Common WG
 * Focus Area Name Revisions:  
     - People (was "Who")  
     - Contribution (was "What")  
