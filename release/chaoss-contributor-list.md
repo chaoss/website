@@ -41,6 +41,7 @@ Carol Chen,
 Carter Landis,
 Chris Clark,
 Christian Cmehil-Warn,
+Clement Li,
 Damien Legay,
 Dani Gellis,
 Daniel German,
@@ -133,8 +134,10 @@ Ray Paik,
 Remy DeCausemaker,
 Ria Gupta,
 Richard Littauer,
+Ritik Malik,
 Robert Lincoln Truesdale III,
 Robert Sanchez,
+RoyceCAI
 Rupa Dachere,
 Ruth Ikegah,
 Saicharan Reddy,
@@ -173,8 +176,14 @@ Vinod Ahuja,
 Vipul Gupta,
 Will Norris,
 Xavier Bol,
-Xiaoya,
+Xiaoya Xia,
+Yash Prakash,
+Yehui Wang,
+zhongjun2,
 Zibby Keaton  
+
+
+
 
 
 Are you eligible to be on this list? You are if you helped in any capacity, for example: Filed an issue. Created a Pull Request. Gave feedback on our work. Please open an issue or post on the mailing list if we've missed anyone.  
