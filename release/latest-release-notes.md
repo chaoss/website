@@ -4,7 +4,9 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 ## Release 2021-10 Notes:
 
-- [PDF of released CHAOSS Metrics (v.2021-10)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2021-10.pdf)  
+- [PDF of released CHAOSS Metrics - English (v.2021-10)](https://chaoss.community/wp-content/uploads/2021/10/English-Release-2021-10-21.pdf)  
+- [PDF of released CHAOSS Metrics - Chinese (v.2021-10)](https://chaoss.community/wp-content/uploads/2021/10/Chinese-Release-2021-10-21.pdf) 
+
 - **Common WG**
     * Focus Area Name Revisions:  
         - People (was "Who")  
