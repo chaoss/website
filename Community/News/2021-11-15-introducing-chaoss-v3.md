@@ -1,7 +1,7 @@
 ---
 author:
   - "Anita Ihuman"
-title: "CHAOSS DEI Badging Initiative V3: Measuring the metrics in Open Source"
+title: "D&I Badging V3: Measuring the metrics in Open Source"
 ---
 
 ![Image of MozFest session](./images/v3.png)
