@@ -18,21 +18,23 @@ Want to get started right away without doing much work? Email a list of reposito
 
 **Shortcuts:**
 1. Core Augur Code → https://github.com/chaoss/augur
-2. Documentation: Getting started with Augur - https://oss-augur.readthedocs.io/en/master/getting-started/toc.html
+2. Documentation: Getting started with Augur - https://oss-augur.readthedocs.io/en/main/getting-started/toc.html
 
 
 # Leading Augur Contributors
  - The CHAOSS Community
  - Carter Landis
+ - Andrew Brain
+ - Issac Milarsky
  - Gabe Heim
  - Derek Howard
  - Jonah Zukowsky
  - Elita Nelson
  - Carolyn Perniciaro
- - Andrew Brain
  - Keanu Nichols
  - Parth Sharma
  - Christian Cmheil-Warn
  - Matt Snell
  - Michael Woodruff
  - Sean Goggins
+ - Dhruv Sachdev
