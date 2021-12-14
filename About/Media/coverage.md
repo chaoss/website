@@ -4,9 +4,9 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2021
 
-Littauer, R., Nickolls, B., Hill, J., & Wright, M. (2021). **Sustain in 2021.** Sustain Community. Retrieved December 14, 2021 from: https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf
+* Littauer, R., Nickolls, B., Hill, J., & Wright, M. (2021). **Sustain in 2021.** Sustain Community. Retrieved December 14, 2021 from: https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf
 
-Finley, K. (2021, December 14). **The secrets to onboarding new open source contributors.** The ReadME Project. Retrieved December 14, 2021 from: https://github.com/readme/featured/contributor-onboarding
+* Finley, K. (2021, December 14). **The secrets to onboarding new open source contributors.** The ReadME Project. Retrieved December 14, 2021 from: https://github.com/readme/featured/contributor-onboarding
 
 * Link, G. (2021, September 19). **5 best practices for using open source community leaderboards.** Opensource.Com. Retrieved September 21, 2021 from: https://opensource.com/article/21/9/community-leaderboard
 
