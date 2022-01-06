@@ -4,7 +4,9 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2021
 
-* Littauer, R., Nickolls, B., Hill, J., & Wright, M. (2021). **Sustain in 2021.** Sustain Community. Retrieved December 14, 2021 from: https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf
+* Justin W. Flory. (2021, December 31). **4 metrics to measure sustainable open source investments.** Justin W. Flory’s Blog. Retrieved January 6, 2022 from: https://blog.jwf.io/2021/12/4-metrics-open-source-investments/
+
+* Littauer, R., Nickolls, B., Hill, J., & Wright, M. (December, 2021). **Sustain in 2021.** Sustain Community. Retrieved December 14, 2021 from: https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf
 
 * Finley, K. (2021, December 14). **The secrets to onboarding new open source contributors.** The ReadME Project. Retrieved December 14, 2021 from: https://github.com/readme/featured/contributor-onboarding
 
