@@ -1,12 +1,10 @@
----
-author:
-  - "Anita Ihuman"
-title: "CHAOSS DEI Badging Initiative V3: Measuring the metrics in Open Source"
----
+# CHAOSS DEI Badging Initiative V3: Measuring the metrics in Open Source
 
-![Image of MozFest session](./images/v3.png)
+by Anita Ihuman
 
-## Introduction
+![Image of MozFest session](https://raw.githubusercontent.com/chaoss/website/main/Community/News/images/V3.png)
+
+## CHAOSS DEI V3
 
 It's been a year since the introduction of the CHAOSS DEI (Diversity Equity and Inclusion) badging initiative in the September of 2020, and we are happy to announce the release of CHAOSS DEI V3. This version introduces new and well-defined metrics and improved guidelines for reviewers. The CHAOSS DEI badging Initiative will also be issuing badges to open source projects in this new version.
 
