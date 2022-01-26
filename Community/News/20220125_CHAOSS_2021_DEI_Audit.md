@@ -1,25 +1,3 @@
-<!-----
-
-Yay, no errors, warnings, or alerts!
-
-Conversion time: 0.472 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β33
-* Tue Jan 25 2022 10:08:21 GMT-0800 (PST)
-* Source doc: CHAOSS DEI Audit Blog Post
------>
-
-
 In early spring of 2021, the CHAOSS project embarked on a 9-month journey to reflect on its own practices and policies surrounding diversity, equity, and inclusion within the project. We were fortunate enough to receive a grant from the Ford Foundation to complete this work with the idea that we could not only improve DEI in our own project but also help other open source projects who are wanting to do the same. Centering DEI in an open source project creates a healthier and more productive environment for current members, it helps lower the barrier to contribution for others, and it fosters a more diverse and stronger community. This audit was a fantastic experience and in 2022 we will be continuing to implement ideas that stemmed from this work.
 
 
@@ -33,12 +11,14 @@ In order to increase our chances for a successful outcome, we realized we needed
 
 * **Kristi Progri**. Kristi is the Project Manager of the GNOME Foundation and co-founder of the Open Source Diversity initiative. Currently involved with the CHAOSS DEI audit team.
 * **Selene Yang**. Selene is a PhD candidate in Social Communications, co-founder and coordinator of GeochicasOSM. Currently working as Diversity, Equity and Inclusion specialist at the Wikimedia Foundation. 
-* **Georgia Bullen**. Georgia is the Executive Director at Simply Secure, leveraging design as a transformative practice to change who technology serves.
+* **Georgia Bullen**. Georgia is the Executive Director at Simply Secure, leveraging design as a transformative practice to change who technology serves. Georgia also co-hosts the [Sustain Open Source Design Podcast](https://sosdesign.sustainoss.org/), and is currently involved with the CHAOSS DEI audit team.
 * **Ruth Ikegah**. Ruth is a Technical Content Manager, GitHub Star and Open Source Advocate. Ruth is an active member of the DEI working group in CHAOSS and also a Badging Initiative Maintainer. 
 * **Justin W. Flory**. Justin works at the UNICEF Office of Innovation as their Open Source Technical Advisor. Since 2017, he has both consumed and contributed to CHAOSS metrics working groups and attended multiple CHAOSScon EU events, with a focus on the DEI working group. He currently serves as the internal community liaison for the CHAOSS DEI audit team.
 * **Matt Germonprez**. Matt is a co-founder of CHAOSS, a CHAOSS Board member, and very active in multiple CHAOSS working groups. Matt is also a professor at the University of Nebraska-Omaha.
-* **Sean Goggins**. Sean is a co-founder of CHAOSS, Co-Chair of the CHAOSS Board, and leads the CHAOSS Risk and Evolution working groups. Sean is also a professor at the University of Missouri.
-* **Elizabeth Barron**. Elizabeth is the CHAOSS Community Manager, and has been with the CHAOSS project since 2020. 
+* **Sean Goggins**. Sean is a co-founder of CHAOSS, Co-Chair of the CHAOSS Board, and leads the CHAOSS Risk and Evolution working groups. Sean is also a professor at the University of Missouri, and a maintainer for the CHAOSS/Augur software.
+* **Elizabeth Barron**. Elizabeth is the CHAOSS Community Manager, and has been with the CHAOSS project since 2020.
+* **Kafayah Lawal**. Kafayah is a Graduate student of Management Information Systems and a  member of the DEI working group in CHAOSS and also a Badging Initiative Reviewer. 
+
 
  
 
