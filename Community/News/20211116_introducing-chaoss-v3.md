@@ -2,7 +2,7 @@
 
 by Anita Ihuman
 
-![Image of MozFest session](https://raw.githubusercontent.com/chaoss/website/main/Community/News/images/V3.png)
+![Image of MozFest session](https://raw.githubusercontent.com/chaoss/website/main/Community/News/images/DEI-V3.png)
 
 ## CHAOSS DEI V3
 
