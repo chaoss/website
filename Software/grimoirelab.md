@@ -10,7 +10,7 @@ Projects and services built using GrimoireLab technology:
 
 1. [Cauldron.io](https://cauldron.io/): A SaaS solution that allows project managers, analysts, and developers to understand more about the community and processes involved in software development. 
 2. [TLF Community Bridge Insights](https://lfanalytics.io/projects): A centralized platform that collects and visualizes data to let you monitor and analyze your open source projects.
-3. [Mautic Community Dashboard](https://dashboard.mautic.org/): The Community Dashboard uses the open-source GrimoireLab tool to import, analyze and visualize data from multiple sources in one central location.
+3. [Mystic](https://opensource.ieee.org/rit/mystic) is [Open@RIT](https://www.rit.edu/research/open)'s addition to the GrimoireLab ecosystem, enabling anyone within the RIT community to collect metrics on their projects, from open source to open science.
 4. [The Document Foundation Dashboard](https://dashboard.documentfoundation.org/): TDF dashboard uses GrimoireLab tool in order to show a transparent overview of LibreOffice development.
 5. [Bitergia Analytics Platform](https://bitergia.com/bitergia-analytics/): A centralized source for metrics and data about software development projects.
 
