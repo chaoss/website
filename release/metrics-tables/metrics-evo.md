@@ -13,7 +13,7 @@ Learn about the types and frequency of activities involved in developing code.
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-branch-lifecycle/">Branch Lifecycle</a></td><td>How do projects manage the lifecycle of their version control branches?</td><td></td></tr>
-  <tr><td><a href="https://chaoss.community/metric-code-changes/">Code Changes</a></td><td>What changes were made to the source code during a specified period?</td><td></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-code-changes-commits/">Code Changes Commits</a></td><td>What changes were made to the source code during a specified period?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-code-changes-lines/">Code Changes Lines</a></td><td>What is the sum of the number of lines touched (lines added plus lines removed) in all changes to the source code during a certain period?</td><td></td></tr>
 </tbody>
 </table>
