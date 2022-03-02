@@ -5,12 +5,36 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 (Scheduled for Release 2022-04)
 
-TBA
+- [PDF of released CHAOSS Metrics - English (v.2022-04)]()  
+- [PDF of released CHAOSS Metrics - Chinese (v.2022-04)]()
+
+- **Common WG**
+    * New metrics include:   
+        - Occasional Contributors           
+- **Diversity & Inclusion WG**
+    * New metrics include:  
+        - Project demographics
+        - Event Accessibility
+- **Evolution WG**
+    * New metrics include:  
+        - Conversion rate
+        - Change Request Reviews
+        - Change Request Commits
+    * Name Change/Revision:   
+        - Code Change to Code Change Commits  
+- **Risk WG**
+    * New metrics include:  
+        - Defect Resolution Time    
+- **Value WG**
+    * New metrics include:  
+        - Contributor Recommendability   
+    * Metric Removed:  
+        - Social Listening was moved to metrics models
 
 ## Release 2021-10 Notes:
 
 - [PDF of released CHAOSS Metrics - English (v.2021-10)](https://chaoss.community/wp-content/uploads/2021/10/English-Release-2021-10-21.pdf)  
-- [PDF of released CHAOSS Metrics - Chinese (v.2021-10)](https://chaoss.community/wp-content/uploads/2021/10/Chinese-Release-2021-10-21.pdf) 
+- [PDF of released CHAOSS Metrics - Chinese (v.2021-10)](https://chaoss.community/wp-content/uploads/2021/10/Chinese-Release-2021-10-21.pdf)
 
 ### Common WG
 * Focus Area Name Revisions:  
