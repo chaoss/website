@@ -9,6 +9,13 @@ The CHAOSS Community thanks all mentees and mentors who participated in Google S
 
 |Student|Program & Year|Project|Mentors|
 |-------|--------------|-------|-------|
+|[Yash Prakash](#user-content-yash-prakash)|GSoC 2021|Automate Metrics Release and Process Improvement|Kevin Lumbard, Georg Link, Jaskirat Singh
+|[Ritik Malik](#user-content-ritik-malik)|GSoC 2021|Automate Metrics Release and Process Improvement|Kevin Lumbard, Georg Link, Matt Germonprez, Jaskirat Singh
+|[Dhruv Sachdev](#user-content-dhruv-sachdev)|GSoC 2021|Develop a Shared Data Resource Focused on Dependencies, Risks and Vulnerabilities in Open Source Software|Sean Goggins, Vinod Ahuja
+|[Anuj Lamoria](#user-content-anuj-lamoria)|GSoC 2021|Automatically identify Contributor Aliases|Sean Goggins
+|[Rashmi K A](#user-content-rashmi-k-a)|GSoC 2021|Sorting Hat - Extend data model and user interface to capture better information about contributors|Venu Vardhan Reddy
+|[Yeming Gu](#user-content-yeming-gu)|GSoC 2021|Yeming Gu's GSoC proposal for CHAOSS|Sean Goggins, Vinod Ahuja
+|[Veerasamy Sevagen](#user-content-veerasamy-sevagen)|Summer of Open Source Promotion 2021|Expanding and restyling the GrimoireLab tutorial|Venu Vardhan
 |[Jaskirat Singh](#user-content-jaskirat-singh)|GSoD 2020|Create a CHAOSS Community-wide Handbook|Georg J.P.link, Armstrong Foundjem, Matt Germonprez
 |[Xiaoya Xia](#user-content-xiaoya-xia)|GSoD 2020|Build documentation for CHAOSS D&I Badging project|Matt Snell, Aastha Bist
 |[Ria Gupta](#user-content-ria-gupta)|GSoC 2020|Social Currency Metric System|Valerio Cosentino, Samantha Venia, Logan|
@@ -31,6 +38,140 @@ The CHAOSS Community thanks all mentees and mentors who participated in Google S
 
 ## Mentees
 
+### Yash Prakash
+
+Yash Prakash selected for GSoC 2021
+
+#### Project Title
+
+Automate Metrics Release and Process Improvement
+
+
+#### Project Description
+
+CHAOSS metrics have been defined to provide an in-depth view into the various features of an open-source project. The metrics are also a key input to help organizations strategically invest their resources.
+
+The main aim of the project is to understand the metrics release process, propose process improvements and automate the release process of these metrics.
+
+In addition to the original English version of these metrics, these metrics are also translated into different languages to help communities across the globe understand and benefit from them.
+
+By the end of this project, there would be complete automation in the process of generation of reports for the metrics and their translations
+
+#### Links
+* [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2021/projects/4626981861195776)
+* [GitHub](https://github.com/yash2002109)
+
+
+### Ritik Malik
+
+Ritik Malik selected for GSoC 2021
+
+#### Project Title
+
+Automate Metrics Release and Process Improvement
+
+
+#### Project Description
+
+Improving the metric release process and fully automating will not only save time, but it will also help us to define a central structure for the current as well as upcoming WGs/metrics. Keeping in mind the ever evolving CHAOSS, the process would be scalable and flexible enough for easy tweaking in future. The quality and the impression of the PDF would also be on equal priority.
+
+#### Links
+* [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2021/projects/5185057429389312)
+* [GitHub](https://github.com/ritik-malik)
+
+
+### Dhruv Sachdev
+
+Dhruv Sachdev selected for GSoD 2021
+
+#### Project Title
+
+Develop a Shared Data Resource Focused on Dependencies, Risks and Vulnerabilities in Open Source Software
+
+
+#### Project Description
+
+This project is aimed at developing a shared data resource to identify various dependencies for Open Source Software, using some of the existing tools to analyze dependencies and map them to know if there are Direct, Transitive, and Circular Dependencies. This project deals with code-level dependencies and not infrastructure-based dependencies like OS or database. This project is implemented using augur which is a software suite for collecting and measuring structured data about free and open-source software (FOSS) communities.
+
+#### Links
+* [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2021/projects/6711432569159680)
+* [GitHub](https://github.com/Dhruv-Sachdev1313)
+
+
+### Anuj Lamoria
+
+Anuj Lamoria selected for GSoC 2021
+
+#### Project Title
+
+Automatically identify Contributor Aliases
+
+
+#### Project Description
+
+The aim of this project is to generalize, and make available a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker.The main goal of this project is Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics With Privacy Enhancement I would be focusing on the Augur and developing useful risk-prediction analysis tools and visualization modules. The main work in this project are as follows: Construct an API Accessible Graph Database for identifying and mapping contributors who use multiple email addresses within a platform, and identifiers across platforms. Implement methods to manage this information. Integrate this information into clearer, more parsimonious CHAOSS metrics. Automate the management of contributor changes over time Enable analysis at the project level that obscures or anonymizes individual developer identity
+
+#### Links
+* [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2021/projects/4740412618571776)
+* [GitHub](https://github.com/anujlamoria)
+
+
+### Rashmi K A
+
+Rashmi K A selected for GSoD 2021
+
+#### Project Title
+
+Sorting Hat - Extend data model and user interface to capture better information about contributors
+
+
+#### Project Description
+
+Grimoirelab is an open-source toolset for software development analytics. Grimoirelab provides a set of tools to collect, analyze and visualize software development metrics from a variety of sources like Git, Jira, Confluence, Slack, etc. In order to manage the identities of people across these different sources, Grimoirelab developed Sorting Hat. Sorting Hat manages the identities of people and related metadata.
+
+As part of the metadata collected around identities, Sorting Hat stores organizational information such as the name and domains related to the organization. This project aims to add to this information by extending the existing Organization model to capture the internal structure of organizations such as departments, sub-organizations, and teams. This will help in annotating the identity information more meaningfully.
+
+#### Links
+* [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2021/projects/5275752542502912)
+* [GitHub](https://github.com/Rashmi-K-A)
+* [Blog Posts](https://k-a-rashmi04.medium.com/)
+
+### Yeming Gu
+
+Yeming Gu selected for GSoD 2021
+
+#### Project Title
+
+Yeming Gu's GSoC proposal for CHAOSS
+
+
+#### Project Description
+
+My project aims to define a new similarity measure metric based on social coding semantics underlying the open source trace data to enrich the ability of Augur. The heterogeneous information network schema and network embedding techniques are introduced to capture the latent similarity information between repositories. This project will end up with some new computational models to transform those information into computable representation vectors with respect to every repository.
+
+#### Links
+* [Project Link on GSoC Website](https://summerofcode.withgoogle.com/archive/2021/projects/4918176382451712)
+* [GitHub](https://github.com/gymgym1212)
+* [Blog Posts](https://medium.com/@yeminggood)
+
+
+### Veerasamy Sevagen
+
+Veerasamy Sevagen selected for Summer of Open Source Promotion 2021
+
+#### Project Title
+
+Expanding and restyling the GrimoireLab tutorial
+
+
+#### Project Description
+
+GrimoireLab is a powerful open-source platform that provides support for monitoring and in-depth analysis of software projects. It produces a rich set of metrics with data extracted from more than 30 tools related to contributing to Open Source development such as version control systems, issue trackers and forums. These metrics are shown and exploited on Web dynamic dashboards, which can be easily inspected by decision-makers to help them understand the evolution and health of their projects. The main entry point to learn about GrimoireLab is the tutorial, which provides a walkthrough of the platform and its components. Recently, the community has requested to revamp and expand its content to include additional information such as dashboard customization and management.
+
+#### Links
+* [Project Link on Website](https://summer.iscas.ac.cn/#/org/prodetail/210190824?lang=en)
+
+
 ### Jaskirat Singh
 
 Jaskirat Singh selected for GSoD 2020 under the Linux Foundation
@@ -45,7 +186,7 @@ Create a CHAOSS Community-wide Handbook
 Community Handbook is a document that defines the community’s key policies and procedures and outlines the community’s mission, values, and workings. This handbook provides a clear introduction and workings to the newly joined members of the community. Currently, the CHAOSS community Handbook is available on the GitHub repository and needs to be revamped and refactored with more information for newcomers and existing community users.
 
 #### Links
-* [Project Link on GSoD Website](https://developers.google.com/season-of-docs/docs/2020/participants/project-linuxfoundation-jaskiratsingh2000)
+* [Project Link on Website](https://developers.google.com/season-of-docs/docs/2020/participants/project-linuxfoundation-jaskiratsingh2000)
 * [GitHub](https://github.com/jaskiratsingh2000)
 * [Blog Posts](https://jaskiratsingh2000.medium.com/)
 
