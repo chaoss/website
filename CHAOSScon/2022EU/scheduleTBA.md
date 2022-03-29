@@ -1,4 +1,4 @@
-## Schedule: September 30, 2021 9:00 am to 12:30 pm 
+## Schedule: September 17th, 2022
 
 Time|Sessions|Slides|Video
 ---|---|---|---
