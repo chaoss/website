@@ -5,7 +5,7 @@ All speakers and attendees are required to adhere to our [Event Code of Conduct]
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the CHAOSS Code of Conduct Team at [chaoss-inclusion@lists.linuxfoundation.org](mailto:chaoss-inclusion@lists.linuxfoundation.org).  
 
-***For Emergency Services at the event, please dial (911)***
+***For Emergency Services at the event, please dial (112)***
 
 ### Social Media and Conference Updates
 
