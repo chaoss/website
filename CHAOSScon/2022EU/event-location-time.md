@@ -20,4 +20,4 @@ Live streaming of CHAOSScon will be available on our [YouTube Channel](https://w
 
 ### Registration
 
-Registration for the in-person CHAOSScon event is part of the Open Source Summit!
+Registration for the in-person CHAOSScon event is part of the Open Source Summit Europe!
