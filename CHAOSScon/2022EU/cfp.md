@@ -3,18 +3,18 @@
 ## Submit a Proposal
 
 This conference is about open source metrics.
-If you are interested in speaking at CHAOSScon North America on Thursday, September 30,
+If you are interested in speaking at CHAOSScon EU,
 please read through the rest of this page to understand the types of talks
-that are appropriate for this conference, and then **[submit your proposal][submit].**  
+that are appropriate for this conference, and then **[submit your proposal][submit].** Please note: We use Google Forms to manage our CfP Submissions. If you are unable to access Google Forms, please reach out to Elizabeth Barron (elizabeth@chaoss.community).
 
 
 ## Dates to Remember:  
-* CFP Opens: Monday, June 21, 2021
-* CFP Closes: Friday August 13, 2021
-* CFP Notifications: Friday, August 27, 2021
-* Schedule Announcement: Friday, September 10, 2021
-* Slide Due Date: Friday, September 24, 2021
-* Event Date: Thursday, September 30, 2021
+* CFP Opens: Monday, April 11, 2022
+* CFP Closes: Monday, May 30, 2022
+* CFP Notifications: Thursday, June 23, 2022
+* Schedule Announcement: Thursday, July 7, 2022
+* Slide Due Date: Tuesday, September 6, 2022
+* Event Date: September 13-15, 2022
 
 
 ## Suggested Topics
