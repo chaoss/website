@@ -16,7 +16,7 @@ Time: TBA
 
 ### Live Streaming
 
-Live streaming of CHAOSScon will be available on our [YouTube Channel]().  No registration needed for the live stream.
+Live streaming of CHAOSScon will be available on our [YouTube Channel](https://www.youtube.com/channel/UCrG-a3hIc_hCEUWloG0gm9A/live).  No registration needed for the live stream.
 
 ### Registration
 
