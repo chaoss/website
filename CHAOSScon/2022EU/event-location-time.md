@@ -1,6 +1,6 @@
 ### Where
 
-[Convention Cetre Dublin](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears?)  
+[Convention Centre Dublin](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears?)  
 Spencer Dock, N Wall Quay, North Wall  
 Dublin 1, D01 T1W6, Ireland  
 
