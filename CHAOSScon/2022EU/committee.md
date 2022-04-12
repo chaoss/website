@@ -11,4 +11,4 @@
 * Elizabeth Barron
 * Matt Cantu
 * Vinod Ahuja
-* Katie Schueths
+* Katie Schueths  
