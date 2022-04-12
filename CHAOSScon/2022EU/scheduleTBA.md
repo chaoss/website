@@ -1,3 +1,3 @@
-## Schedule: September 17th, 2022
+## Schedule: September 12th, 2022
 
 Coming Soon!
