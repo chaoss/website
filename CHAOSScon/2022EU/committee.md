@@ -1,4 +1,4 @@
-## CHAOSScon Eu 2022 Organizing Committee
+## CHAOSScon EU 2022 Organizing Committee
 
 * Daniel Izquierdo
 * Dawn Foster
