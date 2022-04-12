@@ -9,7 +9,7 @@ Phone: 1-206-973-1234
 Room: TBA
 
 ### When
-September 17th, 2022  
+September 12th or 17th, 2022 (TBA)
 
 Time: TBA
 
