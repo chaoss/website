@@ -1,10 +1,10 @@
 ### Where
 
-[Convention Centre Dublin](https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears?)  
+[Convention Centre Dublin](https://www.theccd.ie/)  
 Spencer Dock, N Wall Quay, North Wall  
 Dublin 1, D01 T1W6, Ireland  
 
-Phone: 1-206-973-1234  
+Phone: + 353 1 856 0000
 
 Room: TBA
 
