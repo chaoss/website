@@ -26,7 +26,7 @@ Understand the quality of a given software package.
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-defect-resolution-time/">Defect Resolution Time<br><img src="https://raw.githubusercontent.com/chaoss/website/master/release/Images/under-review100.png" alt="Under Review"></a></td><td>How much time does a project take to resolve defects once they have been reported and recorded?</td><td><a href=https://github.com/chaoss/wg-risk/issues/156>Issue 156</a></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-defect-resolution-time/">Defect Resolution Time</a></td><td>How much time does a project take to resolve defects once they have been reported and recorded?</td><td></td></tr>
   <tr><td><a href=" https://chaoss.community/metric-test-coverage/">Test Coverage</a></td><td>How well is the code tested?</td><td></td></tr>
 </tbody>
 </table>
