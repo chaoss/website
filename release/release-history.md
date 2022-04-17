@@ -3,12 +3,14 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 
 ## Continuous Metric Contributions Since Last Release  
 
-(Scheduled for Release 2022-04)
+(Scheduled for Release 2022-10)
 
-- [PDF of released CHAOSS Metrics - English (v.2022-04)]()  
-- [PDF of released CHAOSS Metrics - Chinese (v.2022-04)]()
+## Release 2022-04 Notes:
 
-- **Common WG**
+- [PDF of released CHAOSS Metrics - English (v.2022-04)](https://chaoss.community/wp-content/uploads/2021/10/English-Release-2022-04.pdf)  
+- [PDF of released CHAOSS Metrics - Chinese (v.2022-04)](https://chaoss.community/wp-content/uploads/2021/10/Chinese-Release-2022-04.pdf)
+
+-  **Common WG**
     * New metrics include:   
         - Occasional Contributors           
 - **Diversity & Inclusion WG**
@@ -17,19 +19,21 @@ CHAOSS metrics are released continuously. The regular release is when we update 
         - Event Accessibility
 - **Evolution WG**
     * New metrics include:  
-        - Conversion rate
         - Change Request Reviews
         - Change Request Commits
     * Name Change/Revision:   
         - Code Change to Code Change Commits  
 - **Risk WG**
     * New metrics include:  
-        - Defect Resolution Time    
+        - Defect Resolution Time   
+    * Name Change/Revision
+        - CII Best Practices Badge to OpenSSF Best Practices Badge
 - **Value WG**
     * New metrics include:  
         - Contributor Recommendability   
     * Metric Removed:  
-        - Social Listening was moved to metrics models
+        - Social Listening moved to metrics models
+        - Project Popularity moved to metrics models
 
 ## Release 2021-10 Notes:
 
