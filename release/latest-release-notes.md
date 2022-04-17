@@ -16,16 +16,18 @@ CHAOSS metrics are released continuously. The regular release is when we update 
         - Event Accessibility
 - **Evolution WG**
     * New metrics include:  
-        - Conversion rate
         - Change Request Reviews
         - Change Request Commits
     * Name Change/Revision:   
         - Code Change to Code Change Commits  
 - **Risk WG**
     * New metrics include:  
-        - Defect Resolution Time    
+        - Defect Resolution Time   
+    * Name Change/Revision
+        - CII Best Practices Badge to OpenSSF Best Practices Badge
 - **Value WG**
     * New metrics include:  
         - Contributor Recommendability   
     * Metric Removed:  
-        - Social Listening was moved to metrics models
+        - Social Listening moved to metrics models
+        - Project Popularity moved to metrics models
