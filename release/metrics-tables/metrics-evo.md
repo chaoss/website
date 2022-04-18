@@ -81,7 +81,6 @@ Identify the size of the project community and whether it is growing, shrinking,
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-contribution-attribution/">Contribution Attribution</a></td><td>Who has contributed to an open source project and what attribution information about people and organizations is assigned for a contribution?</td><td></td></tr>
-  <tr><td><a href="https://chaoss.community/metric-conversion-rate/ ">Conversion Rate</a></td><td>What are the rates at which new contributors become more sustained contributors?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-inactive-contributors/">Inactive Contributors</a></td><td>How many Contributors have gone inactive over a specific period of time?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-new-contributors/">New Contributors</a></td><td>How many contributors are making their first contribution to a given project and who are they?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-new-contributors-closing-issues/">New Contributors Closing Issues</a></td><td>How many contributors are closing issues for the first time?</td><td></td></tr>
