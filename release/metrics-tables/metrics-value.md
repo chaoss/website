@@ -27,7 +27,7 @@ Identify the degree to which a project is valuable to its community of users (in
 <tbody>
   <tr><td><a href="https://chaoss.community/metric-project-popularity">Project Popularity</a></td><td>How popular is an open source project?</td><td></td></tr>
   <tr><td><a href="https://chaoss.community/metric-project-velocity/">Project Velocity</a></td><td>What is the development speed for an organization?</td><td></td></tr>
-  <tr><td><a href="https://chaoss.community/metric-project-recommendibility/">Project Recommendability</a></td><td>How likely is it that you would recommend a community or project to other people?</td><td></td></tr>
+  <tr><td><a href="https://chaoss.community/metric-project-recommendability/">Project Recommendability</a></td><td>How likely is it that you would recommend a community or project to other people?</td><td></td></tr>
 </tbody>
 </table>
 </div>
