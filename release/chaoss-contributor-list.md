@@ -154,7 +154,7 @@ Sean P. Goggins,
 Shane Curcuru,
 Sharan Foga,
 Shaun McCance,
-Shen, Chenqi
+Shen Chenqi,
 Shreyas,
 Silona Bonewald,
 Sophia Vargas,
