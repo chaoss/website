@@ -73,7 +73,7 @@ Understand security processes and procedures associated with the software’s de
 <table>
   <thead><tr><th>Metric/Details</th><th>Question</th><th>Provide Feedback</th></tr></thead>
 <tbody>
-  <tr><td><a href="https://chaoss.community/metric-cii-best-practices-badge/">CII Best Practices badge</a></td><td>What is the current CII Best Practices status for the project?</td><td></td></tr>  
+  <tr><td><a href="https://chaoss.community/metric-openssf-best-practices-badge/">OpenSSF Best Practices badge</a></td><td>What is the current OpenSSF Best Practices status for the project?</td><td></td></tr>  
 </tbody>
 </table>
 </div>
