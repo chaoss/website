@@ -154,6 +154,7 @@ Sean P. Goggins,
 Shane Curcuru,
 Sharan Foga,
 Shaun McCance,
+Shen, Chenqi
 Shreyas,
 Silona Bonewald,
 Sophia Vargas,
@@ -191,7 +192,6 @@ Are you eligible to be on this list? You are if you helped in any capacity, for 
 ## CHAOSS Governing Board Members
 
 - Amy Marrich, Red Hat
-- Andrea Gallo, Linaro
 - Armstrong Foundjem, MCIS Laboratory at Queen's University
 - Daniel Izquierdo, Bitergia
 - Dawn Foster, VMware
@@ -201,6 +201,7 @@ Are you eligible to be on this list? You are if you helped in any capacity, for 
 - Kate Stewart, Linux Foundation
 - Matt Germonprez, University of Nebraska at Omaha
 - Nicole Huesman, Intel
-- Ray Paik, GitLab
 - Sean Goggins, University of Missouri
+- Sophia Vargas, Google
 - Wayne Beaton, Eclipse Foundation
+- Yehui Wang, Huewei
