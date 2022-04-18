@@ -8,7 +8,7 @@ CHAOSS metrics are released continuously. The regular release is when we update 
 ## Release 2022-04 Notes:
 
 - [PDF of released CHAOSS Metrics - English (v.2022-04)](https://chaoss.community/wp-content/uploads/2022/04/English-Release-2022-04-18.pdf)  
-- [PDF of released CHAOSS Metrics - Chinese (v.2022-04)](https://chaoss.community/wp-content/uploads/2022/04/Chinese-Release-2022-04-18.pdf)
+- [PDF of released CHAOSS Metrics - Chinese (v.2022-04)](https://chaoss.community/wp-content/uploads/2022/04/Chinese-Release-2022-04-18v2.pdf)
 
 -  **Common WG**
     * New metrics include:   
