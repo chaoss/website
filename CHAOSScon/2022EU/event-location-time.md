@@ -6,12 +6,12 @@ Dublin 1, D01 T1W6, Ireland
 
 Phone: + 353 1 856 0000
 
-Room: TBA
+Room: Liffey Hall 1
 
 ### When
 September 12th, 2022
 
-Time: TBA
+Time: 9am to 12:30pm IST
 
 
 ### Live Streaming
