@@ -21,7 +21,7 @@ Editable content are in folders in this repo and are named for the websites key 
 
 To edit these content areas, please fork the repo, make changes to the markdown files, and put in a pull request.
 
-For questions, please email the site [maintainers](README.md).
+For questions, please email the site [maintainers](README.md#website-maintainers).
 
 ## How to become a maintainer of the website and this repository
 1. Make consistent contributions via pull requests.
