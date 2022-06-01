@@ -10,7 +10,7 @@ that are appropriate for this conference, and then **[submit your proposal][subm
 
 ## Dates to Remember:  
 * CFP Opens: Monday, April 11, 2022
-* CFP Closes: Monday, May 30, 2022 **Extended through Friday, June 3, 2022 - 11:59 PM PDT**
+* CFP Closes: Monday, May 30, 2022 - **Extended through Friday, June 3, 2022 - 11:59 PM PDT**
 * CFP Notifications: Thursday, June 23, 2022
 * Schedule Announcement: Thursday, July 7, 2022
 * Slide Due Date: Tuesday, September 6, 2022
