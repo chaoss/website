@@ -17,7 +17,7 @@
 |11:00 - 11:10|**Group Photo with Conference Participants**| |
 | | | |
 |11:10 - 11:30|_**Growing a sustainable software ecosystem, a socio-technical perspective**_<br>[Armstrong Foundjem](#user-content-armstrong-foundjem)| |
-11:30 - 11:40|_**CHAOSS DEI Badging: From there to here**_<br>[Atinuke Oluwabamikemi Kayode](#user-content-atinuke-oluwabamikemi-kayode)| |
+11:30 - 11:40|_**Sustainability: Tips on Building a Healthy Open Source Community**_<br>[Atinuke Oluwabamikemi Kayode](#user-content-atinuke-oluwabamikemi-kayode)| |
 |11:40 - 12:05|**Lightning Talks**<br>Signup available the day of the conference| |
 |11:40 - 11:45|_**[Lightning Talk] Creating a grocery store of metrics and models**_<br>[Georg Link](#user-content-georg-link)| |
 |11:45 - 11:50|_**[Lightning Talk] TBA**_<br>TBA| |
