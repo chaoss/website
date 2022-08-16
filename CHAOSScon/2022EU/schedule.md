@@ -1,29 +1,26 @@
 ## Schedule
-### September 12th, 2022 9:00 am to 12:30 pm Pacific Daylight Time (PDT)
+### September 12th, 2022 9:00 am to 12:30 pm Irish Starndard Time
 
 |Time|Sessions|Slides|
 |---|---|---|
 | | | |
-| 9:00 - 9:15|** Welcome Remarks**<br>||
-| 9:15 - 9:30|**Collaboration as a Key Health Indicator for OSS Communities**<br>[Daniel Izquierdo Cortázar](#user-content-daniel-izquierdo-cortázar)| |
-| 9:30 - 9:40|**All the Bugs Belong to Me? Collaboration Networks and Project Health**<br>[Kaylea Champion](#user-content-kaylea-champion)| |
-| 9:40 - 9:50|**Building Bridges With Badges: How Metrics Help You Find the Right Crowd**<br>[Katie Schueths](#user-content-katie-schueths)| |
-| 9:50 - 10:00|**Break**| |
+| 9:00 - 9:10|** Welcome Remarks**<br>||
+| 9:15 - 9:35|**Collaboration as a Key Health Indicator for OSS Communities**<br>[Daniel Izquierdo Cortázar](#user-content-daniel-izquierdo-cortázar)| |
+| 9:35 - 9:45|**All the Bugs Belong to Me? Collaboration Networks and Project Health**<br>[Kaylea Champion](#user-content-kaylea-champion)| |
+| 9:45 - 10:05|**Building Bridges With Badges: How Metrics Help You Find the Right Crowd**<br>[Katie Schueths](#user-content-katie-schueths)| |
+| 10:05 - 10:15|**Break**| |
 | | | |
-|10:00 - 10:20|_**Sifting through the noise: behavior change or broken machine?**_<br>[Sophia Vargas](#user-content-sophia-vargas)| |
-|10:20 - 10:30|_**Open Source newbie experience on the CHAOSS Project**_<br>[Iyimide Adegunloye](#user-content-iyimide-adegunloye)| |
-|10:30 - 10:50|_**Present and Future of GrimoireLab**_<br>[Santiago Dueñas](#user-content-santiago-dueñas)| |
-|10:50 - 11:00|**Break**| |
-|11:00 - 11:10|**Group Photo with Conference Participants**| |
+|10:15 - 10:35|**Sifting Through the Noise: Behavior Change or Broken Machine?**<br>[Sophia Vargas](#user-content-sophia-vargas)| |
+|10:35 - 10:45|**Open Source Newbie Experience on the CHAOSS Project**<br>[Iyimide Adegunloye](#user-content-iyimide-adegunloye)| |
+|10:45 - 11:05|**Present and Future of GrimoireLab**<br>[Santiago Dueñas](#user-content-santiago-dueñas)| |
+|11:05 - 11:20|**Break with Group Photo**| |
 | | | |
-|11:10 - 11:30|_**Growing a sustainable software ecosystem, a socio-technical perspective**_<br>[Armstrong Foundjem](#user-content-armstrong-foundjem)| |
-11:30 - 11:40|_**Sustainability: Tips on Building a Healthy Open Source Community**_<br>[Atinuke Oluwabamikemi Kayode](#user-content-atinuke-oluwabamikemi-kayode)| |
+|11:25 - 11:35|**Growing a sustainable software ecosystem, a socio-technical perspective**<br>[Armstrong Foundjem](#user-content-armstrong-foundjem)| |
+|11:35 - 11:45|**Sustainability: Tips on Building a Healthy Open Source Community**<br>[Atinuke Oluwabamikemi Kayode](#user-content-atinuke-oluwabamikemi-kayode)| |
 |11:40 - 12:05|**Lightning Talks**<br>Signup available the day of the conference| |
-|11:40 - 11:45|_**[Lightning Talk] Creating a grocery store of metrics and models**_<br>[Georg Link](#user-content-georg-link)| |
-|11:45 - 11:50|_**[Lightning Talk] TBA**_<br>TBA| |
-|11:50 - 11:55|_**[Lightning Talk] TBA**_<br>TBA| |
-|11:55 - 12:00|_**[Lightning Talk] TBA**_<br>TBA| |
-|12:00 - 12:05|_**[Lightning Talk] TBA**_<br>TBA| |
+|11:45 - 11:50|**[Lightning Talk] Creating a grocery store of metrics and models**<br>[Georg Link](#user-content-georg-link)| |
+|11:50 - 11:55|**[Lightning Talk] TBA**<br>TBA| |
+|11:55 - 12:00|**[Lightning Talk] TBA**<br>TBA| |
 | | | |
 |12:05 - 12:15|**Closing Remarks**| |
 | | | |
