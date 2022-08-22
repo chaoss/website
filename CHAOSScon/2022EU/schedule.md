@@ -1,5 +1,5 @@
 ## Schedule
-### September 12th, 2022 9:00 am to 12:30 pm Irish Starndard Time
+### September 12th, 2022 9:00 am to 12:30 pm Irish Standard Time
 
 |Time|Sessions|Slides|
 |---|---|---|
