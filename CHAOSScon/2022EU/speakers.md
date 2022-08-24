@@ -1,150 +1,160 @@
 ## Speakers and Session Descriptions
 
-### Georg Link 
+### Iyimide Adegunloye
 
-![Georg Link](https://chaoss.github.io/website/CHAOSScon/2021NA/images/georg-link.png)_Director of Sales - Bitergia_  
-[@GeorgLink](https://twitter.com/georglink)  
+![Iyimide Adegunloye](https://chaoss.github.io/website/CHAOSScon/2022EU/images/iyimide-adegunloye.jpg)
+<br>_Frontend Developer - CHAOSS Project_  
+[@cuteiyimi](https://twitter.com/cuteiyimi)  
 
-<p id="georg link">Georg Link is an Open Source Community Strategist. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg has 13 years experience as an active contributor to several open source projects and has presented on open source topics at 18 conferences. Georg has an MBA and a Ph.D. in Information Technology. In his spare time, Georg enjoys reading fiction and hot-air ballooning.</p>
+Iyimide is a Frontend developer who currently volunteers with Mumswhocode. She is passionate about introducing people to tech and seeing them grow.
 
-***Welcome & Closing Remarks***  
-<br>  
-
-### Emma Irwin
-
-![Emma Irwin](https://chaoss.github.io/website/CHAOSScon/2021NA/images/emma-irwin.png)_Senior Program Manager in Microsoft's Open Source Programs Office (OSPO)_  
-[@sunnydeveloper](https://twitter.com/sunnydeveloper)
-
-"During a successful career as a software developer, Emma discovered open source and was inspired by the potential of developing software collaboratively - especially the opportunity to connect with others around shared purpose.  This led to contribution and participation in many projects over the years including Drupal, MySQL and Mozilla - she even maintained a few of her own small projects.  
-
-Emma brought her passion for technology and people into her role as an open source strategist at Mozilla where she spent seven years focused on empowering product teams, and their contributors. She's most proud of her of her work developing the first-ever diversity, equity, and inclusion strategy for open source communities, and contributing this work to the CHAOSS D&I working group. Emma now brings that same passion for people and open source to her role as a PM Microsoft's Open Source Programs Office (OSPO). She can't believe her good fortune to be working with Stormy Peters and the rest of the talented OSPO team and hopes this isn't just a dream!"  
-
-<details><summary><b>Keynote: All of the People, All of the Time: A holistic approach to building empowered open source culture in your organization</b></summary>
-As an ecosystem, open source has been making vast improvements in how we think about and design for community and contributor success. What's lacking is an investment, and common language needed to build healthy open source culture inside organizations; the success of which can have direct and lasting impact in communities, and the products we're working on together.  
-  
-In this talk, Emma will share how she evaluates and designs for a healthy, and inclusive open source culture within Microsoft using building blocks of empowerment, purpose, trust and belonging.  
-</details>
-<br>  
-
-### Kevin Lumbard
-
-![Kevin Lumbard](https://chaoss.github.io/website/CHAOSScon/2020EU/images/kevin-lumbard.png)_Doctoral Student Researcher - University of Nebraska at Omaha_  
-[@Paper_Monkeys](https://twitter.com/Paper_Monkeys)  
-
-Kevin is a doctoral candidate at the University of Nebraska at Omaha. His concentration is on Human-Centered Computing (HCC) and Project Management. His research focus is on design and community health metrics in the context of corporate-communal open source projects and open agriculture projects. He is a charter member and maintainer for the CHAOSS project.  
-
-<details><summary><b>Session: Why we join and why we leave open source communities</b></summary>
-This talk will present the preliminary results from 40 interviews with corporate open source contributors. We asked them "what project characteristics do they look at when making decisions about joining an open source community" and "what project characteristics may influence their decision to leave a community".  
+<details><summary><b>Session: Open Source newbie experience on the CHAOSS Project</b></summary>
+I would like to share my open source experience with CHAOSS project during the Contributhon 2022. An initiative by  SheCodeAfrica to introduce more women to open source contribution. The program introduced me  to open source contribution and I was able to settle in and collaborate with others to build a bot for the CHAOSS Project. The bot welcomes and directs new users to the CHAOSS Community on slack; before the bot project,  individuals had to welcome and give directions to new members.
+The program was a life changing experience that has impacted positively on my skills. There are lots of people out there who really don’t know how to go about contributing to open source and programs that can introduce them to open source contributions  are  really important for the open source ecosystem.
+This presentation will provide a holistic view of:
+- Contributing to open source as a newbie.
+- Highlight experience and knowledge gained.
 </details>  
-<br>  
+<br> 
 
-###  Elizabeth Barron  
 
-![Elizabeth Barron](https://chaoss.github.io/website/CHAOSScon/2021NA/images/elizabeth-barron.png)_CHAOSS Community Manager_  
-[@ElizabethN](https://twitter.com/ElizabethN)
+### Kaylea Champion
 
-Elizabeth has spent 20+ years in open source, with the bulk of her career in community management. She currently works as the Community Manager for CHAOSS, and previously was in community management at GitHub, Pivotal/VMWare, Engine Yard and Sourceforge. She is also a professional nature and botanical photographer. Elizabeth lives in Cincinnati, Ohio.
+![Kaylea Champion](https://chaoss.github.io/website/CHAOSScon/2022EU/images/kaylea-champion.jpg)
+<br>_PhD Candidate - University of Washington_  
+[@kayleachampion](https://twitter.com/kayleachampion)  
 
-<details><summary><b>Session: Why we join and why we leave open source communities</b></summary>
-This talk will present the preliminary results from 40 interviews with corporate open source contributors. We asked them "what project characteristics do they look at when making decisions about joining an open source community" and "what project characteristics may influence their decision to leave a community". 
+Kaylea Champion is a PhD Candidate in Communication at University of Washington. She studies how people cooperate to build public goods like GNU/Linux and Wikipedia, including what gets built and maintained -- and what doesn't. Prior to graduate school, she worked in IT as a consultant, system administrator and project manager. She holds an MS in Computer Science from the University of Chicago. A Linux user since 1994, she enjoys tromping through the woods, smashing goblins, and cooking for a crowd.
+
+<details><summary><b>Session: All the Bugs Belong to Me? Collaboration Networks and Project Health</b></summary>
+What can our collaboration networks tell us about the health of our projects? From the spread of innovation to the spread of disease, the field of social network analysis has examined a dizzying array of interactions and framed them as a network. As we work together to solve problems in software, our collaboration effort can also be described as forming a network as well. In this talk, Kaylea applies network analysis ideas to the world of open source. This unlocks powerful tools for analyzing collaboration at scale. She'll be reporting results of her research to understand the relationship between collaboration network structure and whether a project is thriving or barely surviving.
+
 </details>  
-<br>  
+<br> 
 
-### Isabella Ferreira  
 
-![Isabella Ferreira](https://chaoss.github.io/website/CHAOSScon/2021NA/images/isabella-ferreira.png)_PhD Candidate in Computer Engineering, Polytechnique Montréal_  
-[@isaferreira_57](https://twitter.com/isaferreira_57)  
+### Santiago Dueñas
 
-Isabella Ferreira is currently a PhD candidate at Polytechnique Montréal working under the direction of Dr. Jinghui Cheng and Dr. Bram Adams. Her research focuses on investigating (in)civility in Free/Libre and Open Source Software (FLOSS) communities. Her main research interests are mining software repositories, affective computing, and software maintenance and evolution.  
+![Santiago Dueñas](https://chaoss.github.io/website/CHAOSScon/2022EU/images/santiago-duenas.jpg)
+<br>_CTO - Bitergia_  
+[@sduenasd](https://twitter.com/sduenasd)  
 
-<details><summary><b>Session: Characterizing and Detecting Incivility in Open Source Code Review Discussions</b></summary>
-Code review is an important quality assurance activity for open source software development. Yet, code review discussions among developers and maintainers can be heated and sometimes involve personal attacks and unnecessary disrespectful comments, demonstrating, therefore, incivility. Although incivility in public discussions has received increasing attention from researchers in different domains, the understanding of this phenomenon is still very limited in the context of software development and, more specifically, code review. To address this gap, this proposed talk will present the results of a qualitative analysis conducted on 1,545 emails from the Linux Kernel Mailing List (LKML) that were associated with rejected changes. From this analysis, we identified the features of discussion of civil and uncivil communication as well as the causes and consequences of uncivil communication. Based on our results and with the goal to create healthier and more attractive open source communities, we will also discuss in this talk (i) approaches that could be used to address incivility before and after it happens, (ii) pitfalls to avoid when trying to automatically detect incivility, and (iii) heuristics for detecting incivility in code review discussions.  
+Santiago Dueñas is an open source advocate and CTO at Bitergia. He is part of CHAOSS community and currently leads the development of GrimoireLab platform. Before joining Bitergia, Santiago was part of LibreSoft, a research team at Universidad Rey Juan Carlos, where he studied different facets of libre software such as development processes, coordination and involvement in open source projects and their communities.
+
+
+<details><summary><b>Session: Present and Future of GrimoireLab</b></summary>
+ GrimoireLab is a set of tools to retrieve, organize, analyze, and visualize data coming from software development repositories. Many things have changed since the last time GrimoireLab was at CHAOSSCon: new functionalities, a pair of successful Google Summer of Code projects, OpenSearch support…
+
+In this talk, we will introduce the new features and components of the platform and the brand new roadmap for the near future.
 </details>  
-<br>  
+<br> 
 
-### Stephen Jacobs
 
-![Stephen Jacobs](https://chaoss.github.io/website/CHAOSScon/2021NA/images/stephen-jacobs.png)_Director, Open@RIT, Rochester Institute of Technology_  
 
-Stephen Jacobs is the director of Open@RIT, a research center and the OSPO for the Rochester Institute of Technology. He serves on the steering committee of the TODO Group, is a member of the CHAOSS Value working group and was a pre-board organizer of the recently announced O3D Foundation. Jacobs has been teaching RIT classes in Open Source for thirteen years and  led the development of RIT’s academic minor in “Free and Open Source Software and Free Culture” the first of it’s kind in the country and the culminating piece in RIT’s FOSS across the curriculum offerings at the university.   
+### Armstrong Foundjem 
 
-<details><summary><b>Session: Mystic - An initial effort in academic metrics, impact and community</b></summary>
-The last few years have seen a significant uptick in interest in the concept of Open Source Program Offices in academic and governmental entities. Last year the EU adopted an Open Source Strategy for 2020-2023.  This year, the United States, The National Academies for Science, Engineering and Mathematics, has called for presidents and provosts of colleges and universities to significantly increase support for Open Work across all colleges and universities in the US. This panel will start with members of the OSPO++ working group (that meets regularly to encourage the creation of municipal and academic OSPOs) will briefly introduce attendees to the needs of these developer and user communities. It will then move to a demo of Mystic, and Open@RIT effort to use GrimoireLab to collect data and display data on faculty Open Work contributions. Questions for all panelists will be encouraged in the last ten minutes.  
-</details>  
-<br>  
+![Armstrong Foundjem](https://chaoss.github.io/website/CHAOSScon/2022EU/images/armstrong-foundjem.jpeg)
+<br>_Researcher - Queen's University_  
+[@foundjem](https://twitter.com/foundjem)  
 
-### Emi Simpson
+A Mixed-method researcher (Ph.D.) with interests in the intersection of software ecosystem sustainability and Human-centered design/A.I., release engineering (DevOps --AI/ML), software engineering for ML Applications, mining massive software repositories and datasets to find patterns and make predictions, software evolution and maintenance, empirical software engineering, edge/cloud computing, and human-computer interaction. Skills in robotics and Big data analytics. Affiliated to MCIS laboratory and advised by Prof. Bram Adams.
 
-![Emi Simpson](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/images/no-image-available.png)_Director, Open@RIT, Rochester Institute of Technology_  
-
-Emi (any pronouns except she/her) is a full-stack developer for Open@RIT, and the lead developer for the open source community health metrics dashboard, Mystic.  Although xe's done work all over the open source community, Emi holds a particular interest in decentralized open source projects, ethical source, and of course, the art of building inclusive and healthy open source communities and ecosystems.
-
-<details><summary><b>Session: Mystic - An initial effort in academic metrics, impact and community</b></summary>
-The last few years have seen a significant uptick in interest in the concept of Open Source Program Offices in academic and governmental entities. Last year the EU adopted an Open Source Strategy for 2020-2023.  This year, the United States, The National Academies for Science, Engineering and Mathematics, has called for presidents and provosts of colleges and universities to significantly increase support for Open Work across all colleges and universities in the US. This panel will start with members of the OSPO++ working group (that meets regularly to encourage the creation of municipal and academic OSPOs) will briefly introduce attendees to the needs of these developer and user communities. It will then move to a demo of Mystic, and Open@RIT effort to use GrimoireLab to collect data and display data on faculty Open Work contributions. Questions for all panelists will be encouraged in the last ten minutes.  
-</details>  
-<br>  
-
-### Xiaoya Xia
-
-![Xiaoya Xia](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/Xiaoya.jpg)_Master Degree Student, East China Normal University_  
-
-Xiaoya is a postgraduate student at East China Normal University. Her major is software engineering. She has two years of experience in open source, and one of the research topics is data-driven open source collaboration and community governance. She became a technical writer of CHAOSS D&I Badging project in 2020, then participated in growing the CHAOSS community in Asia Pacific region.
-
-<details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
-The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
+<details><summary><b>Session: Growing a sustainable software ecosystem, a socio-technical perspective</b></summary>
+This talk focuses on the socio-technical collaboration among multiple contributors, which is natural in distributed open-source software development processes. In particular, this phenomenon is known as micro-collaboration practices, in which numerous authors contribute to the same commitment. To support micro-collaboration practice, GitLab and GitHub started supporting social coding mechanisms such as the Co-Authored-By: trailers in commit messages, which, in turn, enable the study of such micro-collaboration empirically. This talk provides an epitome case study of collaboration practices in popular open-source ecosystems such as the  OpenStack ecosystem to understand micro-collaboration mechanisms, their benefits, and constraints. Thus, this talk analyzed over 1,804 OpenStack project repositories over nine-year and claimed that micro-collaboration code practice facilitates contributors to grow a sustainable ecosystem.
 </details>   
 <br> 
 
-### King Gao
+### Daniel Izquierdo Cortázar
 
-![King Gao](https://github.com/chaoss/website/blob/master/CHAOSScon/2020-Shanghai-meetup/img/King.JPG)_Technical Expert --- Huawei 2012 Laboratory_  
+![Daniel Izaquierdo Cortazar](https://chaoss.github.io/website/CHAOSScon/2022EU/images/daniel-izquierdo.jpeg)
+<br>_CEO- Bitergia_  
+[@dizquierdo](https://twitter.com/dizquierdo)
 
-King Gao is an engineer from Huawei Technologies Co.,Ltd and has 6 years of experience in open source governance. His focus is on compliance and operations in open source communities. He founded CHAOSS' Asia-Pacific meeting and organized CHAOSS's first China meetup. CHAOSS is the first community in his life, and he is very glad to participate in CHAOSS. King is also a board member in the OpenChain project under the Linux foundation.
+Daniel Izquierdo Cortazar is a researcher and one of the founders of Bitergia, a company that provides software analytics for open and inner source ecosystems. Currently holding the position of Chief Executive Officer, he is focused on the quality of the data, research of new metrics, analysis and studies of interest for Bitergia customers via data mining and processing. Izquierdo Cortázar earned a PhD in free software engineering from the Universidad Rey Juan Carlos in Madrid in 2012 focused on the analysis of buggy developers activity patterns in the Mozilla community. He is in an active contributor and board member of CHAOSS (Community Health Analytics for Open Source Software). He is an active member of the InnerSource Commons and Member of the Board of Directors as well.
 
-<details><summary><b>Session: Building Metrics Models Based on the State of the Art Best Practices</b></summary>
-The purpose of defining metrics is to continuously improve the workflow, empower open source projects with the capabilities of governance, operation, and development. We looked into some best practices of the benchmarking communities in the industry on how they measure and govern the project, and constantly explored which metrics and factors will affect the results of measurements. This talk will further seek connections among the current metrics and build a set of models, not only to address existing problems in communities, but also to predict the direction of future community development.  
+<details><summary><b>Session: Collaboration as a Key Health Indicator for OSS Communities</b></summary>
+Open source communities are people. Participants, contributors, and users are some of the roles that we already know and we have acknowledged some of them in the existing CHAOSS work.
+The very existence of public profiles developing software with whom you can interact, make decisions together, and discuss next steps is important up to the point that the alternative is to have close governance communities with low interaction and lack of initiative.
+
+Some OSS foundations and OSS projects (not all of them I can say) are indeed stating the importance of these other artifacts as key to a good open governance policy (as for instance the Four Opens by the Open Infrastructure Foundation) and having those discussions in a transparent, public and open way is part of their culture.
+
+How can this be translated into CHAOSS terminology? Collaboration. And how can we measure collaboration? This is the question. This talk aims at providing an initial set of existing use cases where collaboration is used as a metric of a healthy community, an initial list of metrics related to the collaboration concept that we can standardize within CHAOSS, and some existing CHAOSS-related [GrimoireLab] collaboration visualizations.
+
+As specific CHAOSS output for this discussion, I’d like to see this part of future work of some of the existing working groups and hopefully, add them as part of the next metric discussions. 
+</details>   
+<br> 
+
+### Atinuke Oluwabamikemi Kayode
+
+![Atinuke Oluwabamikemi Kayode](https://chaoss.github.io/website/CHAOSScon/2022EU/images/atinuke-oluwabamikemi-kayode.jpeg)
+<br>_Community Manager - Tunga, Layer5 and SheCodeAfrica_  
+[@oluwabamikemi](https://twitter.com/oluwabamikemi)  
+
+Atinuke Kayode is a Python developer, a Community Manager, a Technical Writer, and an Open-source lover.
+
+She is a Community Manager at Tunga and Layer5, and also a Frontend Lead at She Code Africa. She learned through the community so she is community-driven and loves to help grow tech communities across the world.
+
+She’s passionate about seeing young lads set their careers in tech, especially women and she desires to see more young women take up careers in technology. She was part of the writers of a book titled The Techie Chic, a compilation of inspiring female tech journeys. She shares her knowledge and thoughts on her blog.
+
+Besides working on projects and writing, she loves to hang out with friends, socialize and read other developers' articles and also hosting Twitter Spaces.
+
+<details><summary><b>Session: Sustainability: Tips on Building a Healthy Open Source Community</b></summary>
+The success of an Open Source community depends on how healthy the Community is. Hence, It is important when building the right community should be the topmost priority of any open-source organization. It helps achieve a healthy community where the members have equal inclusion.
+
+We often think of a successful open source project as one that just tackles a challenge for the public. This perception has driven several open source project owners to start innovative open source projects without any plans on how to manage the community behind this project. In the end, increasing the number of dormant open source projects already existing. A successful open source project is one that is built on the collaborative effort of a healthy community. A properly coordinated community can plan and build projects and unanimously work together to ensure sustainable project performance. The responsibility of achieving a successful open source community does not rest on the community managers or the program managers alone but also on the whole community. During this session, I will be sharing;
+
+1. How you can accept and implement feedback from members
+2. How to give feedback to the community.
+3. Improve the onboarding process for your new Contributors
+4. The importance of community first approach in Open Source Community and a lot more.
 </details>  
 <br> 
 
-### Sean Goggins
 
-![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2020EU/images/sean-goggins.png)_Associate Professor - University of Missouri_  
-[@sociallycompute](https://twitter.com/sociallycompute)  
 
-Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented wtih on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.  
 
-Sean is also the founder of the Data Science and Analytics Masters program at Missouri, which he’s now passed on to people who want administrative empire.  Sean’s publications focus on understanding how social technologies influence organizational, small group and community dynamics, typically including analysis of electronic trace data from systems combined with the perspectives of people whose behavior is traced. Group Informatics is a methodology and ontology Sean has articulated with the aim of helping build consensus among researchers and developers for how to ethically and systematically make sense of electronic trace data. Structural fluidity, a construct Sean developed with his collaborators Peppo Valetto and Kelly Blincoe, aims to make sense of structural dynamics in virtual software organizations, and how those dynamics affect performance. Working with Josh Introne, Bryan Semaan and Ingrid Erickson, Sean is elaborating on mechanisms for identifying structural fluidity and organizational dynamics in electronic trace data using the lens of complex systems theory. The Authors won ""Best Paper of 2020"" in the Journal for the Association of Information Systems and Technology (JASIS&T) for their work. Sean's other work includes collaborations with Matt Germonprez on the Open Collaboration Data Exchange and Open Source Health metrics projects. He lives in Columbia, MO with his wife Kate, two step daughters and a dog named Huckleberry.  
+### Georg Link 
 
-<details><summary><b>Session: A complex web of open source software dependencies risk </b></summary>
-Today, software project development is nearly impossible without the use of interdependent components. These interdependencies have such a strong impact that software projects often fail if an open-source project library malfunctions. This was observed in the NPM project, when an open-source project contributor deleted 11 lines of code that he had contributed to an open-source library causing many other projects dependent on this library to fail. This presentation will present a synthesis of the complexity of managing dependencies, and the relationship between open source software dependency metrics, quality assurance, and security. Members of the CHAOSS Risk working group will answer a simple yet a complex question: what are the categories of open source software dependencies, and what metrics can make these risks visible. Participants will gain insights into:  
-1. What to measure? And  
-2. How to measure dependency risks?  
+![Georg Link](https://chaoss.github.io/website/CHAOSScon/2022EU/images/georg-link.png)
+<br>_Director of Sales - Bitergia_  
+[@GeorgLink](https://twitter.com/georglink)  
 
-To answer these questions we worked across Linux Foundation projects to identify various dependency issues, and develop a set of metrics based on:  
-1. Goal  
-2. Question  
-3. Metric  
+Georg Link is an Open Source Strategist. Georg’s mission is to make open source more professional in its use of community metrics and analytics. Georg co-founded the Linux Foundation CHAOSS Project to advance analytics and metrics for open source project health. Georg is an active contributor to several open source projects and has presented on open source topics on many occasions. Georg has an MBA and a Ph.D. in Information Technology. As the Director of Sales at Bitergia, Georg helps organizations and communities with adopting metrics and making open source more sustainable. In his spare time, Georg enjoys reading fiction and hot-air ballooning.
 
-Approach. The metrics we then implemented using the CHAOSS Project’s Augur software will demonstrate one approach for visualizing and assessing dependency risk across large project portfolios.  The key takeaway is it is work measuring the riskiness of a piece of software you're using or dependent on.  
-</details>  
+<details><summary><b>Session: Creating a grocery store of metrics and models</b></summary>
+This lightning talk is about how CHAOSS presents metrics and models using the metaphor of a grocery store. A grocery store manager decides on a layout of aisles, including where and how to present food in a way that people find the ingredients for their cooking. In CHAOSS’s case, we need to present metrics in a way that people find the right metrics and models for understanding their community. Similar to how foods have nutrition labels, CHAOSS wrote metric definitions and that helps decide which metric to use. Initiatives and use cases for metrics are comparable to recipes and meal planning. Using this metaphor, this lightning talk aims to help us rethink how we are presenting, sharing, and making metrics available.
+</details>   
 <br> 
 
-### Anita Ihuman  
+### Katie Schueths
 
-![Anita Ihuman](https://github.com/chaoss/website/blob/master/CHAOSScon/2021NA/images/anita-ihuman.png)_Software Developer, CHAOSS_  
-[@Anita_ihuman](https://twitter.com/Anita_ihuman)
+![Katie Schueths](https://chaoss.github.io/website/CHAOSScon/2022EU/images/katie-schueths.png)
+<br>_Sr. Technical Project Manager - Indeed_  
+[@katie_schueths](https://twitter.com/katie_schueths)
 
-Anita is a Software Developer, an Author and a Speaker who enjoys sharing information through Public Speaking and Technical Writing. She loves learning, teaching, and engaging with the Open Source communities. She is a reviewer for the CHAOSS Diversity and Inclusion Badging initiative. She is a community manager at Layer5, an organization that represents the largest Service Mesh projects and their maintainers in the world.  
+Katie is a Senior Technical Project Manager at Indeed’s Open Source Program office. She is currently working on establishing an InnerSource program which will help Indeed engineers apply open source best practices to proprietary code. Prior to joining Indeed, she was the Program Manager at Leadingbit Solutions. There, she helped build an open source community through the IEEE SA OPEN platform. 
 
-<details><summary><b>Session: CHAOSS DEI Badging - From There to Here</b></summary>
-The CHAOSS project would like to share our experience developing, and implementing a peer reviewed event badging program.  
+She is a contributor to the CHAOSS DEI Badging project and has a passion for building incentive programs that positively impact the open source community.
 
-The value of appreciating and acknowledging diversity, equity, and inclusion (DEI) in open source communities is underestimated. It is critical to bring together people with different backgrounds, mindsets, ideas and experiences to work for a common cause. The CHAOSS Diversity, Equity, and Inclusion Badging Initiative awards badges to events based on their adherence to and prioritization of DEI best practices. The initiative aims to increase understanding of project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.  
+<details><summary><b>Session: Building Bridges With Badges: How Metrics Help You Find the Right Crowd</b></summary>
+People like to see a shiny sticker! Does a "Best of" badge on an event ad make you more interested in attending?
 
-This presentation will provide a holistic view of:  
-* The CHAOSS DEI Badging Initiative  
-* Examples of badged events and lessons learned from the process  
-* Ideas on how the badging process may be improved  
+Badges are important for attracting talent resources. For events and projects, they signal values that help potential volunteers determine their interest. Time is valuable; people only participate in the projects they believe in. Badges help safeguard this talent.  
 
-In particular, we will highlight the people, technologies, and processes that have made the CHAOSS DEI Badging Initiative a success to date. 
-</details> 
+There is no "one true way," but there are best practices for using badges! Badges help showcase that leaders actively monitor metrics related to practices that impact potential contributors and attendees. Both events and projects can show their health and dedication to excellence by obtaining recognition from a respected organization..  How do you know which badges to apply for, or what each badge means to potential volunteers/contributors?
+
+The CHAOSS Badging Project offers the DEI Event Badge, which represents an event's dedication to healthy diversity, equity, and inclusion practices. CHAOSS will be launching a project badging initiative that will also give open source projects a similar opportunity to display their dedication to DEI best practices. Join us as we look at how badges like this, and the metrics they capture, can attract the volunteers and contributors necessary to make your project or event more successful.
+</details>
+<br> 
+
+### Sophia Vargas
+
+![Sophia Vargas]()
+<br>_Research Analyst - Google - OSPO_  
+[@Sophia_IV](https://twitter.com/Sophia_IV)
+
+Sophia Vargas is a Program Manager in the research and operations team within Google’s Open Source Programs Office. In this role she leads research efforts that span project health, contributor experience, and open source economics. She is also on the Governing Board and an active contributor to the CHAOSS community. Prior to Google, Sophia was an analyst at Forrester Research, covering data center infrastructure and cloud strategy.
+
+<details><summary><b>Session: Sifting through the noise: behavior change or broken machine?</b></summary>
+Data collected around open source projects is notoriously messy, and sometimes it just doesn’t smell right. So - how can you tell if you are looking at noise or erratic human behavior? When talking to every contributor is not an option, analysts must take systematic approaches to verify and interpret results. This talk will discuss examples of confusing or nonsensical values collected in the pursuit of project health, and the steps taken to investigate the accuracy of the results.
+</details>   
