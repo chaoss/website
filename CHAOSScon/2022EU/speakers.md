@@ -2,7 +2,7 @@
 
 ### Iyimide Adegunloye
 
-![Iyimide Adegunloye](https://chaoss.github.io/website/CHAOSScon/2022EU/images/iyimide-adegunloye.jpg)
+![Iyimide Adegunloye](https://chaoss.github.io/website/CHAOSScon/2022EU/images/iyimide-adegunloye.png)
 <br>_Frontend Developer - CHAOSS Project_  
 [@cuteiyimi](https://twitter.com/cuteiyimi)  
 
@@ -20,7 +20,7 @@ This presentation will provide a holistic view of:
 
 ### Kaylea Champion
 
-![Kaylea Champion](https://chaoss.github.io/website/CHAOSScon/2022EU/images/kaylea-champion.jpg)
+![Kaylea Champion](https://chaoss.github.io/website/CHAOSScon/2022EU/images/kaylea-champion.png)
 <br>_PhD Candidate - University of Washington_  
 [@kayleachampion](https://twitter.com/kayleachampion)  
 
@@ -35,7 +35,7 @@ What can our collaboration networks tell us about the health of our projects? Fr
 
 ### Santiago Dueñas
 
-![Santiago Dueñas](https://chaoss.github.io/website/CHAOSScon/2022EU/images/santiago-duenas.jpg)
+![Santiago Dueñas](https://chaoss.github.io/website/CHAOSScon/2022EU/images/santiago-duenas.png)
 <br>_CTO - Bitergia_  
 [@sduenasd](https://twitter.com/sduenasd)  
 
@@ -53,7 +53,7 @@ In this talk, we will introduce the new features and components of the platform 
 
 ### Armstrong Foundjem 
 
-![Armstrong Foundjem](https://chaoss.github.io/website/CHAOSScon/2022EU/images/armstrong-foundjem.jpeg)
+![Armstrong Foundjem](https://chaoss.github.io/website/CHAOSScon/2022EU/images/armstrong-foundjem.png)
 <br>_Researcher - Queen's University_  
 [@foundjem](https://twitter.com/foundjem)  
 
@@ -66,7 +66,7 @@ This talk focuses on the socio-technical collaboration among multiple contributo
 
 ### Daniel Izquierdo Cortázar
 
-![Daniel Izaquierdo Cortazar](https://chaoss.github.io/website/CHAOSScon/2022EU/images/daniel-izquierdo.jpeg)
+![Daniel Izaquierdo Cortazar](https://chaoss.github.io/website/CHAOSScon/2022EU/images/daniel-izquierdo.png)
 <br>_CEO- Bitergia_  
 [@dizquierdo](https://twitter.com/dizquierdo)
 
@@ -86,7 +86,7 @@ As specific CHAOSS output for this discussion, I’d like to see this part of fu
 
 ### Atinuke Oluwabamikemi Kayode
 
-![Atinuke Oluwabamikemi Kayode](https://chaoss.github.io/website/CHAOSScon/2022EU/images/atinuke-oluwabamikemi-kayode.jpeg)
+![Atinuke Oluwabamikemi Kayode](https://chaoss.github.io/website/CHAOSScon/2022EU/images/atinuke-oluwabamikemi-kayode.png)
 <br>_Community Manager - Tunga, Layer5 and SheCodeAfrica_  
 [@oluwabamikemi](https://twitter.com/oluwabamikemi)  
 
@@ -128,7 +128,7 @@ This lightning talk is about how CHAOSS presents metrics and models using the me
 
 ### Katie Schueths
 
-![Katie Schueths](https://chaoss.github.io/website/CHAOSScon/2022EU/images/katie-schueths.png)
+![Katie Schueths](https://chaoss.github.io/website/CHAOSScon/2022EU/images/katie-schueths-136.png)
 <br>_Sr. Technical Project Manager - Indeed_  
 [@katie_schueths](https://twitter.com/katie_schueths)
 
@@ -149,7 +149,7 @@ The CHAOSS Badging Project offers the DEI Event Badge, which represents an event
 
 ### Sophia Vargas
 
-![Sophia Vargas]()
+![Sophia Vargas](https://chaoss.github.io/website/CHAOSScon/2022EU/images/sophia-vargas.png)
 <br>_Research Analyst - Google - OSPO_  
 [@Sophia_IV](https://twitter.com/Sophia_IV)
 
