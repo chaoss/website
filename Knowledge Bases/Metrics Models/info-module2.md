@@ -1,4 +1,4 @@
-# Sit spirare opprimere umero nuda senectae tibi
+# CHAOSS Initiatives
 
 ## Quid haud pestiferos inlustre audet
 
