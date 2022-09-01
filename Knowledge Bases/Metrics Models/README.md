@@ -1,6 +1,6 @@
-<h1 style="font-size:45px; text-align:center">Knowledge Base: Metrics Models</h1>
+<h1 style="font-size:45px; text-align:center">Knowledge Base: Metrics and Metrics Models</h1>
 
 ## Page Description
 
-This is the Metrics Models Knowledge Base of the CHAOSS Project. If you're willing to contribute to the project but don't know how, this knowledge base is the right place for you.
+This is the Metrics and Metrics Models Knowledge Base of the CHAOSS Project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae fringilla libero. Curabitur non lacinia neque, at dictum magna. Phasellus fringilla aliquet est non imperdiet.
 
