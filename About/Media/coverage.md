@@ -2,9 +2,20 @@
 
 We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <linkgeorg@gmail.com> to get a reference added or create a pull request against the [coverage.md](https://github.com/chaoss/website/blob/master/About/Media/coverage.md) file.
 
+### 2022
+
+* Joslyn, H. (2022, September 22). **How Can Open Source Sustain Itself without Creating Burnout?** The New Stack. Retrieved September 27, 2022 from: https://thenewstack.io/how-can-open-source-sustain-itself-without-creating-burnout/
+
+* Galeano Gryciuk, E. (2022, September 22). **Bitergia in Dublin: A week full of activities.** The Software Development Analytics Blog. Retrieved September 27, 2022 from: https://blog.bitergia.com/2022/09/22/bitergia-in-dublin-a-week-full-of-activities/
+
+* McCance, S., Kolokotronis, N., Link, G., Ramkrishna, S., & Sanchez, N. (2022, September 7). **Open source events: 4 goals to set and how to measure them.** Opensource.com. Retrieved September 27, 2022 from: https://opensource.com/article/22/9/measure-success-your-open-source-event
+
+* Brockmeier, J. (2022, August 29). How Intel plans to curb open source sprawl with community metrics [Blog]. Intel Communities Blog. Retrieved September 27, 2022 from: https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/How-Intel-plans-to-curb-open-source-sprawl-with-community/post/1403984
+
+
 ### 2021
 
-* Justin W. Flory. (2021, December 31). **4 metrics to measure sustainable open source investments.** Justin W. Flory’s Blog. Retrieved January 6, 2022 from: https://blog.jwf.io/2021/12/4-metrics-open-source-investments/
+* Flory, J. (2021, December 31). **4 metrics to measure sustainable open source investments.** Justin W. Flory’s Blog. Retrieved January 6, 2022 from: https://blog.jwf.io/2021/12/4-metrics-open-source-investments/
 
 * Littauer, R., Nickolls, B., Hill, J., & Wright, M. (December, 2021). **Sustain in 2021.** Sustain Community. Retrieved December 14, 2021 from: https://sustainoss.org/assets/pdf/Sustain-In-2021-Event-Report.pdf
 
