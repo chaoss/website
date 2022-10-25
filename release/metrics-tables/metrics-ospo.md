@@ -1,6 +1,6 @@
-## Value
+## OSPO
 
-Value Repository: https://github.com/chaoss/wg-value  
+OSPO Repository: https://github.com/chaoss/wg-ospo  
 
 ### Focus Area - Academic Value
 
