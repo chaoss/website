@@ -1,4 +1,4 @@
-#Join CHAOSS Community
+#Join the CHAOSS Community
 
 The CHAOSS community is dedicated to fostering an open and welcoming environment for contributors.
 Anyone can join the mailing list, participate in Zoom meetings, or contribute to any of our projects at any time!
