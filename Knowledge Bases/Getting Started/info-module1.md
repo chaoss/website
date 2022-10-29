@@ -1,4 +1,4 @@
-# New Contribotor Check List
+# New Contributor Check List
 
 [ ] Lorem  
 [ ] Impsum  
