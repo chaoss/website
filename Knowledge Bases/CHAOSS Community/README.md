@@ -1,5 +1,18 @@
-<h1 style="font-size:45px; text-align:center">Knowledge Base: CHAOSS Community</h1>
+#Join CHAOSS Community
 
-## Page Description
+The CHAOSS community is dedicated to fostering an open and welcoming environment for contributors.
+Anyone can join the mailing list, participate in Zoom meetings, or contribute to any of our projects at any time!
 
-This is the CHAOSS Community Knowledge Base of the CHAOSS Project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae fringilla libero. Curabitur non lacinia neque, at dictum magna. Phasellus fringilla aliquet est non imperdiet.
+###Working groups
+
+The goal of the working groups is to refine the metrics and to work with software implementations. The workgroups are built around categories of metrics that CHAOSS has identified.
+
+###Software
+
+Augur
+GrimoireLab
+
+###Initiatives
+
+Badging
+
