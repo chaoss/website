@@ -1,6 +1,6 @@
 # Get Started Contributing
 
-This is the Getting Started Knowledge Base of the CHAOSS Project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae fringilla libero. Curabitur non lacinia neque, at dictum magna. Phasellus fringilla aliquet est non imperdiet.
+This is the Getting Started page for the CHAOSS Project. The purpose of this page is to welcome new contributors and help them get started contributing to the CHAOSS project. 
 
 ### A Quick Start Guide for Newcomers
 
@@ -8,6 +8,6 @@ This is the Getting Started Knowledge Base of the CHAOSS Project. Lorem ipsum do
 2. New Contributor Slack Channel - We have a Slack Channel! And so many working group focused channels within it. BUT, we've reserved one ESPECIALLY for newcomers, and our community is highly responsive within it. This is the [Slack channel](https://chaoss-workspace.slack.com/join/shared_invite/zt-dqeab4ab-4XrH51rc4y_WXjN~uI~6rA#/). And THIS is the channel within a channel, called "#office-hours" where you'll be welcomed!  [Newcomers #office-hours channel in the CHAOSS Slack](https://chaoss-workspace.slack.com/archives/C0207C3RETX)
 3. Software -->
 
-### Contributor Handbook Knowledge Base
+### New Contributor Knowledge Base
 
-The contributor handbook is sorted into Topic Areas...
+The new contributor knowledge base is sorted into Topic Areas...
