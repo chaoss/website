@@ -1,7 +1,7 @@
 ## Upcoming Events
-* [CHAOSScon 2022 Europe is Here!](https://chaoss.community/chaosscon-2022-eu/)
 
 ## Past Events
+* [**CHAOSScon 2022 Europe**](https://chaoss.community/chaosscon-2022-eu/), September 12, 2022, Dublin,  Ireland, co-located with Open Source Summit Europe 2022
 * [**CHAOSScon 2021 North America**](https://chaoss.community/chaosscon-2021-na/), September 30, 2021, Seattle, USA, co-located with Open Source Summit 2022
 * [**CHAOSScon 2020 Europe**](https://chaoss.community/chaosscon-2020-eu/), January 31, 2020, Brussels, Belgium, co-located with FOSDEM 2020.
 * [**CHAOSScon 2019 North America**](https://chaoss.community/chaosscon-2019-na/), August 20th, 2019, San Diego, California, co-located with Open Source Summit 2019.
