@@ -13,6 +13,6 @@ Follow [@CHAOSSproj](https://twitter.com/CHAOSSproj) and tweet #CHAOSS #CHAOSSco
 
 ### Diversity Access Tickets and Family Friendliness
 
-Please ask on Slack how to get a Diversity Access Ticket, we have not yet finalized the procedure.
+Please email Elizabeth Barron <elizabeth@chaoss.community> for more information on how to get a Diversity Access Ticket.
 
 The CHAOSScon team plans to host an informal family friendly outing after CHAOSScon, but the details are to be determined. We recommend you join the [#CHAOSScon slack channel](https://chaoss-workspace.slack.com/archives/C02EMK6RAKT) for up-to-date information.
