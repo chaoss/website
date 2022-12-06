@@ -19,4 +19,4 @@ This CHAOSScon will not be live streamed.
 
 ### Registration
 
-[Registration for the in-person CHAOSScon event](https://opencollective.com/chaoss/events/chaosscon-2023-brussels-5c280300/contribute/chaosscon-2023-ticket-brussels-47861) is done through Open Collective.
+[Registration for the in-person CHAOSScon event](https://www.eventbrite.com/e/chaosscon-europe-2023-brussels-belgium-registration-482560329937) is done through Eventbrite.
