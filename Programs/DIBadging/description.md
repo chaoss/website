@@ -13,12 +13,11 @@ Applying for a badge supports D&I efforts within an open source community by exp
 
 ### Before You Start
 
-#### For additional information, please visit the official [CHAOSS D&I Badging Repository](https://github.com/badging/diversity-and-inclusion/)
+#### For additional information, please visit the official [CHAOSS D&I Badging Repository](https://github.com/badging/event-diversity-and-inclusion)
 
 In order to submit an application for a project, review the following documents:
-- [Applicant role](https://github.com/badging/diversity-and-inclusion/blob/master/roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
-- [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/requirements.md) - Minimum requirements for a Event to be eligible for participation in CHAOSS Badging process.
-- [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how a Event can gain a badge under the CHAOSS Badging program.
+- [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/main/info-for-applicants/requirements.md) - Minimum requirements for a Event to be eligible for participation in CHAOSS Badging process.
+- [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/main/info-for-applicants/guidelines.md) - Guidelines and steps on how a Event can gain a badge under the CHAOSS Badging program.
 
 Make sure to fill out all the fields! 
 
