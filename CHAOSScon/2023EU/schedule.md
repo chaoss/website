@@ -70,4 +70,17 @@ for showing-off, why not?  B-)
 
 ### Augur Workshop (13:30-17:30)
 
-Agenda to be announced.
+Time | Topic 
+--- | ---
+13:30-13:40 | Welcome by Sean Goggins
+13:40-14:00 | Augur and OSS-Aspen
+14:00-14:30 | OSS-Aspen: A dynamic new front end
+14:30-15:45 | Thread 1: Front End with OSS-Aspen
+14:30-15:45 | Thread 2: Augur Installation and Configuration
+14:30-15:45 | Thread 3: Ecosystem Networks: Communication and Contribution Across Projects
+15:45-16:00 | Break
+16:00-16:30 | Sharing Across Threads
+16:30-17:30 | Thread 1: Front End with OSS-Aspen
+16:30-17:30 | Thread 2: Augur Installation and Configuration
+16:30-17:30 | Thread 3: Ecosystem Networks: Communication and Contribution Across Projects
+17:30       | Closing remarks
