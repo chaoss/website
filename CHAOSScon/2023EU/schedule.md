@@ -70,4 +70,36 @@ for showing-off, why not?  B-)
 
 ### Augur Workshop (13:30-17:30)
 
-Agenda to be announced.
+Time | Topic 
+--- | ---
+13:30-13:40 | Welcome by Sean Goggins
+13:40-14:00 | Augur and OSS-Aspen
+14:00-14:30 | OSS-Aspen: A dynamic new front end
+14:30-15:45 | Thread 1: Front End with OSS-Aspen
+14:30-15:45 | Thread 2: Augur Installation and Configuration
+14:30-15:45 | Thread 3: Ecosystem Networks: Communication and Contribution Across Projects
+15:45-16:00 | Break
+16:00-16:30 | Sharing Across Threads
+16:30-17:30 | Thread 1: Front End with OSS-Aspen
+16:30-17:30 | Thread 2: Augur Installation and Configuration
+16:30-17:30 | Thread 3: Ecosystem Networks: Communication and Contribution Across Projects
+17:30       | Closing remarks
+
+**Augur Threads**
+
+There are many parts of Augur to use, and Contribute to.
+
+**Thread 1: Front End with OSS-Aspen**
+
+_Showcasing Wide, Deep Data with OSS-Aspen_ - 
+OSS-Aspen is a new and compelling Dash/Plotly based interface for Augur that leverages Augur's rich and complete data! You will learn how to quickly visualize anything you can imagine across a prepared collection of over 20,000 repositories.
+
+**Thread 2: Augur Installation and Configuration**
+
+_Installing and Configuring Augur_ - 
+Learn how to get started quickly, and collect data for any repository you are interested in!
+
+**Thread 3: Ecosystem Networks: Communication and Contribution Across Projects**
+
+_Network Analysis_ - 
+No single project, or collection of projects exists in isolation. The technical strategies, communication and work are usually spread across numerous other projects, and project dependencies. Learn how to take an ecosystem level of view of CHAOSS Metrics and Metric Models. 
