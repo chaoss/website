@@ -10,7 +10,7 @@ Phone: +1 469-610-3608
 
 February 3rd, 2023
 
-Time: 8am to 17:00pm IST
+Time: 8am to 17:30pm CET (UTC +1)
 
 
 ### Live Streaming
