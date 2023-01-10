@@ -7,17 +7,15 @@
 | 8:00 | Check-in and networking and Coffee |
 | 8:30 | Welcome |
 | 8:45-9:15 | Expert Panel: Greatest Needs for CHAOSS |
-| 9:15-9:45 | Interactive Session 1 - CHAOSS and Open Source Program Offices |
-| 9:50-10:20 | Lightning Talks |
-| 10:20 | Coffee and Tea Break |
-| 10:35-11:05 | Interactive Session 2 - Future CHAOSS Efforts |
-| 11:20-11:40 | Lightning Talks / Report out and group discussion |
+| 9:20-9:55 | Interactive Session 1 - CHAOSS and Open Source Program Offices |
+| 9:55-10:15 | Coffee and Tea Break |
+| 10:15-10:50 | Interactive Session 2 - Future CHAOSS Efforts |
+| 10:50-11:40 | Lightning Talks / Report out and group discussion |
 | 11:40 | Closing |
 | 11:55 | Group photo |
 | 12:00-13:30 | LUNCH (attendees on their own) |
-| 13:30-17:30 | Whole afternoon focused on Augur - Agenda to be determined |
+| 13:30-17:30 | Whole afternoon focused on Augur - see below |
 | 13:30-17:30 | Whole afternoon focused on GrimoireLab - see below |
-
 
 ### GrimoireLab Workshop (13:30-17:30)
 
