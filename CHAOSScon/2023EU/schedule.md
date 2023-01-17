@@ -13,7 +13,7 @@
 | 10:50-11:40 | Lightning Talks / Report out and group discussion |
 | 11:40 | Closing |
 | 11:55 | Group photo |
-| 12:00-13:30 | LUNCH (attendees on their own) <br>Optional Event: OSPO++ @ CHAOSScon ([Separate registration required](https://www.eventbrite.com/e/ospo-chaosscon-measuring-oss-in-universities-tickets-51063796088))|
+| 12:00-13:30 | LUNCH (attendees on their own) <br>Optional Event: OSPO++ @ CHAOSScon - Measuring OSS in Universities ([Separate registration required](https://www.eventbrite.com/e/ospo-chaosscon-measuring-oss-in-universities-tickets-510637960887))|
 | 13:30-17:30 | Whole afternoon focused on Augur - see below |
 | 13:30-17:30 | Whole afternoon focused on GrimoireLab - see below |
 
