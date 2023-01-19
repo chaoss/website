@@ -6,7 +6,7 @@
 |---|---|
 | 8:00 | Check-in and networking and Coffee |
 | 8:30 | Welcome |
-| 8:45-9:15 | Expert Panel: Greatest Needs for CHAOSS |
+| 8:45-9:15 | Expert Panel: How to use Metrics in your Context (D. Foster, S. Goggins, I. Vancsa) |
 | 9:20-9:55 | Interactive Session 1 - CHAOSS and Open Source Program Offices |
 | 9:55-10:15 | Coffee and Tea Break |
 | 10:15-10:50 | Interactive Session 2 - Future CHAOSS Efforts |
