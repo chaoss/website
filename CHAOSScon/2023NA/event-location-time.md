@@ -1,12 +1,14 @@
 ### Where
 
 [Vancouver Convention Centre](https://www.vancouverconventioncentre.com/)
+
 1055 Canada Pl
+
 Vancouver, BC V6C 0C3, Canada
 
 ### When
 
-May 9, 2023
+**Date: May 9, 2023**
 
 Time: 1:00 pm - 5:30 pm Pacific Daylight Time
 
