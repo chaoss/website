@@ -4,7 +4,8 @@
 
 | Time | Topic | Speaker |
 | --- | -- | --- |
-| 1:00pm | Check-in, networking, and coffee/tea |
+| 1:00-1:30 | Check-in, networking, and coffee/tea |
+
 | 1:30-1:50 | Welcome and State of CHAOSS | Georg Link, Bitergia |
 | 1:55-2:15 | Keynote 1: How do we build  towards sustainability? | Sophia Vargas, Google |
 | 2:20-2:40 | Discussion session in small groups|
