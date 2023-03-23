@@ -15,7 +15,7 @@ Time: 1:00 pm - 5:30 pm Pacific Daylight Time
 
 ### Live Streaming
 
-This CHAOSScon will not be live streamed.
+CHAOSScon will be streamed via the Linux Foundation streaming platform
 
 ### Registration
 
