@@ -12,10 +12,13 @@ Vancouver, BC V6C 0C3, Canada
 
 Time: 1:00 pm - 5:30 pm Pacific Daylight Time
 
-
 ### Live Streaming
 
 CHAOSScon will be streamed via the Linux Foundation streaming platform
+
+### Live Disucssions 
+
+During CHAOSScon, we will be monitoring our [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) #CHAOSScon for real time questions and comments that in-person and online attendess may have. 
 
 ### Registration
 
