@@ -6,7 +6,7 @@
 | --- | -- | --- |
 | 1:00-1:30 | Check-in, networking, and coffee/tea |
 | 1:30-1:50 | Welcome and State of CHAOSS | Georg Link, Bitergia |
-| 1:55-2:15 | Keynote 1: How do we build  towards sustainability? | Sophia Vargas, Google |
+| 1:55-2:15 | Keynote 1: How do we build towards open source sustainability? A discussion of issues, opportunities, expectations, and the role of individuals, companies, and organizations | Sophia Vargas, Google |
 | 2:20-2:40 | Discussion session in small groups|
 | 2:40-2:55 | Break with coffee/tea |
 | 3:00-3:20 | Keynote 2: How do you interpret, motivate to improve, and share results of OSS community health-related findings within an organization? | Emma Irwin, Microsoft |
