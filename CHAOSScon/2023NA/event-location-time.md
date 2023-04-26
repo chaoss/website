@@ -6,15 +6,16 @@
 
 Vancouver, BC V6C 0C3, Canada
 
+Room: West, Level 1, Room 110
+
 ### When
 
 **Date: May 9, 2023**
 
-Time: 1:00 pm - 5:30 pm Pacific Daylight Time
+Time: 1:30 pm - 5:00 pm Pacific Daylight Time
 
 ### Live Streaming
-
-CHAOSScon will be streamed via the Linux Foundation streaming platform. 
+CHAOSScon will be streamed live on the Accelevents virtual platform. Attendees will receive their login credentials in an email sent to all OSS NA registered attendees on Monday, May 1st at 9:00am PDT. Please note: Virtual attendees will only be able to watch the live session - there will be no speaker Q&A, no virtual attendee audio function, and no text chat function available in the platform.
 
 ### Live Discussions 
 
