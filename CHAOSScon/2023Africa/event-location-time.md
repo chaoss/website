@@ -1,25 +1,23 @@
 ### Where
 
-[Vancouver Convention Centre](https://www.vancouverconventioncentre.com/)
+Zone Tech Park, Gbagada, Lagos, Nigeria
 
-1055 Canada Pl
-
-Vancouver, BC V6C 0C3, Canada
+(Plot 9 Gbagada Industrial Scheme, Beside UPS)
 
 ### When
 
-**Date: May 9, 2023**
+**Date: June 14, 2023**
 
-Time: 1:00 pm - 5:30 pm Pacific Daylight Time
+Time: 11:00 am - 3:00 pm WAT
 
 ### Live Streaming
 
-CHAOSScon will be streamed via the Linux Foundation streaming platform. 
+TBD
 
 ### Live Discussions 
 
-During CHAOSScon, we will be monitoring our [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) #CHAOSScon for real time questions and comments that in-person and online attendess may have. 
+TBD 
 
 ### Registration
 
-Registration for this event is $20 USD and because this is a co-located event with Open Source Summit North America, registration for that event is a prerequisite. You can register for both events on the [OSSNA Registration Page.](https://events.linuxfoundation.org/open-source-summit-north-america/register/)
+Registration for this event is N2000 and this event is co-located with [OSCA](https://festival.oscafrica.org/). You can register for this event [here](https://tix.africa/discover/chaoss)
