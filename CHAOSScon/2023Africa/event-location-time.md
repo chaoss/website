@@ -20,4 +20,4 @@ TBD
 
 ### Registration
 
-Registration for this event is N2000 and this event is co-located with [OSCA](https://festival.oscafrica.org/). You can register for this event [here](https://tix.africa/discover/chaoss)
+Registration for this event is N2000 and this event is co-located with [OSCA](https://festival.oscafrica.org/). You can register for CHAOSScon Africa [here](https://tix.africa/discover/chaoss).
