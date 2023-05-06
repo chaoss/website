@@ -20,4 +20,4 @@ TBD
 
 ### Registration
 
-Registration for this event is N2000 and this event is happening during OSCA. You can register for CHAOSScon Africa [here](https://tix.africa/discover/chaoss).
+Registration for this event is N2000 and this event is happening right before OSCA. You can register for CHAOSScon Africa [here](https://tix.africa/discover/chaoss).
