@@ -11,5 +11,5 @@
 | 2:40-2:55 | Break with coffee/tea | |
 | 3:00-3:20 | Keynote 2: How do you interpret, motivate to improve, and share results of OSS community health-related findings within an organization? | [Emma Irwin, Microsoft](https://ossna2023.sched.com/speaker/emma.irwin) |
 | 3:20-3:40 | Discussion session in small groups| |
-| 3:45-4:30 | Keynote 3: CHAOSS software updates with real time demonstrations | [Sean Goggins, University of Missouri](https://seangoggins.net), [Cali Dolfi, Red Hat](https://ossna2023.sched.com/speaker/cdolfi?iframe=no) and [Georg Link, Bitergia](https://ossna2023.sched.com/speaker/GeorgLink) |
+| 3:45-4:30 | Keynote 3: CHAOSS software updates with real time demonstrations | [Sean Goggins, University of Missouri](https://seangoggins.net), [Cali Dolfi, Red Hat](https://ossna2023.sched.com/speaker/cdolfi?iframe=no) and [Daniel Izquierdo, Bitergia](https://ossna2023.sched.com/speaker/dizquierdo) |
 | 4:30-5:00 | Lightning Talk Style Large group discussion, sharing what was discussed wrapup | |
