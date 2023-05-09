@@ -4,7 +4,9 @@
 
 1055 Canada Pl
 
-Vancouver, BC V6C 0C3, Canada
+Vancouver, BC V6C 0C3, Canada  
+
+West, Level 1, Room 110
 
 ### When
 
