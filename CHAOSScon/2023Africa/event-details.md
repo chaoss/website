@@ -14,3 +14,7 @@ Follow [@CHAOSS_Africa](https://twitter.com/chaoss_africa) and tweet #CHAOSS #CH
 
 Please contact Ruth Ikegah on the [CHAOSS Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw) for more information on how to get a Diversity Access Ticket.
 
+### Accessibility
+
+The CHAOSScon Africa team is committed to providing accommodations to those in need, to the best of their ability. Please reach out to Maryblessing Okolie on the [CHAOSS Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw) to request or inquire about specific accommodations.
+
