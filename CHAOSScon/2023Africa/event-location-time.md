@@ -12,7 +12,7 @@ Time: 11:00 am - 3:00 pm WAT
 
 ### Live Streaming
 
-We are not planning to livestream this event at this time.
+Live streaming will be available through CHAOSStube on YouTube. A specific link will be provided when available. 
 
 ### Live Discussions 
 
