@@ -1,7 +1,7 @@
 ## Speaker Bios and Session Descriptions
 
 ### Justin Flory
-![Justin Flory](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/justin.png)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Justin.jpg" width="200" align="left" />
 
 **Bio:**
 Justin W. Flory is a creative maker. He is best known as an Open Source contributor and Free Culture advocate originally from the United States. Justin has participated in numerous Open Source communities and led different initiatives to build sustainable software and communities for over ten years.
@@ -22,8 +22,7 @@ In this talk, Justin W. Flory will pull the curtain back on the past 40 years of
 ---
 
 ### Brayan Kai Mwanyumba 
-
-![Brayan Kai Mwanyumba](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/BrayanKaiMwanyumba.jpg)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/BrayanKaiMwanyumba.jpg" width="200" align="left" />
 
 
 **Bio:**
@@ -43,7 +42,7 @@ Artificial Intelligence systems have become an integral part of modern technolog
 
 ### Alexis Abakasanga
 
-![Alexis Abakasanga](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Alexis%20Abakasanga.jpg)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Alexis%20Abakasanga.jpg" width="200" align="left" />
 
 
 
@@ -62,8 +61,7 @@ After being released from an internship one month in due to reasons unknown to m
 ---
 
 ### Anita Ihuman
-
-![Anita Ihuman](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Anita.png)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Anita.png" width="200" align="left" />
 
 
 **Bio:**
@@ -83,14 +81,11 @@ In this session, I will introduce the CHAOSS community, highlighting its mission
 ---
 
 ### Sean Goggins
-
-![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Sean%20Goggins.png)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Sean%20Goggins.png" width="200" align="left" />
 
 
 **Bio:**
-Sean is an open-source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open-source software CHAOSS, co-lead of the CHAOSS metrics software working group, and leader of the open-source metrics tool AUGUR, which can be forked and cloned and experimented with on GitHub. Sean’s other major research project over the past decade, Mission Hydro-Sci, focuses on computational modeling and artificial intelligence for discerning student learning progress in Serious Games.
-After a decade as a software engineer, Sean decided his calling was in research. His open-source research is framed around a broader agenda of social computing research, which he pursues as a Professor of Electrical Engineering and Computer Science at the University of Missouri.
-Sean also created the Data Science and Analytics Masters program at Missouri, which he’s now passed on to people well-suited for operations.  Sean’s publications focus on understanding how social technologies influence organizational, small group, and community dynamics, typically including analysis of electronic trace data from systems combined with the perspectives of people whose behavior is traced. Group Informatics is a methodology and ontology Sean has articulated, intending to help build consensus among researchers and developers on ethically and systematically making sense of electronic trace data. Structural fluidity, a construct Sean developed with his collaborators Peppo Valetto and Kelly Blincoe, aims to make sense of structural dynamics in virtual software organizations and how those dynamics affect performance. Working with Josh Introne, Bryan Semaan, and Ingrid Erickson, Sean elaborates on mechanisms for identifying structural fluidity and organizational dynamics in electronic trace data from an online health forum, using the lens of complex systems theory. His other work includes collaborations with Matt Germonprez on the Open Collaboration Data Exchange and Open Source Health metrics projects. He lives in Columbia, MO, with his wife Kate, two daughters (a third, the oldest, is off getting her Ph.D.), and a dog named Huckleberry.
+Sean is an open-source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open-source software CHAOSS, co-lead of the CHAOSS metrics software working group, and leader of the open-source metrics tool AUGUR, which can be forked and cloned and experimented with on GitHub. Sean’s other major research project over the past decade, Mission Hydro-Sci, focuses on computational modeling and artificial intelligence for discerning student learning progress in Serious Games. He lives in Columbia, MO, with his wife Kate, two daughters (a third, the oldest, is off getting her Ph.D.), and a dog named Huckleberry.
 
 **Talk type:**
 Lighting Talk
@@ -108,7 +103,7 @@ Participants in the talk will walk away with a clearer view of how to frame rese
 
 ### Desmond Obisi
 
-![Desmond Obisi](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Desmond%20Obisi.jpg)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Desmond%20Obisi.jpg" width="200" align="left" />
 
 
 **Bio:**
@@ -127,7 +122,7 @@ Join me to explore how open source contribution can accelerate your personal and
 ---
 ### Blessing Eloho Awhensebe
 
-![Blessing Eloho Awhensebe](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Blessing%20Eloho%20Awhensebe.jpeg)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Blessing%20Eloho%20Awhensebe.jpeg" width="200" align="left" />
 
 
 
@@ -146,8 +141,7 @@ In this presentation, I would explore the importance of prioritizing health and 
 --- 
 
 ### Funke Olasupo
-
-![Funke Olasupo](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Funke%20Olasupo.png)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Funke%20Olasupo.png" width="200" align="left" />
 
 
 
@@ -167,7 +161,7 @@ Unleash the power of open source and take your technical writing skills to new h
 
 ### Ifihanagbara Olusheye
 
-![Ifihanagbara Olusheye](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Ifihanagbara%20Olusheye.jpg)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Ifihanagbara%20Olusheye.jpg" width="200" align="left" />
 
 
 **Bio:**
@@ -187,7 +181,7 @@ This session is designed for developers of all levels of experience. No prior kn
 --- 
 ### Enock Kasaadha
 
-![Enock Kasaadha](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Enoch.jpg)
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Enoch.jpg" width="200" align="left" />
 
 
 
