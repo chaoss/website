@@ -12,7 +12,9 @@ Follow [@CHAOSS_Africa](https://twitter.com/chaoss_africa) and tweet #CHAOSS #CH
 
 ### Diversity Access Tickets and Family Friendliness
 
-Please contact Ruth Ikegah on the [CHAOSS Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw) for more information on how to get a Diversity Access Ticket.
+If you are interested in applying for a Diversity Access Ticket, you are welcome to fill out [this form](https://forms.gle/hwCDyhLRqpjLigF86). There are a limited number of tickets available. 
+
+CHAOSScon Africa is dedicated to making it easier for families to attend the conference. As such, there will be a room available at the venue for nursing parents or for other family care needs. 
 
 ### Accessibility
 
