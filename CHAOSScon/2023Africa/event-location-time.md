@@ -8,7 +8,7 @@ Zone Tech Park, Gbagada, Lagos, Nigeria
 
 **Date: June 14, 2023**
 
-Time: 11:00 am - 3:00 pm WAT
+Time: 11:00 am - 5:00 pm WAT
 
 ### Live Streaming
 
