@@ -61,7 +61,7 @@ After being released from an internship one month in due to reasons unknown to m
 ---
 
 ### Anita Ihuman
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Anita.png" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2023Africa/images/Anita.jpeg" width="200px" align="left" />
 
 
 **Bio:**
