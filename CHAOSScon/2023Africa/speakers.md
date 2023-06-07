@@ -1,6 +1,7 @@
 ## Speaker Bios and Session Descriptions
 
 ### Justin Flory
+![Justin Flory](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/justin.png)
 
 **Bio:**
 Justin W. Flory is a creative maker. He is best known as an Open Source contributor and Free Culture advocate originally from the United States. Justin has participated in numerous Open Source communities and led different initiatives to build sustainable software and communities for over ten years.
@@ -22,6 +23,9 @@ In this talk, Justin W. Flory will pull the curtain back on the past 40 years of
 
 ### Brayan Kai Mwanyumba 
 
+![Brayan Kai Mwanyumba](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/BrayanKaiMwanyumba.jpg)
+
+
 **Bio:**
 Brayan Kai is a Machine Learning Engineer Passionate about Communities, Developer Relations, Technical Writing and Open-Source Advocacy. He currently volunteers at different developer communities across Africa including Google Crowdsource, Open-Source Community Africa, She Code Africa and Dev Careers. All this owing to his strong passion for supporting fellow upcoming technologists, and women in tech and advocating for inclusion and diversity. He calls this his personal mission. It makes him happier, and more balanced and gives him a stronger sense of purpose to innovate, share, and teach in and with the community rather than just for it.
 
@@ -36,7 +40,12 @@ Brayan Kai is a Machine Learning Engineer Passionate about Communities, Develope
 Artificial Intelligence systems have become an integral part of modern technology and have the potential to revolutionise various industries. However, as AI systems become more complex and make decisions that affect human lives, building trust in AI is crucial. Explainability, the ability to understand how AI makes decisions, is a critical factor in building trust in AI. In this talk, we will discuss the importance of explainability in open-source AI projects and its impact on community health.
 
 ---
+
 ### Alexis Abakasanga
+
+![Alexis Abakasanga](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Alexis%20Abakasanga.jpg)
+
+
 
 **Bio:**
 Alexis is a product designer who is dedicated to open source, public speaking, and volunteering. He was recognised as the Campus Ambassador of the Year for Ingressive For Good in 2022. He enjoys sharing his knowledge with the community, as he believes that it can benefit everyone.
@@ -53,6 +62,9 @@ After being released from an internship one month in due to reasons unknown to m
 ---
 
 ### Anita Ihuman
+
+![Anita Ihuman](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Anita.png)
+
 
 **Bio:**
 Anita is a developer advocate and technical writer. she has a track record in web development and DevRel on a global scale. With a focus on advocating for open source, Cloud Native, DevOps, documentation, community management, and DEI best practices, she is uniquely positioned to help individuals become more comfortable and confident as they contribute to their communities. 
@@ -71,6 +83,9 @@ In this session, I will introduce the CHAOSS community, highlighting its mission
 ---
 
 ### Sean Goggins
+
+![Sean Goggins](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Sean%20Goggins.png)
+
 
 **Bio:**
 Sean is an open-source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open-source software CHAOSS, co-lead of the CHAOSS metrics software working group, and leader of the open-source metrics tool AUGUR, which can be forked and cloned and experimented with on GitHub. Sean’s other major research project over the past decade, Mission Hydro-Sci, focuses on computational modeling and artificial intelligence for discerning student learning progress in Serious Games.
@@ -93,6 +108,9 @@ Participants in the talk will walk away with a clearer view of how to frame rese
 
 ### Desmond Obisi
 
+![Desmond Obisi](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Desmond%20Obisi.jpg)
+
+
 **Bio:**
 Desmond is a software engineer and developer advocate/experience engineer building web products with over five years of experience. I'm an open-source contributor and technical writer whose vision is to build great products and makes them easy for the world to use. If I'm not building, you'll see me speaking and engaging communities.
 
@@ -108,6 +126,10 @@ Join me to explore how open source contribution can accelerate your personal and
 
 ---
 ### Blessing Eloho Awhensebe
+
+![Blessing Eloho Awhensebe](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Blessing%20Eloho%20Awhensebe.jpeg)
+
+
 
 **Bio:**
 Blessing Eloho Awhensebe is a community builder with over 3 years of experience managing and building developer communities for renowned organizations like Women TechMakers and Google Developer Groups. She is passionate about creating exceptional events and experiences that drive community growth. She is committed to creating engaging and inclusive events that inspire, educate and connect attendees.
@@ -125,6 +147,10 @@ In this presentation, I would explore the importance of prioritizing health and 
 
 ### Funke Olasupo
 
+![Funke Olasupo](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Funke%20Olasupo.png)
+
+
+
 **Bio:**
 Funke is a Backend Developer and Technical Writer. She is passionate about building technical-focused communities for women and young teenagers. She is currently a Women TechMakers Ambassador and Postman Supernova. When she is not writing code or creating technical content, she is volunteering for a community social service project.
 
@@ -140,6 +166,9 @@ Unleash the power of open source and take your technical writing skills to new h
 ---
 
 ### Ifihanagbara Olusheye
+
+![Ifihanagbara Olusheye](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Ifihanagbara%20Olusheye.jpg)
+
 
 **Bio:**
 Ifihan Olusheye is a software engineer with a passion for building scalable solutions with new technologies. She specializes in Backend Engineering, Artificial Intelligence, and Technical Writing. Ifihan enjoys writing Python and Julia, and she actively contributes to open-source projects.
@@ -157,6 +186,10 @@ This session is designed for developers of all levels of experience. No prior kn
 
 --- 
 ### Enock Kasaadha
+
+![Enock Kasaadha](https://chaoss.github.io/website/CHAOSScon/2023Africa/images/Enoch.jpg)
+
+
 
 **Bio:**
 Software Engineer contributing to CHAOSS and Debian. Always running across tech stacks
