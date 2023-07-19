@@ -1,4 +1,4 @@
-# Ethical use of GrimoireLab
+## Ethical use of GrimoireLab
 
 Metrics on this page were debated in working groups and undergo a 30 day comment period to ensure validity. Released metrics are only a subset of many possible metrics. CHAOSS acknowledges that more metrics exist and is working to identify and release new metrics in the future. If you would like to learn more about metrics, suggest new metrics, and or help define metrics please visit our [participate page] (https://chaoss.community/participate/).
 
