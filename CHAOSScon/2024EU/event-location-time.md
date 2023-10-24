@@ -8,7 +8,7 @@ Phone: +1 469-610-3608
 
 ### When
 
-February 1rd, 2024
+February 1st, 2024
 
 Time: 8am to 17:30pm CET (UTC +1)
 
