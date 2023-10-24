@@ -6,3 +6,8 @@
 * Matt Germonprez
 * Sean Goggins
 * Sophia Vargas
+* Peculiar Umeh
+* Clare Dillon
+* Ayomide Ogunlade
+* Rhoda Michael
+* Anita Ihuman
