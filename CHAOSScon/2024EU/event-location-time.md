@@ -19,4 +19,4 @@ This CHAOSScon will not be live streamed.
 
 ### Registration
 
-Registration is coming soon! 
+Registration is now open! 
