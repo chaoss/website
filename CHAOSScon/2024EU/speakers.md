@@ -1,3 +1,5 @@
 ## Speakers and Session Descriptions
 
-### Coming Soon!
+### Clare Dillon
+
+Clare Dillon is an open source and InnerSource advocate and is currently a PhD researcher with the University of Galway, Ireland. Clare also works with a global community of Open Source Program Offices in university and research institutions. From 2021-2023, Clare served as the inaugural Executive Director of InnerSource Commons, the world's largest community of InnerSource practitioners. In 2021, Clare co-founded Open Ireland Network, a community for those interested in advancing open source at a national level in Ireland. Previously, Clare was a member of the Microsoft Ireland Leadership Team, heading up their Developer Evangelism and Experience Group. Clare is a qualified coach and frequently speaks at international conferences and corporate events on topics relating to open collaboration and the future of work.
