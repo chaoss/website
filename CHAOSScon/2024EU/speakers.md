@@ -10,3 +10,7 @@ Clare Dillon is an open source and InnerSource advocate and is currently a PhD r
 ![Malcolm Bain](https://chaoss.github.io/website/CHAOSScon/2024EU/images/MalcolmBain.jpg)
 Malcolm is an IP lawyer who has specialized in ICTs and open source, working on these topics from Barcelona for the last 25 years.
 
+### Sophia Vargas
+
+![Sophia Vargas](https://chaoss.github.io/website/CHAOSScon/2024EU/images/sophia-vargas.png)
+Sophia Vargas is a Program Manager in the research and operations team within Google’s Open Source Programs Office. In this role she leads research efforts that span project health, contributor experience, and open source economics. She is also on the Governing Board and an active contributor to the CHAOSS community. Prior to Google, Sophia was an analyst at Forrester Research, covering data center infrastructure and cloud strategy.
