@@ -8,7 +8,7 @@
 | 10:10-10:35 | Breakout: Group Discussion |
 | 10:35 | Group Picture |
 | 10:35-11:00 | Break |
-| 11:00-11:35 | Panel: Tension Between Transparency and Privacy in OSS metrics generation - Malcolm Bain (ACROSS LEGAL), Sophia Vargus (Google), Another speaker TBD |
+| 11:00-11:35 | Panel: Tension Between Transparency and Privacy in OSS metrics generation - Malcolm Bain (ACROSS LEGAL), Sophia Vargus (Google), Inessa Pawson (OpenTeams) |
 | 11:35-12:00 | Breakout: Group Discussion |
 | 12:00-12:15 | Breakout Sessions Recap |
 | 12:15-1:30 | Lunch (on your own) |
