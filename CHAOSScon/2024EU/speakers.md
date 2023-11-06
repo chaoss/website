@@ -17,7 +17,7 @@ Malcolm is an IP lawyer who has specialized in ICTs and open source, working on 
 
 ### Matt Germonprez
 
-![Matt Germonprez]((https://chaoss.github.io/website/CHAOSScon/2024EU/images/MattGermonprez.jpg)
+![Matt Germonprez](https://chaoss.github.io/website/CHAOSScon/2024EU/images/MattGermonprez.jpg)
 Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Science & Technology and Professor of Information Systems and Quantitative Analysis in the College of Information Science & Technology at the University of Nebraska Omaha. His lines of research have been funded by numerous organizations including the Alfred P. Sloan Foundation, the Ford Foundation, the National Science Foundation, the Chan Zuckerberg Initiative, and Mozilla. Matt is the co-founder of the CHAOSS Project.  Matt is an active open source community member, having presented design and development work at LinuxCon, the Open Source Summit NA, the Linux Foundation Open Compliance Summit, the Linux Foundation Collaboration Summit, and the Open Source Leadership Summit.
 
 ### Sophia Vargas
