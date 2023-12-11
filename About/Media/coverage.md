@@ -2,6 +2,10 @@
 
 We collect here any reference we find that mentions our CHAOSS Project. This page is maintained by Georg Link. Email <linkgeorg@gmail.com> to get a reference added or create a pull request against the [coverage.md](https://github.com/chaoss/website/blob/master/About/Media/coverage.md) file.
 
+### 2023
+
+* Dam, T., Klausner, L. D., & Neumaier, S. (2023). **Towards a Critical Open-Source Software Database.** In Companion Proceedings of the ACM Web Conference 2023 (WWW '23 Companion). Association for Computing Machinery, New York, NY, USA, 156–159. https://doi.org/10.1145/3543873.3587336
+
 ### 2022
 
 * Joslyn, H. (2022, September 22). **How Can Open Source Sustain Itself without Creating Burnout?** The New Stack. Retrieved September 27, 2022 from: https://thenewstack.io/how-can-open-source-sustain-itself-without-creating-burnout/
