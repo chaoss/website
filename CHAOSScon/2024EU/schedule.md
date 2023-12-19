@@ -12,10 +12,10 @@
 | 11:35-12:00 | Breakout: Group Discussion |
 | 12:00-12:15 | Breakout Sessions Recap |
 | 12:15-1:30 | Lunch (on your own) |
-| 1:30-4:00 | (Pick 1): Breakout discussions |
+| 1:30-4:00 | (Pick 1): Workshop: University Open Source Metrics |
 | 1:30-4:00 | (Pick 1): Workshop: GrimoireLab |
 | 1:30-4:00 | (Pick 1): Workshop: Augur
-| 4:00-4:30 | Keynote Session |
+| 4:00-4:30 | Keynote: Best practices for research in open source ecosystems - julia ferraioli |
 | 4:30-5:00 | Wrap-up |
 | 5:00 - ?? | Social Activity |
 

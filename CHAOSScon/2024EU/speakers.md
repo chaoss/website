@@ -24,3 +24,8 @@ Matt Germonprez is the Mutual of Omaha Distinguished Chair of Information Scienc
 
 ![Sophia Vargas](https://chaoss.github.io/website/CHAOSScon/2024EU/images/SophiaVargas.jpg)
 Sophia Vargas is a Program Manager in the research and operations team within Google’s Open Source Programs Office. In this role she leads research efforts that span project health, contributor experience, and open source economics. She is also on the Governing Board and an active contributor to the CHAOSS community. Prior to Google, Sophia was an analyst at Forrester Research, covering data center infrastructure and cloud strategy.
+
+### julia ferraioli
+
+![julia ferraioli](https://chaoss.github.io/website/CHAOSScon/2024EU/images/julia-ferraioli.jpg)
+julia ferraioli is an open source strategist, researcher, and practitioner with a decade of experience in launching, managing, and optimizing open source projects at scale. She works as the AI/ML Open Source Strategist at [AWS](https://aws.amazon.com/opensource/), and her current research centers around open source sustainability, history, and impact. Her community work includes co-leading [Open Source Stories](https://opensourcestories.org), a community-led effort with the goal of making the people of open source and their lived experiences more visible. Julia is a fierce supporter of LaTeX, the Oxford comma, and small pull requests.
