@@ -17,7 +17,7 @@
 | 1:30-4:00 | (Pick 1): Workshop: Augur
 | 4:00-4:30 | Keynote: Best practices for research in open source ecosystems - julia ferraioli |
 | 4:30-5:00 | Wrap-up |
-| 5:00 - ?? | Social Activity |
+| 5:00-7:00 | Social Activity - Rooftop Bar at the Bedford Hotel & Congress Centre|
 
 
 
