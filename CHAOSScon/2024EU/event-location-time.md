@@ -15,7 +15,7 @@ Time: 8am to 17:30pm CET (UTC +1)
 
 ### Live Streaming
 
-This CHAOSScon will not be live streamed.
+This CHAOSScon will be live-streamed via Youtube. Details to come!
 
 ### Registration
 
