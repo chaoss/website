@@ -1,28 +1,32 @@
 # CHAOSS Website - Content, Issues, Requests and Edits
 
-The CHAOSS website is a Wordpress site. Content from this repository is automatically populated on the production site.
+The CHAOSS website is a Wordpress site. Portions of content in our site are pulled directly from GitHub markdown files.
 
 ## How to contribute
-See the CHAOSS [contributing.md](https://github.com/chaoss/governance/blob/master/CONTRIBUTING.md)
+We welcome suggestions and edits to any document on our website. This includes all our Community Documentation, our Metrics and Metrics Models pages, and any information that has been published about CHAOSS. The only exception is our Project Charter, in which any change requires approval from our Governing Board.
+
+Before contributing, there are a few steps we encourage our newcomers to take, in order to familiarize yourself with CHAOSS and the general contribution process. Please see the community CONTRIBUTING.md for more information.
 
 ## Repository specific guidelines
 * For general issues, please use the Issues 
 * For content requests, edits, and enhancements, please use Pull requests
+
 Content requests could include upcoming events you would like to see posted on the site, project specific information, or requested edits.
 
-## News and blog posts
-To add news and blogs articles, please fork the repo and create a Markdown file in the [Community/News](./Community/News) folder. Name the file with the current date 'YYYYMMDD_title.md When the pull request is accepted, the content will be added to the website.
+## CHAOSSweekly News Submissions
+To submit a blurb for the [CHAOSSweekly Newsletter](https://chaoss.community/news/) you can reach out to Elizabeth Barron (@ElizabethN) or submit an issue in this repository with the information. 
+
+## Blog Posts
+To submit a blog post for publication in the CHAOSS blog, compose your document using Google Docs, and then share that doc with Elizabeth Barron (@ElizabethN) for review. Elizabeth will work with you to get your blog posted to the Wordpress site.
 
 ## Wordpress/Github Markdown Content
 
 The site is built using GitHub content areas. Editing content in the associated GitHub markdown files will edit content on the Wordpress production site.
 
-Editable content are in folders in this repo and are named for the websites key navigation pages. Within these folders are pages and content areas in markdown files. The content areas are named using the header for the content section.
+Because the website content is distributed across several GitHub repositories, each editable page in the CHAOSS website has a link at the bottom of the page where comments, suggestions, and edits can be proposed. 
 
-To edit these content areas, please fork the repo, make changes to the markdown files, and put in a pull request.
+To edit these content areas, please fork the appropriate repo, make changes to the markdown files, and submit a pull request.
 
-For questions, please email the site [maintainers](README.md#website-maintainers).
+You may also submit an issue in this repository if you see something that needs updating.
 
-## How to become a maintainer of the website and this repository
-1. Make consistent contributions via pull requests.
-2. Request to be a maintainer from the CHAOSS Governing Board, which will grant edit rights and request access to the Wordpress site from the Linux Foundation.
+For questions, please open an issue in this repository.
