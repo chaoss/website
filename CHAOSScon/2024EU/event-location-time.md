@@ -10,12 +10,12 @@ Phone: +1 469-610-3608
 
 February 1st, 2024
 
-Time: 8am to 17:30pm CET (UTC +1)
+Time: 9:00 to 19:00 CET (UTC +1)
 
 
 ### Live Streaming
 
-This CHAOSScon will be live-streamed via Youtube. Details to come!
+This CHAOSScon will be live-streamed via Youtube. You can access the stream here: [https://www.youtube.com/@CHAOSStube](https://www.youtube.com/@CHAOSStube)
 
 ### Registration
 
