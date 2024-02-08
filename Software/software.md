@@ -16,7 +16,7 @@ Augur’s distinctive features are that you can use it to:
 
 * focus on data from GitHub and GitLab platforms, which can scale to tens of thousands of repositories, and use Augur’s relational database as a data engineering tool to write custom queries that explore complex or unanticipated questions while performing in-depth research.
 * explore data about compliance, security, dependencies, and related software topics to better understand potential risks associated with an open source project in addition to using visualizations to learn about community health.
-* see Augur in action using [8-knot](https://metrix.chaoss.io/repo_overview).
+* see Augur in action using [8Knot](https://metrix.chaoss.io/repo_overview).
 
 While anyone can use either tool to derive meaningful insights:
 
