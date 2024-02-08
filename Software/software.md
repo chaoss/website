@@ -16,7 +16,7 @@ Augur’s distinctive features are that you can use it to:
 
 * focus on data from GitHub and GitLab platforms, which can scale to tens of thousands of repositories, and use Augur’s relational database as a data engineering tool to write custom queries that explore complex or unanticipated questions while performing in-depth research.
 * explore data about compliance, security, dependencies, and related software topics to better understand potential risks associated with an open source project in addition to using visualizations to learn about community health.
-* see Augur in action using [8-knot](https://metrix.chaoss.io/overview).
+* see Augur in action using [8Knot](https://metrix.chaoss.io/repo_overview).
 
 While anyone can use either tool to derive meaningful insights:
 
@@ -39,7 +39,7 @@ This overview contains only a few of the many scenarios that might bring someone
 * Collection and analysis goes beyond the counting of activities to include license coverage and license type information, COCOMO based software complexity and cost of replacement data by project and file, software dependency scanning, measurement of dependency [LibYears](https://libyear.com/), and time series persistent OpenSSF Scorecard information.
 * Understanding of community health is extended through automatically detecting unusual activity by performing computational linguistics machine learning analysis and contribution anomaly detection.
 * Users can explore complex or unanticipated questions while performing in-depth research using Augur’s relational database or API to write custom queries.
-* Augur includes data visualizations through an extensible frontend built using tools familiar to data scientists (e.g., Dash and Plotly) upon which [8Knot](https://metrix.chaoss.io/overview) is developed.
+* Augur includes data visualizations through an extensible frontend built using tools familiar to data scientists (e.g., Dash and Plotly) upon which [8Knot](https://metrix.chaoss.io/repo_overview) is developed.
 
 For more details, visit the [Augur repository](https://github.com/chaoss/augur).
 
