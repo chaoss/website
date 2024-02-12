@@ -6,3 +6,4 @@
 * Yigakpoa Ikpae
 * Rhoda Michael
 * Matt Germonprez
+* Sean Goggins
