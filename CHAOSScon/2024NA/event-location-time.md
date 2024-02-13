@@ -8,7 +8,7 @@ Seattle, WA USA
 
 **Date: April 15, 2024**
 
-Time: 1:00 pm - 5:30 pm Pacific Daylight Time
+Time: 1:30 pm - 5:00 pm Pacific Daylight Time
 
 ### Live Streaming
 
