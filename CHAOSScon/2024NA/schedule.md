@@ -1,6 +1,7 @@
-## Schedule
+## Schedule - April 15, 2024
 
-### Visualization Workshop April 15, 2024 from 9:00 am - 12:30 pm Pacific Daylight Time 
+### Visualization Workshop from 9:00 am - 12:30 pm Pacific Daylight Time 
+
 | Time             | Duration | Description     |
 | ---------------  | -------- | ----------------|
 | 9:00 - 9:10      |  10 min  | Welcome         | 
@@ -13,7 +14,7 @@
 | 11:40 - 12:25    | 45 min | Creating New Visualizations: Guided Examples |
 | 12:25 - 12:30    | 5 min  | Closing Thoughts  |
 
-### April 15, 2024 from 1:30 pm - 5:00 pm Pacific Daylight Time 
+### CHAOSScon from 1:30 pm - 5:00 pm Pacific Daylight Time 
 
 | Time        | Description | Speaker/Facilitator |
 | ----------- | ----------- | ------------------- |
