@@ -8,7 +8,9 @@ Seattle, WA USA
 
 **Date: April 15, 2024**
 
-Time: 1:30 pm - 5:00 pm Pacific Daylight Time
+Visualization Workshop: 9:00 am - 12:30 pm Pacific Daylight Time
+
+CHAOSSCon Time: 1:30 pm - 5:00 pm Pacific Daylight Time
 
 ### Live Streaming
 
@@ -20,4 +22,4 @@ During CHAOSScon, we will be monitoring our [Slack Channel](https://join.slack.c
 
 ### Registration
 
-Registration for this event is $10 USD and because this is a co-located event with Open Source Summit North America, registration for that event is a prerequisite. You can register for both events on the [OSSNA Registration Page.](https://events.linuxfoundation.org/open-source-summit-north-america/register/)
+Registration for the Visualization Workshop is $7 USD and registration for CHAOSScon is $10 USD. Because these are co-located events with Open Source Summit North America, registration for that event is a prerequisite. You can register for all three events on the [OSSNA Registration Page.](https://events.linuxfoundation.org/open-source-summit-north-america/register/)
