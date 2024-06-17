@@ -235,7 +235,7 @@ _Senior Software Developer - Bitergia_
 
 I'm a software engineer at Bitergia (http://bitergia.com) since September 2017. I got my MSc. in computer science in 2010 and Ph.D. in computer science in 2013. My interests cover source code analysis, (software) data extraction and reverse engineering.
 
-Before joining Bitergia, I have been a Phd student at IBM France and postdoctoral fellow in a couple of research teams between France and Spain, where I worked on reverse engineering of legacy systems (e.g., COBOL), analysis of (OSS) projects (e.g., code complexity, bus factor) and open data (e.g., scientific literature). [@_valcos_](https://twitter.com/_valcos_)
+Before joining Bitergia, I have been a Phd student at IBM France and postdoctoral fellow in a couple of research teams between France and Spain, where I worked on reverse engineering of legacy systems (e.g., COBOL), analysis of (OSS) projects (e.g., code complexity, contributor absence factor) and open data (e.g., scientific literature). [@_valcos_](https://twitter.com/_valcos_)
 
 > Session: **Two different philosophies on measuring open source project health: Comparing GrimoireLab and CROSSMINER**
 >
