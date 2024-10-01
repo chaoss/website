@@ -1,0 +1,4 @@
+## About CHAOSScon
+Learn about open source project health metrics and tools used by open source projects, communities, and engineering teams to track and analyze their community work. This conference will provide a venue for discussing open source project health, CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health. We will also share insights from the CHAOSS context working groups including OSPOs, University Open Source, and Open Source in Science and Research.
+
+This year we are happy to offer a bonus event along with CHAOSScon: our Visualization Workshop on visualizing data in our software packages. Registration for this event is separate from CHAOSScon but we would love to see you at both!   
