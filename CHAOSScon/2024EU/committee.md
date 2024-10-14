@@ -1,4 +1,4 @@
-## CHAOSScon EU 2024 Organizing Committee
+## CHAOSScon EU 2025 Organizing Committee
 
 * Dawn Foster 
 * Elizabeth Barron
@@ -6,8 +6,5 @@
 * Matt Germonprez
 * Sean Goggins
 * Sophia Vargas
-* Peculiar Umeh
+* Cali Dolfi
 * Clare Dillon
-* Ayomide Ogunlade
-* Rhoda Michael
-* Anita Ihuman
