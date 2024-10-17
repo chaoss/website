@@ -19,4 +19,4 @@ This CHAOSScon will be live-streamed via Youtube. You can access the stream here
 
 ### Registration
 
-Registration is coming soon!
+Registration is now open! Tickets cost $10, and include access to a post-conference social event. Lunch is not provided. Click below to reserve your spot at CHAOSScon! 
