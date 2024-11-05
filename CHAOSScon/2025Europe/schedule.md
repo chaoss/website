@@ -1,6 +1,8 @@
 ## Schedule
 
-Schedule is coming soon!
+### Our CfP is open! You have until December 17, 2024 to [submit your abstract](https://forms.gle/h49JeHww7oKoDVE69).
+
+
 
 <!-- Placeholder
 | Time | Topic and Speaker |
