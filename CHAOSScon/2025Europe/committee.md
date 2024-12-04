@@ -8,3 +8,5 @@
 * Sophia Vargas
 * Clare Dillon
 * Cali Dolfi
+* Kevin Lumbard
+* Vinod Ahuja
