@@ -1,29 +1,28 @@
 ## Schedule
 
-### Our CfP is open! You have until December 17, 2024 to [submit your abstract](https://forms.gle/h49JeHww7oKoDVE69).
+### Please note: This schedule is a work in progress.
 
 
-
-<!-- Placeholder
 | Time | Topic and Speaker |
 | ----- | ---- |
-| 9:00-9:30 | Networking with coffee and pastries |
-| 9:30-9:50 | CHAOSS Overview - Matt Germonprez |
-| 9:50-10:10 | Presentation: University OSPOs and Metrics - Clare Dillon |
-| 10:10-10:35 | Breakout: Group Discussion |
-| 10:35 | Group Picture |
-| 10:35-11:00 | Break |
-| 11:00-11:35 | Panel: Tension Between Transparency and Privacy in OSS metrics generation - Malcolm Bain (ACROSS LEGAL), Sophia Vargas (Google), Inessa Pawson (OpenTeams) |
-| 11:35-12:00 | Breakout: Group Discussion |
-| 12:00-12:15 | Breakout Sessions Recap |
-| 12:15-1:30 | Lunch (on your own) |
-| 1:30-4:00 | (Pick 1): Workshop: University Open Source Metrics |
-| 1:30-4:00 | (Pick 1): Workshop: GrimoireLab |
-| 1:30-4:00 | (Pick 1): Workshop: Augur
-| 4:00-4:30 | Keynote: Best practices for research in open source ecosystems - julia ferraioli |
-| 4:30-5:00 | Wrap-up |
-| 5:00-7:00 | Social Activity - Rooftop Bar at the Bedford Hotel & Congress Centre|
+| 8:00-8:20 | Check-In, Networking with coffee and pastries |
+| 8:20-8:50 | What is CHAOSS and an Overview of GrimoireLab 2.0 - Daniel Izquierdo|
+| 8:50-9:10 | TBA |
+| 9:10-9:30 | Blueprint for Success: How Local Chapters Empower Global Communities - Ruth Ikegah |
+| 9:30-9:45 | Break |
+| 9:45-10:05 | Toolkit for Measuring the Impacts of Public Funding for FOSS - Paul Sharratt |
+| 10:05-10:25 | Who does the dev? or: How we failed to make a taxonomy of open source contribution - Katie McLaughlin |
+| 10:25-10:45 | CORSA: Supporting open source research software projects via foundations and metrics - Daniel S. Katz | 
+| 10:45-11:00 | Break |
+| 11:00-11:20 | The 10,000 Steps of Open Source Project Health - Dmitry Vinnik |
+| 11:20-11:40 | Analyzing Risk from an OSS Project Health Perspective: Tools, Traces, and Threats - Georg Link |
+| 11:40-12:00 | TBA |
+| 12:00-1:30 | Group Picture, then Lunch (on your own) |
+| 1:30-3:00 | Afternoon Breakout Sessions - TBA |
+| 3:00-3:15 | Break |
+| 3:15-3:50 | Keynote:  TBA |
+| 3:50-5:00 | Afternoon Breakout Sessions - TBA |
+| 5:00-7:00 | Social Activity - Rooftop Bar (The 8) at the Bedford Hotel & Congress Centre|
 
 
--->
 
