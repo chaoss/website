@@ -2,10 +2,13 @@
 
 
 ### Dr. Dawn Foster
+
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/foster.jpg" width="100" align="left">
 Dr. Dawn Foster works as the Director of Data Science for CHAOSS where she is also a board member / maintainer. She is co-chair of CNCF TAG Contributor Strategy and an OpenUK board member. She has 20+ years of experience at companies like VMware and Intel with expertise in community, strategy, governance, metrics, and more. She has spoken at over 100 industry events and has a BS in computer science, an MBA, and a PhD. In her spare time she enjoys reading science fiction, running, and traveling.
 
+
 ### Ruth Ikegah
-Ruth Ikegah is the Community Lead at CHAOSS Africa, working to engage African open source contributors and increase the adoption of metrics to improve the health of Open Source communities in the continent. She is also a co-chair at the CHAOSS board and a maintainer in the Diversity, Equity, and Inclusion (DEI) working group.
+![Ruth Ikegah](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/ikegah.jpg)Ruth Ikegah is the Community Lead at CHAOSS Africa, working to engage African open source contributors and increase the adoption of metrics to improve the health of Open Source communities in the continent. She is also a co-chair at the CHAOSS board and a maintainer in the Diversity, Equity, and Inclusion (DEI) working group.
 
 Ruth's impressive professional journey is marked by her unwavering commitment to open source technology; as an open source advocate, she has made significant contributions to numerous projects and has played a pivotal role in fostering a collaborative and inclusive environment within the community. Through her advocacy efforts, she has inspired countless individuals to embrace open source principles and contribute their own unique skill sets to the ever-evolving landscape of technology.
 
