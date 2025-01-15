@@ -15,6 +15,6 @@ Follow us on [Linked In](https://www.linkedin.com/company/chaoss/posts?lipi=urn%
 
 ### Diversity Access Tickets and Family Friendliness
 
-Please email Elizabeth Barron <elizabeth@chaoss.community> for more information on how to get a Diversity Access Ticket.
+Please email Elizabeth Barron <elizabeth@chaoss.community> for more information on how to get a Diversity Access Ticket. Diversity Access Tickets have graciously been donated by our friends at [OLS](https://we-are-ols.org/).
 
 CHAOSScon is a family-friendly event, and children under 18 are welcome to attend.
