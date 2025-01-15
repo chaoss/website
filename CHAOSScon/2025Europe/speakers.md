@@ -40,6 +40,12 @@ Georg’s mission is to make open source more professional by using community me
 
 Katie has worn many different hats over the years. They have been a software developer for many languages, systems administrator for multiple operating systems, and speaker on many different topics. They work as a collaborator on the Open Source Complex Ecosystems and Networks (OCEAN) project, and is the primary developer of octohatrack. When they're not changing the world, they enjoy trail running, embroidery, and seeing just how well various application stacks handle emoji.
 
+### Cailean Osborne
+
+![Cailean Osborne](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/osborne.jpg)
+
+Cailean Osborne is a Senior Researcher at the Linux Foundation and a PhD Candidate in Social Data Science at the University of Oxford. At the Linux Foundation, Cailean leads research projects on various open source trends and policy topics, with a focus on open source AI and funding. His PhD concerns the political economy of open source AI, and in his free time he is a contributor to scikit-learn and the Generative AI Commons. In 2023-2024, Cailean was a visiting researcher at Peking University’s Open Source Software Data Analytics Lab. Previously, Cailean worked in AI policy at the UK Government and was a UK Government Delegate at the OECD’s Global Partnership on AI and Council of Europe’s Committee on AI. He is an avid language learner and can be reached in English, German, French, and Spanish.
+
 ### Stephen Pollard
 
 ![Stephen Pollard](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/pollard.jpg)
@@ -53,6 +59,15 @@ Stephen Pollard – Director & FOSS Management advisor. Stephen is a director at
 Paul Sharratt is the Policy and Research Manager at the Sovereign Tech Agency, where he leads research on digital infrastructure and open-source ecosystems, contributing to broader conversations on technology development in the public interest. His work centres on assessing the impact of public investments in open-source digital infrastructure projects, with a focus on strengthening digital sovereignty for individuals, industries, and governments.
 
 Before joining the Sovereign Tech Agency, Paul worked as a digitalization consultant and a product manager. He holds a Master of Science in Data Science for Public Policy from the Hertie School.
+
+### Katherine Skinner
+
+![Katherine Skinner](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/skinner.png)
+
+Dr. Katherine Skinner is the Director of Programs at Invest in Open Infrastructure. She is an open-knowledge researcher-activist with deep commitments to community building, organizational resilience, and systems thinking. Her passion for facilitating, empowering, and cultivating communities led her to co-found and direct the Educopia Institute for more than 15 years, where she provided scaffolding, training, and systems to support such collaborative groups as Library Publishing Coalition, MetaArchive Cooperative, BitCurator Consortium, C4DISC, Software Preservation Network, and Maintainers. She also co-authored Community Cultivation: A Field Guide (2018) to provide an open, practical guide to this type of work.
+
+She received her PhD from Emory University in 2005, and she has authored and co-authored three books and numerous reports and articles. She has served as Principal Investigator for 25 research projects funded by foundations and federal grants and awards on topics like education (Nexus LAB, Bitcurator.edu), digital curation (Chronicles in Newspaper Preservation, OSSArcFlow), and scholarly communication (Library Publishing Workflows, Mapping the Scholarly Communication Infrastructure). She lives in Greensboro, NC, in the US, on the unceded, stolen lands of a number of Indigenous peoples including the Catawba, Eno, Sappony, Shakori, Keyauwee, and Saura/Cheraw.
+
 
 ### Peculiar C Umeh
 
