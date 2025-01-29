@@ -2,7 +2,7 @@
 
 | Time | Topic and Speaker |
 | ----- | ---- |
-| 8:15-9:00 | Check-In, Networking with coffee and pastries |
+| 8:30-9:00 | Check-In, Networking with coffee and pastries |
 | 9:00-9:30 | What is CHAOSS and an Overview of GrimoireLab 2.0 - Daniel Izquierdo|
 | 9:30-9:50 | Introducing The CHAOSS Education Project - Dawn Foster, Peculiar C. Umeh |
 | 9:50-10:10 | Blueprint for Success: How Local Chapters Empower Global Communities - Ruth Ikegah, Tosan Okome |
