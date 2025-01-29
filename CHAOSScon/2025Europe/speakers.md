@@ -40,6 +40,16 @@ Georg’s mission is to make open source more professional by using community me
 
 Katie has worn many different hats over the years. They have been a software developer for many languages, systems administrator for multiple operating systems, and speaker on many different topics. They work as a collaborator on the Open Source Complex Ecosystems and Networks (OCEAN) project, and is the primary developer of octohatrack. When they're not changing the world, they enjoy trail running, embroidery, and seeing just how well various application stacks handle emoji.
 
+### Tosan Okome
+
+![Tosan Okome](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/okome.jpeg)
+
+Tosan is a registered nurse and licensed public health nurse from Nigeria whose passion for data and research inspired her to pursue opportunities beyond the bedside. Her journey into open source and open science began with a dedication to self-learning, where she developed skills in programming for data analysis, statistics, and foundational research principles. She actively contributes to open source projects, continually enhancing her expertise while creating meaningful impact. 
+
+She leads the Researchers Focus Group within CHAOSS Africa, a community where passionate aspiring researchers across Africa build their skills by engaging in impactful research on open source issues. 
+
+Tosan also serves as the Director of Curriculum for the Pre-Seeds Project, an introductory research course designed to empower underrepresented individuals in the research landscape. Furthermore, she is a scholar in the MIT Emerging Talent Program in Computer and Data Science, advancing her mission to leverage technology and research to drive transformative change.
+
 ### Cailean Osborne
 
 ![Cailean Osborne](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/osborne.jpg)
