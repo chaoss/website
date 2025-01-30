@@ -11,7 +11,7 @@
 | 10:50-11:00 | Break |
 | 11:00-11:20 | [CORSA: Supporting open source research software projects via foundations and metrics - Daniel S. Katz](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/CORSA%20-%20CHAOSSCon-EU.pdf) | 
 | 11:20-11:40 | [Analyzing Risk from an OSS Project Health Perspective: Tools, Traces, and Threats - Georg Link](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Link%20-%20CHAOSScon%20EU%2025%20-%20Analyzing%20Risk%20from%20an%20OSS%20Project%20Health%20Perspective_%20Tools%2C%20Traces%2C%20and%20Threats.pdf) |
-| 11:40-12:00 | OpenChain Capability Model - Moving Beyond Compliance - Stephen Pollard |
+| 11:40-12:00 | [OpenChain Capability Model - Moving Beyond Compliance - Stephen Pollard](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Orcro%20%40%20CHAOSSCON%20-%20OpenChain%20Capability%20Model%20-%2030th%20Jan%202025.pdf.pdf) |
 | 12:00-1:30 | Group Picture, then Lunch (on your own) |
 | 1:30-3:00 | Afternoon Breakout Sessions - 3 options! (CHAOSS Software Workshop, Unconference, Academic OSS sponsored by CURIOSS) |
 | 3:00-3:15 | Break |
