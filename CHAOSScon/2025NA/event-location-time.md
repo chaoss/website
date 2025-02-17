@@ -18,4 +18,4 @@ During CHAOSScon, we will be monitoring our [Slack Channel](https://join.slack.c
 
 ### Registration
 
-Registration for CHAOSScon is $10 USD. Because these are co-located events with Open Source Summit North America, registration for that event is a prerequisite. You can register for all three events on the [OSSNA Registration Page.](https://events.linuxfoundation.org/open-source-summit-north-america/register/)
+Registration for CHAOSScon is $10 USD. Because this is a co-located event with Open Source Summit North America, registration for that event is a prerequisite. You can register for both events on the [OSSNA Registration Page.](https://events.linuxfoundation.org/open-source-summit-north-america/register/)
