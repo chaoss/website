@@ -1,10 +1,3 @@
-## CHAOSScon NA 2024 Organizing Committee
+## CHAOSScon NA 2025 Organizing Committee
 
-* Dawn Foster
 * Elizabeth Barron
-* Georg Link
-* Yigakpoa Ikpae
-* Rhoda Michael
-* Matt Germonprez
-* Sean Goggins
-* Vinod Ahuja

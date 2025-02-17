@@ -1,18 +1,8 @@
-## Schedule - April 15, 2024
+## Schedule - June 26, 2025
 
-### Visualization Workshop from 9:00 am - 12:30 pm Pacific Daylight Time 
+Our schedule is TBD. 
 
-| Time             | Duration | Description     |
-| ---------------  | -------- | ----------------|
-| 9:00 - 9:10      |  10 min  | Welcome         | 
-| 9:10 - 9:25      |  15 min  |<ul>Workshop Motivation: <li>Data Provenance Assurance: Augur’s Role</li> <li>Data Scientific Visualization: 8Knot’s Role</li> <li>Data Exploration Dashboard: GrimoireLab’s Role</li> </ul> | 
-| 9:25 - 9:45      | 20 min   | Data Visualization Example Case: Linkerd | 
-| 9:45 - 10:45     | 60 min   |<ul>Graph Interpretation and Selecting Visualization Styles for a Question<li>Interpreting graphs: The “What am I looking at?” Problem</li><li>Graph Selection: Choices for Answering Specific Questions</li><li>Graph Parameter Selection: How to pick user inputs</li></ul> | 
-| 10:45 - 11:00    | 15 min | Break             |
-| 11:00 - 11:20    | 20 min | Extending available analysis: what to do when your question isn’t answered by the current graphs |     
-| 11:20 - 11:40    | 20 min | Tool Configuration and Experimentation Strategies |
-| 11:40 - 12:25    | 45 min | Creating New Visualizations: Guided Examples |
-| 12:25 - 12:30    | 5 min  | Closing Thoughts  |
+<!--
 
 ### CHAOSScon from 1:30 pm - 5:00 pm Pacific Daylight Time 
 
@@ -29,3 +19,5 @@
 | 4:20 - 4:58 | Lightning Talks (bring your topic) | You! |
 | 4:58 - 5:00 | Closing | Sean Goggins |
 | 5:00 - 7:00 | Social Event | All CHAOTICs Welcome|
+
+-->
