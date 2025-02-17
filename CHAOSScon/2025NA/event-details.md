@@ -1,7 +1,7 @@
 ## Event Details
 
 ### Code of Conduct at Event
-All speakers and attendees are required to adhere to CHAOSS's [Code of Conduct](https://chaoss.community/about/code-of-conduct/). Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting <chaoss-conduct@googlegroups.com>.  
+All speakers and attendees are required to adhere to CHAOSS's [Code of Conduct](https://chaoss.community/about/code-of-conduct/). Instances of abusive, harassing, or otherwise unacceptable behavior may be reported in accordance with our [Procedure for Making a Code of Conduct Report](https://chaoss.community/procedure-for-making-a-code-of-conduct-report/).  You can also read our [Incident Response Plan](https://chaoss.community/code-of-conduct-incident-response-plan/) for more information about how we handle Code of Conduct reports.
 
 
 ### Social Media and Conference Updates
