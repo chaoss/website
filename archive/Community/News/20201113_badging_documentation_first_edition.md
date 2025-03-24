@@ -8,5 +8,5 @@ This is a preliminary edition, we are going to revise and restructure the whole 
 
 If you have feedback for the D&I badging documentation, a more ideal way may be collaborating on GitHub: submit a PR with edits to places you think can be improved under the [documentation repository](https://github.com/chaoss/community-handbook), or leave comments under the [review issue](https://github.com/chaoss/community-handbook/issues/5).
 
-Thanks eveyone in the community who has helped during the development of D&I badging Project and Documentation!!
+Thanks everyone in the community who has helped during the development of D&I badging Project and Documentation!!
 

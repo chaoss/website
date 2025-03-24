@@ -14,7 +14,7 @@ Session: **Creating a Collection of Panels**
 >
 > The concept of collections of panels aims at bringing some order into the existing repository. A panel collection is just a set of Kibana dashboards. In this case, each panel is a Kibana dashboard consisting of a set of widgets.
 >
-> GrimoireLab CHAOSS GMD code development metrics is an example where this concept can be applied. What about having a collection of GMD panels? This would be based on publicly available and could be built on top of GrimoreLab, so anyone can deploy the panels and get them working for their own purposes.
+> GrimoireLab CHAOSS GMD code development metrics is an example where this concept can be applied. What about having a collection of GMD panels? This would be based on publicly available and could be built on top of GrimoireLab, so anyone can deploy the panels and get them working for their own purposes.
 >
 > We will show the collection built on top real data, retrieved and processed by means of GrimoireLab projects. From that point, we will take a walk on the panels offering a closer look at the metrics. Looking at real numbers ease to get a deeper understanding of the metrics, as we can see them in action.
 
@@ -75,7 +75,7 @@ Session: **Creating a Collection of Panels**
 >
 > The concept of collections of panels aims at bringing some order into the existing repository. A panel collection is just a set of Kibana dashboards. In this case, each panel is a Kibana dashboard consisting of a set of widgets.
 >
-> GrimoireLab CHAOSS GMD code development metrics is an example where this concept can be applied. What about having a collection of GMD panels? This would be based on publicly available and could be built on top of GrimoreLab, so anyone can deploy the panels and get them working for their own purposes.
+> GrimoireLab CHAOSS GMD code development metrics is an example where this concept can be applied. What about having a collection of GMD panels? This would be based on publicly available and could be built on top of GrimoireLab, so anyone can deploy the panels and get them working for their own purposes.
 >
 > We will show the collection built on top real data, retrieved and processed by means of GrimoireLab projects. From that point, we will take a walk on the panels offering a closer look at the metrics. Looking at real numbers ease to get a deeper understanding of the metrics, as we can see them in action.
 
@@ -132,9 +132,9 @@ Session: **Growth-Maturity-Decline WG Tutorial**
 > This will be a workshop to explain all of this in more detail, to also explain our procedures, and how anyone can contribute. The workshop will also include a discussion on the current status of the working group, and on specific aspects of the focus areas, goals, questions and metrics we're considering. Anyone is welcome to submit issues and pull requests in advance, to propose topics of their interest.
 
 
-### Luis Canas-Diaz
+### Luis Cañas-Díaz
 
-![Luis Canas-Diaz](https://chaoss.github.io/website/CHAOSScon/2019EU/img/LuisCanasDiaz.png)
+![Luis Cañas-Díaz](https://chaoss.github.io/website/CHAOSScon/2019EU/img/LuisCanasDiaz.png)
 
 _Co-founder - Bitergia_
 

@@ -32,7 +32,7 @@ Daniel S. Katz is Chief Scientist at NCSA and a Research Associate Professor in 
 
 ![Georg Link](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/images/link.jpeg)
 
-Georg’s mission is to make open source more professional by using community metrics and analytics. Georg cofounded the CHAOSS Project to advance analytics and metrics for open source project health. Georg is an active contributor to several projects and has often presents on open source topics. Georg has an MBA and a Ph.D. in Information Technology. As the Director of Sales at Bitergia, Georg helps organizations and communities adopt metrics and make open source more sustainable.
+Georg’s mission is to make open source more professional by using community metrics and analytics. Georg co-founded the CHAOSS Project to advance analytics and metrics for open source project health. Georg is an active contributor to several projects and has often presents on open source topics. Georg has an MBA and a Ph.D. in Information Technology. As the Director of Sales at Bitergia, Georg helps organizations and communities adopt metrics and make open source more sustainable.
 
 ### Katie McLaughlin
 
@@ -76,7 +76,7 @@ Before joining the Sovereign Tech Agency, Paul worked as a digitalization consul
 
 Dr. Katherine Skinner is the Director of Programs at Invest in Open Infrastructure. She is an open-knowledge researcher-activist with deep commitments to community building, organizational resilience, and systems thinking. Her passion for facilitating, empowering, and cultivating communities led her to co-found and direct the Educopia Institute for more than 15 years, where she provided scaffolding, training, and systems to support such collaborative groups as Library Publishing Coalition, MetaArchive Cooperative, BitCurator Consortium, C4DISC, Software Preservation Network, and Maintainers. She also co-authored Community Cultivation: A Field Guide (2018) to provide an open, practical guide to this type of work.
 
-She received her PhD from Emory University in 2005, and she has authored and co-authored three books and numerous reports and articles. She has served as Principal Investigator for 25 research projects funded by foundations and federal grants and awards on topics like education (Nexus LAB, Bitcurator.edu), digital curation (Chronicles in Newspaper Preservation, OSSArcFlow), and scholarly communication (Library Publishing Workflows, Mapping the Scholarly Communication Infrastructure). She lives in Greensboro, NC, in the US, on the unceded, stolen lands of a number of Indigenous peoples including the Catawba, Eno, Sappony, Shakori, Keyauwee, and Saura/Cheraw.
+She received her PhD from Emory University in 2005, and she has authored and co-authored three books and numerous reports and articles. She has served as Principal Investigator for 25 research projects funded by foundations and federal grants and awards on topics like education (Nexus LAB, BitCurator.edu), digital curation (Chronicles in Newspaper Preservation, OSSArcFlow), and scholarly communication (Library Publishing Workflows, Mapping the Scholarly Communication Infrastructure). She lives in Greensboro, NC, in the US, on the unceded, stolen lands of a number of Indigenous peoples including the Catawba, Eno, Sappony, Shakori, Keyauwee, and Saura/Cheraw.
 
 
 ### Peculiar C Umeh

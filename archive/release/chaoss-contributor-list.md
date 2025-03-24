@@ -204,4 +204,4 @@ Are you eligible to be on this list? You are if you helped in any capacity, for 
 - Sean Goggins, University of Missouri
 - Sophia Vargas, Google
 - Wayne Beaton, Eclipse Foundation
-- Yehui Wang, Huewei
+- Yehui Wang, Huawei

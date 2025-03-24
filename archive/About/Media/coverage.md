@@ -59,7 +59,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Ward, C. (2020, May 18). **Measuring Metrics in Open-Source Projects.** Dzone.Com. Retrieved July 6, 2020, from: https://dzone.com/articles/-measuring-metrics-in-open-source-projects
 
-* Douglas, B. (2020, Arpil 1). **JAMstack Radio - Ep. #53, Community Metrics with Georg Link of CHAOSS.** Retrieved April 1, 2020, from: https://soundcloud.com/heavybit/jamstack-radio-ep-53-community-metrics-with-georg-link-of-chaoss
+* Douglas, B. (2020, April 1). **JAMstack Radio - Ep. #53, Community Metrics with Georg Link of CHAOSS.** Retrieved April 1, 2020, from: https://soundcloud.com/heavybit/jamstack-radio-ep-53-community-metrics-with-georg-link-of-chaoss
 
 * Link, G. (2020, March 25). **Tough lessons learned from measuring community health with open source software.** Retrieved March 25, 2020, from: https://opensource.com/article/20/3/grimoirelab
 

@@ -14,7 +14,7 @@ Streaming is TBD.
 
 ### Live Discussions 
 
-During CHAOSScon, we will be monitoring our [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) #CHAOSScon for real time questions and comments that in-person and online attendess may have. 
+During CHAOSScon, we will be monitoring our [Slack Channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) #CHAOSScon for real time questions and comments that in-person and online attendees may have. 
 
 ### Registration
 
