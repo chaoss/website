@@ -15,7 +15,7 @@ Follow [@CHAOSSproj](https://twitter.com/CHAOSSproj) and tweet #CHAOSS #CHAOSSco
 
 This event is co-located with the Open Source Summit EU, and the Linux Foundation offers [Diversity Access and Need-Based Scholarship Tickets](https://events.linuxfoundation.org/open-source-summit-europe/attend/scholarships/#scholarships). CHAOSS and The LF also provide support in terms of [travel funding for those who are in need](https://events.linuxfoundation.org/open-source-summit-europe/attend/travel-funding/). Additionally, CHAOSScon will be livestreamed for free to virtual participants.
 
-With regard to family friendliness, The Linux Foundatiion provides: 
+With regard to family friendliness, The Linux Foundation provides: 
 - [on-site childcare at the venue](https://events.linuxfoundation.org/open-source-summit-europe/attend/child-care/)
 - [on-site nursing room at the venue](https://events.linuxfoundation.org/open-source-summit-europe/attend/child-care/)
 - [family friendly social events, including a boat tour, 5K Fun Run, and a tea bus tour](https://events.linuxfoundation.org/open-source-summit-europe/features/onsite-activities/)

@@ -28,7 +28,7 @@ the community activities. This time, I decided to go with the same organization 
 I selected an idea, Creating Quality models using GrimoireLab and CHAOSS metrics ([chaoss/grimoirelab#287](https://github.com/chaoss/grimoirelab/issues/287)).
 
 I was already kinda familiar with the procedure of CHAOSS. The applicants are expected to work on the microtasks, 
-parallely making some good initial contributions and working on the proposal. The mentors are always helpful to get you 
+parallelly making some good initial contributions and working on the proposal. The mentors are always helpful to get you 
 started with the contributions and helping & reviewing the microtasks. I started doing the microtasks by the first week of 
 February, doing some contributions along the way. Link to the microtasks repository, [vchrombie/chaoss-microtasks](https://github.com/vchrombie/chaoss-microtasks).
 

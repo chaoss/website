@@ -10,7 +10,7 @@
 | Welcome/Opening remarks | | Ruth Ikegah | 11:00am - 11:05am |
 | 1st Keynote Speech | The Open Source Launchpad: A Then & Now Look at Tech Careers | Justin Flory | 11:10am - 11:30am |
 | Lighting Talk | Accelerating your personal and professional growth through open source contributions: Standing out in a world full of talents.| Desmond Obisi | 11:30am - 11:45am |
-| Lighting Talk | Community Health Metrics with GrimoireLab | Luis Cañas-Diaz | 11:45am - 12:00pm |
+| Lighting Talk | Community Health Metrics with GrimoireLab | Luis Cañas-Díaz | 11:45am - 12:00pm |
 | Tea break | | | 12:00pm - 12:20pm| 
 | Lighting Talk | Skyrocket your Technical Writing Journey with Open Source | Funke Olasupo | 12:20pm - 12:30pm |
 | Workshop | Introductory Session to GitHub Copilot | Ifihanagbara Olusheye | 12:35pm - 1:20pm |
