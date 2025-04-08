@@ -1,5 +1,6 @@
 ## CHAOSScon NA 2025 Organizing Committee
 
 *   Elizabeth Barron
-*   Sean Goggins
+*   Georg Link
 *   Peculiar C. Umeh
+*   Sean Goggins
