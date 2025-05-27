@@ -1,8 +1,6 @@
 ## Schedule
 
-The CfP is now open! Please submit your ideas for a talk via this [form](https://docs.google.com/forms/d/e/1FAIpQLSeRZ288aExgM1q98yokJyugddk3OUqA5XN2ughYMtHTfc4KzQ/viewform). 
-
-The CHAOSScon CfP will be open until **End of Day (MDT) May 9, 2025.**
+The schedule is coming soon!
 
 <!--
 
