@@ -1,4 +1,4 @@
-## CHAOSScon NA 2025 Organizing Committee
+## CHAOSS Data Science Hackathon 2025 Organizing Committee
 
 * Elizabeth Barron
 * Peculiar C. Umeh
