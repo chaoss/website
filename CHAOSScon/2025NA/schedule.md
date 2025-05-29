@@ -1,23 +1,19 @@
 ## Schedule
 
-The schedule is coming soon!
-
-<!--
-
-### CHAOSScon from 1:30 pm - 5:00 pm Pacific Daylight Time 
+### CHAOSScon from 1:30 pm - 5:00 pm Mountain Daylight Time 
 
 | Time        | Description | Speaker/Facilitator |
 | ----------- | ----------- | ------------------- |
-| 1:30 - 1:35 | Welcome | Sean Goggins, CHAOSS Founder and Board Co-Chair | 
-| 1:35 - 1:55 | About CHAOSS | Elizabeth Barron, CHAOSS Community Manager| 
-| 1:55 - 2:05 | Workshop Intro | Matt Germonprez, CHAOSS Founder |
-| 2:05 - 3:05 | Metrics Development Workshop | Various |
-| 3:05 - 3:20 | Workshop: report-out | Various | 
-| 3:20 - 3:25 | Group Photo | Everyone! | 
-| 3:25 - 3:40 | Break |  |
-| 3:40 - 4:20 | Software updates (Augur/8 Knot, GrimoireLab) | <ul><li>Georg Link - GrimoireLab Updates (20 minutes)</li><li>Sean Goggins and Cali Dolfi - Augur / 8 Knot updates (20 minutes)</li></ul> |
-| 4:20 - 4:58 | Lightning Talks (bring your topic) | You! |
-| 4:58 - 5:00 | Closing | Sean Goggins |
-| 5:00 - 7:00 | Social Event | All CHAOTICs Welcome|
-
--->
+| 1:30 - 1:35 | Welcome | Elizabeth Barron, CHAOSS Community Manager | 
+| 1:35 - 2:00 | CHAOSS News | Elizabeth Barron, CHAOSS Community Manager | 
+| 2:00 - 2:45 | Keynote GrimoireLab in Action: Case Studies in Open Source Health Analytics | Terence (Tex) McCutcheon, Open Source Program Manager at Intersect MBO; Georg Link, Open Source Strategist at Bitergia |
+| 2:45 - 3:05 | (Talk to be confirmed) | |
+| 3:05 - 3:10 | Group Photo | Everyone! | 
+| 3:10 - 3:35 | Break |  |
+| 3:35 - 3:55 | (Talk to be confirmed) |  | 
+| 3:55 - 4:15 | Git the Data: Augur’s 15-Minute Collection Kickstart | Cali Dolfi,	Senior Data Scientist	at Red Hat; Sean Goggins  | 
+| 4:15 - 4:35 | A Guided Tour of an Open Source Community Using 8Knot | Cali Dolfi,	Senior Data Scientist	at Red Hat | 
+| 4:35 - 4:55 | The Swiss Cheese Model for Proactive Open Source Risk Management | Georg Link, Open Source Strategist at Bitergia |
+| 4:55 - 5:00 | Closing | Elizabeth Barron, CHAOSS Community Manager |
+| ... | Walk to social event | |
+| 5:30 - 7:30 | Social Event | All CHAOTICs Welcome! |
