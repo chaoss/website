@@ -527,7 +527,7 @@ Reporting of CHAOSS Metrics.
 
 #### Project Description
 
-Writing Python code to query GrimoireLab Elastisearch databases and obtain from it the metrics relevant for the report. Possible technologies to achieve this aim include Python Pandas.
+Writing Python code to query GrimoireLab Elasticsearch databases and obtain from it the metrics relevant for the report. Possible technologies to achieve this aim include Python Pandas.
 
 
 #### Links
