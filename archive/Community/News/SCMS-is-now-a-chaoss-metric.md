@@ -20,7 +20,7 @@ GrimoireLab and other projects at CHAOSS have done a great job of informing you 
 
 **But** quantitative data is only a _"behavior-tracking"_ strategy. Relying only on it to determine community health is like tracing a person’s footsteps in the sand to see where they went, but never asking them where they're going, or whether they want you to follow them.  
 
-![Quanitative analytics](https://www.sociallyconstructed.online/uploads/2/5/6/3/25632458/published/sc-o-source-footsteps-in-sand.png?1589858927)  
+![Quantitative analytics](https://www.sociallyconstructed.online/uploads/2/5/6/3/25632458/published/sc-o-source-footsteps-in-sand.png?1589858927)  
 
 _Footsteps in the sand as a metaphor for quantitative data Quantitative analytics track footsteps without the person._  
 
@@ -48,7 +48,7 @@ If you're interested in learning more on the system and setting it up for free l
 
 ### WHAT'S NEXT FOR US, AND FOR YOU?  
 
-There have been some amazing and wonderous developments before we've even been able to launch SociallyConstructed.Online's brand.  But now, with so much momentum, we've got a lot coming down the pipeline:  
+There have been some amazing and wondrous developments before we've even been able to launch SociallyConstructed.Online's brand.  But now, with so much momentum, we've got a lot coming down the pipeline:  
 
 ![SCMS & CHAOSS](https://www.sociallyconstructed.online/uploads/2/5/6/3/25632458/published/scms-chaoss-announcement.png?1590292374)  
 
