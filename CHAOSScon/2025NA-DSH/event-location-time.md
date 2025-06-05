@@ -13,7 +13,7 @@ Streaming is TBD.
 
 ### Live Discussions 
 
-During CHAOSScon, we will be monitoring our Data Science Working Gorup Slack Channel ([#wg-data-science](https://chaoss-workspace.slack.com/archives/C05KP4LTTM1))for real time questions and comments that in-person and online attendees may have. You can join the CHAOSS Slack [here](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-35ir7w0jr-aiwTPYShbj~mMsMbzhGWWQ).
+During CHAOSScon, we will be monitoring our Data Science Working Group Slack Channel ([#wg-data-science](https://chaoss-workspace.slack.com/archives/C05KP4LTTM1))for real time questions and comments that in-person and online attendees may have. You can join the CHAOSS Slack [here](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-35ir7w0jr-aiwTPYShbj~mMsMbzhGWWQ).
 
 ### Registration
 
