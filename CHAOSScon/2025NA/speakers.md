@@ -1,6 +1,15 @@
 ## Speakers and Session Descriptions
 
+### Welcome, Closing, and Emcee by Dawn Foster, CHAOSS
+
+Creating an amazing atmosphere and guiding everyone through the program.
+
+ **Dawn Foster**, Director of Data Science at CHAOSS
+ 
+Dr. Dawn Foster works as the Director of Data Science for CHAOSS where she is also a board member / maintainer. She is co-chair of CNCF TAG Contributor Strategy and an OpenUK board member. She has 20+ years of experience at companies like VMware and Intel with expertise in community, strategy, governance, metrics, and more. She has spoken at over 100 industry events and has a BS in computer science, an MBA, and a PhD. In her spare time she enjoys reading science fiction, running, and traveling.
+
 ### CHAOSS News by Elizabeth Barron, CHAOSS
+
 
 Overview and updates from the CHAOSS project.
 
