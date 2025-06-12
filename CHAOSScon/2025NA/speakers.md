@@ -13,7 +13,7 @@ Dr. Dawn Foster works as the Director of Data Science for CHAOSS where she is al
 
 Overview and updates from the CHAOSS project.
 
-**Elizabth Barron**, Community Manager at CHAOSS
+**Elizabeth Barron**, Community Manager at CHAOSS
 
 Elizabeth Barron is a long-time open source contributor and advocate with over 20 years of experience at companies like GitHub, Pivotal/VMWare, and Sourceforge. She currently works as an independent contractor on several projects, including GitSkilled and CHAOSS. She is also an author, public speaker, event organizer, and award-winning nature photographer. She lives in Cincinnati, Ohio.
 
@@ -21,7 +21,7 @@ Elizabeth Barron is a long-time open source contributor and advocate with over 2
 
 Discover the impact of open source health analytics. This talk showcases how organizations are moving beyond analytics with the CHAOSS GrimoireLab tool. Through examples from Bitergia’s work with customers, we'll describe the context, tool integrations, and most insightful metrics that lead to new understandings. We'll go into detail on Intersect MBO's work with GrimoireLab for the Cardano Blockchain and its open source projects. You will learn how this young organization, started in 2024, came to understand the contributor landscape, shaped community policies, and developed the Paid Open Source Model (POSM). Furthermore, learn how generative AI supports transparency by automating report generation from GrimoireLab data. Walk away inspired to leverage GrimoireLab’s metrics for insights and strategic action in your own open source initiatives.
 
-**Terence (Tex) McCutheon**, Open Source Program Manager at Intersect MBO
+**Terence (Tex) McCutcheon**, Open Source Program Manager at Intersect MBO
 
 Tex is an avid advocate of Open Source who thrives at the intersection of data analysis and community-driven collaboration. 
 

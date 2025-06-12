@@ -63,7 +63,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Link, G. (2020, March 25). **Tough lessons learned from measuring community health with open source software.** Retrieved March 25, 2020, from: https://opensource.com/article/20/3/grimoirelab
 
-* Santamarina, A. J. (2020, March 13). **Join CHAOSS & GrimoireLab GSoC 2020!** Retrieved March 30, 2020, from: https://blog.bitergia.com/2020/03/13/join-chaoss-grimoirelab-gsoc-2020/
+* Santamaria, A. J. (2020, March 13). **Join CHAOSS & GrimoireLab GSoC 2020!** Retrieved March 30, 2020, from: https://blog.bitergia.com/2020/03/13/join-chaoss-grimoirelab-gsoc-2020/
 
 * Littauer, R., Berry, E., and Dorfman, J. (February 28, 2020). **The Data Behind Open Source is CHAOSS with Georg Link.** Retrieved April 1, 2020, from: https://sustain.codefund.fm/26
 
@@ -76,13 +76,13 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 ### 2019
 
-* Santamarina, A. J. (2019, October 28). **What can InnerSource learn from the CHAOSS Project?** Retrieved October 30, 2019, from: https://blog.bitergia.com/2019/10/28/what-can-innersource-learn-from-chaoss-community/
+* Santamaria, A. J. (2019, October 28). **What can InnerSource learn from the CHAOSS Project?** Retrieved October 30, 2019, from: https://blog.bitergia.com/2019/10/28/what-can-innersource-learn-from-chaoss-community/
 
 * Lawrence, J. (2019, October 17). **Measuring the business value of open source communities.** Retrieved October 25, 2019, from: https://opensource.com/article/19/10/measuring-business-value-open-source
 
 * Kerner, S. (2019, September 3). **CHAOSS project bringing order to open-source metrics.** LWN.Net. Retrieved from https://lwn.net/Articles/798066/
 
-* Santamarina, A. J. (2019, August 29). **Georg, a new Bitergian joins the nest!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/08/29/georg-a-new-bitergian-joins-the-nest/
+* Santamaria, A. J. (2019, August 29). **Georg, a new Bitergian joins the nest!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/08/29/georg-a-new-bitergian-joins-the-nest/
 
 * Lawrence, J. (2019, August 11). **How to measure the health of an open source community.** Retrieved August 12, 2019, from: https://opensource.com/article/19/8/measure-project
 
@@ -94,19 +94,19 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Lopez de la Fuente, J. M.. (2019, March 21). **4 questions Uber’s open source program office answers with data.** Retrieved March 23, 2019, from: https://opensource.com/article/19/3/uber-open-source-data
 
-* Santamarina, A. J. (2019, March 12). **GrimoireLab and CHAOSS part of Google Summer Of Code!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/03/12/grimoirelab-and-chaoss-part-of-google-summer-of-code/
+* Santamaria, A. J. (2019, March 12). **GrimoireLab and CHAOSS part of Google Summer Of Code!** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/03/12/grimoirelab-and-chaoss-part-of-google-summer-of-code/
 
 * Irwin, E. (2019, March 4). **Open source is only ajar without inclusion.** Retrieved March 4, 2019, from https://blog.mozilla.org/internetcitizen/2019/03/04/open-source-inclusion
 
 * Foga, S. (2019, February 19). **CHAOSSCon EU 2019, Open Source Metrics and CHAOSS, Ildiko Vancsa.** Retrieved February 20, 2019, from https://feathercast.apache.org/2019/02/19/chaosscon-eu-2019-open-source-metrics-and-chaoss-ildiko-vancsa/
 
-* Santamarina, A. J. (2019, February 12). **3 Panels to measure Project’s Health.** Retrieved September 6, 2019, from https://blog.bitergia.com/2019/02/12/3-panels-to-measure-projects-health/
+* Santamaria, A. J. (2019, February 12). **3 Panels to measure Project’s Health.** Retrieved September 6, 2019, from https://blog.bitergia.com/2019/02/12/3-panels-to-measure-projects-health/
 
 * Bethencourt, A. B. (2019, February 6). **FOSDEM 2019 and CHAOSS EU 2019 report.** Retrieved February 8, 2019, from https://toscalix.com/2019/02/06/fosdem-2019-and-chaoss-eu-2019-report/
 
 * Superuser. (2019, February 5). **Diversity in tech: Make your voice heard.** Retrieved February 20, 2019, from http://superuser.openstack.org/articles/diversity-in-tech-make-your-voice-heard/
 
-* Santamarina, A. J. (2019, January 15). **Bitergia owls everywhere! Join us at FOSDEM and CHAOSSCon 2019.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/01/15/bitergia-owls-everywhere-join-us-at-fosdem-and-chaosscon-2019/
+* Santamaria, A. J. (2019, January 15). **Bitergia owls everywhere! Join us at FOSDEM and CHAOSSCon 2019.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2019/01/15/bitergia-owls-everywhere-join-us-at-fosdem-and-chaosscon-2019/
 
 
 ### 2018
@@ -121,7 +121,7 @@ We collect here any reference we find that mentions our CHAOSS Project. This pag
 
 * Courouble, A., & Hawley, J. (2018, October 9). **Reflections on CHAOSScon 2018.** Retrieved October 19, 2018, from https://blogs.vmware.com/opensource/2018/10/09/chaosscon-2018-reflections/
 
-* Santamarina, A. J. (2018, September 18). **Customizing Bitergia Analytics Dashboard for your goals and metrics.** Retrieved September 6, 2019, from https://blog.bitergia.com/2018/09/18/customizing-bitergia-analytics-dashboard-for-your-goals-and-metrics/
+* Santamaria, A. J. (2018, September 18). **Customizing Bitergia Analytics Dashboard for your goals and metrics.** Retrieved September 6, 2019, from https://blog.bitergia.com/2018/09/18/customizing-bitergia-analytics-dashboard-for-your-goals-and-metrics/
 
 * Lopez de la Fuente, J. M. (2018, September 4). **Back from CHAOSSCon and OSSummit.** Retrieved September 6, 2019, from: https://blog.bitergia.com/2018/09/04/back-from-chaosscon-and-ossummit/
 

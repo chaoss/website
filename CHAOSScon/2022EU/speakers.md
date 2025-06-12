@@ -6,7 +6,7 @@
 <br>_Frontend Developer - CHAOSS Project_  
 [@cuteiyimi](https://twitter.com/cuteiyimi)  
 
-Iyimide is a Frontend developer who currently volunteers with Mumswhocode. She is passionate about introducing people to tech and seeing them grow.
+Iyimide is a Frontend developer who currently volunteers with MumsWhoCode. She is passionate about introducing people to tech and seeing them grow.
 
 <details><summary><b>Session: Open Source newbie experience on the CHAOSS Project</b></summary>
 I would like to share my open source experience with CHAOSS project during the Contributhon 2022. An initiative by  SheCodeAfrica to introduce more women to open source contribution. The program introduced me  to open source contribution and I was able to settle in and collaborate with others to build a bot for the CHAOSS Project. The bot welcomes and directs new users to the CHAOSS Community on slack; before the bot project,  individuals had to welcome and give directions to new members.
@@ -66,7 +66,7 @@ This talk focuses on the socio-technical collaboration among multiple contributo
 
 ### Daniel Izquierdo Cortázar
 
-![Daniel Izaquierdo Cortazar](https://chaoss.github.io/website/CHAOSScon/2022EU/images/daniel-izquierdo.png)
+![Daniel Izquierdo Cortazar](https://chaoss.github.io/website/CHAOSScon/2022EU/images/daniel-izquierdo.png)
 <br>_CEO- Bitergia_  
 [@dizquierdo](https://twitter.com/dizquierdo)
 
