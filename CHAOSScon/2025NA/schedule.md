@@ -10,7 +10,7 @@
 | 2:45 - 3:00 | The State of OSS Funding data: Insights from ecosyste.ms | Andrew Nesbitt, Software Engineer at Ecosyste.ms |
 | 3:05 - 3:10 | Group Photo | Everyone! | 
 | 3:10 - 3:35 | Break |  |
-| 3:35 - 3:50 | (Talk to be confirmed) |  | 
+| 3:35 - 3:50 | The Hidden Parallel: Why New Contributors and New Maintainers Need the Same Emotional Scaffolding | Laura Langdon, Community Manager at University of California | 
 | 3:55 - 4:10 | Git the Data: Augur’s 15-Minute Collection Kickstart | Cali Dolfi,	Senior Data Scientist	at Red Hat; Sean Goggins  | 
 | 4:15 - 4:30 | A Guided Tour of an Open Source Community Using 8Knot | Cali Dolfi,	Senior Data Scientist	at Red Hat | 
 | 4:35 - 4:50 | The Swiss Cheese Model for Proactive Open Source Risk Management | Georg Link, Open Source Strategist at Bitergia |

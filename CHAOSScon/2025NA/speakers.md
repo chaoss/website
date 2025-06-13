@@ -37,6 +37,24 @@ This talk shares insights from ecosyste.ms on how open source projects communica
 
 I'm a software engineer based in the UK, specializing in package management, and mining open-source data, ruby and rails. My current focus is Ecosyste.ms, a project that leverages my experience in package management and open data analysis to map dependencies across OSS ecosystems, highlighting the most critical projects in need of support.
 
+### The Hidden Parallel: Why New Contributors and New Maintainers Need the Same Emotional Scaffolding
+
+Open source sustainability discussions often focus on different challenges for contributors versus maintainers, but a critical parallel has been overlooked: both new contributors and maintainers new to opening their projects need remarkably similar emotional scaffolding to get started.
+
+Drawing from her direct experience building contributor infrastructure at Distribute Aid and insights from successful projects like Astro's docs, Laura Langdon will explore this hidden parallel and present a practical model for real-time collaborative sessions that address both groups' needs simultaneously.
+
+New contributors often feel overwhelmed by unfamiliar tools, unclear expectations, and unwritten cultural norms. Similarly, maintainers new to accepting contributions frequently feel lost about how to create welcoming contributor experiences, structure code reviews, or establish community guidelines. **Both groups benefit from the same solution: direct human connection through real-time collaborative sessions** where they can ask questions, get immediate feedback, and observe experienced community members in action.
+
+This talk directly addresses a gap in current community health assessment: while we measure contributor activity after people start participating, we rarely examine the crucial early moments when potential contributors and maintainers decide whether they belong and can succeed.
+
+**Laura Langdon**, Community Manager at University of California
+
+Laura Langdon is an Open Source Community Manager for the Open Source Program Office (OSPO) network of the University of California. With a focus on the humans in tech communities, Laura is passionate about documentation, diversity and inclusion across all axes, and social responsibility. Working to connect people within the UC open source community to one another and to the greater world of open source, her responsibilities include planning meetups, helping to connect aspiring contributors with projects and vice versa, and creating educational materials about OSS workflows.
+
+Laura has previous experience as a developer advocate at Suborbital Software Systems (acquired by F5), and also as a math lecturer at CSU East Bay. This breadth of background in both academia and industry provides her with unique insights into making technical concepts accessible and fostering inclusive community growth. Her approach combines analytical thinking from her mathematics background with a deep understanding of developer experience and community dynamics.
+
+In her free time, Laura enjoys recreational research, knitting, and optimizing all the things."
+
 ### A Guided Tour of an Open Source Community Using 8Knot	by Cali Dolfi, Red Hat
 
 In this demo, you’ll learn how to navigate and analyze open source communities using 8Knot. We’ll explore how its powerful metrics and visualizations can help you uncover community trends, identify potential issues, and make more informed project decisions.
