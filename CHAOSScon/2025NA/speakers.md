@@ -2,18 +2,25 @@
 
 ### Welcome, Closing, and Emcee by Dawn Foster, CHAOSS
 
+
+
 Creating an amazing atmosphere and guiding everyone through the program.
 
  **Dawn Foster**, Director of Data Science at CHAOSS
  
+
+![Dawn Foster](https://github.com/chaoss/website/blob/main/CHAOSScon/2025NA/images/foster.jpg)
+
 Dr. Dawn Foster works as the Director of Data Science for CHAOSS where she is also a board member / maintainer. She is co-chair of CNCF TAG Contributor Strategy and an OpenUK board member. She has 20+ years of experience at companies like VMware and Intel with expertise in community, strategy, governance, metrics, and more. She has spoken at over 100 industry events and has a BS in computer science, an MBA, and a PhD. In her spare time she enjoys reading science fiction, running, and traveling.
 
 ### CHAOSS News by Elizabeth Barron, CHAOSS
 
-
 Overview and updates from the CHAOSS project.
 
 **Elizabeth Barron**, Community Manager at CHAOSS
+
+
+![Elizabeth Barron](https://github.com/chaoss/website/blob/main/CHAOSScon/2025NA/images/barron.jpg)
 
 Elizabeth Barron is a long-time open source contributor and advocate with over 20 years of experience at companies like GitHub, Pivotal/VMWare, and Sourceforge. She currently works as an independent contractor on several projects, including GitSkilled and CHAOSS. She is also an author, public speaker, event organizer, and award-winning nature photographer. She lives in Cincinnati, Ohio.
 
@@ -23,17 +30,24 @@ Discover the impact of open source health analytics. This talk showcases how org
 
 **Terence (Tex) McCutcheon**, Open Source Program Manager at Intersect MBO
 
+![Terence McCutcheon](https://github.com/chaoss/website/blob/main/CHAOSScon/2025NA/images/mccutcheon.jpeg)
+
 Tex is an avid advocate of Open Source who thrives at the intersection of data analysis and community-driven collaboration. 
 
 **Georg Link**, Open Source Strategist at Bitergia
 
-Georg’s mission is to make open source more professional by using community metrics and analytics. Georg cofounded the CHAOSS Project to advance analytics and metrics for open source project health. Georg is an active contributor to several projects and has often presents on open source topics. Georg has an MBA and a Ph.D. in Information Technology. As the Director of Sales at Bitergia, Georg helps organizations and communities adopt metrics and make open source more sustainable.
+
+ ![Georg Link](https://github.com/chaoss/website/blob/main/CHAOSScon/2025NA/images/link.jpeg)
+ 
+ Georg’s mission is to make open source more professional by using community metrics and analytics. Georg cofounded the CHAOSS Project to advance analytics and metrics for open source project health. Georg is an active contributor to several projects and has often presents on open source topics. Georg has an MBA and a Ph.D. in Information Technology. As the Director of Sales at Bitergia, Georg helps organizations and communities adopt metrics and make open source more sustainable.
 
 ### The State of OSS Funding data: Insights from ecosyste.ms by Andrew Nesbitt, Ecosyste.ms
 
 This talk shares insights from ecosyste.ms on how open source projects communicate their funding needs across ecosystems. We’ll explore patterns in funding metadata, gaps in platform visibility, and what the data suggests about the current state of OSS sustainability.
 
 **Andrew Nesbitt**, Software Engineer at Ecosyste.ms
+
+![Andrew Nesbitt](https://github.com/chaoss/website/blob/main/CHAOSScon/2025NA/images/nesbitt.jpeg)
 
 I'm a software engineer based in the UK, specializing in package management, and mining open-source data, ruby and rails. My current focus is Ecosyste.ms, a project that leverages my experience in package management and open data analysis to map dependencies across OSS ecosystems, highlighting the most critical projects in need of support.
 
@@ -49,6 +63,8 @@ This talk directly addresses a gap in current community health assessment: while
 
 **Laura Langdon**, Community Manager at University of California
 
+![Laura Langdon](https://github.com/chaoss/website/blob/main/CHAOSScon/2025NA/images/langdon.png)
+
 Laura Langdon is an Open Source Community Manager for the Open Source Program Office (OSPO) network of the University of California. With a focus on the humans in tech communities, Laura is passionate about documentation, diversity and inclusion across all axes, and social responsibility. Working to connect people within the UC open source community to one another and to the greater world of open source, her responsibilities include planning meetups, helping to connect aspiring contributors with projects and vice versa, and creating educational materials about OSS workflows.
 
 Laura has previous experience as a developer advocate at Suborbital Software Systems (acquired by F5), and also as a math lecturer at CSU East Bay. This breadth of background in both academia and industry provides her with unique insights into making technical concepts accessible and fostering inclusive community growth. Her approach combines analytical thinking from her mathematics background with a deep understanding of developer experience and community dynamics.
@@ -61,6 +77,8 @@ In this demo, you’ll learn how to navigate and analyze open source communities
 
 **Cali Dolfi**, Senior Data Scientist	at Red Hat
 
+![Cali Dolfi](https://github.com/chaoss/website/blob/main/CHAOSScon/2025NA/images/dolfi.jpeg)
+
 Cali Dolfi is a Senior Data Scientist in the Open Source Program Office at Red Hat. Her work focuses on changing the way we look at open source communities through the lens of data science and machine learning. Outside of data science, her passion lies in making careers in technology more accessible for underrepresented groups by mentoring college students and developing accessible academic resources. Outside of her open source work, you can find her at the nearest ski lift.
 
 ### Git the Data: Augur’s 15-Minute Collection Kickstart
@@ -72,6 +90,8 @@ Over the last 6 months, there have been countless improvements to the Augur proj
 Cali Dolfi is a Senior Data Scientist in the Open Source Program Office at Red Hat. Her work focuses on changing the way we look at open source communities through the lens of data science and machine learning. Outside of data science, her passion lies in making careers in technology more accessible for underrepresented groups by mentoring college students and developing accessible academic resources. Outside of her open source work, you can find her at the nearest ski lift.
 
 **Sean Goggins**, Professor at University of Missouri
+
+![Sean Goggins](https://github.com/chaoss/website/blob/main/CHAOSScon/2025NA/images/goggins.png)
 
 Sean is an open source software researcher and a founding member of the Linux Foundation’s working group on community health analytics for open source software CHAOSS, co-lead of the CHAOSS metrics software working group and leader of the open source metrics tool AUGUR which can be forked and cloned and experimented with on GitHub. After a decade as a software engineer, Sean decided his calling was in research. His open source research is framed around a broader agenda of social computing research, which he pursues as an associate professor of computer science at the University of Missouri.  
 
