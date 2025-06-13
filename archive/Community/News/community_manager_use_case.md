@@ -363,8 +363,8 @@ and the social agendas they carry. Journal of the Learning Sciences 16 (2):
 263-305.
 - Gonzalez\-Torres, Antonio, Francisco J. Garcia-Penalvo, Roberto Theron-
 Sanchez, and Ricardo Colomo-Palacios. 2016. Knowledge discovery in
-software teams by means of evolutionary visual software analytics. Sci-
-ence of Computer Programming 121: 55{74. doi:10.1016/j.scico.2015.09.005.
+software teams by means of evolutionary visual software analytics.
+Science of Computer Programming 121: 55{74. doi:10.1016/j.scico.2015.09.005.
 https://linkinghub.elsevier.com/retrieve/pii/S0167642315002658.
 - Zemel, Alan, Timothy Koschmann, Curtis LeBaron, and Paul Feltovich. 2007.
 What are we Missing? Usability's Indexical Ground. Computer Supported
