@@ -18,4 +18,4 @@ During CHAOSScon, we will be monitoring our X account [@CHAOSSAfrica](https://x.
 
 ### Registration
 
-Registration information is coming soon.
+You can register for the event [here.](https://tix.africa/discover/chaosscon)
