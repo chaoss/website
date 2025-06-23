@@ -1,8 +1,6 @@
 ## Schedule
 
-The CfP is now open! Please submit your ideas for a talk via this [form](https://forms.gle/fhQPrAfLDJhiyWg58). 
-
-The CHAOSScon Africa CfP will be open until **End of Day (GMT+1) June 20, 2025.**
+The schedule is coming soon!
 
 <!--
 
