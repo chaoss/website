@@ -1,13 +1,7 @@
 ## Schedule
 
-<<<<<<< Updated upstream
-The CfP is now open! Please submit your ideas for a talk via this [form](https://forms.gle/fhQPrAfLDJhiyWg58). 
-
-The CHAOSScon Africa CfP will be open until **End of Day (GMT+1) June 20, 2025.**
-=======
 This schedule is in the GMT+1 time zone
 Duration: 9:00 am - 5:00 pm
->>>>>>> Stashed changes
 
 | Activity                          | Duration | Topic                                                                  | Speaker(s)                                   | Time Slot              |
 |-----------------------------------|----------|------------------------------------------------------------------------|----------------------------------------------|------------------------|
@@ -31,5 +25,4 @@ Duration: 9:00 am - 5:00 pm
 | Unconference Discussion           | 20 mins  |                                                                        |                                              | 04:10 pm - 04:30 pm    |
 | Closing remarks and Thank you     | 10 mins  | Closing remarks                                                        | Ruth Ikegah                                  | 04:30 pm - 04:40 pm    |
 | Networking/Extra photos           | -        |                                                                        |                                              | 04:40 pm onwards       |
-
 
