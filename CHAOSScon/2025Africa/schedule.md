@@ -25,4 +25,3 @@ Duration: 9:00 am - 5:00 pm
 | Unconference Discussion           | 20 mins  |                                                                        |                                              | 04:10 pm - 04:30 pm    |
 | Closing remarks and Thank you     | 10 mins  | Closing remarks                                                        | Ruth Ikegah                                  | 04:30 pm - 04:40 pm    |
 | Networking/Extra photos           | -        |                                                                        |                                              | 04:40 pm onwards       |
-
