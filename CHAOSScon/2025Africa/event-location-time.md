@@ -10,11 +10,11 @@ CHAOSSCon Time: 11:00 am - 4:00 pm West Africa Time
 
 ### Live Streaming
 
-Streaming is TBD.
+As much as we’d love to, we’re unable to offer live streaming for this year’s conference.
 
 ### Live Discussions 
 
-During CHAOSScon, we will be monitoring our X account [@CHAOSSAfrica](https://x.com/chaoss_africa) for real time questions and comments that in-person and online attendees may have.
+During CHAOSScon, we will be monitoring our X account with the hashtag #chaossconafrica2025 for real time questions and comments that in-person and online attendees may have.
 
 ### Registration
 
