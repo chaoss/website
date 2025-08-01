@@ -6,7 +6,7 @@ Lagos, Nigeria
 
 **Date: August 13, 2025**
 
-CHAOSSCon Time: 11:00 am - 4:00 pm West Africa Time
+CHAOSSCon Time: 09:00 am - 5:00 pm West Africa Time
 
 ### Live Streaming
 
