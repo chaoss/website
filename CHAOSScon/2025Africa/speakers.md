@@ -1,3 +1,3 @@
 ## Speakers and Session Descriptions
 
-To be announced.
+ Coming Soon.
