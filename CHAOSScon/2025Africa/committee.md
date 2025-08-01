@@ -1,33 +1,24 @@
 ## CHAOSScon Africa 2025 Organizing Committee
 
-* Ruth Ikegah
-* Maryblessing Okolie
-* Busayo Ojo 
-* Adeyinka Oresanya 
-* Chisom Dick
-* Faith Kovi 
-* Ihuoma Anosike
-* Aishat Muibudeen (Maya)
-* Anukam Chidalu
-* Felix Enemuo
-* Harmony Elendu 
-* Precious Abubakar 
-* Hamza Danjaji
-* Oluchi Nwankwo
-* Victoria Ottah
-* Olamide Lawal 
-* Blessing Cliff
-* Catherine Kiiru
-* Ifihanagbara Olusheye 
-* Osarugue Enehizena 
-* Winner Bright 
-* Asama Temitope (Ọmọlèrè)
-* Peculiar C Umeh
-* Yigakpoa Ikpae 
-* Cynthia Udoh - Programs 
-* Ozukalu Miracle 
-* Tosan Okome 
-* Gloria Johnson 
-* Winifred Young  
-* Deborah Balogun
-* Ariane Djeupang 
+Adeyinka Oresanya 
+Faith Kovi 
+Felix Enemuo
+Harmony Elendu 
+Precious Abubakar 
+Oluchi Nwankwo
+Olamide Lawal 
+Ruth Ikegah
+Kingsley Mkpandiok
+Busayo Ojo
+Cynthia Udoh
+Winner Bright
+Peculiar C. Umeh
+Yigakpoa Ikpae 
+Ariane Djeupang
+Temitope Omolere
+Chidalu Anukam
+Eunice Eze
+Motunrayo Adeneye
+Maryblessing Okolie
+Gloriah Johnson
+
