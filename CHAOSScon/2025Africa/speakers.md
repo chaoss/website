@@ -22,8 +22,8 @@ My Journey into Open Source and Why You Belong Here Too
 **Talk abstract:**
 
 
-It's less than a year in I started contributing to open source, I know I have a lot to learn but I am already here. I now know I don't need to write code to contribute to open source and I want to share my open source story, and inspire other non code professionals.
-This talk shares how I went from newcomer to contributor, the strategies and people who made it possible, and why every newcomer belong here too. 
+It's less than a year since I started contributing to open source, and I know I have a lot to learn, but I am already here. I now know I don't need to write code to contribute to open source and I want to share my open source story, and inspire other non code professionals.
+This talk shares how I went from newcomer to contributor, the strategies and people who made it possible, and why every newcomer belongs here too. 
 
 It also highlights how open source isn’t about years of experience, but also about open doors, and how inclusion and accessibility played a huge role.
 
@@ -48,7 +48,7 @@ Metrics and the Business of Open Source
 **Talk abstract:**
 
 
-The value of communities around open source projects has long been known as one of the best aspects of building new things, like software, hardware, and art. Collaboration and innovation simply explode exponentially when communities work together towards common goals. But how does that translate to business? Corporations, and even non-profit foundations, need to see the value of the work done on paper. So how does that work? In this talk, Brian Proffitt will outline the ways that Red Hat is attempting to do just that.
+The value of communities around open source projects has long been known as one of the best aspects of building new things, like software, hardware, and art. Collaboration and innovation simply explode exponentially when communities work together towards common goals. But how does that translate to business? Corporations and even non-profit foundations need to see the value of the work done on paper. So how does that work? In this talk, Brian Proffitt will outline the ways that Red Hat is attempting to do just that.
 
 
 ### Peculiar C. Umeh
@@ -68,6 +68,7 @@ She loves the intersection between tech and people, and is passionate about educ
 
 **Talk Title:**
 Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
+
 
 
 ### Gloriah Johnson
@@ -281,3 +282,4 @@ This talk shares how I went from newcomer to contributor, the strategies and peo
 
 
 It also highlights how open source isn’t about years of experience, but also about open doors, and how inclusion and accessibility played a huge role.
+
