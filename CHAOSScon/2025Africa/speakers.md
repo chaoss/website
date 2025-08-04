@@ -18,7 +18,6 @@ Eunice Eze is a Senior Product Designer and digital curator passionate about cre
 **Talk Title:**
 My Journey into Open Source and Why You Belong Here Too
 
-
 **Talk abstract:**
 
 
@@ -69,7 +68,7 @@ She loves the intersection between tech and people, and is passionate about educ
 **Talk Title:**
 Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
 
-
+<br>
 
 ### Gloriah Johnson
 
@@ -115,6 +114,7 @@ Justice is the Community Growth and Data Lead at Young Collective. He was previo
 **Talk Title:**
 Untapped Power of Youth Movements in Shaping Open Communities
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **Talk abstract:**
 
@@ -161,7 +161,6 @@ This talk proposes a transformative approach: outsourcing AI data annotation and
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Ileriayo%20Adebiyi.jpg" width="200px" align="left" />
 
 
-
 **Bio:**
 Justice is the Community Growth and Data Lead at Young Collective. He was previously the Country Director of AIESEC in Rwanda and worked as the Growth & Operations Manager for the cleantech  startup - Trashcoin Ltd based out of Germany and Nigeria. He has organized over 4 programs and initiatives across Nigeria and Rwanda. He organized the 2022 Global Power Platform Bootcamp in Rivers State and has been involved with many other community driven impact initiatives in Nigeria, Rwanda and Albania.
 
@@ -172,6 +171,7 @@ Justice is the Community Growth and Data Lead at Young Collective. He was previo
 **Talk Title:**
 Passion Put to Work: Building Africa’s Cloud Native Community
 
+&nbsp;&nbsp;&nbsp;&nbsp; 
 
 **Talk abstract:**
 
@@ -197,7 +197,6 @@ One such bridge was again, Andela. While we ran CNCF Lagos KCNA Bootcamps, he le
 
 **Talk Title:**
 Pre-seeds: Cultivating Research Skills for Underrepresented Voices in Africa
-
 
 **Talk abstract:**
 
@@ -282,4 +281,5 @@ This talk shares how I went from newcomer to contributor, the strategies and peo
 
 
 It also highlights how open source isn’t about years of experience, but also about open doors, and how inclusion and accessibility played a huge role.
+
 
