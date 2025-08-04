@@ -16,8 +16,7 @@ Eunice Eze is a Senior Product Designer and digital curator passionate about cre
 
 
 **Talk Title:**
-
-	My Journey into Open Source and Why You Belong Here Too
+My Journey into Open Source and Why You Belong Here Too
 
 
 **Talk abstract:**
@@ -43,8 +42,7 @@ Brian Proffitt is Senior Manager, Community Outreach within Red Hat's Open Sourc
 
 
 **Talk Title:**
-
-	Metrics and the Business of Open Source
+Metrics and the Business of Open Source
 
 
 **Talk abstract:**
@@ -69,18 +67,17 @@ She loves the intersection between tech and people, and is passionate about educ
 
 
 **Talk Title:**
-
-	Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
+Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
 
 
 ### Gloriah Johnson
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Eunice%20Eze.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Gloriah%20-%20Headshot.jpg" width="200px" align="left" />
 
 
 
 **Bio:**
-I am an Open Source advocate and Community manager who excels in managing programs and supporting contributors across global tech communities. I'm an alum of the All In Africa Program (now known as Gitskilled Africa), where I received the Cheerleader Award in recognition of my efforts to uplift and encourage fellow contributors throughout the program.
+Gloriah is an Open Source advocate and Community manager who excels in managing programs and supporting contributors across global tech communities. I'm an alum of the All In Africa Program (now known as Gitskilled Africa), where I received the Cheerleader Award in recognition of my efforts to uplift and encourage fellow contributors throughout the program.
 
 She contributes to the Oppia marketing team, helping increase visibility for open educational tools, and I serve as a DEI Badge Reviewer with CHAOSS, where I support efforts to make open source events more inclusive.
 
@@ -91,8 +88,7 @@ She has worked as a Programs Manager for GNOME Africa, and I also co-led the PM 
 
 
 **Talk Title:**
-
-	Demystifying the CHAOSS DEI Badging Project for Beginners 
+Demystifying the CHAOSS DEI Badging Project for Beginners 
 
 
 **Talk abstract:**
@@ -116,8 +112,7 @@ Justice is the Community Growth and Data Lead at Young Collective. He was previo
 
 
 **Talk Title:**
-
-	Untapped Power of Youth Movements in Shaping Open Communities
+Untapped Power of Youth Movements in Shaping Open Communities
 
 
 **Talk abstract:**
@@ -141,8 +136,7 @@ Justice is the Community Growth and Data Lead at Young Collective. He was previo
 
 
 **Talk Title:**
-
-	Outsourcing AI Data Annotation and ML with Open Source Tools
+Outsourcing AI Data Annotation and ML with Open Source Tools
 
 
 **Talk abstract:**
@@ -175,8 +169,7 @@ Justice is the Community Growth and Data Lead at Young Collective. He was previo
 
 
 **Talk Title:**
-
-	Passion Put to Work: Building Africa’s Cloud Native Community
+Passion Put to Work: Building Africa’s Cloud Native Community
 
 
 **Talk abstract:**
@@ -202,8 +195,7 @@ One such bridge was again, Andela. While we ran CNCF Lagos KCNA Bootcamps, he le
 
 
 **Talk Title:**
-
-	Pre-seeds: Cultivating Research Skills for Underrepresented Voices in Africa
+Pre-seeds: Cultivating Research Skills for Underrepresented Voices in Africa
 
 
 **Talk abstract:**
@@ -234,8 +226,7 @@ He works as a QA Specialist at Komplete Care, combining hands-on testing with au
 
 
 **Talk Title:**
-
-	Yak Shaving in the Open: When Doing the Work Isn’t the Work
+Yak Shaving in the Open: When Doing the Work Isn’t the Work
 
 
 **Talk abstract:**
@@ -249,7 +240,7 @@ This talk explores how yak shaving shows up in open source development, how to r
 
 ### Brayan Kai Mwanyumba
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Godson-Njoku.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/BrayanKaiMwanyumba.jpg" width="200px" align="left" />
 
 
 **Talk type:**
@@ -257,8 +248,7 @@ This talk explores how yak shaving shows up in open source development, how to r
 
 
 **Talk Title:**
-
-	Understanding and Scaling your OSS Project with git-metrics
+Understanding and Scaling your OSS Project with git-metrics
 
 
 **Talk abstract:**
@@ -280,8 +270,7 @@ Eunice Eze is a Senior Product Designer and digital curator passionate about cre
 
 
 **Talk Title:**
-
-	My Journey into Open Source and Why You Belong Here Too
+My Journey into Open Source and Why You Belong Here Too
 
 
 **Talk abstract:**
@@ -289,5 +278,6 @@ Eunice Eze is a Senior Product Designer and digital curator passionate about cre
 It's been less than a year since I started contributing to open source. I know I have a lot to learn, but I am already here. I now know I don't need to write code to contribute to open source, and I want to share my open source story and inspire other no-code professionals.
 
 This talk shares how I went from newcomer to contributor, the strategies and people who made it possible, and why every newcomer belongs here, too. 
+
 
 It also highlights how open source isn’t about years of experience, but also about open doors, and how inclusion and accessibility played a huge role.
