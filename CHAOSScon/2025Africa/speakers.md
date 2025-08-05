@@ -3,7 +3,7 @@
 
 ### Eunice Eze
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Eunice%20Eze.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Eunice%20Eze.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
 
 
@@ -27,10 +27,11 @@ This talk shares how I went from newcomer to contributor, the strategies and peo
 
 It also highlights how open source isn’t about years of experience, but also about open doors, and how inclusion and accessibility played a huge role.
 
+<hr>
 
 ### Brian Proffitt
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Brian%20Proffitt%20-%20Keynote%20Speaker%201.png" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Brian%20Proffitt%20-%20Keynote%20Speaker%201.png" width="200px" align="left" hspace="20" vspace="20"/>
 
 
 
@@ -50,10 +51,11 @@ Metrics and the Business of Open Source
 
 The value of communities around open source projects has long been known as one of the best aspects of building new things, like software, hardware, and art. Collaboration and innovation simply explode exponentially when communities work together towards common goals. But how does that translate to business? Corporations, and even non-profit foundations, need to see the value of the work done on paper. So how does that work? In this talk, Brian Proffitt will outline the ways that Red Hat is attempting to do just that.
 
+<hr>
 
 ### Peculiar C. Umeh
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Peculiar%20C.%20Umeh%20-%20Keynote%20speaker%202.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Peculiar%20C.%20Umeh%20-%20Keynote%20speaker%202.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
 
 
@@ -70,11 +72,11 @@ She loves the intersection between tech and people, and is passionate about educ
 Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
 
 
-
+<hr>
 
 ### Gloriah Johnson
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Gloriah%20-%20Headshot.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Gloriah%20-%20Headshot.jpg" width="200px" align="left" hspace="20" vspace="20"/>
 
 
 
@@ -99,10 +101,11 @@ Demystifying the CHAOSS DEI Badging Project for Beginners
 In my talk, I’ll demystify the CHAOSS DEI Badging Project; explaining what it is, how it works, and how anyone can get involved as a badge reviewer, event organizer, or DEI advocate. I’ll break it down in simple terms to help beginners understand, contribute, and promote DEI in Open Source Projects.
 
 
+<hr>
 
 ### Justice Oyakhilome Anthony
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Justice%20Oyakhilome%20Anthony.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Justice%20Oyakhilome%20Anthony.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
 
 **Talk type:**
@@ -119,10 +122,11 @@ Untapped Power of Youth Movements in Shaping Open Communities
 In this talk, get to discover how global youth organizations like AIESEC and Generation Climate Europe (GCE) built thriving, inclusive communities, all without writing a single line of code. 
 Learn practical, replicable models to supercharge engagement and retention in your open source project!
 
+<hr>
 
 ### Blessing Akanle
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Blessing%20Akanle.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Blessing%20Akanle.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
 
 **Talk type:**
@@ -148,11 +152,11 @@ This talk proposes a transformative approach: outsourcing AI data annotation and
 
 4. Ensure transparency, reproducibility, and model accountability
 
-
+<hr>
 
 ### IIeriayo Adebiyi
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Ileriayo%20Adebiyi.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Ileriayo%20Adebiyi.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
 
 **Talk type:**
@@ -174,11 +178,11 @@ When I took over leadership of the Cloud Native Community in Lagos, it was quiet
 
 One such bridge was again, Andela. While we ran CNCF Lagos KCNA Bootcamps, he led internal Kubernetes sessions. I reached out. We collaborated. And when Andela returned from KubeCon + CloudNativeCon London 2025, they came back with a vision—and a partnership—that would train 20,000–30,000 people in Cloud Native foundations.
 
-
+<hr>
 
 ### Tosan Okome
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Tosan%20Okome.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Tosan%20Okome.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
 
 **Talk type:**
@@ -200,10 +204,10 @@ We are currently in the process of creating these course modules and will launch
 
 Beyond academia, Pre-seeds also introduces research software engineering and citizen science as avenues for contributing to the global body of knowledge. This ensures that individuals who may not pursue a PhD can still engage meaningfully in open research and open science.
 
-
+<hr> 
 ### Godson Njoku
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Godson-Njoku.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Godson-Njoku.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
 
 
@@ -228,10 +232,11 @@ This is known as yak shaving. It starts with a small, focused goal and ends with
 
 This talk explores how yak shaving shows up in open source development, how to recognise it early, and how to keep your team focused on delivering meaningful value instead of endlessly preparing to.
 
+<hr>
 
 ### Brayan Kai Mwanyumba
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/BrayanKaiMwanyumba.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/BrayanKaiMwanyumba.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
 
 **Talk type:**
@@ -245,4 +250,5 @@ Understanding and Scaling your OSS Project with git-metrics
 **Talk abstract:**
 
 As repos grow and with the rise of AI-generated code, hidden risks can disrupt developer workflows. This talk introduces git-metrics, an open-source tool for holistic repo health analysis. We'll take a practical tour, using Git commands and low-level object analysis to track historic growth, show contributor dynamics, etc. By the end of this talk developers and maintainers will have learned how to make informed decisions to manage their repos and see how these metrics can power an AI agent for intelligent, proactive suggestions on repository management.
+
 
