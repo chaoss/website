@@ -34,8 +34,8 @@ It also highlights how open source isn’t about years of experience, but also a
 
 
 
-**Bio:**
-Brian Proffitt is Senior Manager, Community Outreach within Red Hat's Open Source Program Office, focusing on enablement, community metrics and foundation and trade organization relationships. Brian's experience with community management includes knowledge of community onboarding, community health and business alignment. Prior to joining Red Hat in 2013, he was a technology journalist with a focus on Linux and open source, and the author of 22 consumer technology books.
+ **Bio:**
+ &nbsp;Brian Proffitt is Senior Manager, Community Outreach within Red Hat's Open Source Program Office, focusing on enablement, community metrics and foundation and trade organization relationships. Brian's experience with community management includes knowledge of community onboarding, community health and business alignment. Prior to joining Red Hat in 2013, he was a technology journalist with a focus on Linux and open source, and the author of 22 consumer technology books.
 
 **Talk type:**
 	Keynote
@@ -68,6 +68,8 @@ She loves the intersection between tech and people, and is passionate about educ
 
 **Talk Title:**
 Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
+
+
 
 
 ### Gloriah Johnson
@@ -103,10 +105,6 @@ In my talk, I’ll demystify the CHAOSS DEI Badging Project; explaining what it 
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Justice%20Oyakhilome%20Anthony.jpg" width="200px" align="left" />
 
 
-
-**Bio:**
-Justice is the Community Growth and Data Lead at Young Collective. He was previously the Country Director of AIESEC in Rwanda and worked as the Growth & Operations Manager for the cleantech  startup - Trashcoin Ltd based out of Germany and Nigeria. He has organized over 4 programs and initiatives across Nigeria and Rwanda. He organized the 2022 Global Power Platform Bootcamp in Rivers State and has been involved with many other community driven impact initiatives in Nigeria, Rwanda and Albania.
-
 **Talk type:**
 	Lighting Talk
 
@@ -126,10 +124,6 @@ Learn practical, replicable models to supercharge engagement and retention in yo
 
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Blessing%20Akanle.jpg" width="200px" align="left" />
 
-
-
-**Bio:**
-Justice is the Community Growth and Data Lead at Young Collective. He was previously the Country Director of AIESEC in Rwanda and worked as the Growth & Operations Manager for the cleantech  startup - Trashcoin Ltd based out of Germany and Nigeria. He has organized over 4 programs and initiatives across Nigeria and Rwanda. He organized the 2022 Global Power Platform Bootcamp in Rivers State and has been involved with many other community driven impact initiatives in Nigeria, Rwanda and Albania.
 
 **Talk type:**
 	Session
@@ -155,14 +149,11 @@ This talk proposes a transformative approach: outsourcing AI data annotation and
 4. Ensure transparency, reproducibility, and model accountability
 
 
+
 ### IIeriayo Adebiyi
 
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Ileriayo%20Adebiyi.jpg" width="200px" align="left" />
 
-
-
-**Bio:**
-Justice is the Community Growth and Data Lead at Young Collective. He was previously the Country Director of AIESEC in Rwanda and worked as the Growth & Operations Manager for the cleantech  startup - Trashcoin Ltd based out of Germany and Nigeria. He has organized over 4 programs and initiatives across Nigeria and Rwanda. He organized the 2022 Global Power Platform Bootcamp in Rivers State and has been involved with many other community driven impact initiatives in Nigeria, Rwanda and Albania.
 
 **Talk type:**
 	Session
@@ -255,29 +246,3 @@ Understanding and Scaling your OSS Project with git-metrics
 
 As repos grow and with the rise of AI-generated code, hidden risks can disrupt developer workflows. This talk introduces git-metrics, an open-source tool for holistic repo health analysis. We'll take a practical tour, using Git commands and low-level object analysis to track historic growth, show contributor dynamics, etc. By the end of this talk developers and maintainers will have learned how to make informed decisions to manage their repos and see how these metrics can power an AI agent for intelligent, proactive suggestions on repository management.
 
-
-### Eunice Eze
-
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Eunice%20Eze.jpg" width="200px" align="left" />
-
-
-
-**Bio:**
-Eunice Eze is a Senior Product Designer and digital curator passionate about creating meaningful user experiences and empowering youth through storytelling and wellness. With values rooted in service, kindness, and growth, she’s making her mark in open source and beyond.
-
-**Talk type:**
-	Lighting Talk
-
-
-**Talk Title:**
-My Journey into Open Source and Why You Belong Here Too
-
-
-**Talk abstract:**
-
-It's been less than a year since I started contributing to open source. I know I have a lot to learn, but I am already here. I now know I don't need to write code to contribute to open source, and I want to share my open source story and inspire other no-code professionals.
-
-This talk shares how I went from newcomer to contributor, the strategies and people who made it possible, and why every newcomer belongs here, too. 
-
-
-It also highlights how open source isn’t about years of experience, but also about open doors, and how inclusion and accessibility played a huge role.
