@@ -16,8 +16,7 @@ Eunice Eze is a Senior Product Designer and digital curator passionate about cre
 
 
 **Talk Title:**
-
-	My Journey into Open Source and Why You Belong Here Too
+My Journey into Open Source and Why You Belong Here Too
 
 
 **Talk abstract:**
@@ -43,8 +42,7 @@ It also highlights how open source isn’t about years of experience, but also a
 
 
 **Talk Title:**
-
-	Metrics and the Business of Open Source
+Metrics and the Business of Open Source
 
 
 **Talk abstract:**
@@ -69,15 +67,14 @@ She loves the intersection between tech and people, and is passionate about educ
 
 
 **Talk Title:**
-
-	Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
+Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
 
 
 
 
 ### Gloriah Johnson
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Eunice%20Eze.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Gloriah%20-%20Headshot.jpg" width="200px" align="left" />
 
 
 
@@ -93,8 +90,7 @@ She has worked as a Programs Manager for GNOME Africa, and I also co-led the PM 
 
 
 **Talk Title:**
-
-	Demystifying the CHAOSS DEI Badging Project for Beginners 
+Demystifying the CHAOSS DEI Badging Project for Beginners 
 
 
 **Talk abstract:**
@@ -114,8 +110,7 @@ In my talk, I’ll demystify the CHAOSS DEI Badging Project; explaining what it 
 
 
 **Talk Title:**
-
-	Untapped Power of Youth Movements in Shaping Open Communities
+Untapped Power of Youth Movements in Shaping Open Communities
 
 
 **Talk abstract:**
@@ -135,8 +130,7 @@ Learn practical, replicable models to supercharge engagement and retention in yo
 
 
 **Talk Title:**
-
-	Outsourcing AI Data Annotation and ML with Open Source Tools
+Outsourcing AI Data Annotation and ML with Open Source Tools
 
 
 **Talk abstract:**
@@ -166,8 +160,7 @@ This talk proposes a transformative approach: outsourcing AI data annotation and
 
 
 **Talk Title:**
-
-	Passion Put to Work: Building Africa’s Cloud Native Community
+Passion Put to Work: Building Africa’s Cloud Native Community
 
 
 **Talk abstract:**
@@ -193,8 +186,7 @@ One such bridge was again, Andela. While we ran CNCF Lagos KCNA Bootcamps, he le
 
 
 **Talk Title:**
-
-	Pre-seeds: Cultivating Research Skills for Underrepresented Voices in Africa
+Pre-seeds: Cultivating Research Skills for Underrepresented Voices in Africa
 
 
 **Talk abstract:**
@@ -225,8 +217,7 @@ He works as a QA Specialist at Komplete Care, combining hands-on testing with au
 
 
 **Talk Title:**
-
-	Yak Shaving in the Open: When Doing the Work Isn’t the Work
+Yak Shaving in the Open: When Doing the Work Isn’t the Work
 
 
 **Talk abstract:**
@@ -240,7 +231,7 @@ This talk explores how yak shaving shows up in open source development, how to r
 
 ### Brayan Kai Mwanyumba
 
-<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Godson-Njoku.jpg" width="200px" align="left" />
+<img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/BrayanKaiMwanyumba.jpg" width="200px" align="left" />
 
 
 **Talk type:**
@@ -248,10 +239,10 @@ This talk explores how yak shaving shows up in open source development, how to r
 
 
 **Talk Title:**
-
-	Understanding and Scaling your OSS Project with git-metrics
+Understanding and Scaling your OSS Project with git-metrics
 
 
 **Talk abstract:**
 
 As repos grow and with the rise of AI-generated code, hidden risks can disrupt developer workflows. This talk introduces git-metrics, an open-source tool for holistic repo health analysis. We'll take a practical tour, using Git commands and low-level object analysis to track historic growth, show contributor dynamics, etc. By the end of this talk developers and maintainers will have learned how to make informed decisions to manage their repos and see how these metrics can power an AI agent for intelligent, proactive suggestions on repository management.
+
