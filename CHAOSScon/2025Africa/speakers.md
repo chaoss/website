@@ -71,6 +71,8 @@ She loves the intersection between tech and people, and is passionate about educ
 **Talk Title:**
 Building Bridges into Open Source: How the CHAOSS Education Project is Empowering Contributors
 
+**Talk abstract:**
+Open source thrives on collaboration, but for many aspiring contributors, the path into these communities can feel challenging. The CHAOSS Education Project is changing that narrative, building bridges that transform curiosity into contribution. This talk explores how CHAOSS is equipping newcomers with the knowledge, confidence, and community support they need to engage meaningfully in open source.
 
 <hr>
 
@@ -107,6 +109,8 @@ In my talk, I’ll demystify the CHAOSS DEI Badging Project; explaining what it 
 
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Justice%20Oyakhilome%20Anthony.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
+**Bio:**
+Justice is the Community Growth and Data Lead at Young Collective. He was previously the Country Director of AIESEC in Rwanda and worked as the Growth & Operations Manager for the cleantech  startup - Trashcoin Ltd based out of Germany and Nigeria. He has organized over 4 programs and initiatives across Nigeria and Rwanda. He organized the 2022 Global Power Platform Bootcamp in Rivers State and has been involved with many other community driven impact initiatives in Nigeria, Rwanda and Albania.
 
 **Talk type:**
 	Lighting Talk
@@ -127,6 +131,11 @@ Learn practical, replicable models to supercharge engagement and retention in yo
 ### Blessing Akanle
 
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Blessing%20Akanle.jpg" width="200px" align="left" hspace="20" vspace="20" />
+
+**Bio:**
+Blessing Akanle is a Data Annotator and an Ethics & Responsible AI Specialist who is at the forefront of the digital economy, helping to drive AI and ML technologies forward with the most advanced models and algorithms. She is responsible for labeling and annotating datasets to train machine learning models and integrating them into real world applications.
+
+She is a Local Ambassador for Teens in AI and represents Nigeria globally. She is also recognized for her efforts and contributions towards impacting the younger generation on leveraging AI to build tools that solve UN SDG goals.
 
 
 **Talk type:**
@@ -158,6 +167,11 @@ This talk proposes a transformative approach: outsourcing AI data annotation and
 
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Ileriayo%20Adebiyi.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
+**Bio:**
+Ileriayo Adebiyi is a Senior Technical Consultant, currently specializing in Cloud and DevOps engineering. He holds a degree in Computer Science and several cloud engineering certifications, including (but not limited to) Amazon Web Services (AWS), Microsoft Azure, and credentials from the Linux Foundation.
+
+He is the founder of cloudnativeafrica.io, and his commitment to advancing cloud-native technologies in Africa has earned him recognition from the Cloud Native Computing Foundation (CNCF), which named him an official CNCF Ambassador.
+
 
 **Talk type:**
 	Session
@@ -183,6 +197,11 @@ One such bridge was again, Andela. While we ran CNCF Lagos KCNA Bootcamps, he le
 ### Tosan Okome
 
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/Tosan%20Okome.jpg" width="200px" align="left" hspace="20" vspace="20" />
+
+**Bio:**
+Tosan Okome is a registered nurse, midwife, and licensed public health nurse based in Nigeria. Her passion for research and data analytics led her down a path of self-learning, where she developed competencies in R and research principles—and discovered the powerful world of open source.
+She currently leads the Research Focus Group within CHAOSS Africa and serves as the Director of Research for the Pre-Seeds Project, an introductory research course designed to empower underrepresented individuals.
+Tosan firmly believes that data and research can revolutionise any sector across the African continent, and she’s committed to playing her part in driving that transformation. She is an advocate for open, reproducible research and lifelong learning.
 
 
 **Talk type:**
@@ -238,6 +257,12 @@ This talk explores how yak shaving shows up in open source development, how to r
 
 <img src="https://github.com/chaoss/website/blob/main/CHAOSScon/2025Africa/images/BrayanKaiMwanyumba.jpg" width="200px" align="left" hspace="20" vspace="20" />
 
+**Bio:**
+Brayan Kai is a Data Scientist Passionate about Communities, Technical Writing and Open-Source Advocacy.
+He volunteers at various developer communities across Africa, including Open Source Community Africa Nairobi, CHAOSS Africa, and Google Developer Group Nairobi, and is also a GitHub Campus Expert. All this is owing to his strong passion for supporting fellow technologists, women in tech, and advocating for inclusion and diversity. He calls this his mission.
+
+It makes him happier, more balanced, and gives him a stronger sense of purpose to innovate, share, and teach in and with the community rather than just for it.
+
 
 **Talk type:**
 	Session
@@ -250,5 +275,6 @@ Understanding and Scaling your OSS Project with git-metrics
 **Talk abstract:**
 
 As repos grow and with the rise of AI-generated code, hidden risks can disrupt developer workflows. This talk introduces git-metrics, an open-source tool for holistic repo health analysis. We'll take a practical tour, using Git commands and low-level object analysis to track historic growth, show contributor dynamics, etc. By the end of this talk developers and maintainers will have learned how to make informed decisions to manage their repos and see how these metrics can power an AI agent for intelligent, proactive suggestions on repository management.
+
 
 
