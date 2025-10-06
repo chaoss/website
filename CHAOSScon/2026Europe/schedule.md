@@ -3,7 +3,7 @@
 ## Schedule
 
 
-Our Call for Presentations is currently open! You can submit your abstract using this form until **November 2, 2025.**
+Our Call for Presentations is currently open! You can [submit your abstract using this form](https://forms.gle/5xuXDLYgYzrCYkWb9) until **November 2, 2025.**
 
 
 <!--
