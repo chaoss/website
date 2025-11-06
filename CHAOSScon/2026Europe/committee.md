@@ -4,4 +4,5 @@
 * Georg Link
 * Matt Germonprez
 * Cali Dolfi
+* Sean Goggins 
   
