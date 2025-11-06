@@ -5,4 +5,5 @@
 * Matt Germonprez
 * Cali Dolfi
 * Sean Goggins 
+* Eunice Eze
   
