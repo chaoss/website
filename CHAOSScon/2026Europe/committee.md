@@ -7,3 +7,5 @@
 * Sean Goggins 
 * Eunice Eze
 * Keerthana Rajesh Kumar
+* Ijeoma Onwuka
+* Maryblessing Okolie
