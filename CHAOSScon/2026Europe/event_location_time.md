@@ -1,6 +1,8 @@
 ### Where
 
-Venue is TBD.
+**Venue Location:** [Commons Hub Brussels](https://commonshub.brussels/)
+
+Address: Rue de la Madeleine 51, 1000 Bruxelles, Belgium
 
 ### When
 
