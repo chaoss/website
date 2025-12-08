@@ -116,7 +116,7 @@ and metrics. A frequent speaker at over 100 industry events, she holds a BS in c
 science, an MBA, and a PhD. In her spare time, she enjoys reading science fiction,
 running, 3D printing, and traveling.
 
-#### 1:00 in Ostrom Room*
+#### 1:00 in Ostrom Room
 
 **Welcome: Demonstrating Organizational Value for Open Source
   Efforts**
@@ -322,7 +322,7 @@ qualitative research to better understand and quantify OSS community health.
 
 CrOSSD is built on three main pillars: 
 
-#### 1. Based on the work of CHAOSS, our goal is to operationalize metrics that capture both
+1. Based on the work of CHAOSS, our goal is to operationalize metrics that capture both
    technical and social dimensions of OSS quality.
 2. We develop a platform (https://health.crossd.tech/) that regularly collects data from
    diverse repositories and applies these metrics to assess project health over time. We
@@ -386,7 +386,7 @@ qualitative research to better understand and quantify OSS community health.
 
 CrOSSD is built on three main pillars: 
 
-#### 1. Based on the work of CHAOSS, our goal is to operationalize metrics that capture both
+1. Based on the work of CHAOSS, our goal is to operationalize metrics that capture both
    technical and social dimensions of OSS quality.
 2. We develop a platform (https://health.crossd.tech/) that regularly collects data from
    diverse repositories and applies these metrics to assess project health over time. We
