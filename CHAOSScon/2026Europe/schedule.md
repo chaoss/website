@@ -1,29 +1,25 @@
-
-
 ## Schedule
 
+Our schedule is still being finalized, so check back soon! In the meantime, if you'd like to suggest an interactive session (such as a BoF), you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfJo1DYKO1FW6I4i99DCMstF361c1i3wX-u_tm3CyOG3mWlDw/viewform) (before December 18, 2025). 
 
-Our schedule is coming soon! 
+| Time        | Ostrom Room (Main Track)                                                                         | CoWorking Space          | Satoshi Room             | Mush Room                | Angel Room               |
+|-------------|--------------------------------------------------------------------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| 08:30-09:00 | Check-In, Networking with coffee and pastries                                                    |                          |                          |                          |                          |
+| 09:00-09:25 | Welcome: Demonstrating Organizational Value for Open Source Efforts - Dr. Dawn Foster            |                          |                          |                          |                          |
+| 09:25-09:50 | Keynote: Discovering and measuring the impact and health of Digital Public Goods - David Lippert |                          |                          |                          |                          |
+| 09:50-10:05 | What is Digital Sovereignty and Where Do I Start? - Daniel Izquierdo                             | Interactive Session: TBD | Interactive Session: TBD | Interactive Session: TBD | Interactive Session: TBD |
+| 10:05-10:20 | Building Sustainable Open Source Health Ecosystems in Emerging Markets - Abubakar Hassanat       |                          |                          |                          |                          |
+| 10:20-10:35 | Can a Badge Save a Project? Rethinking Sustainability through Community Metrics - Ijeoma Onwuka  |                          |                          |                          |                          |
+| 10:35-10:50 | Maintainer Arc: Lessons from a first time maintainer - Desmond Obisi                             |                          |                          |                          |                          |
+| 10:50-11:10 | Coffee Break                                                                                     | Break                    | Break                    | Break                    | Break                    |
+| 11:10-11:25 | CrOSSD - Towards a Critical Open-Source Software Database - Sebastian Neumaier                   | Interactive Session: TBD | Interactive Session: TBD | Interactive Session: TBD | Interactive Session: TBD |
+| 11:25-11:40 | Understanding Community Health of Published Research Software with Augur - Daniel S. Katz        |                          |                          |                          |                          |
+| 11:40-11:55 | Raising Open Leaders: Measuring How Mentorship Sustains Open Source Communities - Tilda Udufo    |                          |                          |                          |                          |
+| 11:55-12:10 | Building a design culture in open source communities - Kingsley Mkpandiok                        |                          |                          |                          |                          |
+| 12:10-12:30 | Lightning Talk Sessions                                                                          |                          |                          |                          |                          |
+| 12:30-14:00 | Group Picture, then Lunch                                                                        |                          |                          |                          |                          |
+| 14:00-16:00 | Unconference Sessions                                                                            | Unconference             | Augur Workshop           | CURIOSS Workshop         | GrimoireLab Workshop     |
+| 16:00-16:50 | Panel: Funding in OSS - Nithya Ruff                                                              |                          |                          |                          |                          |
+| 16:50-17:00 | Closing                                                                                          |                          |                          |                          |                          |
+| 17:00-19:00 | Social event at the Commons Hub                                                                  |                          |                          |                          |                          |
 
-<!--
-
-| Time | Topic and Speaker |
-| ----- | ---- |
-| 8:30-9:00 | Check-In, Networking with coffee and pastries |
-| 9:00-9:30 | [What is CHAOSS and an Overview of GrimoireLab 2.0 - Daniel Izquierdo](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/CHAOSScon%20EU%202025%20Keynote.pdf)|
-| 9:30-9:50 | [Introducing The CHAOSS Education Project - Dawn Foster, Peculiar C. Umeh](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Introducing%20the%20CHAOSS%20Education%20.pdf) |
-| 9:50-10:10 | [Blueprint for Success: How Local Chapters Empower Global Communities - Ruth Ikegah, Tosan Okome](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Blueprint%20for%20Success_%20How%20Local%20Chapters%20Empower%20Global%20Communities.pdf) |
-| 10:10-10:30| [Toolkit for Measuring the Impacts of Public Funding for FOSS - Paul Sharratt, Cailean Osborne](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/20250130-CHAOSSCon-Toolkit.pdf) |
-| 10:30-10:50 | [Who does the dev? or: How we failed to make a taxonomy of open source contribution - Katie McLaughlin](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/glasnt%20-%20talks%20-%20who%20does%20the%20dev.pdf) |
-| 10:50-11:00 | Break |
-| 11:00-11:20 | [CORSA: Supporting open source research software projects via foundations and metrics - Daniel S. Katz](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/CORSA%20-%20CHAOSSCon-EU.pdf) | 
-| 11:20-11:40 | [Analyzing Risk from an OSS Project Health Perspective: Tools, Traces, and Threats - Georg Link](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Link%20-%20CHAOSScon%20EU%2025%20-%20Analyzing%20Risk%20from%20an%20OSS%20Project%20Health%20Perspective_%20Tools%2C%20Traces%2C%20and%20Threats.pdf) |
-| 11:40-12:00 | [OpenChain Capability Model - Moving Beyond Compliance - Stephen Pollard](https://github.com/chaoss/website/blob/main/CHAOSScon/2025Europe/slides/Orcro%20%40%20CHAOSSCON%20-%20OpenChain%20Capability%20Model%20-%2030th%20Jan%202025.pdf.pdf) |
-| 12:00-1:30 | Group Picture, then Lunch (on your own) |
-| 1:30-3:00 | Afternoon Breakout Sessions - 3 options! (CHAOSS Software Workshop, Unconference, Academic OSS sponsored by CURIOSS) |
-| 3:00-3:15 | Break |
-| 3:15-3:50 | Keynote: Evaluating ways of assessing community health of open infrastructure - Katherine Skinner  |
-| 3:50-5:00 | Afternoon Breakout Sessions - 3 options! (CHAOSS Software Workshop, Unconference, Academic OSS sponsored by CURIOSS) |
-| 5:00-7:00 | Social Activity - Rooftop Bar (The 8) at the Bedford Hotel & Congress Centre|
-
--->
