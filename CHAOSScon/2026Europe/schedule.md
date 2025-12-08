@@ -2,7 +2,7 @@
 
 Our schedule is still being finalized, so check back soon! In the meantime, if you'd like to suggest an interactive session (such as a BoF), you can do so [here](https://docs.google.com/forms/d/e/1FAIpQLSfJo1DYKO1FW6I4i99DCMstF361c1i3wX-u_tm3CyOG3mWlDw/viewform) (before December 18, 2025). 
 
-| Time        | Ostrum Room (Main Track)                                                                         | CoWorking Space          | Satoshi Room             | Mush Room                | Angel Room               |
+| Time        | Ostrom Room (Main Track)                                                                         | CoWorking Space          | Satoshi Room             | Mush Room                | Angel Room               |
 |-------------|--------------------------------------------------------------------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
 | 08:30-09:00 | Check-In, Networking with coffee and pastries                                                    |                          |                          |                          |                          |
 | 09:00-09:25 | Welcome: Demonstrating Organizational Value for Open Source Efforts - Dr. Dawn Foster            |                          |                          |                          |                          |
