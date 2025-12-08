@@ -111,6 +111,29 @@ created by the Code4GovTech team.  Throughout this talk we will explore which CH
 metrics are important for measuring the health of DPGs.
 >>>
 
+### Dawn Foster
+
+![Dawn
+Foster](https://github.com/chaoss/website/blob/main/CHAOSScon/2026Europe/images/Dawn_Foster.jpg)
+
+Dr. Dawn Foster is the Director of Data Science for CHAOSS, where she also serves as a
+board member and maintainer. She is co-chair of the CNCF TAG Contributor Strategy and an
+OpenUK board member. With over 30 years of experience in the tech industry—including roles
+at VMware and Intel—she brings deep expertise in community building, strategy, governance,
+and metrics. A frequent speaker at over 100 industry events, she holds a BS in computer
+science, an MBA, and a PhD. In her spare time, she enjoys reading science fiction,
+running, 3D printing, and traveling.
+
+>>>
+9:00 in Ostrom Room*
+
+**Welcome: Demonstrating Organizational Value for Open Source
+  Efforts**
+
+Demonstrating the value of your open source efforts can be a challenge for OSPOs and open source teams. The new CHAOSS Demonstrating Value Practitioner Guide shows how this can be done by using a combination of criticality and project health risk to prioritize your open source work. By demonstrating to internal leaders the value of their open source engagements, OSPOs and open source teams are in a much better position to receive the resources needed to sustain those efforts long-term. 
+
+Every organization has unique needs and goals based on what they are trying to achieve, so there is no “one size fits all” way of demonstrating value. This talk will help you think about how your open source work helps your organization achieve its goals and will help you frame and communicate that value in ways that resonate with your leadership team.
+>>>
 
 ### Desmond Obisi
 
@@ -146,23 +169,6 @@ aimed at new maintainers and project teams, particularly those from under-repres
 regions on how to adopt community-health metrics early, build sustainable contributor
 pathways, and avoid common pitfalls.
 >>>
-
-
-### Dawn Foster
-
-![Dawn
-Foster](https://github.com/chaoss/website/blob/main/CHAOSScon/2026Europe/images/Dawn_Foster.jpg)
-
-Dr. Dawn Foster is the Director of Data Science for CHAOSS, where she also serves as a
-board member and maintainer. She is co-chair of the CNCF TAG Contributor Strategy and an
-OpenUK board member. With over 30 years of experience in the tech industry—including roles
-at VMware and Intel—she brings deep expertise in community building, strategy, governance,
-and metrics. A frequent speaker at over 100 industry events, she holds a BS in computer
-science, an MBA, and a PhD. In her spare time, she enjoys reading science fiction,
-running, 3D printing, and traveling.
-
-- 9:00 in Ostrom Room - **Welcome: Demonstrating Organizational Value for Open Source
-  Efforts**
 
 
 ### Hassanat Abubakar
