@@ -23,3 +23,6 @@ Our schedule is still being finalized, so check back soon! In the meantime, if y
 | 16:50-17:00 | Closing                                                                                          |                          |                          |                          |                          |
 | 17:00-19:00 | Social event at the Commons Hub                                                                  |                          |                          |                          |                          |
 
+### Venue Layout
+
+![Commons Hub Layout](https://github.com/chaoss/website/blob/main/CHAOSScon/2026Europe/images/commonshub-layout.png)
