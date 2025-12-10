@@ -283,6 +283,8 @@ to get feedback and hear form others on their mental model for funding open sour
 
 ### Sean P. Goggins
 
+CHAOSS cofounder and Augur maintainer.
+
 #### 11:25 in Ostrom Room
 
 **Understanding Community Health of Published Research Software with Augur**
