@@ -283,6 +283,8 @@ to get feedback and hear form others on their mental model for funding open sour
 
 ### Sean P. Goggins
 
+![Sean Goggins](https://github.com/chaoss/website/blob/main/CHAOSScon/2026Europe/images/Sean_Goggins.jpg)
+
 CHAOSS cofounder and Augur maintainer.
 
 #### 11:25 in Ostrom Room
