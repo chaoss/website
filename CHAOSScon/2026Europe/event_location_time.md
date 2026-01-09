@@ -19,7 +19,7 @@ More details can be seen on the [Schedule and Speakers](https://chaoss.community
 
 ### 📹 Live Streaming
 
-Our goal is to provide livestreaming for talks in the Ostrom Room (Main track), but we are still ironing out the details. We will update this page if we can confirm that we are able to provide this service, so check back here closer to the event for more information. 
+Livestreaming for the main room (Ostrom Room) will be available via [this link](https://www.youtube.com/playlist?list=PL60k37cxI-HT4eJrJd1LJcLfhjeQ8zT-o). Thank you to all the CHAOTICs working on this to make it happen!
 
 ### 🎟️ Registration
 
