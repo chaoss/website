@@ -10,4 +10,5 @@
 * Ijeoma Onwuka
 * Maryblessing Okolie
 * Dawn Foster
+* Olamide Lawal
 * Adrian Edwards
