@@ -13,6 +13,7 @@ There is a map of the venue on the [Schedule and Speakers](https://chaoss.commun
 **Time:** 
 - 09:00 - 17:00 Main Event
 - 17:00 - 19:00 Social Event
+- 19:00 - 22:00 Meetups
 
 More details can be seen on the [Schedule and Speakers](https://chaoss.community/chaosscon-2026-eu/agenda/) page.
 
