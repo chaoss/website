@@ -8,6 +8,6 @@ Here are a few things we need to keep track of until we get the CHAOSScon EU 202
 |---------|-------|--------|------|
 | Google | Silver | $1500 | 2026-07-14 Open Collective |
 | OpenSUSE | Bronze | $1000 | 2026-07-13 Open Collective |
-| AWS | TBD | TBD | No |
+| AWS | Gold | $2500 | No |
 | Red Hat | Gold | $2500 | No |
 
