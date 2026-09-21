@@ -4,7 +4,7 @@
 
 **Address:** Rue de la Madeleine 51, 1000 Bruxelles, Belgium
 
-There is a floor plan of the venue on the [Schedule and Speakers](https://chaoss.community/chaosscon-2027-eu/program/) page.
+There is a floor plan of the venue on the [Venue and Travel](https://chaoss.community/chaosscon-2027-eu/venue-and-travel/) page.
 
 ### 🕐 When
 
