@@ -37,5 +37,5 @@ You can also view a [listing of events](https://www.visit.brussels/en/visitors/a
 
 # Other Nearby Open Source Events
 
-CHAOSScon is loosely co-located with [FOSDEM](https://fosdem.org/2027/), but we encourage you to check out these other events happening in and around the area.
+CHAOSScon is loosely co-located with [FOSDEM](https://fosdem.org/2027/), but we encourage you to check out these other events happening in and around the area. The EU Open Source Week is a week-long series of side events happening in Brussels during the week of FOSDEM. Check it out: [https://opensourceweek.eu/](https://opensourceweek.eu/)
 
