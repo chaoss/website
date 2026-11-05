@@ -13,7 +13,7 @@ _TBA_
 
 </br>
 
-**Here is a layout of the venue:**
+**Venue Layout:**
 
 ![Commons Hub Layout](https://github.com/chaoss/website/blob/main/CHAOSScon/2027Europe/images/commonshub-layout.png)
 
