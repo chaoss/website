@@ -8,7 +8,7 @@ There is a floor plan of the venue on the [Venue and Travel](https://chaoss.comm
 
 ### 🕐 When
 
-**Date:** Thursday, January 28, 2026
+**Date:** Thursday, January 28, 2027
 
 **Time:** 
 _TBA_
