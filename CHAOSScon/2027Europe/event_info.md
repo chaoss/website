@@ -4,8 +4,6 @@
 
 **Address:** Rue de la Madeleine 51, 1000 Bruxelles, Belgium
 
-There is a floor plan of the venue on the [Venue and Travel](https://chaoss.community/chaosscon-2027-eu/venue-and-travel/) page.
-
 ### 🕐 When
 
 **Date:** Thursday, January 28, 2027
@@ -13,9 +11,13 @@ There is a floor plan of the venue on the [Venue and Travel](https://chaoss.comm
 **Time:** 
 _TBA_
 
-
 ### 🎟️ Registration
 
 _TBA_
 
+### 📝 Call for Proposals
+
+**Submission Deadline:** Sunday, December 9, 2026, End of Day, Anywhere on Earth
+
+The [CFP Form](https://forms.gle/K6P9vdfRLZsGjVLL8) has more details about submitting sessions.
 
