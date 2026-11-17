@@ -1,2 +1,7 @@
 ## About CHAOSScon
-Learn about open source project health metrics and tools used by open source projects, communities, and engineering teams to track and analyze their community work. This conference will provide a venue for discussing open source project health, CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health. We will also share insights from the CHAOSS context working groups including OSPOs, University Open Source, and Open Source in Science and Research. 
+CHAOSScon is an opportunity for the CHAOSS community to come together to share experiences, solve problems, and shape the future of our project. For this year’s CHAOSScon Europe, we will focus on what's happening across CHAOSS, learn how people are putting CHAOSS resources into practice, and work together on what's next. We are very interested in interactive sessions that bring people together for thoughtful and constructive collaboration. This year, we're organizing the event around three themes: 
+
+1. CHAOSS Operations: How We Work
+2. CHAOSS Use: Learning from Practice
+3. CHAOSS Future: Building What's Next
+
