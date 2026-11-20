@@ -7,3 +7,5 @@
 * Adrian Edwards
 * Sophia Vargas
 * Harmony Elendu
+* Gloria Johnson
+* Kingsley Mkpandiok
