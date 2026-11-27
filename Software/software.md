@@ -14,7 +14,7 @@ CollectOSS’s distinctive features are that you can use it to:
 * collect data at scale with support for rotating API keys and collection that can scale to tens of thousands of repositories
 * write custom queries that explore complex or unanticipated questions using data science or data engineering tools that are built for relational databases and structured data.
 * explore data about compliance, security, dependencies, and related software topics to better understand potential risks associated with an open source project.
-* use visualizations to learn about community health and explore the CollectOSS data in action using the [8Knot](https://eightknot.osci.io) dashboard.
+* use visualizations to learn about community health and explore the CollectOSS data in action using the [8Knot](https://eightknot.io) dashboard.
 
 While anyone can use either tool to derive meaningful insights:
 
@@ -35,7 +35,7 @@ This overview contains only a few of the many scenarios that might bring someone
 * The CollectOSS community is always improving automated tests, documentation, and practicing transparent quality assurance processes to make CollectOSS a reliable source of upstream health data with full observability.
 * Collection and analysis goes beyond the counting of activities to include license coverage and license type information, COCOMO based software complexity and cost of replacement data by project and file, software dependency scanning, measurement of dependency [LibYears](https://libyear.com/), and time series persistent OpenSSF Scorecard information.
 * Users can explore complex or unanticipated questions while performing in-depth research using CollectOSS’s relational database or API to write custom queries.
-* CollectOSS includes data visualizations through an extensible frontend built using tools familiar to data scientists (e.g., Dash and Plotly) upon which [8Knot](https://eightknot.osci.io) is developed.
+* CollectOSS includes data visualizations through an extensible frontend built using tools familiar to data scientists (e.g., Dash and Plotly) upon which [8Knot](https://eightknot.io) is developed.
 
 For more details, visit the [CollectOSS repository](https://github.com/chaoss/collectoss).
 
